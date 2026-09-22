@@ -1,0 +1,122 @@
+name: Hypertranslate GTA IV Text
+
+on:
+  # Manual trigger with customizable options
+  workflow_dispatch:
+    inputs:
+      target_file:
+        description: 'Target text file to hypertranslate'
+        required: true
+        type: choice
+        options:
+          - 'all'
+          - 'TBoGT_american.txt'
+          - 'TLAD_american.txt'
+          - 'american.txt'
+        default: 'all'
+      hop_count:
+        description: 'Number of intermediate translation hops'
+        required: true
+        type: number
+        default: 20
+      batch_count:
+        description: 'Maximum batches to process (0 = unlimited / run until time limit)'
+        required: true
+        type: number
+        default: 0
+      batch_size:
+        description: 'Number of entries per batch request'
+        required: true
+        type: number
+        default: 5
+      max_runtime_minutes:
+        description: 'Safety time limit in minutes before saving and committing (GitHub Actions max is 350)'
+        required: true
+        type: number
+        default: 320
+      delay:
+        description: 'Delay between translation requests in seconds (prevents rate limits)'
+        required: true
+        type: string
+        default: '0.5'
+      auto_commit:
+        description: 'Automatically commit and push progress to GitHub repository'
+        required: true
+        type: boolean
+        default: true
+
+  # Automatic scheduled trigger every 6 hours
+  schedule:
+    - cron: '0 */6 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  hypertranslate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Hypertranslate Engine
+        env:
+          TARGET_FILE: ${{ github.event.inputs.target_file || 'all' }}
+          HOP_COUNT: ${{ github.event.inputs.hop_count || '20' }}
+          BATCH_COUNT: ${{ github.event.inputs.batch_count || '0' }}
+          BATCH_SIZE: ${{ github.event.inputs.batch_size || '5' }}
+          MAX_RUNTIME_MINUTES: ${{ github.event.inputs.max_runtime_minutes || '320' }}
+          DELAY: ${{ github.event.inputs.delay || '0.5' }}
+        run: |
+          python hypertranslate.py \
+            --files "$TARGET_FILE" \
+            --hops "$HOP_COUNT" \
+            --batch-count "$BATCH_COUNT" \
+            --batch-size "$BATCH_SIZE" \
+            --max-runtime-minutes "$MAX_RUNTIME_MINUTES" \
+            --delay "$DELAY"
+
+      - name: Commit and push progress
+        if: always() && (github.event.inputs.auto_commit != 'false')
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add checkpoints/ output/
+          if ! git diff --staged --quiet; then
+            echo "Staged changes detected. Preparing commit..."
+            git commit -m "Auto: hypertranslation progress [skip ci]"
+            # Pull latest remote changes with rebase in case of remote changes
+            git pull --rebase origin main || true
+            # Retry push up to 3 times in case of transient network hiccups
+            for i in 1 2 3; do
+              echo "Pushing commit to origin main (Attempt $i/3)..."
+              git push origin main && break || sleep 5
+            done
+          else
+            echo "No changes to commit."
+          fi
+
+      - name: Upload Output and Checkpoint Artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: hypertranslate-results
+          path: |
+            output/
+            checkpoints/
+          if-no-files-found: ignore
