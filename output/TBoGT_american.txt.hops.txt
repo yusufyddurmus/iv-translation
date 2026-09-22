@@ -1,5 +1,5 @@
 # Hypertranslation Hops Report for TBoGT_american.txt
-# Generated: 2026-09-05 07:08:20
+# Generated: 2026-09-22 11:35:42
 # Total entries: 23912
 ================================================================================
 
@@ -35638,64 +35638,64 @@ TAGS:       [none]
 TRANSLATED: SFX_STOP_170
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA2_6A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> th -> la -> sl -> lb -> sr -> et -> sw -> id -> st -> sa -> eu -> gn -> mg -> nso -> sv -> zu -> ar -> ko -> lv -> ay -> en
 ORIGINAL:   E2BR1_CD
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: E2BR1_CD
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA2_7A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> th -> la -> sl -> lb -> sr -> et -> sw -> id -> st -> sa -> eu -> gn -> mg -> nso -> sv -> zu -> ar -> ko -> lv -> ay -> en
 ORIGINAL:   SFX_PAUSE_270
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: SFX_PAUSE_270
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA2_8A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> th -> la -> sl -> lb -> sr -> et -> sw -> id -> st -> sa -> eu -> gn -> mg -> nso -> sv -> zu -> ar -> ko -> lv -> ay -> en
 ORIGINAL:   E2BR1_CE1
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: E2BR1_CE1
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA2_9A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> th -> la -> sl -> lb -> sr -> et -> sw -> id -> st -> sa -> eu -> gn -> mg -> nso -> sv -> zu -> ar -> ko -> lv -> ay -> en
 ORIGINAL:   SFX_PAUSE_180
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: SFX_PAUSE_180
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA2_10A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> th -> la -> sl -> lb -> sr -> et -> sw -> id -> st -> sa -> eu -> gn -> mg -> nso -> sv -> zu -> ar -> ko -> lv -> ay -> en
 ORIGINAL:   E2BR1_CE2
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: E2BR1_CE2
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA2_11A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> ku -> st -> ceb -> yo -> my -> ps -> ne -> la -> kn -> ar -> cs -> az -> lb -> mt -> mg -> mr -> hr -> fy -> dv -> rw -> en
 ORIGINAL:   E2BR1_CF
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: E2BR1_CF
 ------------------------------------------------------------
 KEY:        [#24F8C195:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> ku -> st -> ceb -> yo -> my -> ps -> ne -> la -> kn -> ar -> cs -> az -> lb -> mt -> mg -> mr -> hr -> fy -> dv -> rw -> en
 ORIGINAL:   SFX_PAUSE_230
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: SFX_PAUSE_230
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA2_13A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> ku -> st -> ceb -> yo -> my -> ps -> ne -> la -> kn -> ar -> cs -> az -> lb -> mt -> mg -> mr -> hr -> fy -> dv -> rw -> en
 ORIGINAL:   E2BR1_CG
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: E2BR1_CG
 ------------------------------------------------------------
 KEY:        [#6F214D94:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> ku -> st -> ceb -> yo -> my -> ps -> ne -> la -> kn -> ar -> cs -> az -> lb -> mt -> mg -> mr -> hr -> fy -> dv -> rw -> en
 ORIGINAL:   SFX_PAUSE_310
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: SFX_PAUSE_310
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA2_15A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> ku -> st -> ceb -> yo -> my -> ps -> ne -> la -> kn -> ar -> cs -> az -> lb -> mt -> mg -> mr -> hr -> fy -> dv -> rw -> en
 ORIGINAL:   E2BR1_CH
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: E2BR1_CH
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA2SL:E2BR1BA]
 HOPS:       skipped (non-text)
@@ -35704,40 +35704,40 @@ TAGS:       [none]
 TRANSLATED: 010090010100090100090100090100010090010090010
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA3_1A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> dv -> gu -> ml -> af -> doi -> qu -> su -> tg -> bn -> sd -> ms -> cy -> kri -> pt -> lb -> ak -> yo -> th -> tt -> sm -> en
 ORIGINAL:   E2BR1_DA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: E2BR1_DA
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA3_2A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> dv -> gu -> ml -> af -> doi -> qu -> su -> tg -> bn -> sd -> ms -> cy -> kri -> pt -> lb -> ak -> yo -> th -> tt -> sm -> en
 ORIGINAL:   SFX_PAUSE_300
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: SFX_PAUSE_300
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA3_3A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> dv -> gu -> ml -> af -> doi -> qu -> su -> tg -> bn -> sd -> ms -> cy -> kri -> pt -> lb -> ak -> yo -> th -> tt -> sm -> en
 ORIGINAL:   E2BR1_DB
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: E2BR1_DB
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA3_4A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> dv -> gu -> ml -> af -> doi -> qu -> su -> tg -> bn -> sd -> ms -> cy -> kri -> pt -> lb -> ak -> yo -> th -> tt -> sm -> en
 ORIGINAL:   SFX_PAUSE_360
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: SFX_PAUSE_360
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA3_5A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> dv -> gu -> ml -> af -> doi -> qu -> su -> tg -> bn -> sd -> ms -> cy -> kri -> pt -> lb -> ak -> yo -> th -> tt -> sm -> en
 ORIGINAL:   E2BR1_DC
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: E2BR1_DC
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA3_6A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> no -> sq -> hy -> be -> ha -> ka -> as -> sa -> lt -> mk -> pt -> bn -> ay -> nl -> hr -> fr -> sw -> lo -> gn -> eo -> en
 ORIGINAL:   E2BR1_DD
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: E2BR1_DD
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA3SL:E2BR1BA]
 HOPS:       skipped (non-text)
@@ -35746,58 +35746,58 @@ TAGS:       [none]
 TRANSLATED: 100090010090100010
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA4_1A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> no -> sq -> hy -> be -> ha -> ka -> as -> sa -> lt -> mk -> pt -> bn -> ay -> nl -> hr -> fr -> sw -> lo -> gn -> eo -> en
 ORIGINAL:   E2BR1_EA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: E2BR1_EA
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA4_2A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> no -> sq -> hy -> be -> ha -> ka -> as -> sa -> lt -> mk -> pt -> bn -> ay -> nl -> hr -> fr -> sw -> lo -> gn -> eo -> en
 ORIGINAL:   E2BR1_EB
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: E2BR1_EB
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA4_3A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> no -> sq -> hy -> be -> ha -> ka -> as -> sa -> lt -> mk -> pt -> bn -> ay -> nl -> hr -> fr -> sw -> lo -> gn -> eo -> en
 ORIGINAL:   SFX_OVERLAP_4580
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: SFX_OVERLAP_4580
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA4_4A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> no -> sq -> hy -> be -> ha -> ka -> as -> sa -> lt -> mk -> pt -> bn -> ay -> nl -> hr -> fr -> sw -> lo -> gn -> eo -> en
 ORIGINAL:   E2BR1_EC
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: E2BR1_EC
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA4_5A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> tk -> sv -> cy -> eu -> bs -> om -> ru -> so -> fr -> es -> bho -> ko -> ca -> ceb -> am -> ha -> nso -> sr -> ug -> qu -> en
 ORIGINAL:   E2BR1_ED
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: E2BR1_ED
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA4_6A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> tk -> sv -> cy -> eu -> bs -> om -> ru -> so -> fr -> es -> bho -> ko -> ca -> ceb -> am -> ha -> nso -> sr -> ug -> qu -> en
 ORIGINAL:   SFX_PAUSE_130
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: SFX_PAUSE_130
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA4_7A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> tk -> sv -> cy -> eu -> bs -> om -> ru -> so -> fr -> es -> bho -> ko -> ca -> ceb -> am -> ha -> nso -> sr -> ug -> qu -> en
 ORIGINAL:   E2BR1_EE
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: E2BR1_EE
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA4_8A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> tk -> sv -> cy -> eu -> bs -> om -> ru -> so -> fr -> es -> bho -> ko -> ca -> ceb -> am -> ha -> nso -> sr -> ug -> qu -> en
 ORIGINAL:   SFX_PAUSE_180
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: SFX_PAUSE_180
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA4_9A:E2BR1BA]
-HOPS:       pending
+HOPS:       en -> tk -> sv -> cy -> eu -> bs -> om -> ru -> so -> fr -> es -> bho -> ko -> ca -> ceb -> am -> ha -> nso -> sr -> ug -> qu -> en
 ORIGINAL:   E2BR1_EF
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: E2BR1_EF
 ------------------------------------------------------------
 KEY:        [E2BR1_CHA4SL:E2BR1BA]
 HOPS:       skipped (non-text)
