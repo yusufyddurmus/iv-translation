@@ -34,11 +34,6 @@ on:
         required: true
         type: number
         default: 320
-      delay:
-        description: 'Delay between translation requests in seconds (prevents rate limits)'
-        required: true
-        type: string
-        default: '4.0'
       auto_commit:
         description: 'Automatically commit and push progress to GitHub repository'
         required: true
