@@ -72,7 +72,8 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install "googletrans==4.0.0-rc1" tqdm
 
       - name: Run Hypertranslate Engine
         env:
@@ -81,7 +82,7 @@ jobs:
           BATCH_COUNT: ${{ github.event.inputs.batch_count || '0' }}
           BATCH_SIZE: ${{ github.event.inputs.batch_size || '5' }}
           MAX_RUNTIME_MINUTES: ${{ github.event.inputs.max_runtime_minutes || '320' }}
-          DELAY: ${{ github.event.inputs.delay || '0.5' }}
+          DELAY: ${{ github.event.inputs.delay || '4.0' }}
         run: |
           python hypertranslate.py \
             --files "$TARGET_FILE" \
@@ -100,12 +101,12 @@ jobs:
           if ! git diff --staged --quiet; then
             echo "Staged changes detected. Preparing commit..."
             git commit -m "Auto: hypertranslation progress [skip ci]"
-            # Pull latest remote changes with rebase in case of remote changes
-            git pull --rebase origin main || true
-            # Retry push up to 3 times in case of transient network hiccups
+            # Pull remote changes with rebase in case another job pushed
+            git pull --rebase origin "${{ github.ref_name }}" || true
+            # Retry push up to 3 times
             for i in 1 2 3; do
-              echo "Pushing commit to origin main (Attempt $i/3)..."
-              git push origin main && break || sleep 5
+              echo "Pushing commit to origin ${{ github.ref_name }} (Attempt $i/3)..."
+              git push "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:"${{ github.ref_name }}" && break || sleep 5
             done
           else
             echo "No changes to commit."
