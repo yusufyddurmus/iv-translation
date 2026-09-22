@@ -38,7 +38,7 @@ on:
         description: 'Delay between translation requests in seconds (prevents rate limits)'
         required: true
         type: string
-        default: '0.5'
+        default: '4.0'
       auto_commit:
         description: 'Automatically commit and push progress to GitHub repository'
         required: true
