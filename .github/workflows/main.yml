@@ -82,7 +82,6 @@ jobs:
           BATCH_COUNT: ${{ github.event.inputs.batch_count || '0' }}
           BATCH_SIZE: ${{ github.event.inputs.batch_size || '5' }}
           MAX_RUNTIME_MINUTES: ${{ github.event.inputs.max_runtime_minutes || '320' }}
-          DELAY: ${{ github.event.inputs.delay || '4.0' }}
         run: |
           python hypertranslate.py \
             --files "$TARGET_FILE" \
@@ -90,7 +89,7 @@ jobs:
             --batch-count "$BATCH_COUNT" \
             --batch-size "$BATCH_SIZE" \
             --max-runtime-minutes "$MAX_RUNTIME_MINUTES" \
-            --delay "$DELAY"
+            --initial-delay 0.0
 
       - name: Commit and push progress
         if: always() && (github.event.inputs.auto_commit != 'false')
