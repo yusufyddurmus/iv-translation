@@ -4,7 +4,7 @@ Hypertranslate Script for GTA IV Text Files
 Compatible with GitHub Actions and Local CLI execution.
 
 Features:
-- Multi-hop translation via deep-translator (GoogleTranslator)
+- Multi-hop translation via googletrans (googletrans-py)
 - Adjustable hop count, batch count, and batch size
 - Time-budget limiter (--max-runtime-minutes): gracefully saves and exits BEFORE GitHub Actions times out
 - Signal handling (SIGINT / SIGTERM) to ensure clean shutdown and save on workflow cancellation
@@ -14,7 +14,7 @@ Features:
 - Checkpointing & resume support (never loses progress)
 - Incremental output generation (UTF-16LE CRLF format for GTA IV game files)
 - Safe batching with single-entry fallback
-- Exponential backoff retry logic for rate limits and server errors
+- Exponential backoff retry logic with client session recreation
 """
 
 import argparse
@@ -35,9 +35,9 @@ if sys.stdout.encoding != 'utf-8':
         pass
 
 try:
-    from deep_translator import GoogleTranslator
+    from googletrans import Translator, LANGUAGES
 except ImportError:
-    print("Error: 'deep-translator' is not installed. Please run: pip install -r requirements.txt")
+    print("Error: 'googletrans' is not installed. Please run: pip install googletrans==4.0.0-rc1")
     sys.exit(1)
 
 try:
@@ -61,35 +61,32 @@ signal.signal(signal.SIGINT, handle_termination_signal)
 if hasattr(signal, "SIGTERM"):
     signal.signal(signal.SIGTERM, handle_termination_signal)
 
-# Language alias map for common ISO codes that differ in Google Translate / deep-translator
+# Language alias map for common ISO codes that differ across Google Translate endpoints
 LANG_ALIASES = {
     'he': 'iw',      # Modern Hebrew ISO 639-1 code -> Google Translate legacy code 'iw'
     'jv': 'jw',      # Javanese ISO 639-1 code -> Google Translate code 'jw'
-    'zh': 'zh-CN',   # Generic Chinese -> Chinese (Simplified)
+    'zh': 'zh-cn',   # Generic Chinese -> Chinese (Simplified)
+    'zh-CN': 'zh-cn',
+    'zh-TW': 'zh-tw',
     'fil': 'tl',     # Filipino ISO 639-2 -> Tagalog 'tl'
 }
 
 
 def normalize_lang(code: str) -> str:
-    """Normalizes a language code to the format expected by deep-translator / Google Translate."""
+    """Normalizes a language code to the format expected by googletrans."""
     if not code:
         return code
-    code = code.strip()
+    code = code.strip().lower()
     return LANG_ALIASES.get(code, code)
 
 
 def get_supported_languages_pool() -> List[str]:
-    """Dynamically retrieves all supported intermediate language codes from deep-translator (excluding 'en')."""
-    try:
-        supported_dict = GoogleTranslator().get_supported_languages(as_dict=True)
-        codes = [code for code in supported_dict.values() if code not in ('en', 'auto')]
-        return sorted(list(dict.fromkeys(codes)))
-    except Exception as e:
-        print(f"[Warning] Failed to dynamically load supported languages from deep-translator: {e}")
-        return []
+    """Dynamically retrieves all supported intermediate language codes from googletrans."""
+    codes = [normalize_lang(code) for code in LANGUAGES.keys() if normalize_lang(code) not in ('en', 'auto')]
+    return sorted(list(dict.fromkeys(codes)))
 
 
-# Dynamic pool of all supported intermediate languages from deep-translator
+# Pool of intermediate languages from googletrans
 INTERMEDIATE_LANG_POOL = get_supported_languages_pool()
 
 TAG_REGEX = re.compile(r'~[^~]+~|<[^>]+>')
@@ -102,6 +99,20 @@ ERROR_INDICATORS = [
     "Server Error",
     "500.That's an error"
 ]
+
+# Global persistent translator client
+GLOBAL_TRANSLATOR = Translator()
+
+
+def get_translator(recreate: bool = False) -> Translator:
+    """Provides a reusable Translator client or reinitializes it on connection drops."""
+    global GLOBAL_TRANSLATOR
+    if recreate or GLOBAL_TRANSLATOR is None:
+        try:
+            GLOBAL_TRANSLATOR = Translator()
+        except Exception as e:
+            print(f"[Warning] Failed to recreate Translator instance: {e}")
+    return GLOBAL_TRANSLATOR
 
 
 def find_file(filename: str, search_dirs: List[str]) -> Optional[str]:
@@ -119,11 +130,8 @@ def strip_tags(text: str) -> Tuple[str, List[str]]:
     Converts ~n~ (in-game line break) into a space to prevent fused words.
     """
     tags = TAG_REGEX.findall(text)
-    # Replace in-game newline ~n~ with a space
     clean = re.sub(r'~n~', ' ', text)
-    # Strip all remaining tags
     clean = TAG_REGEX.sub('', clean)
-    # Normalize multiple whitespace characters
     clean = re.sub(r'[ \t]+', ' ', clean).strip()
     return clean, tags
 
@@ -162,7 +170,6 @@ def parse_gxt_file(filepath: str) -> Tuple[List[Dict], List[Tuple[str, any]]]:
             suffix = raw_text[len(body):]
             clean, tags = strip_tags(body)
 
-            # Check if entry needs translation (has alphabetic characters)
             has_letters = bool(re.search(r'[a-zA-Z]', clean))
             status = 'pending' if (clean and has_letters) else 'skipped'
 
@@ -203,7 +210,6 @@ def load_or_create_checkpoint(checkpoint_file: str, input_file: str) -> Tuple[Li
         entries = checkpoint_data['entries']
         meta = checkpoint_data.get('meta', {})
 
-        # Clean any entries previously marked translated with error text
         cleaned_errors = 0
         for e in entries:
             t = e.get('translated_text')
@@ -288,11 +294,12 @@ def write_hops_file(output_path: str, entries: List[Dict]):
     hops_file_path = output_path + ".hops.txt"
     temp_hops = hops_file_path + '.tmp'
 
-    lines = []
-    lines.append(f"# Hypertranslation Hops Report for {os.path.basename(output_path)}")
-    lines.append(f"# Generated: {time.strftime('%Y-%m-%d %H:%M:%S')}")
-    lines.append(f"# Total entries: {len(entries)}")
-    lines.append("=" * 80 + "\n")
+    lines = [
+        f"# Hypertranslation Hops Report for {os.path.basename(output_path)}",
+        f"# Generated: {time.strftime('%Y-%m-%d %H:%M:%S')}",
+        f"# Total entries: {len(entries)}",
+        "=" * 80 + "\n"
+    ]
 
     for e in entries:
         key = e['key']
@@ -336,30 +343,31 @@ def choose_hop_languages(hop_count: int, pool: List[str], seed: Optional[int] = 
 
 
 def translate_text_with_retry(text: str, source: str, target: str, delay: float, max_retries: int = 5) -> str:
-    """Translates text using GoogleTranslator with exponential backoff on failure."""
+    """Translates text using googletrans with exponential backoff on failure."""
     source = normalize_lang(source)
     target = normalize_lang(target)
 
-    # Strictly disallow 'auto' as source or target
     if source == 'auto' or target == 'auto':
         raise ValueError(f"Explicit language codes required; 'auto' is strictly forbidden (source={source}, target={target})")
 
-    if source == target:
+    if source == target or not text.strip():
         return text
 
-    translator = GoogleTranslator(source=source, target=target)
     wait_time = 2.0
+    translator = get_translator()
 
     for attempt in range(max_retries):
         try:
-            res = translator.translate(text)
-            if res is not None:
-                # Check for Google HTML error body leakage
-                if any(err in res for err in ERROR_INDICATORS):
-                    raise RuntimeError(f"Google Translate returned server error body: {res[:50]}")
-                return res
+            res = translator.translate(text, src=source, dest=target)
+            translated_result = res.text if res is not None else ""
+            if translated_result:
+                if any(err in translated_result for err in ERROR_INDICATORS):
+                    raise RuntimeError(f"Google Translate returned server error body: {translated_result[:50]}")
+                return translated_result
         except Exception as e:
             err_msg = str(e)
+            # Recreate translator client on repeated connection failures
+            translator = get_translator(recreate=True)
             if attempt == max_retries - 1:
                 raise e
             print(f"\n[Warning] Translation error ({err_msg}). Retrying in {wait_time:.1f}s (Attempt {attempt+1}/{max_retries})...")
@@ -418,7 +426,7 @@ def hypertranslate_batch(
                 if delay > 0:
                     time.sleep(delay)
         except Exception as ind_err:
-            print(f"\n[Warning] Individual fallback translation failed ({ind_err}). Using fallback state for this item.")
+            print(f"\n[Warning] Individual fallback translation failed ({ind_err}). Using current text state.")
         results.append(cur)
     return results
 
@@ -495,12 +503,10 @@ def process_file(
 
     try:
         for batch_indices in batches_to_run:
-            # Check for termination signal
             if STOP_REQUESTED:
                 print(f"\n[Shutdown] Stop signal received. Saving {base_name} and exiting gracefully...")
                 break
 
-            # Check time budget
             if max_runtime_minutes > 0:
                 elapsed_minutes = (time.time() - start_timestamp) / 60.0
                 if elapsed_minutes >= max_runtime_minutes:
@@ -511,7 +517,6 @@ def process_file(
 
             batch_texts = [entries[idx]['clean_text'] for idx in batch_indices]
 
-            # Determine hop languages
             if custom_langs:
                 hops = custom_langs
             else:
@@ -521,22 +526,18 @@ def process_file(
             hop_path_str = ' -> '.join(['en'] + hops + ['en'])
             translated_results = hypertranslate_batch(batch_texts, hops, source_lang='en', target_lang='en', delay=delay)
 
-            # Update entries with translation and hop chain
             for idx, trans in zip(batch_indices, translated_results):
                 entries[idx]['translated_text'] = trans
                 entries[idx]['hops'] = hops
                 entries[idx]['hop_path'] = hop_path_str
                 entries[idx]['status'] = 'translated'
-                # If entry had no tags, final_text is ready
                 if not entries[idx]['tags']:
                     entries[idx]['final_text'] = trans
 
             batches_processed += 1
 
-            # Save checkpoint after every batch atomically
             save_checkpoint(ckpt_file, entries, structure, meta)
 
-            # Update output files periodically (and at least every 5 batches)
             if batches_processed % 5 == 0 or batches_processed == len(batches_to_run):
                 write_output_file(out_file, entries, structure)
                 write_hops_file(out_file, entries)
@@ -553,7 +554,6 @@ def process_file(
     finally:
         if pbar:
             pbar.close()
-        # Ensure all data is saved atomically to disk
         save_checkpoint(ckpt_file, entries, structure, meta)
         write_output_file(out_file, entries, structure)
         write_hops_file(out_file, entries)
@@ -567,7 +567,7 @@ def main():
     global STOP_REQUESTED
     start_timestamp = time.time()
 
-    parser = argparse.ArgumentParser(description="GTA IV Hypertranslator for GitHub Actions & Local CLI")
+    parser = argparse.ArgumentParser(description="GTA IV Hypertranslator using googletrans")
     parser.add_argument(
         "--files", "-f", nargs="+", default=["all"],
         help="Files to translate. Default: 'all' (TBoGT_american.txt, TLAD_american.txt, american.txt)"
@@ -615,16 +615,14 @@ def main():
 
     args = parser.parse_args()
 
-    # Search directories for input files: current directory, ./input, and parent directory
     search_dirs = [os.getcwd(), os.path.join(os.getcwd(), "input"), os.path.abspath(os.path.join(os.getcwd(), ".."))]
-
     default_files = ["TBoGT_american.txt", "TLAD_american.txt", "american.txt"]
     target_files = default_files if "all" in args.files else args.files
 
     custom_langs = [normalize_lang(l.strip()) for l in args.intermediate_langs.split(',') if normalize_lang(l.strip()) not in ('en', 'auto')] if args.intermediate_langs else None
 
     print("=" * 60)
-    print("GTA IV HYPERTRANSLATE ENGINE")
+    print("GTA IV HYPERTRANSLATE ENGINE (googletrans backend)")
     print(f"Target files: {', '.join(target_files)}")
     print(f"Hops: {args.hops} | Batch Size: {args.batch_size} | Max Batches: {args.batch_count or 'Unlimited'} | Delay: {args.delay}s")
     if args.max_runtime_minutes > 0:
@@ -657,7 +655,6 @@ def main():
         )
 
     print("\nAll processing completed safely. Checkpoints and outputs are up to date.")
-    # Return exit code 0 so GitHub Actions downstream steps (commit & push) always run smoothly
     sys.exit(0)
 
 
