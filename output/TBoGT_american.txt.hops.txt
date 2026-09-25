@@ -1,5 +1,5 @@
 # Hypertranslation Hops Report for TBoGT_american.txt
-# Generated: 2026-09-24 21:58:27
+# Generated: 2026-09-25 04:51:12
 # Total entries: 23912
 ================================================================================
 
@@ -141316,2163 +141316,2163 @@ TAGS:       [~b~]
 TRANSLATED: Go to Tony's car
 ------------------------------------------------------------
 KEY:        [#78D1F95F:TONY3]
-HOPS:       pending
+HOPS:       en -> uk -> uz -> iw -> mr -> am -> sm -> fr -> da -> mt -> ig -> de -> co -> ceb -> sd -> eu -> fi -> yo -> fa -> sl -> jw -> en
 ORIGINAL:   Get back into the ~b~car.
 TAGS:       [~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Back to the car
 ------------------------------------------------------------
 KEY:        [#F2D4AFAA:TONY3]
-HOPS:       pending
+HOPS:       en -> uk -> uz -> iw -> mr -> am -> sm -> fr -> da -> mt -> ig -> de -> co -> ceb -> sd -> eu -> fi -> yo -> fa -> sl -> jw -> en
 ORIGINAL:   Go to the ~y~Golden Pier ~s~golf club.
 TAGS:       [~y~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Visit Gold Fair Casino.
 ------------------------------------------------------------
 KEY:        [#445E5377:TONY3]
-HOPS:       pending
+HOPS:       en -> uk -> uz -> iw -> mr -> am -> sm -> fr -> da -> mt -> ig -> de -> co -> ceb -> sd -> eu -> fi -> yo -> fa -> sl -> jw -> en
 ORIGINAL:   Use ~PAD_LSTICK_ALL~ to change shot position. ~n~Press ~PAD_A~ to start backswing. ~n~To hit the ball, press ~PAD_A~ when the descending power bar reaches the black marker.
 TAGS:       [~PAD_LSTICK_ALL~, ~n~, ~PAD_A~, ~n~, ~PAD_A~]
-TRANSLATED: (pending translation)
+TRANSLATED: It is used to change the shooting mode. Click to start shooting. When you reach the black point, touch the flash to hit the ball.
 ------------------------------------------------------------
 KEY:        [#B3C30E73:TONY3]
-HOPS:       pending
+HOPS:       en -> uk -> uz -> iw -> mr -> am -> sm -> fr -> da -> mt -> ig -> de -> co -> ceb -> sd -> eu -> fi -> yo -> fa -> sl -> jw -> en
 ORIGINAL:   Use ~PAD_RSTICK_ALL~ to change shot position. ~n~Press ~INPUT_MOUSE_LMB~ to start backswing. ~n~To hit the ball, press ~INPUT_MOUSE_LMB~ when the descending power bar reaches the black marker.
 TAGS:       [~PAD_RSTICK_ALL~, ~n~, ~INPUT_MOUSE_LMB~, ~n~, ~INPUT_MOUSE_LMB~]
-TRANSLATED: (pending translation)
+TRANSLATED: It is used to change the shooting mode. Click to start shooting. When you reach the black point, touch the flash to hit the ball.
 ------------------------------------------------------------
 KEY:        [#8CCE645A:TONY3]
-HOPS:       pending
+HOPS:       en -> uk -> uz -> iw -> mr -> am -> sm -> fr -> da -> mt -> ig -> de -> co -> ceb -> sd -> eu -> fi -> yo -> fa -> sl -> jw -> en
 ORIGINAL:   Press ~PAD_A~ to hit the ball.
 TAGS:       [~PAD_A~]
-TRANSLATED: (pending translation)
+TRANSLATED: Click to hit the ball.
 ------------------------------------------------------------
 KEY:        [#5B9081DF:TONY3]
-HOPS:       pending
+HOPS:       en -> jw -> lb -> yi -> gl -> az -> de -> no -> ms -> zu -> pl -> ka -> tg -> pa -> ceb -> my -> ml -> is -> mg -> eo -> bn -> en
 ORIGINAL:   Hold ~INPUT_ATTACK~ to zoom camera. ~n~Move ~PAD_RSTICK_LEFTRIGHT~ to rotate camera.
 TAGS:       [~INPUT_ATTACK~, ~n~, ~PAD_RSTICK_LEFTRIGHT~]
-TRANSLATED: (pending translation)
+TRANSLATED: Press and hold to zoom. Move the camera to rotate it.
 ------------------------------------------------------------
 KEY:        [#EB099F6D:TONY3]
-HOPS:       pending
+HOPS:       en -> jw -> lb -> yi -> gl -> az -> de -> no -> ms -> zu -> pl -> ka -> tg -> pa -> ceb -> my -> ml -> is -> mg -> eo -> bn -> en
 ORIGINAL:   Hold ~INPUT_FREE_AIM~ to zoom camera. ~n~Press ~INPUT_MOVE_LEFT~ and ~INPUT_MOVE_RIGHT~ to rotate camera.
 TAGS:       [~INPUT_FREE_AIM~, ~n~, ~INPUT_MOVE_LEFT~, ~INPUT_MOVE_RIGHT~]
-TRANSLATED: (pending translation)
+TRANSLATED: Pinch to zoomClick to rotate the camera
 ------------------------------------------------------------
 KEY:        [#203C8BFC:TONY3]
-HOPS:       pending
+HOPS:       en -> jw -> lb -> yi -> gl -> az -> de -> no -> ms -> zu -> pl -> ka -> tg -> pa -> ceb -> my -> ml -> is -> mg -> eo -> bn -> en
 ORIGINAL:   Use ~PAD_LSTICK_ALL~ to change shot position. ~n~Move ~PAD_RSTICK_DOWN~ to start swing. ~n~Move ~PAD_RSTICK_UP~ to hit the ball.
 TAGS:       [~PAD_LSTICK_ALL~, ~n~, ~PAD_RSTICK_DOWN~, ~n~, ~PAD_RSTICK_UP~]
-TRANSLATED: (pending translation)
+TRANSLATED: Use it to change your shooting position. Slide to start moving. Press the ball.
 ------------------------------------------------------------
 KEY:        [#EDEE2760:TONY3]
-HOPS:       pending
+HOPS:       en -> jw -> lb -> yi -> gl -> az -> de -> no -> ms -> zu -> pl -> ka -> tg -> pa -> ceb -> my -> ml -> is -> mg -> eo -> bn -> en
 ORIGINAL:   Move ~PAD_RSTICK_UP~ to hit the ball.
 TAGS:       [~PAD_RSTICK_UP~]
-TRANSLATED: (pending translation)
+TRANSLATED: Proceed to hit the ball.
 ------------------------------------------------------------
 KEY:        [#40AFCCE2:TONY3]
-HOPS:       pending
+HOPS:       en -> jw -> lb -> yi -> gl -> az -> de -> no -> ms -> zu -> pl -> ka -> tg -> pa -> ceb -> my -> ml -> is -> mg -> eo -> bn -> en
 ORIGINAL:   For greater accuracy, time your shot on the black line, and keep ~PAD_RSTICK_ALL~ straight. ~n~Hold ~INPUT_ATTACK~ to zoom camera. ~n~Move ~PAD_RSTICK_LEFTRIGHT~ to rotate camera.
 TAGS:       [~PAD_RSTICK_ALL~, ~n~, ~INPUT_ATTACK~, ~n~, ~PAD_RSTICK_LEFTRIGHT~]
-TRANSLATED: (pending translation)
+TRANSLATED: More precisely, time is measured by a black line that does not change.Stop zooming.Move the camera to rotate it.
 ------------------------------------------------------------
 KEY:        [T3_GOLF_AIM:TONY3]
-HOPS:       pending
+HOPS:       en -> kn -> ur -> ca -> zh-tw -> pl -> jw -> ta -> bg -> hr -> zu -> be -> st -> cs -> th -> tg -> iw -> mi -> lv -> lb -> or -> en
 ORIGINAL:   Hit the ~r~Union official ~s~with golf balls.
 TAGS:       [~r~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: He hit a union official with a golf ball.
 ------------------------------------------------------------
 KEY:        [T3_CARDEAD:TONY3]
-HOPS:       pending
+HOPS:       en -> kn -> ur -> ca -> zh-tw -> pl -> jw -> ta -> bg -> hr -> zu -> be -> st -> cs -> th -> tg -> iw -> mi -> lv -> lb -> or -> en
 ORIGINAL:   ~r~Tony's car was destroyed.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tony's car was shot up.
 ------------------------------------------------------------
 KEY:        [T3_CARSTUCK:TONY3]
-HOPS:       pending
+HOPS:       en -> kn -> ur -> ca -> zh-tw -> pl -> jw -> ta -> bg -> hr -> zu -> be -> st -> cs -> th -> tg -> iw -> mi -> lv -> lb -> or -> en
 ORIGINAL:   ~r~Tony's car is stuck.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tony's car is locked
 ------------------------------------------------------------
 KEY:        [#35DF347B:TONY3]
-HOPS:       pending
+HOPS:       en -> kn -> ur -> ca -> zh-tw -> pl -> jw -> ta -> bg -> hr -> zu -> be -> st -> cs -> th -> tg -> iw -> mi -> lv -> lb -> or -> en
 ORIGINAL:   Help defend Rocco from the ~r~Messinas.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Help save Rocco Messina
 ------------------------------------------------------------
 KEY:        [T3_BUGGY2:TONY3]
-HOPS:       pending
+HOPS:       en -> kn -> ur -> ca -> zh-tw -> pl -> jw -> ta -> bg -> hr -> zu -> be -> st -> cs -> th -> tg -> iw -> mi -> lv -> lb -> or -> en
 ORIGINAL:   Get into the ~b~golf cart.
 TAGS:       [~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Take a golf cart
 ------------------------------------------------------------
 KEY:        [T3_BUGGYB2:TONY3]
-HOPS:       pending
+HOPS:       en -> lo -> mr -> hmn -> yi -> jw -> kk -> hi -> ml -> sk -> ga -> bn -> ug -> af -> co -> pa -> bg -> tl -> zh-tw -> am -> ig -> en
 ORIGINAL:   Get back into the ~b~golf cart.
 TAGS:       [~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Back to the golf cart.
 ------------------------------------------------------------
 KEY:        [T3_WAIT:TONY3]
-HOPS:       pending
+HOPS:       en -> lo -> mr -> hmn -> yi -> jw -> kk -> hi -> ml -> sk -> ga -> bn -> ug -> af -> co -> pa -> bg -> tl -> zh-tw -> am -> ig -> en
 ORIGINAL:   Wait for ~b~Tony.
 TAGS:       [~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Please wait
 ------------------------------------------------------------
 KEY:        [T3_T_LEFT:TONY3]
-HOPS:       pending
+HOPS:       en -> lo -> mr -> hmn -> yi -> jw -> kk -> hi -> ml -> sk -> ga -> bn -> ug -> af -> co -> pa -> bg -> tl -> zh-tw -> am -> ig -> en
 ORIGINAL:   ~r~You abandoned Tony.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: You saved Tony.
 ------------------------------------------------------------
 KEY:        [T3_FOLLOW:TONY3]
-HOPS:       pending
+HOPS:       en -> lo -> mr -> hmn -> yi -> jw -> kk -> hi -> ml -> sk -> ga -> bn -> ug -> af -> co -> pa -> bg -> tl -> zh-tw -> am -> ig -> en
 ORIGINAL:   Follow ~b~Rocco ~s~out of the golf club.
 TAGS:       [~b~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Rocco is playing golf.
 ------------------------------------------------------------
 KEY:        [T3_GOTO_CLUB:TONY3]
-HOPS:       pending
+HOPS:       en -> lo -> mr -> hmn -> yi -> jw -> kk -> hi -> ml -> sk -> ga -> bn -> ug -> af -> co -> pa -> bg -> tl -> zh-tw -> am -> ig -> en
 ORIGINAL:   Take Tony back to his ~y~apartment.
 TAGS:       [~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Take Tony home.
 ------------------------------------------------------------
 KEY:        [T3_R_DIED:TONY3]
-HOPS:       pending
+HOPS:       en -> or -> is -> mi -> pa -> ug -> ta -> sl -> gd -> yi -> ky -> sq -> mn -> km -> sr -> hmn -> tg -> st -> la -> ms -> fi -> en
 ORIGINAL:   ~r~Rocco is dead.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Your friend is dead.
 ------------------------------------------------------------
 KEY:        [T3_B_DIED2:TONY3]
-HOPS:       pending
+HOPS:       en -> or -> is -> mi -> pa -> ug -> ta -> sl -> gd -> yi -> ky -> sq -> mn -> km -> sr -> hmn -> tg -> st -> la -> ms -> fi -> en
 ORIGINAL:   ~r~The golf cart was destroyed.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: He destroyed the golf cart.
 ------------------------------------------------------------
 KEY:        [T3_R_B_DIED:TONY3]
-HOPS:       pending
+HOPS:       en -> or -> is -> mi -> pa -> ug -> ta -> sl -> gd -> yi -> ky -> sq -> mn -> km -> sr -> hmn -> tg -> st -> la -> ms -> fi -> en
 ORIGINAL:   ~r~Rocco's golf cart was destroyed.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Rocco falls into the golf cart
 ------------------------------------------------------------
 KEY:        [T3_R_LOST:TONY3]
-HOPS:       pending
+HOPS:       en -> or -> is -> mi -> pa -> ug -> ta -> sl -> gd -> yi -> ky -> sq -> mn -> km -> sr -> hmn -> tg -> st -> la -> ms -> fi -> en
 ORIGINAL:   ~r~You lost Rocco.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: i remember you
 ------------------------------------------------------------
 KEY:        [T3_R_LEFT:TONY3]
-HOPS:       pending
+HOPS:       en -> or -> is -> mi -> pa -> ug -> ta -> sl -> gd -> yi -> ky -> sq -> mn -> km -> sr -> hmn -> tg -> st -> la -> ms -> fi -> en
 ORIGINAL:   ~r~You abandoned Rocco.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: You're still tired
 ------------------------------------------------------------
 KEY:        [T3_T_DIED:TONY3]
-HOPS:       pending
+HOPS:       en -> pl -> no -> yi -> ps -> bs -> zh-tw -> ha -> st -> ky -> xh -> tl -> id -> ig -> fi -> hr -> uz -> pa -> az -> ca -> ml -> en
 ORIGINAL:   ~r~Tony is dead.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tony is dead.
 ------------------------------------------------------------
 KEY:        [T3_T_PARK:TONY3]
-HOPS:       pending
+HOPS:       en -> pl -> no -> yi -> ps -> bs -> zh-tw -> ha -> st -> ky -> xh -> tl -> id -> ig -> fi -> hr -> uz -> pa -> az -> ca -> ml -> en
 ORIGINAL:   Park ~y~next to Rocco.
 TAGS:       [~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: The park is located near the rock.
 ------------------------------------------------------------
 KEY:        [T3_LOSECOPS:TONY3]
-HOPS:       pending
+HOPS:       en -> pl -> no -> yi -> ps -> bs -> zh-tw -> ha -> st -> ky -> xh -> tl -> id -> ig -> fi -> hr -> uz -> pa -> az -> ca -> ml -> en
 ORIGINAL:   Lose the cops.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: The police disappeared.
 ------------------------------------------------------------
 KEY:        [T3_T_LEAVE:TONY3]
-HOPS:       pending
+HOPS:       en -> pl -> no -> yi -> ps -> bs -> zh-tw -> ha -> st -> ky -> xh -> tl -> id -> ig -> fi -> hr -> uz -> pa -> az -> ca -> ml -> en
 ORIGINAL:   Don't leave ~b~Tony ~s~behind.
 TAGS:       [~b~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Don't leave Tony.
 ------------------------------------------------------------
 KEY:        [T3_STAIRS:TONY3]
-HOPS:       pending
+HOPS:       en -> pl -> no -> yi -> ps -> bs -> zh-tw -> ha -> st -> ky -> xh -> tl -> id -> ig -> fi -> hr -> uz -> pa -> az -> ca -> ml -> en
 ORIGINAL:   Head down to the ~b~golf cart.
 TAGS:       [~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Driving a golf cart
 ------------------------------------------------------------
 KEY:        [T3_ENEMIES:TONY3]
-HOPS:       pending
+HOPS:       en -> eo -> am -> fr -> eu -> az -> sk -> be -> pa -> cy -> fa -> bs -> el -> cs -> ru -> id -> sr -> te -> uz -> ug -> co -> en
 ORIGINAL:   Clear the area of the ~r~Messinas.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Clean the infected area.
 ------------------------------------------------------------
 KEY:        [T3_ZOOM:TONY3]
-HOPS:       pending
+HOPS:       en -> eo -> am -> fr -> eu -> az -> sk -> be -> pa -> cy -> fa -> bs -> el -> cs -> ru -> id -> sr -> te -> uz -> ug -> co -> en
 ORIGINAL:   ~s~Press ~PAD_RSTICK_NONE~ when aiming to switch between differing levels of zoom.
 TAGS:       [~s~, ~PAD_RSTICK_NONE~]
-TRANSLATED: (pending translation)
+TRANSLATED: Click to switch between different zoom levels.
 ------------------------------------------------------------
 KEY:        [#31C58515:TONY3]
-HOPS:       pending
+HOPS:       en -> eo -> am -> fr -> eu -> az -> sk -> be -> pa -> cy -> fa -> bs -> el -> cs -> ru -> id -> sr -> te -> uz -> ug -> co -> en
 ORIGINAL:   ~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to zoom-in while aiming.
 TAGS:       [~s~, ~INPUT_MOUSE_WHEEL_UP~, ~INPUT_MOUSE_WHEEL_DOWN~]
-TRANSLATED: (pending translation)
+TRANSLATED: Use it to aim and zoom.
 ------------------------------------------------------------
 KEY:        [T3_RUN:TONY3]
-HOPS:       pending
+HOPS:       en -> eo -> am -> fr -> eu -> az -> sk -> be -> pa -> cy -> fa -> bs -> el -> cs -> ru -> id -> sr -> te -> uz -> ug -> co -> en
 ORIGINAL:   Hold ~INPUT_SPRINT~ to run. Tap ~INPUT_SPRINT~ repeatedly to sprint.
 TAGS:       [~INPUT_SPRINT~, ~INPUT_SPRINT~]
-TRANSLATED: (pending translation)
+TRANSLATED: saveClick to restart.
 ------------------------------------------------------------
 KEY:        [#9F2A3780:TONY3]
-HOPS:       pending
+HOPS:       en -> eo -> am -> fr -> eu -> az -> sk -> be -> pa -> cy -> fa -> bs -> el -> cs -> ru -> id -> sr -> te -> uz -> ug -> co -> en
 ORIGINAL:   Use ~INPUT_SPRINT~ to sprint.
 TAGS:       [~INPUT_SPRINT~]
-TRANSLATED: (pending translation)
+TRANSLATED: Use for review.
 ------------------------------------------------------------
 KEY:        [T3_CROUCH:TONY3]
-HOPS:       pending
+HOPS:       en -> ps -> ro -> hmn -> jw -> pt -> mk -> or -> de -> fi -> is -> af -> el -> it -> zh-tw -> eu -> ml -> yi -> pa -> fa -> ka -> en
 ORIGINAL:   Press ~INPUT_DUCK~ to crouch, this will make your aim more accurate.
 TAGS:       [~INPUT_DUCK~]
-TRANSLATED: (pending translation)
+TRANSLATED: Click "Yes" and the target will zoom in
 ------------------------------------------------------------
 KEY:        [#10F76ED3:TONY4]
-HOPS:       pending
+HOPS:       en -> ps -> ro -> hmn -> jw -> pt -> mk -> or -> de -> fi -> is -> af -> el -> it -> zh-tw -> eu -> ml -> yi -> pa -> fa -> ka -> en
 ORIGINAL:   Get into the ~b~car.
 TAGS:       [~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Get on the bus
 ------------------------------------------------------------
 KEY:        [#2F80163D:TONY4]
-HOPS:       pending
+HOPS:       en -> ps -> ro -> hmn -> jw -> pt -> mk -> or -> de -> fi -> is -> af -> el -> it -> zh-tw -> eu -> ml -> yi -> pa -> fa -> ka -> en
 ORIGINAL:   Get back into the ~b~car.
 TAGS:       [~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Go back to the car
 ------------------------------------------------------------
 KEY:        [#9717FDAF:TONY4]
-HOPS:       pending
+HOPS:       en -> ps -> ro -> hmn -> jw -> pt -> mk -> or -> de -> fi -> is -> af -> el -> it -> zh-tw -> eu -> ml -> yi -> pa -> fa -> ka -> en
 ORIGINAL:   Take Tony and Gracie to ~y~Gracie's house.
 TAGS:       [~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tony and Grace go to Grace's house
 ------------------------------------------------------------
 KEY:        [T4_T_LEAVE:TONY4]
-HOPS:       pending
+HOPS:       en -> ps -> ro -> hmn -> jw -> pt -> mk -> or -> de -> fi -> is -> af -> el -> it -> zh-tw -> eu -> ml -> yi -> pa -> fa -> ka -> en
 ORIGINAL:   Don't leave ~b~Tony ~s~behind.
 TAGS:       [~b~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Don't leave Tony
 ------------------------------------------------------------
 KEY:        [#438FB3DD:TONY4]
-HOPS:       pending
+HOPS:       en -> ru -> nl -> cs -> hu -> es -> ug -> th -> mk -> sk -> iw -> sm -> zh-cn -> ne -> lt -> ta -> co -> hr -> ga -> no -> fi -> en
 ORIGINAL:   Don't leave ~b~Gracie ~s~behind.
 TAGS:       [~b~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Don't give up on Grace.
 ------------------------------------------------------------
 KEY:        [T4_LOSECOPS:TONY4]
-HOPS:       pending
+HOPS:       en -> ru -> nl -> cs -> hu -> es -> ug -> th -> mk -> sk -> iw -> sm -> zh-cn -> ne -> lt -> ta -> co -> hr -> ga -> no -> fi -> en
 ORIGINAL:   Lose the cops.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Leave the police alone.
 ------------------------------------------------------------
 KEY:        [T4_T_DEAD:TONY4]
-HOPS:       pending
+HOPS:       en -> ru -> nl -> cs -> hu -> es -> ug -> th -> mk -> sk -> iw -> sm -> zh-cn -> ne -> lt -> ta -> co -> hr -> ga -> no -> fi -> en
 ORIGINAL:   ~r~Tony is dead.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tony is dead.
 ------------------------------------------------------------
 KEY:        [T4_G_DEAD:TONY4]
-HOPS:       pending
+HOPS:       en -> ru -> nl -> cs -> hu -> es -> ug -> th -> mk -> sk -> iw -> sm -> zh-cn -> ne -> lt -> ta -> co -> hr -> ga -> no -> fi -> en
 ORIGINAL:   ~r~Gracie is dead.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: The grass is dead.
 ------------------------------------------------------------
 KEY:        [T4_T_LEFT:TONY4]
-HOPS:       pending
+HOPS:       en -> ru -> nl -> cs -> hu -> es -> ug -> th -> mk -> sk -> iw -> sm -> zh-cn -> ne -> lt -> ta -> co -> hr -> ga -> no -> fi -> en
 ORIGINAL:   ~r~You abandoned Tony.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tony left.
 ------------------------------------------------------------
 KEY:        [T4_G_LEFT:TONY4]
-HOPS:       pending
+HOPS:       en -> zh-cn -> ig -> kn -> fr -> uk -> co -> gu -> mi -> pt -> lo -> ja -> ca -> de -> ky -> yo -> ps -> ko -> zh-tw -> bn -> tg -> en
 ORIGINAL:   ~r~You abandoned Gracie.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: He and Gracie break up.
 ------------------------------------------------------------
 KEY:        [T4_TG_LEFT:TONY4]
-HOPS:       pending
+HOPS:       en -> zh-cn -> ig -> kn -> fr -> uk -> co -> gu -> mi -> pt -> lo -> ja -> ca -> de -> ky -> yo -> ps -> ko -> zh-tw -> bn -> tg -> en
 ORIGINAL:   ~r~You abandoned Tony and Gracie.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: I said goodbye to Tony and Gracie.
 ------------------------------------------------------------
 KEY:        [T4_G_CAR:TONY4]
-HOPS:       pending
+HOPS:       en -> zh-cn -> ig -> kn -> fr -> uk -> co -> gu -> mi -> pt -> lo -> ja -> ca -> de -> ky -> yo -> ps -> ko -> zh-tw -> bn -> tg -> en
 ORIGINAL:   ~r~Gracie's car was destroyed.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Gracie's car accident.
 ------------------------------------------------------------
 KEY:        [T4_T_CAR:TONY4]
-HOPS:       pending
+HOPS:       en -> zh-cn -> ig -> kn -> fr -> uk -> co -> gu -> mi -> pt -> lo -> ja -> ca -> de -> ky -> yo -> ps -> ko -> zh-tw -> bn -> tg -> en
 ORIGINAL:   ~r~Tony's car was destroyed.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tony's car has an accident.
 ------------------------------------------------------------
 KEY:        [T4_GONET:TONY4]
-HOPS:       pending
+HOPS:       en -> zh-cn -> ig -> kn -> fr -> uk -> co -> gu -> mi -> pt -> lo -> ja -> ca -> de -> ky -> yo -> ps -> ko -> zh-tw -> bn -> tg -> en
 ORIGINAL:   Go to an ~y~internet cafe.
 TAGS:       [~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Check out our online store.
 ------------------------------------------------------------
 KEY:        [T4_IHELP1:TONY4]
-HOPS:       pending
+HOPS:       en -> yo -> tl -> or -> fy -> cs -> kn -> lv -> nl -> hr -> et -> mi -> km -> hy -> ja -> be -> jw -> da -> co -> sw -> ny -> en
 ORIGINAL:   Use a computer.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: using a computer
 ------------------------------------------------------------
 KEY:        [T4_IHELP2:TONY4]
-HOPS:       pending
+HOPS:       en -> yo -> tl -> or -> fy -> cs -> kn -> lv -> nl -> hr -> et -> mi -> km -> hy -> ja -> be -> jw -> da -> co -> sw -> ny -> en
 ORIGINAL:   Click on the WEB icon.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Click the site icon
 ------------------------------------------------------------
 KEY:        [T4_IHELP3:TONY4]
-HOPS:       pending
+HOPS:       en -> yo -> tl -> or -> fy -> cs -> kn -> lv -> nl -> hr -> et -> mi -> km -> hy -> ja -> be -> jw -> da -> co -> sw -> ny -> en
 ORIGINAL:   Click on the Celebinator link.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Click on the "Consultant" link.
 ------------------------------------------------------------
 KEY:        [T4_IHELP3B:TONY4]
-HOPS:       pending
+HOPS:       en -> yo -> tl -> or -> fy -> cs -> kn -> lv -> nl -> hr -> et -> mi -> km -> hy -> ja -> be -> jw -> da -> co -> sw -> ny -> en
 ORIGINAL:   Go back to the Eyefind main page.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Return to iFind Home
 ------------------------------------------------------------
 KEY:        [T4_IHELP4:TONY4]
-HOPS:       pending
+HOPS:       en -> yo -> tl -> or -> fy -> cs -> kn -> lv -> nl -> hr -> et -> mi -> km -> hy -> ja -> be -> jw -> da -> co -> sw -> ny -> en
 ORIGINAL:   Click on 'Leave Comment'.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Click "Write a comment"
 ------------------------------------------------------------
 KEY:        [T4_IHELP5:TONY4]
-HOPS:       pending
+HOPS:       en -> fa -> yi -> lt -> iw -> mg -> is -> et -> ar -> da -> sn -> ka -> ga -> uz -> sw -> sd -> sl -> af -> lb -> cy -> pt -> en
 ORIGINAL:   Click on 'Submit'.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Click the submit button.
 ------------------------------------------------------------
 KEY:        [T4_IHELP6:TONY4]
-HOPS:       pending
+HOPS:       en -> fa -> yi -> lt -> iw -> mg -> is -> et -> ar -> da -> sn -> ka -> ga -> uz -> sw -> sd -> sl -> af -> lb -> cy -> pt -> en
 ORIGINAL:   Get back on a computer.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Return to your computer
 ------------------------------------------------------------
 KEY:        [T4_IHELP7:TONY4]
-HOPS:       pending
+HOPS:       en -> fa -> yi -> lt -> iw -> mg -> is -> et -> ar -> da -> sn -> ka -> ga -> uz -> sw -> sd -> sl -> af -> lb -> cy -> pt -> en
 ORIGINAL:   Press ~INPUT_PICKUP~ to exit.
 TAGS:       [~INPUT_PICKUP~]
-TRANSLATED: (pending translation)
+TRANSLATED: Click to exit.
 ------------------------------------------------------------
 KEY:        [T4_LEAVENET:TONY4]
-HOPS:       pending
+HOPS:       en -> fa -> yi -> lt -> iw -> mg -> is -> et -> ar -> da -> sn -> ka -> ga -> uz -> sw -> sd -> sl -> af -> lb -> cy -> pt -> en
 ORIGINAL:   Leave the internet cafe.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Leave the internet cafe.
 ------------------------------------------------------------
 KEY:        [#49D843C8:TONY4]
-HOPS:       pending
+HOPS:       en -> fa -> yi -> lt -> iw -> mg -> is -> et -> ar -> da -> sn -> ka -> ga -> uz -> sw -> sd -> sl -> af -> lb -> cy -> pt -> en
 ORIGINAL:   Meet Tony at the ~y~helipad.
 TAGS:       [~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Meeting Tony in the helicopter.
 ------------------------------------------------------------
 KEY:        [T4_ENTERHELI:TONY4]
-HOPS:       pending
+HOPS:       en -> da -> sw -> or -> mi -> sm -> zh-tw -> fy -> be -> jw -> ur -> el -> uk -> pl -> no -> vi -> sr -> tl -> gl -> mn -> tg -> en
 ORIGINAL:   Get to the ~b~chopper.
 TAGS:       [~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Go to the helicopter.
 ------------------------------------------------------------
 KEY:        [#1EA5616D:TONY4]
-HOPS:       pending
+HOPS:       en -> da -> sw -> or -> mi -> sm -> zh-tw -> fy -> be -> jw -> ur -> el -> uk -> pl -> no -> vi -> sr -> tl -> gl -> mn -> tg -> en
 ORIGINAL:   Get back in the ~b~chopper.
 TAGS:       [~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: in the section
 ------------------------------------------------------------
 KEY:        [#D9CEAC49:TONY4]
-HOPS:       pending
+HOPS:       en -> da -> sw -> or -> mi -> sm -> zh-tw -> fy -> be -> jw -> ur -> el -> uk -> pl -> no -> vi -> sr -> tl -> gl -> mn -> tg -> en
 ORIGINAL:   Don't leave the ~b~Celebinator ~s~behind.
 TAGS:       [~b~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Don't be an artist
 ------------------------------------------------------------
 KEY:        [#84F1ECEB:TONY4]
-HOPS:       pending
+HOPS:       en -> da -> sw -> or -> mi -> sm -> zh-tw -> fy -> be -> jw -> ur -> el -> uk -> pl -> no -> vi -> sr -> tl -> gl -> mn -> tg -> en
 ORIGINAL:   ~r~You abandoned the Celebinator.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Leave the group.
 ------------------------------------------------------------
 KEY:        [T4_B_DIED:TONY4]
-HOPS:       pending
+HOPS:       en -> da -> sw -> or -> mi -> sm -> zh-tw -> fy -> be -> jw -> ur -> el -> uk -> pl -> no -> vi -> sr -> tl -> gl -> mn -> tg -> en
 ORIGINAL:   ~r~The Celebinator is dead.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: The party is over
 ------------------------------------------------------------
 KEY:        [T4_HELIDIED:TONY4]
-HOPS:       pending
+HOPS:       en -> tg -> sn -> so -> ru -> kk -> ny -> jw -> vi -> cs -> yi -> zu -> th -> ku -> my -> nl -> si -> ko -> be -> fi -> ka -> en
 ORIGINAL:   ~r~The chopper was destroyed.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: lost face
 ------------------------------------------------------------
 KEY:        [T4_HELIGONE:TONY4]
-HOPS:       pending
+HOPS:       en -> tg -> sn -> so -> ru -> kk -> ny -> jw -> vi -> cs -> yi -> zu -> th -> ku -> my -> nl -> si -> ko -> be -> fi -> ka -> en
 ORIGINAL:   ~r~You abandoned the chopper.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Remove the printer.
 ------------------------------------------------------------
 KEY:        [#E920D65E:TONY4]
-HOPS:       pending
+HOPS:       en -> tg -> sn -> so -> ru -> kk -> ny -> jw -> vi -> cs -> yi -> zu -> th -> ku -> my -> nl -> si -> ko -> be -> fi -> ka -> en
 ORIGINAL:   Fly the chopper ~y~towards Happiness Island, ~s~as high as possible.
 TAGS:       [~y~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Fly your helicopter as far as you can on the island of happiness.
 ------------------------------------------------------------
 KEY:        [T4_DROPHELP:TONY4]
-HOPS:       pending
+HOPS:       en -> tg -> sn -> so -> ru -> kk -> ny -> jw -> vi -> cs -> yi -> zu -> th -> ku -> my -> nl -> si -> ko -> be -> fi -> ka -> en
 ORIGINAL:   Press ~PAD_B~ to punch the Celebinator. ~n~Press ~PAD_X~ to slap the Celebinator. ~n~Press ~PAD_Y~ to throw the Celebinator out.
 TAGS:       [~PAD_B~, ~n~, ~PAD_X~, ~n~, ~PAD_Y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Click here to download the project.Click here to download the project.Click here to download the project.
 ------------------------------------------------------------
 KEY:        [#83ED23EF:TONY4]
-HOPS:       pending
+HOPS:       en -> tg -> sn -> so -> ru -> kk -> ny -> jw -> vi -> cs -> yi -> zu -> th -> ku -> my -> nl -> si -> ko -> be -> fi -> ka -> en
 ORIGINAL:   Press ~INPUT_RELOAD~ to punch the Celebinator. ~n~Press ~INPUT_JUMP~ to slap the Celebinator. ~n~Press ~INPUT_ENTER~ to throw the Celebinator out.
 TAGS:       [~INPUT_RELOAD~, ~n~, ~INPUT_JUMP~, ~n~, ~INPUT_ENTER~]
-TRANSLATED: (pending translation)
+TRANSLATED: Click here to download the project.Click here to download the project.Click here to download the project.
 ------------------------------------------------------------
 KEY:        [T4_SHAKE:TONY4]
-HOPS:       pending
+HOPS:       en -> ko -> sn -> da -> co -> ha -> ps -> gu -> mn -> lv -> yo -> cy -> ro -> kn -> mk -> ka -> it -> si -> ky -> mg -> cs -> en
 ORIGINAL:   Intimidate the Celebinator.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sylventer threatened.
 ------------------------------------------------------------
 KEY:        [T4_CATCH:TONY4]
-HOPS:       pending
+HOPS:       en -> ko -> sn -> da -> co -> ha -> ps -> gu -> mn -> lv -> yo -> cy -> ro -> kn -> mk -> ka -> it -> si -> ky -> mg -> cs -> en
 ORIGINAL:   Catch the ~r~Celebinator ~s~before he hits the ground.
 TAGS:       [~r~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Capture the Salibinator before it enters.
 ------------------------------------------------------------
 KEY:        [#87BE1117:TONY4]
-HOPS:       pending
+HOPS:       en -> ko -> sn -> da -> co -> ha -> ps -> gu -> mn -> lv -> yo -> cy -> ro -> kn -> mk -> ka -> it -> si -> ky -> mg -> cs -> en
 ORIGINAL:   Press ~PAD_Y~ to jump out of the helicopter.
 TAGS:       [~PAD_Y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Click to jump out of the plane.
 ------------------------------------------------------------
 KEY:        [T4_DIVE_HELP:TONY4]
-HOPS:       pending
+HOPS:       en -> ko -> sn -> da -> co -> ha -> ps -> gu -> mn -> lv -> yo -> cy -> ro -> kn -> mk -> ka -> it -> si -> ky -> mg -> cs -> en
 ORIGINAL:   Press ~PAD_LSTICK_UP~ to dive.
 TAGS:       [~PAD_LSTICK_UP~]
-TRANSLATED: (pending translation)
+TRANSLATED: Click to add water.
 ------------------------------------------------------------
 KEY:        [T4_LAND:TONY4]
-HOPS:       pending
+HOPS:       en -> ko -> sn -> da -> co -> ha -> ps -> gu -> mn -> lv -> yo -> cy -> ro -> kn -> mk -> ka -> it -> si -> ky -> mg -> cs -> en
 ORIGINAL:   Land safely on the ground.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: This is not good
 ------------------------------------------------------------
 KEY:        [T4_HINT:TONY4]
-HOPS:       pending
+HOPS:       en -> mt -> hmn -> ka -> zh-cn -> ta -> es -> tg -> gl -> ml -> bg -> mg -> mi -> et -> af -> ko -> sd -> sl -> kn -> eu -> lo -> en
 ORIGINAL:   Hold ~INPUT_VEH_CIN_CAM~ to focus on the next checkpoint.
 TAGS:       [~INPUT_VEH_CIN_CAM~]
-TRANSLATED: (pending translation)
+TRANSLATED: Waiting for the next episode.
 ------------------------------------------------------------
 KEY:        [T4_FCOPS:TONY4]
-HOPS:       pending
+HOPS:       en -> mt -> hmn -> ka -> zh-cn -> ta -> es -> tg -> gl -> ml -> bg -> mg -> mi -> et -> af -> ko -> sd -> sl -> kn -> eu -> lo -> en
 ORIGINAL:   ~r~You alerted the cops.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Notify the police.
 ------------------------------------------------------------
 KEY:        [PM_PICKUP2:TONY5]
-HOPS:       pending
+HOPS:       en -> mt -> hmn -> ka -> zh-cn -> ta -> es -> tg -> gl -> ml -> bg -> mg -> mi -> et -> af -> ko -> sd -> sl -> kn -> eu -> lo -> en
 ORIGINAL:   ~s~While on foot, sticky bombs can be thrown by holding ~INPUT_AIM~ to aim and ~INPUT_ATTACK~ to throw.
 TAGS:       [~s~, ~INPUT_AIM~, ~INPUT_ATTACK~]
-TRANSLATED: (pending translation)
+TRANSLATED: You can place bombs by clicking to fly and shoot.
 ------------------------------------------------------------
 KEY:        [PM_PICKUP3:TONY5]
-HOPS:       pending
+HOPS:       en -> mt -> hmn -> ka -> zh-cn -> ta -> es -> tg -> gl -> ml -> bg -> mg -> mi -> et -> af -> ko -> sd -> sl -> kn -> eu -> lo -> en
 ORIGINAL:   ~s~They will stick to any object they touch and can be detonated using ~PAD_DPAD_DOWN~ or by being shot.
 TAGS:       [~s~, ~PAD_DPAD_DOWN~]
-TRANSLATED: (pending translation)
+TRANSLATED: This substance sticks to anything it touches and can be harmful or fatal if swallowed.
 ------------------------------------------------------------
 KEY:        [#98D7A77A:TONY5]
-HOPS:       pending
+HOPS:       en -> mt -> hmn -> ka -> zh-cn -> ta -> es -> tg -> gl -> ml -> bg -> mg -> mi -> et -> af -> ko -> sd -> sl -> kn -> eu -> lo -> en
 ORIGINAL:   ~s~They will stick to any object they touch and can be detonated using ~INPUT_DETONATE~ or by being shot.
 TAGS:       [~s~, ~INPUT_DETONATE~]
-TRANSLATED: (pending translation)
+TRANSLATED: This substance sticks to anything it touches and can be harmful or fatal if swallowed.
 ------------------------------------------------------------
 KEY:        [PM_PICKUP4:TONY5]
-HOPS:       pending
+HOPS:       en -> bn -> su -> ha -> xh -> ro -> sn -> ur -> uz -> pt -> cy -> pa -> st -> ne -> si -> fi -> ms -> kk -> ps -> mt -> uk -> en
 ORIGINAL:   ~s~Press ~PAD_DPAD_DOWN~ to detonate the sticky bombs.
 TAGS:       [~s~, ~PAD_DPAD_DOWN~]
-TRANSLATED: (pending translation)
+TRANSLATED: Click on the bomb next to it to explode.
 ------------------------------------------------------------
 KEY:        [#2F11D853:TONY5]
-HOPS:       pending
+HOPS:       en -> bn -> su -> ha -> xh -> ro -> sn -> ur -> uz -> pt -> cy -> pa -> st -> ne -> si -> fi -> ms -> kk -> ps -> mt -> uk -> en
 ORIGINAL:   ~s~Press ~INPUT_DETONATE~ to detonate the sticky bombs.
 TAGS:       [~s~, ~INPUT_DETONATE~]
-TRANSLATED: (pending translation)
+TRANSLATED: Click on the bomb next to it to explode.
 ------------------------------------------------------------
 KEY:        [PM_GOTO_CRANE:TONY5]
-HOPS:       pending
+HOPS:       en -> bn -> su -> ha -> xh -> ro -> sn -> ur -> uz -> pt -> cy -> pa -> st -> ne -> si -> fi -> ms -> kk -> ps -> mt -> uk -> en
 ORIGINAL:   ~s~The first target is a ~r~construction foreman. ~s~He operates the nearby crane.
 TAGS:       [~s~, ~r~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: The first task is construction work.He operates the crane.
 ------------------------------------------------------------
 KEY:        [PM_BOMB_CRANE:TONY5]
-HOPS:       pending
+HOPS:       en -> bn -> su -> ha -> xh -> ro -> sn -> ur -> uz -> pt -> cy -> pa -> st -> ne -> si -> fi -> ms -> kk -> ps -> mt -> uk -> en
 ORIGINAL:   ~s~Throw several sticky bombs onto the base of the ~r~crane.
 TAGS:       [~s~, ~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Drop more bombs under the faucet.
 ------------------------------------------------------------
 KEY:        [PM_GOBACKCRANE:TONY5]
-HOPS:       pending
+HOPS:       en -> bn -> su -> ha -> xh -> ro -> sn -> ur -> uz -> pt -> cy -> pa -> st -> ne -> si -> fi -> ms -> kk -> ps -> mt -> uk -> en
 ORIGINAL:   ~s~You are too far away, go back and destroy the ~r~crane.
 TAGS:       [~s~, ~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: If you go too far, go back and destroy the faucet.
 ------------------------------------------------------------
 KEY:        [PM_TOOLONG:TONY5]
-HOPS:       pending
+HOPS:       en -> te -> zu -> iw -> no -> hu -> es -> th -> vi -> sl -> bs -> ka -> lb -> ceb -> ta -> ur -> ko -> gd -> ms -> ru -> pa -> en
 ORIGINAL:   ~s~The crane was not destroyed, new explosives need to be set on the ~r~crane base.
 TAGS:       [~s~, ~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: If the pin is broken, a new pump must be installed under the pin.
 ------------------------------------------------------------
 KEY:        [PM_DEM_CRANE:TONY5]
-HOPS:       pending
+HOPS:       en -> te -> zu -> iw -> no -> hu -> es -> th -> vi -> sl -> bs -> ka -> lb -> ceb -> ta -> ur -> ko -> gd -> ms -> ru -> pa -> en
 ORIGINAL:   ~s~Now detonate the bombs to destroy the crane.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Now detonate the bomb to destroy the crane.
 ------------------------------------------------------------
 KEY:        [PM_GETBACK:TONY5]
-HOPS:       pending
+HOPS:       en -> te -> zu -> iw -> no -> hu -> es -> th -> vi -> sl -> bs -> ka -> lb -> ceb -> ta -> ur -> ko -> gd -> ms -> ru -> pa -> en
 ORIGINAL:   ~s~The crane is rigged to blow, get clear.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: The handle is closed for safety reasons.
 ------------------------------------------------------------
 KEY:        [PM_GETBOMBS:TONY5]
-HOPS:       pending
+HOPS:       en -> te -> zu -> iw -> no -> hu -> es -> th -> vi -> sl -> bs -> ka -> lb -> ceb -> ta -> ur -> ko -> gd -> ms -> ru -> pa -> en
 ORIGINAL:   ~s~You are out of sticky bombs, call Armando to buy some more.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: You are made of balls of mud.Contact Armani and buy again.
 ------------------------------------------------------------
 KEY:        [PM_GOTO_TRAIN:TONY5]
-HOPS:       pending
+HOPS:       en -> te -> zu -> iw -> no -> hu -> es -> th -> vi -> sl -> bs -> ka -> lb -> ceb -> ta -> ur -> ko -> gd -> ms -> ru -> pa -> en
 ORIGINAL:   ~s~The next target is on an out of service subway train, intercept it at the ~y~tunnel exit.
 TAGS:       [~s~, ~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: The next stop is the metro for the disabled.
 ------------------------------------------------------------
 KEY:        [PM_BOMB_TRAIN:TONY5]
-HOPS:       pending
+HOPS:       en -> ro -> sn -> el -> co -> ca -> fr -> ur -> ps -> mk -> sq -> ga -> sw -> nl -> az -> bn -> sl -> pt -> fa -> es -> iw -> en
 ORIGINAL:   ~s~Destroy the ~r~train~s~ using sticky bombs.
 TAGS:       [~s~, ~r~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Destroy the train with sticky bombs.
 ------------------------------------------------------------
 KEY:        [E2T8_KLALL_06:TONY5]
-HOPS:       pending
+HOPS:       en -> ro -> sn -> el -> co -> ca -> fr -> ur -> ps -> mk -> sq -> ga -> sw -> nl -> az -> bn -> sl -> pt -> fa -> es -> iw -> en
 ORIGINAL:   ~s~Holding ~INPUT_VEH_CIN_CAM~ will focus the camera on the target.
 TAGS:       [~s~, ~INPUT_VEH_CIN_CAM~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tap your hand to point the camera at it.
 ------------------------------------------------------------
 KEY:        [PM_PICKUP5:TONY5]
-HOPS:       pending
+HOPS:       en -> ro -> sn -> el -> co -> ca -> fr -> ur -> ps -> mk -> sq -> ga -> sw -> nl -> az -> bn -> sl -> pt -> fa -> es -> iw -> en
 ORIGINAL:   ~s~When in a vehicle press ~INPUT_VEH_ATTACK~ to throw a sticky bomb left.
 TAGS:       [~s~, ~INPUT_VEH_ATTACK~]
-TRANSLATED: (pending translation)
+TRANSLATED: If you're in a car, press left to throw a sticky bomb.
 ------------------------------------------------------------
 KEY:        [TRAIN_STOP:TONY5]
-HOPS:       pending
+HOPS:       en -> ro -> sn -> el -> co -> ca -> fr -> ur -> ps -> mk -> sq -> ga -> sw -> nl -> az -> bn -> sl -> pt -> fa -> es -> iw -> en
 ORIGINAL:   ~s~The ~r~train ~s~has stopped at the station in Fortside.
 TAGS:       [~s~, ~r~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: The train stopped at Fortside station.
 ------------------------------------------------------------
 KEY:        [#A1662D3C:TONY5]
-HOPS:       pending
+HOPS:       en -> ro -> sn -> el -> co -> ca -> fr -> ur -> ps -> mk -> sq -> ga -> sw -> nl -> az -> bn -> sl -> pt -> fa -> es -> iw -> en
 ORIGINAL:   ~s~Get to the ~y~airport.~s~ The next target's plane is taking off at ~1~:~1~.
 TAGS:       [~s~, ~y~, ~s~, ~1~, ~1~]
-TRANSLATED: (pending translation)
+TRANSLATED: Landing at the airport last year:
 ------------------------------------------------------------
 KEY:        [#952A7B8D:TONY5]
-HOPS:       pending
+HOPS:       en -> ht -> jw -> eo -> mn -> bg -> hr -> is -> tg -> ne -> gl -> ky -> hu -> el -> sq -> ja -> lo -> km -> iw -> sn -> fi -> en
 ORIGINAL:   ~s~Approach the runway through the ~y~security gate.
 TAGS:       [~s~, ~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Enter the field through the security gate.
 ------------------------------------------------------------
 KEY:        [BOMB_PLANE:TONY5]
-HOPS:       pending
+HOPS:       en -> ht -> jw -> eo -> mn -> bg -> hr -> is -> tg -> ne -> gl -> ky -> hu -> el -> sq -> ja -> lo -> km -> iw -> sn -> fi -> en
 ORIGINAL:   ~s~You must destroy the ~r~plane ~s~before it takes off.
 TAGS:       [~s~, ~r~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Destroy the plane before it takes off.
 ------------------------------------------------------------
 KEY:        [PM_PLANELEAVE:TONY5]
-HOPS:       pending
+HOPS:       en -> ht -> jw -> eo -> mn -> bg -> hr -> is -> tg -> ne -> gl -> ky -> hu -> el -> sq -> ja -> lo -> km -> iw -> sn -> fi -> en
 ORIGINAL:   ~s~Security has spotted you and the plane is preparing to take off.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Safety protects you and the plane is ready to fly.
 ------------------------------------------------------------
 KEY:        [ESCAPE_AIRPORT:TONY5]
-HOPS:       pending
+HOPS:       en -> ht -> jw -> eo -> mn -> bg -> hr -> is -> tg -> ne -> gl -> ky -> hu -> el -> sq -> ja -> lo -> km -> iw -> sn -> fi -> en
 ORIGINAL:   ~s~Lose the cops.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Call the police.
 ------------------------------------------------------------
 KEY:        [PM_FAIL_1:TONY5]
-HOPS:       pending
+HOPS:       en -> ht -> jw -> eo -> mn -> bg -> hr -> is -> tg -> ne -> gl -> ky -> hu -> el -> sq -> ja -> lo -> km -> iw -> sn -> fi -> en
 ORIGINAL:   ~r~You took too long to destroy the train.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Destroying a train takes a long time.
 ------------------------------------------------------------
 KEY:        [PM_FAIL_2:TONY5]
-HOPS:       pending
+HOPS:       en -> it -> sw -> ky -> ig -> ne -> az -> pt -> mt -> be -> eu -> st -> lo -> km -> fi -> yi -> zh-tw -> cy -> tr -> eo -> hy -> en
 ORIGINAL:   ~r~The target's plane has taken off.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: There are planes.
 ------------------------------------------------------------
 KEY:        [PM_FAIL_3:TONY5]
-HOPS:       pending
+HOPS:       en -> it -> sw -> ky -> ig -> ne -> az -> pt -> mt -> be -> eu -> st -> lo -> km -> fi -> yi -> zh-tw -> cy -> tr -> eo -> hy -> en
 ORIGINAL:   ~r~You lost the train.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: I can't catch the train.
 ------------------------------------------------------------
 KEY:        [GT5_M01:TONY6]
-HOPS:       pending
+HOPS:       en -> it -> sw -> ky -> ig -> ne -> az -> pt -> mt -> be -> eu -> st -> lo -> km -> fi -> yi -> zh-tw -> cy -> tr -> eo -> hy -> en
 ORIGINAL:   Go to ~y~Bahama Mamma's.~s~
 TAGS:       [~y~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Go to the Bahamas, Mom!
 ------------------------------------------------------------
 KEY:        [GT5_M02:TONY6]
-HOPS:       pending
+HOPS:       en -> it -> sw -> ky -> ig -> ne -> az -> pt -> mt -> be -> eu -> st -> lo -> km -> fi -> yi -> zh-tw -> cy -> tr -> eo -> hy -> en
 ORIGINAL:   Go to the ~y~dance floor.~s~
 TAGS:       [~y~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: to dance
 ------------------------------------------------------------
 KEY:        [GT5_M03:TONY6]
-HOPS:       pending
+HOPS:       en -> it -> sw -> ky -> ig -> ne -> az -> pt -> mt -> be -> eu -> st -> lo -> km -> fi -> yi -> zh-tw -> cy -> tr -> eo -> hy -> en
 ORIGINAL:   Go to ~b~Monique~s~ and dance with her.
 TAGS:       [~b~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Come with Monique.
 ------------------------------------------------------------
 KEY:        [GT5_M04:TONY6]
-HOPS:       pending
+HOPS:       en -> iw -> yo -> zu -> bs -> so -> lv -> cs -> lb -> sv -> et -> gd -> mr -> fy -> si -> zh-tw -> ig -> ka -> be -> ur -> af -> en
 ORIGINAL:   The owner wishes to speak to you. Follow the ~r~bouncer.~s~
 TAGS:       [~r~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: A visitor wants to talk to you. See a pop-up window
 ------------------------------------------------------------
 KEY:        [GT5_M05:TONY6]
-HOPS:       pending
+HOPS:       en -> iw -> yo -> zu -> bs -> so -> lv -> cs -> lb -> sv -> et -> gd -> mr -> fy -> si -> zh-tw -> ig -> ka -> be -> ur -> af -> en
 ORIGINAL:   Take out the ~r~owner.~s~
 TAGS:       [~r~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: He killed the king.
 ------------------------------------------------------------
 KEY:        [GT5_M06:TONY6]
-HOPS:       pending
+HOPS:       en -> iw -> yo -> zu -> bs -> so -> lv -> cs -> lb -> sv -> et -> gd -> mr -> fy -> si -> zh-tw -> ig -> ka -> be -> ur -> af -> en
 ORIGINAL:   Get out of the club.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: He left the garden.
 ------------------------------------------------------------
 KEY:        [GT5_M07:TONY6]
-HOPS:       pending
+HOPS:       en -> iw -> yo -> zu -> bs -> so -> lv -> cs -> lb -> sv -> et -> gd -> mr -> fy -> si -> zh-tw -> ig -> ka -> be -> ur -> af -> en
 ORIGINAL:   Enter the ~y~owner's office.~s~
 TAGS:       [~y~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Enter the owner's office.
 ------------------------------------------------------------
 KEY:        [GT5_M08:TONY6]
-HOPS:       pending
+HOPS:       en -> iw -> yo -> zu -> bs -> so -> lv -> cs -> lb -> sv -> et -> gd -> mr -> fy -> si -> zh-tw -> ig -> ka -> be -> ur -> af -> en
 ORIGINAL:   Mission Passed
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Mission accomplished.
 ------------------------------------------------------------
 KEY:        [GT5_M09:TONY6]
-HOPS:       pending
+HOPS:       en -> mn -> sl -> bs -> af -> zh-tw -> lo -> hmn -> ur -> ar -> yo -> ca -> id -> cy -> haw -> fr -> ga -> gd -> ny -> lv -> gu -> en
 ORIGINAL:   Get in ~b~Tony's car.~s~
 TAGS:       [~b~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: He was sitting in Tony's car.
 ------------------------------------------------------------
 KEY:        [GT5_M10:TONY6]
-HOPS:       pending
+HOPS:       en -> mn -> sl -> bs -> af -> zh-tw -> lo -> hmn -> ur -> ar -> yo -> ca -> id -> cy -> haw -> fr -> ga -> gd -> ny -> lv -> gu -> en
 ORIGINAL:   Don't leave ~b~Tony~s~ behind.~s~
 TAGS:       [~b~, ~s~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tony, don't leave it
 ------------------------------------------------------------
 KEY:        [GT5_M11:TONY6]
-HOPS:       pending
+HOPS:       en -> mn -> sl -> bs -> af -> zh-tw -> lo -> hmn -> ur -> ar -> yo -> ca -> id -> cy -> haw -> fr -> ga -> gd -> ny -> lv -> gu -> en
 ORIGINAL:   Drive Tony to ~y~Bahama Mamas.~s~
 TAGS:       [~y~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tony took his mother to the Bahamas.
 ------------------------------------------------------------
 KEY:        [GT5_M12:TONY6]
-HOPS:       pending
+HOPS:       en -> mn -> sl -> bs -> af -> zh-tw -> lo -> hmn -> ur -> ar -> yo -> ca -> id -> cy -> haw -> fr -> ga -> gd -> ny -> lv -> gu -> en
 ORIGINAL:   Enter the club and go to the ~y~dance floor.~s~
 TAGS:       [~y~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Join a club and take dance classes.
 ------------------------------------------------------------
 KEY:        [GT5_M13:TONY6]
-HOPS:       pending
+HOPS:       en -> mn -> sl -> bs -> af -> zh-tw -> lo -> hmn -> ur -> ar -> yo -> ca -> id -> cy -> haw -> fr -> ga -> gd -> ny -> lv -> gu -> en
 ORIGINAL:   Lose the cops. You will be denied entry to the club with a wanted level.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Losing power can make you stand out from the crowd.
 ------------------------------------------------------------
 KEY:        [GT5_M14:TONY6]
-HOPS:       pending
+HOPS:       en -> ht -> hi -> mk -> ny -> kn -> ka -> de -> sw -> mt -> lb -> tr -> co -> gu -> mr -> ca -> sm -> el -> bs -> si -> eo -> en
 ORIGINAL:   Get back in ~b~Tony's car.~s~
 TAGS:       [~b~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Go back to Tony Carr.
 ------------------------------------------------------------
 KEY:        [GT5_M15:TONY6]
-HOPS:       pending
+HOPS:       en -> ht -> hi -> mk -> ny -> kn -> ka -> de -> sw -> mt -> lb -> tr -> co -> gu -> mr -> ca -> sm -> el -> bs -> si -> eo -> en
 ORIGINAL:   Leave the area.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: He left the place.
 ------------------------------------------------------------
 KEY:        [#8E12844B:TONY6]
-HOPS:       pending
+HOPS:       en -> ht -> hi -> mk -> ny -> kn -> ka -> de -> sw -> mt -> lb -> tr -> co -> gu -> mr -> ca -> sm -> el -> bs -> si -> eo -> en
 ORIGINAL:   Lose the cops.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: They killed the police.
 ------------------------------------------------------------
 KEY:        [GT5_WHELP:TONY6]
-HOPS:       pending
+HOPS:       en -> ht -> hi -> mk -> ny -> kn -> ka -> de -> sw -> mt -> lb -> tr -> co -> gu -> mr -> ca -> sm -> el -> bs -> si -> eo -> en
 ORIGINAL:   Weapons aren't welcome in the club.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: No weapons are allowed on this trail.
 ------------------------------------------------------------
 KEY:        [#E096D1BC:TONY6]
-HOPS:       pending
+HOPS:       en -> ht -> hi -> mk -> ny -> kn -> ka -> de -> sw -> mt -> lb -> tr -> co -> gu -> mr -> ca -> sm -> el -> bs -> si -> eo -> en
 ORIGINAL:   ~r~Your dancing did not impress Monique.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Monique was not satisfied with her performance.
 ------------------------------------------------------------
 KEY:        [#F3417711:TONY6]
-HOPS:       pending
+HOPS:       en -> yi -> mg -> ig -> am -> mt -> iw -> id -> lt -> th -> be -> pl -> xh -> ne -> ja -> ky -> zu -> haw -> ny -> te -> ml -> en
 ORIGINAL:   ~r~You failed to take out the club owner.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: The owner of the company cannot be removed.
 ------------------------------------------------------------
 KEY:        [#0D41AB0D:TONY6]
-HOPS:       pending
+HOPS:       en -> yi -> mg -> ig -> am -> mt -> iw -> id -> lt -> th -> be -> pl -> xh -> ne -> ja -> ky -> zu -> haw -> ny -> te -> ml -> en
 ORIGINAL:   ~r~Monique is dead.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Monica is dead.
 ------------------------------------------------------------
 KEY:        [#1D474B18:TONY6]
-HOPS:       pending
+HOPS:       en -> yi -> mg -> ig -> am -> mt -> iw -> id -> lt -> th -> be -> pl -> xh -> ne -> ja -> ky -> zu -> haw -> ny -> te -> ml -> en
 ORIGINAL:   ~r~You alerted security.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Be safe.
 ------------------------------------------------------------
 KEY:        [#2F96EFB7:TONY6]
-HOPS:       pending
+HOPS:       en -> yi -> mg -> ig -> am -> mt -> iw -> id -> lt -> th -> be -> pl -> xh -> ne -> ja -> ky -> zu -> haw -> ny -> te -> ml -> en
 ORIGINAL:   ~r~Tony is dead.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tony is dead.
 ------------------------------------------------------------
 KEY:        [#392502D3:TONY6]
-HOPS:       pending
+HOPS:       en -> yi -> mg -> ig -> am -> mt -> iw -> id -> lt -> th -> be -> pl -> xh -> ne -> ja -> ky -> zu -> haw -> ny -> te -> ml -> en
 ORIGINAL:   ~r~Tony's car was wrecked.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tony's car breaks down.
 ------------------------------------------------------------
 KEY:        [#5479397B:TONY6]
-HOPS:       pending
+HOPS:       en -> xh -> zh-tw -> ka -> de -> id -> fr -> iw -> da -> ar -> sm -> el -> af -> sl -> gl -> tr -> fy -> my -> es -> zu -> bg -> en
 ORIGINAL:   ~r~You abandoned Tony.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: I broke up with Tony.
 ------------------------------------------------------------
 KEY:        [#2D5CF912:TONY6]
-HOPS:       pending
+HOPS:       en -> xh -> zh-tw -> ka -> de -> id -> fr -> iw -> da -> ar -> sm -> el -> af -> sl -> gl -> tr -> fy -> my -> es -> zu -> bg -> en
 ORIGINAL:   To dance with someone on the dancefloor stand in front of them and press ~PAD_LB~.
 TAGS:       [~PAD_LB~]
-TRANSLATED: (pending translation)
+TRANSLATED: To dance with someone on the dance floor, stand in front of them and press the button.
 ------------------------------------------------------------
 KEY:        [#039BA590:TONY6]
-HOPS:       pending
+HOPS:       en -> xh -> zh-tw -> ka -> de -> id -> fr -> iw -> da -> ar -> sm -> el -> af -> sl -> gl -> tr -> fy -> my -> es -> zu -> bg -> en
 ORIGINAL:   Impress your dance partner by copying their style. Keep pressing buttons in time to the music to dance.~n~~PAD_A~ Lower~n~~PAD_B~ Right~n~~PAD_X~ Left~n~~PAD_Y~ Upper~n~~PAD_LB~ stop dancing.
 TAGS:       [~n~, ~PAD_A~, ~n~, ~PAD_B~, ~n~, ~PAD_X~, ~n~, ~PAD_Y~, ~n~, ~PAD_LB~]
-TRANSLATED: (pending translation)
+TRANSLATED: Imitate and impress your partner's dance style.Press and hold the button to dance to the music.Stop dancing from left to right down.
 ------------------------------------------------------------
 KEY:        [T7_GOD1:TONY7]
-HOPS:       pending
+HOPS:       en -> xh -> zh-tw -> ka -> de -> id -> fr -> iw -> da -> ar -> sm -> el -> af -> sl -> gl -> tr -> fy -> my -> es -> zu -> bg -> en
 ORIGINAL:   Go to the ~y~docks.~s~
 TAGS:       [~y~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Go on stage.
 ------------------------------------------------------------
 KEY:        [T7_GOD2:TONY7]
-HOPS:       pending
+HOPS:       en -> xh -> zh-tw -> ka -> de -> id -> fr -> iw -> da -> ar -> sm -> el -> af -> sl -> gl -> tr -> fy -> my -> es -> zu -> bg -> en
 ORIGINAL:   Use sticky bombs to take out the ~r~bikers.~s~
 TAGS:       [~r~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Use sticky bombs to destroy the radiation.
 ------------------------------------------------------------
 KEY:        [T7_GOD3:TONY7]
-HOPS:       pending
+HOPS:       en -> ny -> bg -> mk -> bn -> km -> ja -> af -> fy -> su -> be -> ro -> ta -> lb -> es -> ps -> my -> is -> sq -> el -> gu -> en
 ORIGINAL:   Drive Tony back to the ~y~club.
 TAGS:       [~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Let's take Tony to the club.
 ------------------------------------------------------------
 KEY:        [T7_CAR:TONY7]
-HOPS:       pending
+HOPS:       en -> ny -> bg -> mk -> bn -> km -> ja -> af -> fy -> su -> be -> ro -> ta -> lb -> es -> ps -> my -> is -> sq -> el -> gu -> en
 ORIGINAL:   Get back in the ~b~car.~s~
 TAGS:       [~b~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Get back in the car.
 ------------------------------------------------------------
 KEY:        [TEMP1:TONY7]
-HOPS:       pending
+HOPS:       en -> ny -> bg -> mk -> bn -> km -> ja -> af -> fy -> su -> be -> ro -> ta -> lb -> es -> ps -> my -> is -> sq -> el -> gu -> en
 ORIGINAL:   You pick Gay Tony up and you have to drive him to the docks to go buy some diamonds
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Choose Gay Tony and take him to the park to buy diamonds.
 ------------------------------------------------------------
 KEY:        [HELP:TONY7]
-HOPS:       pending
+HOPS:       en -> ny -> bg -> mk -> bn -> km -> ja -> af -> fy -> su -> be -> ro -> ta -> lb -> es -> ps -> my -> is -> sq -> el -> gu -> en
 ORIGINAL:   Use ~PAD_RSTICK_ALL~ to aim. Press ~INPUT_ATTACK~ to throw a bomb and ~PAD_DPAD_DOWN~ to detonate.
 TAGS:       [~PAD_RSTICK_ALL~, ~INPUT_ATTACK~, ~PAD_DPAD_DOWN~]
-TRANSLATED: (pending translation)
+TRANSLATED: Use the range.Throw the bomb and click to explode.
 ------------------------------------------------------------
 KEY:        [#8A4A25F4:TONY7]
-HOPS:       pending
+HOPS:       en -> ny -> bg -> mk -> bn -> km -> ja -> af -> fy -> su -> be -> ro -> ta -> lb -> es -> ps -> my -> is -> sq -> el -> gu -> en
 ORIGINAL:   Use ~PAD_RSTICK_ALL~ to aim. Press ~INPUT_ATTACK~ to throw a bomb and ~INPUT_DETONATE~ to detonate.
 TAGS:       [~PAD_RSTICK_ALL~, ~INPUT_ATTACK~, ~INPUT_DETONATE~]
-TRANSLATED: (pending translation)
+TRANSLATED: Use the range.Throw the bomb and click to explode.
 ------------------------------------------------------------
 KEY:        [HELP2:TONY7]
-HOPS:       pending
+HOPS:       en -> si -> fa -> pl -> is -> my -> es -> cs -> ug -> ko -> su -> nl -> kn -> it -> de -> af -> iw -> ar -> az -> sq -> sn -> en
 ORIGINAL:   A sticky bomb will attach itself to any moving vehicle.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sticky bombs are attached to moving vehicles.
 ------------------------------------------------------------
 KEY:        [FAIL1:TONY7]
-HOPS:       pending
+HOPS:       en -> si -> fa -> pl -> is -> my -> es -> cs -> ug -> ko -> su -> nl -> kn -> it -> de -> af -> iw -> ar -> az -> sq -> sn -> en
 ORIGINAL:   ~r~The car was wrecked.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: My car broke down.
 ------------------------------------------------------------
 KEY:        [FAIL2:TONY7]
-HOPS:       pending
+HOPS:       en -> si -> fa -> pl -> is -> my -> es -> cs -> ug -> ko -> su -> nl -> kn -> it -> de -> af -> iw -> ar -> az -> sq -> sn -> en
 ORIGINAL:   ~r~Tony is dead.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tony died.
 ------------------------------------------------------------
 KEY:        [FAIL3:TONY7]
-HOPS:       pending
+HOPS:       en -> si -> fa -> pl -> is -> my -> es -> cs -> ug -> ko -> su -> nl -> kn -> it -> de -> af -> iw -> ar -> az -> sq -> sn -> en
 ORIGINAL:   ~r~You abandoned Tony.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: I broke up with Tony.
 ------------------------------------------------------------
 KEY:        [FAIL5:TONY7]
-HOPS:       pending
+HOPS:       en -> si -> fa -> pl -> is -> my -> es -> cs -> ug -> ko -> su -> nl -> kn -> it -> de -> af -> iw -> ar -> az -> sq -> sn -> en
 ORIGINAL:   ~r~Evan is dead.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Ivan died.
 ------------------------------------------------------------
 KEY:        [FAIL6:TONY7]
-HOPS:       pending
+HOPS:       en -> pl -> sq -> zh-tw -> uk -> hi -> et -> no -> sn -> tl -> kn -> zh-cn -> gd -> el -> te -> cy -> eu -> mk -> bs -> km -> mi -> en
 ORIGINAL:   ~r~You abandoned Evan.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: You have left Ivan.
 ------------------------------------------------------------
 KEY:        [FAIL4:TONY7]
-HOPS:       pending
+HOPS:       en -> pl -> sq -> zh-tw -> uk -> hi -> et -> no -> sn -> tl -> kn -> zh-cn -> gd -> el -> te -> cy -> eu -> mk -> bs -> km -> mi -> en
 ORIGINAL:   ~r~The driver is dead.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: The driver was killed.
 ------------------------------------------------------------
 KEY:        [WANTED:TONY7]
-HOPS:       pending
+HOPS:       en -> pl -> sq -> zh-tw -> uk -> hi -> et -> no -> sn -> tl -> kn -> zh-cn -> gd -> el -> te -> cy -> eu -> mk -> bs -> km -> mi -> en
 ORIGINAL:   Lose the cops.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: He was beaten by the police.
 ------------------------------------------------------------
 KEY:        [GT8_FAIL_00:TONY8]
-HOPS:       pending
+HOPS:       en -> pl -> sq -> zh-tw -> uk -> hi -> et -> no -> sn -> tl -> kn -> zh-cn -> gd -> el -> te -> cy -> eu -> mk -> bs -> km -> mi -> en
 ORIGINAL:   ~r~Yusuf's chopper was wrecked.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Yusuf helicopter crashed.
 ------------------------------------------------------------
 KEY:        [GT8_FAIL_01:TONY8]
-HOPS:       pending
+HOPS:       en -> pl -> sq -> zh-tw -> uk -> hi -> et -> no -> sn -> tl -> kn -> zh-cn -> gd -> el -> te -> cy -> eu -> mk -> bs -> km -> mi -> en
 ORIGINAL:   ~r~Tony is dead.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tony is dead.
 ------------------------------------------------------------
 KEY:        [GT8_FAIL_12:TONY8]
-HOPS:       pending
+HOPS:       en -> pa -> ur -> mi -> lv -> sq -> eo -> fy -> ku -> zh-tw -> ne -> kk -> si -> zh-cn -> st -> da -> gu -> or -> hi -> sr -> cs -> en
 ORIGINAL:   ~r~Tony has been injured.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tony got hurt.
 ------------------------------------------------------------
 KEY:        [GT8_FAIL_02:TONY8]
-HOPS:       pending
+HOPS:       en -> pa -> ur -> mi -> lv -> sq -> eo -> fy -> ku -> zh-tw -> ne -> kk -> si -> zh-cn -> st -> da -> gu -> or -> hi -> sr -> cs -> en
 ORIGINAL:   ~r~Isaac has been killed.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Isaac was killed.
 ------------------------------------------------------------
 KEY:        [GT8_FAIL_03:TONY8]
-HOPS:       pending
+HOPS:       en -> pa -> ur -> mi -> lv -> sq -> eo -> fy -> ku -> zh-tw -> ne -> kk -> si -> zh-cn -> st -> da -> gu -> or -> hi -> sr -> cs -> en
 ORIGINAL:   ~r~You spooked the dealers.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: scare off customers
 ------------------------------------------------------------
 KEY:        [GT8_FAIL_04:TONY8]
-HOPS:       pending
+HOPS:       en -> pa -> ur -> mi -> lv -> sq -> eo -> fy -> ku -> zh-tw -> ne -> kk -> si -> zh-cn -> st -> da -> gu -> or -> hi -> sr -> cs -> en
 ORIGINAL:   ~r~Yusuf's chopper was destroyed.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Yusuf's helicopter was destroyed.
 ------------------------------------------------------------
 KEY:        [GT8_FAIL_05:TONY8]
-HOPS:       pending
+HOPS:       en -> pa -> ur -> mi -> lv -> sq -> eo -> fy -> ku -> zh-tw -> ne -> kk -> si -> zh-cn -> st -> da -> gu -> or -> hi -> sr -> cs -> en
 ORIGINAL:   ~r~Yusuf's chopper is stuck.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Yusuf's helicopter was intercepted.
 ------------------------------------------------------------
 KEY:        [GT8_FAIL_06:TONY8]
-HOPS:       pending
+HOPS:       en -> ru -> sm -> ro -> haw -> mi -> yi -> hr -> gd -> fi -> uz -> it -> sd -> ar -> hy -> be -> mk -> ig -> su -> sn -> kn -> en
 ORIGINAL:   ~r~You abandoned Yusuf's chopper.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Joseph's helicopter took off.
 ------------------------------------------------------------
 KEY:        [GT8_FAIL_07:TONY8]
-HOPS:       pending
+HOPS:       en -> ru -> sm -> ro -> haw -> mi -> yi -> hr -> gd -> fi -> uz -> it -> sd -> ar -> hy -> be -> mk -> ig -> su -> sn -> kn -> en
 ORIGINAL:   ~r~You attacked Niko.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: On your nose.
 ------------------------------------------------------------
 KEY:        [GT8_FAIL_08:TONY8]
-HOPS:       pending
+HOPS:       en -> ru -> sm -> ro -> haw -> mi -> yi -> hr -> gd -> fi -> uz -> it -> sd -> ar -> hy -> be -> mk -> ig -> su -> sn -> kn -> en
 ORIGINAL:   ~r~Niko has been injured.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: The same thing happened to Nico.
 ------------------------------------------------------------
 KEY:        [GT8_FAIL_09:TONY8]
-HOPS:       pending
+HOPS:       en -> ru -> sm -> ro -> haw -> mi -> yi -> hr -> gd -> fi -> uz -> it -> sd -> ar -> hy -> be -> mk -> ig -> su -> sn -> kn -> en
 ORIGINAL:   ~r~You attacked Johnny.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: You vs. John.
 ------------------------------------------------------------
 KEY:        [GT8_FAIL_10:TONY8]
-HOPS:       pending
+HOPS:       en -> ru -> sm -> ro -> haw -> mi -> yi -> hr -> gd -> fi -> uz -> it -> sd -> ar -> hy -> be -> mk -> ig -> su -> sn -> kn -> en
 ORIGINAL:   ~r~Johnny has been injured.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: This is what happened to Johnny.
 ------------------------------------------------------------
 KEY:        [GT8_FAIL_11:TONY8]
-HOPS:       pending
+HOPS:       en -> et -> gl -> sw -> fy -> zh-tw -> ar -> yo -> gd -> sk -> af -> it -> pa -> mk -> mn -> bg -> de -> sr -> sl -> fa -> or -> en
 ORIGINAL:   ~r~You alerted security.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: You have received a security warning
 ------------------------------------------------------------
 KEY:        [GT8_FAIL_13:TONY8]
-HOPS:       pending
+HOPS:       en -> et -> gl -> sw -> fy -> zh-tw -> ar -> yo -> gd -> sk -> af -> it -> pa -> mk -> mn -> bg -> de -> sr -> sl -> fa -> or -> en
 ORIGINAL:   ~r~Tony's friend is dead.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tony's friend died.
 ------------------------------------------------------------
 KEY:        [GT8_FAIL_14:TONY8]
-HOPS:       pending
+HOPS:       en -> et -> gl -> sw -> fy -> zh-tw -> ar -> yo -> gd -> sk -> af -> it -> pa -> mk -> mn -> bg -> de -> sr -> sl -> fa -> or -> en
 ORIGINAL:   ~r~Tony's friend has been injured.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tony's friend is injured.
 ------------------------------------------------------------
 KEY:        [GT8_FAIL_15:TONY8]
-HOPS:       pending
+HOPS:       en -> et -> gl -> sw -> fy -> zh-tw -> ar -> yo -> gd -> sk -> af -> it -> pa -> mk -> mn -> bg -> de -> sr -> sl -> fa -> or -> en
 ORIGINAL:   ~r~Tony's car was destroyed.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tony's car broke down.
 ------------------------------------------------------------
 KEY:        [GT8_COMMAND_00:TONY8]
-HOPS:       pending
+HOPS:       en -> et -> gl -> sw -> fy -> zh-tw -> ar -> yo -> gd -> sk -> af -> it -> pa -> mk -> mn -> bg -> de -> sr -> sl -> fa -> or -> en
 ORIGINAL:   Get to ~b~Yusuf's chopper.
 TAGS:       [~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Flight to Yusuf
 ------------------------------------------------------------
 KEY:        [GT8_COMMAND_01:TONY8]
-HOPS:       pending
+HOPS:       en -> si -> mn -> lb -> uz -> co -> su -> da -> tr -> am -> mg -> is -> jw -> af -> it -> ur -> hy -> ht -> ro -> so -> ky -> en
 ORIGINAL:   Fly to the roof of the ~y~Libertonian.
 TAGS:       [~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: On the roof of Liberton
 ------------------------------------------------------------
 KEY:        [GT8_COMMAND_02:TONY8]
-HOPS:       pending
+HOPS:       en -> si -> mn -> lb -> uz -> co -> su -> da -> tr -> am -> mg -> is -> jw -> af -> it -> ur -> hy -> ht -> ro -> so -> ky -> en
 ORIGINAL:   Climb down the scaffolding to the ~y~window~s~ overlooking the deal.
 TAGS:       [~y~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Over time.
 ------------------------------------------------------------
 KEY:        [GT8_COMMAND_04:TONY8]
-HOPS:       pending
+HOPS:       en -> si -> mn -> lb -> uz -> co -> su -> da -> tr -> am -> mg -> is -> jw -> af -> it -> ur -> hy -> ht -> ro -> so -> ky -> en
 ORIGINAL:   Escape the Libertonian via the ~y~skylight.
 TAGS:       [~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Escape Liberton through the cracks.
 ------------------------------------------------------------
 KEY:        [GT8_COMMAND_05:TONY8]
-HOPS:       pending
+HOPS:       en -> si -> mn -> lb -> uz -> co -> su -> da -> tr -> am -> mg -> is -> jw -> af -> it -> ur -> hy -> ht -> ro -> so -> ky -> en
 ORIGINAL:   Take the helicopter back to the ~y~helipad.
 TAGS:       [~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Make a helicopter a helicopter.
 ------------------------------------------------------------
 KEY:        [GT8_COMMAND_06:TONY8]
-HOPS:       pending
+HOPS:       en -> si -> mn -> lb -> uz -> co -> su -> da -> tr -> am -> mg -> is -> jw -> af -> it -> ur -> hy -> ht -> ro -> so -> ky -> en
 ORIGINAL:   Take the diamonds to ~b~Tony.
 TAGS:       [~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Take the diamond from Tony.
 ------------------------------------------------------------
 KEY:        [GT8_COMMAND_07:TONY8]
-HOPS:       pending
+HOPS:       en -> mk -> el -> hu -> es -> sv -> gu -> af -> sk -> pt -> it -> fy -> my -> et -> hi -> mr -> yo -> hmn -> no -> bg -> zu -> en
 ORIGINAL:   ~s~Lose the cops.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: The police were not introduced.
 ------------------------------------------------------------
 KEY:        [GT8_COMMAND_11:TONY8]
-HOPS:       pending
+HOPS:       en -> mk -> el -> hu -> es -> sv -> gu -> af -> sk -> pt -> it -> fy -> my -> et -> hi -> mr -> yo -> hmn -> no -> bg -> zu -> en
 ORIGINAL:   ~s~Flee the Libertonian in ~b~Yusuf's chopper.
 TAGS:       [~s~, ~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Liberton escapes from Joseph's plane.
 ------------------------------------------------------------
 KEY:        [GT8_COMMAND_08:TONY8]
-HOPS:       pending
+HOPS:       en -> mk -> el -> hu -> es -> sv -> gu -> af -> sk -> pt -> it -> fy -> my -> et -> hi -> mr -> yo -> hmn -> no -> bg -> zu -> en
 ORIGINAL:   Get back in ~b~Yusuf's chopper.
 TAGS:       [~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Back to Yusuf's plane.
 ------------------------------------------------------------
 KEY:        [GT8_COMMAND_09:TONY8]
-HOPS:       pending
+HOPS:       en -> mk -> el -> hu -> es -> sv -> gu -> af -> sk -> pt -> it -> fy -> my -> et -> hi -> mr -> yo -> hmn -> no -> bg -> zu -> en
 ORIGINAL:   Fly back to the roof of the ~y~Libertonian.
 TAGS:       [~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Back to the early Libertonian.
 ------------------------------------------------------------
 KEY:        [GT8_COMMAND_10:TONY8]
-HOPS:       pending
+HOPS:       en -> mk -> el -> hu -> es -> sv -> gu -> af -> sk -> pt -> it -> fy -> my -> et -> hi -> mr -> yo -> hmn -> no -> bg -> zu -> en
 ORIGINAL:   ~s~Destroy the pursuing police ~r~choppers.
 TAGS:       [~s~, ~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Build a police helicopter.
 ------------------------------------------------------------
 KEY:        [#0A854E36:TONY9]
-HOPS:       pending
+HOPS:       en -> ceb -> my -> gl -> gd -> zu -> is -> lb -> az -> sm -> ko -> ru -> kk -> hmn -> sq -> da -> no -> zh-tw -> mt -> lv -> ml -> en
 ORIGINAL:   ~s~Go and get the ~b~chopper.
 TAGS:       [~s~, ~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Take out the helicopter.
 ------------------------------------------------------------
 KEY:        [#E2427A1A:TONY9]
-HOPS:       pending
+HOPS:       en -> ceb -> my -> gl -> gd -> zu -> is -> lb -> az -> sm -> ko -> ru -> kk -> hmn -> sq -> da -> no -> zh-tw -> mt -> lv -> ml -> en
 ORIGINAL:   ~s~The suspected kidnapper is near ~y~Meadows Park.
 TAGS:       [~s~, ~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: The robbery took place in Meadows Park.
 ------------------------------------------------------------
 KEY:        [T9_GET_CHOPPER:TONY9]
-HOPS:       pending
+HOPS:       en -> ceb -> my -> gl -> gd -> zu -> is -> lb -> az -> sm -> ko -> ru -> kk -> hmn -> sq -> da -> no -> zh-tw -> mt -> lv -> ml -> en
 ORIGINAL:   ~s~Get back in the ~b~chopper.
 TAGS:       [~s~, ~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Let's get back to hacking.
 ------------------------------------------------------------
 KEY:        [#15B3E8F1:TONY9]
-HOPS:       pending
+HOPS:       en -> ceb -> my -> gl -> gd -> zu -> is -> lb -> az -> sm -> ko -> ru -> kk -> hmn -> sq -> da -> no -> zh-tw -> mt -> lv -> ml -> en
 ORIGINAL:   ~s~You have left ~b~Tony ~s~behind.
 TAGS:       [~s~, ~b~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: He and Tony broke up.
 ------------------------------------------------------------
 KEY:        [#0591869B:TONY9]
-HOPS:       pending
+HOPS:       en -> ceb -> my -> gl -> gd -> zu -> is -> lb -> az -> sm -> ko -> ru -> kk -> hmn -> sq -> da -> no -> zh-tw -> mt -> lv -> ml -> en
 ORIGINAL:   ~s~Lose the cops.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: The police were not there.
 ------------------------------------------------------------
 KEY:        [#680D4D16:TONY9]
-HOPS:       pending
+HOPS:       en -> fa -> be -> el -> bn -> xh -> ur -> ny -> pt -> gl -> sl -> so -> hi -> hmn -> yo -> az -> ro -> cs -> uz -> mr -> eu -> en
 ORIGINAL:   ~s~The suspected kidnapper is driving a red Comet, keep them in sight.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: It turns out that the Red Kite is controlled by a thief who wants to marry her.
 ------------------------------------------------------------
 KEY:        [T9_LOSING:TONY9]
-HOPS:       pending
+HOPS:       en -> fa -> be -> el -> bn -> xh -> ur -> ny -> pt -> gl -> sl -> so -> hi -> hmn -> yo -> az -> ro -> cs -> uz -> mr -> eu -> en
 ORIGINAL:   ~s~They are too far away, hurry or you will lose them.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: They are very deep, otherwise you will lose them quickly.
 ------------------------------------------------------------
 KEY:        [T9_HINT_CAM:TONY9]
-HOPS:       pending
+HOPS:       en -> fa -> be -> el -> bn -> xh -> ur -> ny -> pt -> gl -> sl -> so -> hi -> hmn -> yo -> az -> ro -> cs -> uz -> mr -> eu -> en
 ORIGINAL:   ~s~Hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the suspected kidnapper. Press ~INPUT_VEH_CIN_CAM~ to toggle this view.
 TAGS:       [~s~, ~INPUT_VEH_CIN_CAM~, ~INPUT_VEH_CIN_CAM~]
-TRANSLATED: (pending translation)
+TRANSLATED: Long press the camera to focus on the suspect.Click to restore this view
 ------------------------------------------------------------
 KEY:        [#BA6277CE:TONY9]
-HOPS:       pending
+HOPS:       en -> fa -> be -> el -> bn -> xh -> ur -> ny -> pt -> gl -> sl -> so -> hi -> hmn -> yo -> az -> ro -> cs -> uz -> mr -> eu -> en
 ORIGINAL:   ~s~The suspected kidnapper has entered Booth Tunnel, the exit is across the West River.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: The thief seems to have a license plate issued by Rio Ost.
 ------------------------------------------------------------
 KEY:        [#6B9036AA:TONY9]
-HOPS:       pending
+HOPS:       en -> fa -> be -> el -> bn -> xh -> ur -> ny -> pt -> gl -> sl -> so -> hi -> hmn -> yo -> az -> ro -> cs -> uz -> mr -> eu -> en
 ORIGINAL:   ~s~The suspected kidnapper has just left the tunnel, get close and keep him in sight.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Suspecting an outside thief, I let him go.
 ------------------------------------------------------------
 KEY:        [#FD988118:TONY9]
-HOPS:       pending
+HOPS:       en -> el -> ps -> pl -> co -> is -> id -> yo -> ha -> sv -> et -> ga -> mn -> pa -> lv -> ml -> sk -> gd -> ug -> ku -> ceb -> en
 ORIGINAL:   ~s~There he is, keep on him.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Here, continue.
 ------------------------------------------------------------
 KEY:        [#F701BCE3:TONY9]
-HOPS:       pending
+HOPS:       en -> el -> ps -> pl -> co -> is -> id -> yo -> ha -> sv -> et -> ga -> mn -> pa -> lv -> ml -> sk -> gd -> ug -> ku -> ceb -> en
 ORIGINAL:   ~s~Now take the chopper back to the ~y~helipad.
 TAGS:       [~s~, ~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Now take the boat back to the helicopter.
 ------------------------------------------------------------
 KEY:        [T9_CAR_CHANGE:TONY9]
-HOPS:       pending
+HOPS:       en -> el -> ps -> pl -> co -> is -> id -> yo -> ha -> sv -> et -> ga -> mn -> pa -> lv -> ml -> sk -> gd -> ug -> ku -> ceb -> en
 ORIGINAL:   ~s~The suspected kidnapper is in the carpark, keep watch on the exit.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Beware of suspected thieves in the parking lot.
 ------------------------------------------------------------
 KEY:        [T9_FAIL_1:TONY9]
-HOPS:       pending
+HOPS:       en -> el -> ps -> pl -> co -> is -> id -> yo -> ha -> sv -> et -> ga -> mn -> pa -> lv -> ml -> sk -> gd -> ug -> ku -> ceb -> en
 ORIGINAL:   ~r~The chopper was destroyed.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: The plane landed.
 ------------------------------------------------------------
 KEY:        [T9_FAIL_2:TONY9]
-HOPS:       pending
+HOPS:       en -> el -> ps -> pl -> co -> is -> id -> yo -> ha -> sv -> et -> ga -> mn -> pa -> lv -> ml -> sk -> gd -> ug -> ku -> ceb -> en
 ORIGINAL:   ~r~The suspected kidnapper was killed.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: It is reported that the kidnapping suspect is dead.
 ------------------------------------------------------------
 KEY:        [T9_FAIL_3:TONY9]
-HOPS:       pending
+HOPS:       en -> nl -> tl -> zu -> cy -> te -> el -> no -> es -> eu -> ne -> am -> ky -> cs -> iw -> zh-cn -> de -> yo -> ps -> yi -> mt -> en
 ORIGINAL:   ~r~You lost the suspected kidnapper.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: The case against the thieves failed.
 ------------------------------------------------------------
 KEY:        [T9_FAIL_4:TONY9]
-HOPS:       pending
+HOPS:       en -> nl -> tl -> zu -> cy -> te -> el -> no -> es -> eu -> ne -> am -> ky -> cs -> iw -> zh-cn -> de -> yo -> ps -> yi -> mt -> en
 ORIGINAL:   ~r~Tony died.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tony is dead.
 ------------------------------------------------------------
 KEY:        [T9_FAIL_5:TONY9]
-HOPS:       pending
+HOPS:       en -> nl -> tl -> zu -> cy -> te -> el -> no -> es -> eu -> ne -> am -> ky -> cs -> iw -> zh-cn -> de -> yo -> ps -> yi -> mt -> en
 ORIGINAL:   ~r~The chopper got stuck.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: The plane stopped.
 ------------------------------------------------------------
 KEY:        [T9_FAIL_6:TONY9]
-HOPS:       pending
+HOPS:       en -> nl -> tl -> zu -> cy -> te -> el -> no -> es -> eu -> ne -> am -> ky -> cs -> iw -> zh-cn -> de -> yo -> ps -> yi -> mt -> en
 ORIGINAL:   ~r~You abandoned Tony.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tony failed.
 ------------------------------------------------------------
 KEY:        [T9_FAIL_7:TONY9]
-HOPS:       pending
+HOPS:       en -> nl -> tl -> zu -> cy -> te -> el -> no -> es -> eu -> ne -> am -> ky -> cs -> iw -> zh-cn -> de -> yo -> ps -> yi -> mt -> en
 ORIGINAL:   ~r~You tampered with the suspected kidnapper's car.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: A car was stolen on suspicion of car theft.
 ------------------------------------------------------------
 KEY:        [T9_FAIL_8:TONY9]
-HOPS:       pending
+HOPS:       en -> ro -> fi -> mi -> co -> ku -> eu -> ms -> so -> it -> gl -> sl -> jw -> sm -> zh-tw -> haw -> yo -> lv -> si -> da -> bg -> en
 ORIGINAL:   ~r~You alerted the suspected kidnapper to your presence.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: You know the thief in the eyes.
 ------------------------------------------------------------
 KEY:        [WZL2_HEAD_24:WEZL224]
-HOPS:       pending
+HOPS:       en -> ro -> fi -> mi -> co -> ku -> eu -> ms -> so -> it -> gl -> sl -> jw -> sm -> zh-tw -> haw -> yo -> lv -> si -> da -> bg -> en
 ORIGINAL:   Grassroots Democracy
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: democracy
 ------------------------------------------------------------
 KEY:        [WZL2_SECH_24:WEZL224]
-HOPS:       pending
+HOPS:       en -> ro -> fi -> mi -> co -> ku -> eu -> ms -> so -> it -> gl -> sl -> jw -> sm -> zh-tw -> haw -> yo -> lv -> si -> da -> bg -> en
 ORIGINAL:   Civil liberties are useless if you're dead.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Death does not affect relationships.
 ------------------------------------------------------------
 KEY:        [WZL2_SUM_24:WEZL224]
-HOPS:       pending
+HOPS:       en -> ro -> fi -> mi -> co -> ku -> eu -> ms -> so -> it -> gl -> sl -> jw -> sm -> zh-tw -> haw -> yo -> lv -> si -> da -> bg -> en
 ORIGINAL:   Movement to Reclose Bridges Before it's too Late
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: The bridge is expected to remain closed until it is completed
 ------------------------------------------------------------
 KEY:        [WZL2_REP_24:WEZL224]
-HOPS:       pending
+HOPS:       en -> ro -> fi -> mi -> co -> ku -> eu -> ms -> so -> it -> gl -> sl -> jw -> sm -> zh-tw -> haw -> yo -> lv -> si -> da -> bg -> en
 ORIGINAL:   Staff Writer
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Personal diary
 ------------------------------------------------------------
 KEY:        [WZL2_PAR_24_1:WEZL224]
-HOPS:       pending
+HOPS:       en -> id -> et -> pt -> fi -> es -> is -> lv -> ru -> de -> zh-tw -> am -> no -> ug -> gd -> cs -> so -> it -> ml -> te -> ht -> en
 ORIGINAL:   Close the bridges. Now. Despite the pleas of many citizens and this newspaper, the police bowed to liberals and reopened the bridges. And look what we've got. A spate of recent violence and what are surely terrorist attacks. Without rules, people will die. Experts say the only way for this country to feel safe again is more security cameras, security guards at the airports, rifling through people's bags on the subway, and background checks for apartments.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Close the bridge. Now. Despite the demands of many citizens and this newspaper, the police arrested the free people and reopened the bridge. Look what we have.
 ------------------------------------------------------------
 KEY:        [WZL2_HEAD_27:WEZL227]
-HOPS:       pending
+HOPS:       en -> id -> et -> pt -> fi -> es -> is -> lv -> ru -> de -> zh-tw -> am -> no -> ug -> gd -> cs -> so -> it -> ml -> te -> ht -> en
 ORIGINAL:   Arms Dealer Granted Entry
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: These are weapons.
 ------------------------------------------------------------
 KEY:        [WZL2_SECH_27:WEZL227]
-HOPS:       pending
+HOPS:       en -> id -> et -> pt -> fi -> es -> is -> lv -> ru -> de -> zh-tw -> am -> no -> ug -> gd -> cs -> so -> it -> ml -> te -> ht -> en
 ORIGINAL:   Not so Sickie Frickie
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: It should be used, it should be relaxed
 ------------------------------------------------------------
 KEY:        [WZL2_SUM_27:WEZL227]
-HOPS:       pending
+HOPS:       en -> id -> et -> pt -> fi -> es -> is -> lv -> ru -> de -> zh-tw -> am -> no -> ug -> gd -> cs -> so -> it -> ml -> te -> ht -> en
 ORIGINAL:   Alleged War Profiteer Actually a Nice Guy
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Indeed, good men are the ultimate victors in war.
 ------------------------------------------------------------
 KEY:        [WZL2_REP_27:WEZL227]
-HOPS:       pending
+HOPS:       en -> id -> et -> pt -> fi -> es -> is -> lv -> ru -> de -> zh-tw -> am -> no -> ug -> gd -> cs -> so -> it -> ml -> te -> ht -> en
 ORIGINAL:   Eugene White
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Eugene White
 ------------------------------------------------------------
 KEY:        [WZL2_PAR_27_1:WEZL227]
-HOPS:       pending
+HOPS:       en -> lo -> ha -> ny -> ky -> cs -> de -> gd -> no -> sr -> lv -> mr -> zh-tw -> uz -> ps -> fa -> et -> km -> ru -> st -> mi -> en
 ORIGINAL:   Today alleged arms dealer, Frickie van Hardenburg was finally granted a visa to enter the United States. Thank God senses prevailed. A few wacko liberals nearly derailed this fine businessman and humanitarian with their accusations that he should be put on trial for war crimes over his alleged financing of conflicts in Africa, support of very restrictive regimes in the Middle East, continued involvement in the slave trade and that he has a grating accent. But thankfully immigration authorities have turned a blind eye to this nonsense, citing the fact that Mr. Van Hardenburg took several senators on a safari last year and also is a really nice guy once you get to know him.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Arms dealer Frank Van Hardenberg was granted entry into the United States today.Some libertarians, almost always good businessmen, wondered if he should be tried for war crimes because he talked about the wars in Africa, supported many governments in the Middle East, still traded in slaves, and he was very good.
 ------------------------------------------------------------
 KEY:        [WZL2_HEAD_31:WEZL231]
-HOPS:       pending
+HOPS:       en -> lo -> ha -> ny -> ky -> cs -> de -> gd -> no -> sr -> lv -> mr -> zh-tw -> uz -> ps -> fa -> et -> km -> ru -> st -> mi -> en
 ORIGINAL:   The Recession is over!
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: The problem is over!
 ------------------------------------------------------------
 KEY:        [WZL2_SECH_31:WEZL231]
-HOPS:       pending
+HOPS:       en -> lo -> ha -> ny -> ky -> cs -> de -> gd -> no -> sr -> lv -> mr -> zh-tw -> uz -> ps -> fa -> et -> km -> ru -> st -> mi -> en
 ORIGINAL:   Financial Worries No More
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Don't worry about money
 ------------------------------------------------------------
 KEY:        [WZL2_SUM_31:WEZL231]
-HOPS:       pending
+HOPS:       en -> lo -> ha -> ny -> ky -> cs -> de -> gd -> no -> sr -> lv -> mr -> zh-tw -> uz -> ps -> fa -> et -> km -> ru -> st -> mi -> en
 ORIGINAL:   The President Said So, So it Must be True
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: The president said it must be true
 ------------------------------------------------------------
 KEY:        [WZL2_REP_31:WEZL231]
-HOPS:       pending
+HOPS:       en -> lo -> ha -> ny -> ky -> cs -> de -> gd -> no -> sr -> lv -> mr -> zh-tw -> uz -> ps -> fa -> et -> km -> ru -> st -> mi -> en
 ORIGINAL:   John Chesapeake
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Chesapeake John
 ------------------------------------------------------------
 KEY:        [WZL2_PAR_31_1:WEZL231]
-HOPS:       pending
+HOPS:       en -> ht -> zh-cn -> ar -> gd -> gu -> haw -> pa -> it -> vi -> sw -> pt -> xh -> id -> ha -> tl -> th -> pl -> st -> mk -> da -> en
 ORIGINAL:   President Lawton has delivered on his promise and the country is finally out of the recession. Business and politicians celebrated yesterday as the dark days are behind us. Liberal media outlets will tout false stats about unemployment, but don't believe a bunch of lazy bums who are trying to hold this country back. We at Weazel applaud the President and our conservative members of Congress who made this happen.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: President Wheaton kept his promise and the country came out of recession and businessmen and politicians indicated that the dark days of the past are over.The liberal media promotes false numbers of immigrants, but they do not believe that lazy people are trying to unite the country. At Wetzel, we stress presidents and members of Congress about their actions.
 ------------------------------------------------------------
 KEY:        [WZL2_HEAD_33:WEZL233]
-HOPS:       pending
+HOPS:       en -> ht -> zh-cn -> ar -> gd -> gu -> haw -> pa -> it -> vi -> sw -> pt -> xh -> id -> ha -> tl -> th -> pl -> st -> mk -> da -> en
 ORIGINAL:   Unions or Terrorists? Same Thing
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Organization or threat?One thing
 ------------------------------------------------------------
 KEY:        [WZL2_SECH_33:WEZL233]
-HOPS:       pending
+HOPS:       en -> ht -> zh-cn -> ar -> gd -> gu -> haw -> pa -> it -> vi -> sw -> pt -> xh -> id -> ha -> tl -> th -> pl -> st -> mk -> da -> en
 ORIGINAL:   Three Explosions on Teamsters' Watch
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: There were three explosions under the bus.
 ------------------------------------------------------------
 KEY:        [WZL2_SUM_33:WEZL233]
-HOPS:       pending
+HOPS:       en -> ht -> zh-cn -> ar -> gd -> gu -> haw -> pa -> it -> vi -> sw -> pt -> xh -> id -> ha -> tl -> th -> pl -> st -> mk -> da -> en
 ORIGINAL:   Time to Break This Socialist Menace
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: It is time to end the fear of communism.
 ------------------------------------------------------------
 KEY:        [WZL2_REP_33:WEZL233]
-HOPS:       pending
+HOPS:       en -> ht -> zh-cn -> ar -> gd -> gu -> haw -> pa -> it -> vi -> sw -> pt -> xh -> id -> ha -> tl -> th -> pl -> st -> mk -> da -> en
 ORIGINAL:   Staff Writer
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Freelance writer
 ------------------------------------------------------------
 KEY:        [WZL2_PAR_33_1:WEZL233]
-HOPS:       pending
+HOPS:       en -> yo -> ne -> co -> eu -> hy -> sv -> hr -> mi -> mt -> lo -> sk -> ga -> km -> uk -> jw -> ta -> be -> es -> bs -> hi -> en
 ORIGINAL:   Yet another improperly installed construction crane goes down while overpaid union cronies stand around smoking cigarettes, reading porn, and drinking during lunch. The crane accident at the libel site on Columbus Avenue could be prevented if unions didn't have such a stranglehold on the construction industry in this town. And the transit union is to blame for the awful derailment of the subway train on the Algonquin-Bohan line. For the trifecta, if union airport security gaurds actually did some work instead of putting us all at risk with their 4 hour work days, long lunches and lazy work ethic, the explosion at Francis International wouldn't have happened. How many more innocent Americans will die because of unions? Weazel News will keep you informed.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Another tap was broken when union members attacked paying members and called for a strike and after-dinner drinks.The Columbus Avenue tap disaster could have been avoided if the city's construction industry unions had remained silent.I wouldn't have done that.How many Americans would have died for the Union?Weasel News will keep you informed.
 ------------------------------------------------------------
 KEY:        [WZL2_HEAD_39:WEZL239]
-HOPS:       pending
+HOPS:       en -> yo -> ne -> co -> eu -> hy -> sv -> hr -> mi -> mt -> lo -> sk -> ga -> km -> uk -> jw -> ta -> be -> es -> bs -> hi -> en
 ORIGINAL:   Rotterdam Rocked
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: rotterdam stone
 ------------------------------------------------------------
 KEY:        [WZL2_SECH_39:WEZL239]
-HOPS:       pending
+HOPS:       en -> yo -> ne -> co -> eu -> hy -> sv -> hr -> mi -> mt -> lo -> sk -> ga -> km -> uk -> jw -> ta -> be -> es -> bs -> hi -> en
 ORIGINAL:   NOOSE shady on Details
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: cinta shade description
 ------------------------------------------------------------
 KEY:        [WZL2_SUM_39:WEZL239]
-HOPS:       pending
+HOPS:       en -> yo -> ne -> co -> eu -> hy -> sv -> hr -> mi -> mt -> lo -> sk -> ga -> km -> uk -> jw -> ta -> be -> es -> bs -> hi -> en
 ORIGINAL:   Terror attack cover up?
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Threat Investigation.
 ------------------------------------------------------------
 KEY:        [WZL2_REP_39:WEZL239]
-HOPS:       pending
+HOPS:       en -> yo -> ne -> co -> eu -> hy -> sv -> hr -> mi -> mt -> lo -> sk -> ga -> km -> uk -> jw -> ta -> be -> es -> bs -> hi -> en
 ORIGINAL:   Leslie Mitchell
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Leslie Mitchell
 ------------------------------------------------------------
 KEY:        [WZL2_PAR_39_1:WEZL239]
-HOPS:       pending
+HOPS:       en -> mg -> hy -> vi -> mn -> sl -> zh-tw -> or -> nl -> my -> am -> jw -> ko -> bs -> ro -> no -> sv -> mr -> la -> iw -> lt -> en
 ORIGINAL:   Explosions, dead Arabs, crashing helicopters. No, we're not extending our imperialist grip on the globe, we're at home witnessing an alleged public relations exercise for the National Office of Security Enforcement.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: outbreak;Arab funerals;Helicopter crash.No, we are not witnessing the spread of imperialist weapons around the world, but massive domestic military exercises led by the Ministry of Defense.
 ------------------------------------------------------------
 KEY:        [WZL2_PAR_39_2:WEZL239]
-HOPS:       pending
+HOPS:       en -> mg -> hy -> vi -> mn -> sl -> zh-tw -> or -> nl -> my -> am -> jw -> ko -> bs -> ro -> no -> sv -> mr -> la -> iw -> lt -> en
 ORIGINAL:   Anyone who saw the chaos at the top of Rotterdam Tower earlier would have thought that the world was ending, not that a standard PR exercise was going on. The only information we're being given is that two Dubai residents, Ahmed Khaleel and Tahir Saaed were involved somehow. Is no one else suspicious of this horseshit we're being fed? Liberty City has clearly suffered a terrorist onslaught, and the liberals don't want you to know about it. The only questions we should be asking is who to got to war with and when.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Chaos in Rotterdam torribus spectans, publicum stultum esse, non finem mundi putabit.A sound contact between Ahmed Khalil and Tahir Saad is found among the residents of Dubai.Who cares what you say?Civitas libertas attacka terroristarum fuit, et liberales scire te nolo.Dicam unum, seequis pugnat
 ------------------------------------------------------------
 KEY:        [WZL2_S1HEAD_39:WEZL239]
-HOPS:       pending
+HOPS:       en -> mg -> hy -> vi -> mn -> sl -> zh-tw -> or -> nl -> my -> am -> jw -> ko -> bs -> ro -> no -> sv -> mr -> la -> iw -> lt -> en
 ORIGINAL:   Flowers Delivered to Mourn Loss of Manhood
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Flowers are offered in memory of the deceased.
 ------------------------------------------------------------
 KEY:        [WZL2_S1SECH_39:WEZL239]
-HOPS:       pending
+HOPS:       en -> mg -> hy -> vi -> mn -> sl -> zh-tw -> or -> nl -> my -> am -> jw -> ko -> bs -> ro -> no -> sv -> mr -> la -> iw -> lt -> en
 ORIGINAL:   Movie's Run at the Top a Nail in Coffin of Masculinity
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: The top of the scarf is a nail in a man's pocket.
 ------------------------------------------------------------
 KEY:        [WZL2_S1REP_39:WEZL239]
-HOPS:       pending
+HOPS:       en -> mg -> hy -> vi -> mn -> sl -> zh-tw -> or -> nl -> my -> am -> jw -> ko -> bs -> ro -> no -> sv -> mr -> la -> iw -> lt -> en
 ORIGINAL:   Eugene White
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Eugene White
 ------------------------------------------------------------
 KEY:        [WZL2_S1PAR_39_1:WEZL239]
-HOPS:       pending
+HOPS:       en -> lv -> mt -> zh-cn -> bs -> mk -> sl -> lb -> pt -> pl -> sn -> haw -> so -> mn -> ht -> ha -> iw -> cs -> zh-tw -> fr -> bn -> en
 ORIGINAL:   Maybe we should all neuter ourselves right now. Flowerman? Really? The top movie for weeks? This spate of romantic comedies is ruining our manhood. The American man is literally dying from estrogen. And women are turning into self righteous shrews. This liberal elite Vinewood trash has us so confused as to our proper roles that American society is disintegrating in front of our very eyes. Our TV shows, our movies, our very society portray men as bumbling morons who are helpless unless a woman saves the day. Good luck ladies. We're leaving.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: We can cut it now. Ross - Is that right? Best movie of the week? Too many romantic comedies have ruined our marriages. American men are dying of estrogen. Men are stupid women, they have no power if they don't care about this world. Come with us girls.
 ------------------------------------------------------------
 KEY:        [WZL2_HEAD_47:WEZL247]
-HOPS:       pending
+HOPS:       en -> lv -> mt -> zh-cn -> bs -> mk -> sl -> lb -> pt -> pl -> sn -> haw -> so -> mn -> ht -> ha -> iw -> cs -> zh-tw -> fr -> bn -> en
 ORIGINAL:   What Recession?
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: What does conflict mean?
 ------------------------------------------------------------
 KEY:        [WZL2_SECH_47:WEZL247]
-HOPS:       pending
+HOPS:       en -> lv -> mt -> zh-cn -> bs -> mk -> sl -> lb -> pt -> pl -> sn -> haw -> so -> mn -> ht -> ha -> iw -> cs -> zh-tw -> fr -> bn -> en
 ORIGINAL:   Recession is dumb liberal lies and depression
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: This is the free version and it's a sad story
 ------------------------------------------------------------
 KEY:        [WZL2_SUM_47:WEZL247]
-HOPS:       pending
+HOPS:       en -> lv -> mt -> zh-cn -> bs -> mk -> sl -> lb -> pt -> pl -> sn -> haw -> so -> mn -> ht -> ha -> iw -> cs -> zh-tw -> fr -> bn -> en
 ORIGINAL:   Swiss Economists Confirm What We Knew All Along
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: A Swiss economist confirms what we have known for a long time
 ------------------------------------------------------------
 KEY:        [WZL2_REP_47:WEZL247]
-HOPS:       pending
+HOPS:       en -> lv -> mt -> zh-cn -> bs -> mk -> sl -> lb -> pt -> pl -> sn -> haw -> so -> mn -> ht -> ha -> iw -> cs -> zh-tw -> fr -> bn -> en
 ORIGINAL:   John Chesapeake
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Chesapeake Red
 ------------------------------------------------------------
 KEY:        [WZL2_PAR_47_1:WEZL247]
-HOPS:       pending
+HOPS:       en -> it -> es -> de -> yi -> sd -> ny -> ky -> ru -> ko -> pl -> eo -> tg -> fy -> bg -> no -> km -> mg -> sk -> my -> ku -> en
 ORIGINAL:   The annual meeting of economists in Switzerland brought confirmation of some welcome news that we have all known for a while now. This so-called recession is simply a myth. The people out of work are nothing more than a bunch of lazy ingrates who want to scam hardworking people and accept handouts. With the liberal media tirelessly telling people to be scared and not work, people are doing just that. Hopefully the conservative members of Congress will use this to their advantage and make necessary changes to welfare programs like Social Security that are bleeding us dry.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: The annual meeting of Swiss economists confirms the good news we've all known for a long time: inflation is a myth.Unemployment oppresses workers; not dirty thieves who take money and drink blood.
 ------------------------------------------------------------
 KEY:        [WZL2_S1HEAD_47:WEZL247]
-HOPS:       pending
+HOPS:       en -> it -> es -> de -> yi -> sd -> ny -> ky -> ru -> ko -> pl -> eo -> tg -> fy -> bg -> no -> km -> mg -> sk -> my -> ku -> en
 ORIGINAL:   Boy Band Blooper
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: There is an error in the children's group.
 ------------------------------------------------------------
 KEY:        [WZL2_S1SECH_47:WEZL247]
-HOPS:       pending
+HOPS:       en -> it -> es -> de -> yi -> sd -> ny -> ky -> ru -> ko -> pl -> eo -> tg -> fy -> bg -> no -> km -> mg -> sk -> my -> ku -> en
 ORIGINAL:   Boo Bobby Blue
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Baby blue
 ------------------------------------------------------------
 KEY:        [WZL2_S1REP_47:WEZL247]
-HOPS:       pending
+HOPS:       en -> it -> es -> de -> yi -> sd -> ny -> ky -> ru -> ko -> pl -> eo -> tg -> fy -> bg -> no -> km -> mg -> sk -> my -> ku -> en
 ORIGINAL:   Leslie Mitchell
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Leslie Mitchell
 ------------------------------------------------------------
 KEY:        [WZL2_S1PAR_47_1:WEZL247]
-HOPS:       pending
+HOPS:       en -> it -> es -> de -> yi -> sd -> ny -> ky -> ru -> ko -> pl -> eo -> tg -> fy -> bg -> no -> km -> mg -> sk -> my -> ku -> en
 ORIGINAL:   Teens nationwide have been traumatized by cross dressing pervert Bobby Blue. Mr. Blue, along with his brother Bill has become a global superstar thanks to a string of hits and clean cut nature, but it turns out there is more to him than meets the eye. Several Weazel News commentators have encouraged parents to destroy any CDs from the band. Family groups point to the moral degeneracy of our nation's entertainers and said they hope for the day when TV is in black and white again and you don't see the singer's hips. Until then, we feel parents should think twice before letting their children be influenced by this pair of perverts.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Young people all over the country are outraged by the prostitution of Bobby Blue. He and his younger brother, Bill Blue, are known around the world for their famous roles and roles, but it is more than that.The family focuses on the lack of sound in our country and they look forward to the day when the television will not be black and white and we will not be able to see the mouths of the voices.Until then, I think parents should give their children more opportunities to participate.
 ------------------------------------------------------------
 KEY:        [WZL2_HEAD_7:WEZL27]
-HOPS:       pending
+HOPS:       en -> uk -> gl -> ug -> km -> ro -> da -> pt -> cs -> sl -> bg -> ky -> zu -> kk -> no -> ceb -> fa -> sd -> cy -> ur -> ar -> en
 ORIGINAL:   Homosexual Homicide
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Killing gays
 ------------------------------------------------------------
 KEY:        [WZL2_SECH_7:WEZL27]
-HOPS:       pending
+HOPS:       en -> uk -> gl -> ug -> km -> ro -> da -> pt -> cs -> sl -> bg -> ky -> zu -> kk -> no -> ceb -> fa -> sd -> cy -> ur -> ar -> en
 ORIGINAL:   Gays and Crime, the full story
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Homosexuality and crime, the whole story
 ------------------------------------------------------------
 KEY:        [WZL2_SUM_7:WEZL27]
-HOPS:       pending
+HOPS:       en -> uk -> gl -> ug -> km -> ro -> da -> pt -> cs -> sl -> bg -> ky -> zu -> kk -> no -> ceb -> fa -> sd -> cy -> ur -> ar -> en
 ORIGINAL:   Another sodomite on his way to hell
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Another mistake on the road to hell
 ------------------------------------------------------------
 KEY:        [WZL2_REP_7:WEZL27]
-HOPS:       pending
+HOPS:       en -> uk -> gl -> ug -> km -> ro -> da -> pt -> cs -> sl -> bg -> ky -> zu -> kk -> no -> ceb -> fa -> sd -> cy -> ur -> ar -> en
 ORIGINAL:   Eugene White
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Eugene Bailey.
 ------------------------------------------------------------
 KEY:        [WZL2_PAR_7_1:WEZL27]
-HOPS:       pending
+HOPS:       en -> uk -> gl -> ug -> km -> ro -> da -> pt -> cs -> sl -> bg -> ky -> zu -> kk -> no -> ceb -> fa -> sd -> cy -> ur -> ar -> en
 ORIGINAL:   Just when the homosexual community had gained a smatter of respectability by parodying themselves in reality TV shows and sitcoms, they go and ruin it for themselves. The death of Evan Moss, amateur body builder, drug addict and cum receptacle for "Gay" Tony Prince, got himself killed in the most brutal of fashions. This just goes to show that a deviant lifestyle will lead to an unfashionably early arrival at the sodomites' party in Hell.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: When gays do reality TV shows, watch cartoons and gain respect, they ruin everything.The death of Evan Moss, bodybuilder and sperm star Tony Prince, is one of the most brutal deaths of all time.It shows that living the wrong way leads to the first battle on the wrong side of hell.
 ------------------------------------------------------------
 KEY:        [WZL2_PAR_7_2:WEZL27]
-HOPS:       pending
+HOPS:       en -> fy -> is -> su -> mn -> nl -> gd -> ru -> vi -> th -> sw -> ja -> ur -> ps -> tg -> et -> az -> haw -> co -> am -> so -> en
 ORIGINAL:   Deputy Mayor, Bryce Dawkins, weighed in on the issue "If America is to remain the moral Christian country I know it is, we need to take the vote away from these people. They can concentrate on picking out wallpaper and leave the choosing of our President to real men."
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: "If we want America to be the righteous Christian nation that we know it to be, we need to elect these people to focus on building the wall and elect a real president."
 ------------------------------------------------------------
 KEY:        [WZL2_S1HEAD_7:WEZL27]
-HOPS:       pending
+HOPS:       en -> fy -> is -> su -> mn -> nl -> gd -> ru -> vi -> th -> sw -> ja -> ur -> ps -> tg -> et -> az -> haw -> co -> am -> so -> en
 ORIGINAL:   Lazy days for lackadaisical generation
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: The poor party
 ------------------------------------------------------------
 KEY:        [WZL2_S1SECH_7:WEZL27]
-HOPS:       pending
+HOPS:       en -> fy -> is -> su -> mn -> nl -> gd -> ru -> vi -> th -> sw -> ja -> ur -> ps -> tg -> et -> az -> haw -> co -> am -> so -> en
 ORIGINAL:   The children are our future, they should remember that.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Children are our future.Don't forget.
 ------------------------------------------------------------
 KEY:        [WZL2_S1REP_7:WEZL27]
-HOPS:       pending
+HOPS:       en -> fy -> is -> su -> mn -> nl -> gd -> ru -> vi -> th -> sw -> ja -> ur -> ps -> tg -> et -> az -> haw -> co -> am -> so -> en
 ORIGINAL:   Leslie Mitchell
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Leslie Mitchell
 ------------------------------------------------------------
 KEY:        [WZL2_S1PAR_7_1:WEZL27]
-HOPS:       pending
+HOPS:       en -> fy -> is -> su -> mn -> nl -> gd -> ru -> vi -> th -> sw -> ja -> ur -> ps -> tg -> et -> az -> haw -> co -> am -> so -> en
 ORIGINAL:   We've had it up to hear with these lazy workers and their lazy lawsuits. Been fired for not showing up to work and taking too many days off? Sue. Boss used strong language about your lack of passion on a project but unlimited time and creativity for your personal blog? Sue. The mainstream media is to blame, which we are not by any means the mainstream media, despite the fact that we have a TV station in every city with at least one stoplight and are on every cable box in America. We're outsiders, we're angry, and these lazy twenty-somethings want to live on the dole of mommy or America and we're not having it. We prefer to be on the dole of corporate tax breaks and subsidies. Sandra McColland , you can sue all you want. If you don't love America and you are too tired from reading your communist pamphlets, die. Please.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: We listen to lazy employees and their complaints. Have you ever been fired for not showing up or for being late? For example: Your boss scolded you for a project you didn't like on your personal blog, but you don't have the time or imagination?
 ------------------------------------------------------------
 KEY:        [YS1_STE:YUSUF1]
-HOPS:       pending
+HOPS:       en -> sk -> hmn -> da -> ur -> pl -> ceb -> vi -> yi -> et -> kk -> ps -> hi -> bs -> bn -> ny -> st -> tr -> pa -> su -> sn -> en
 ORIGINAL:   Steal the ~b~chopper.
 TAGS:       [~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Hijack the helicopter.
 ------------------------------------------------------------
 KEY:        [YS1_YAC:YUSUF1]
-HOPS:       pending
+HOPS:       en -> sk -> hmn -> da -> ur -> pl -> ceb -> vi -> yi -> et -> kk -> ps -> hi -> bs -> bn -> ny -> st -> tr -> pa -> su -> sn -> en
 ORIGINAL:   Get on board the ~b~yacht.
 TAGS:       [~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: a sacrifice
 ------------------------------------------------------------
 KEY:        [YS1_PAD:YUSUF1]
-HOPS:       pending
+HOPS:       en -> sk -> hmn -> da -> ur -> pl -> ceb -> vi -> yi -> et -> kk -> ps -> hi -> bs -> bn -> ny -> st -> tr -> pa -> su -> sn -> en
 ORIGINAL:   Take the chopper to the ~y~helipad.
 TAGS:       [~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Run the helicopter inside the helicopter.
 ------------------------------------------------------------
 KEY:        [#211922C4:YUSUF1]
-HOPS:       pending
+HOPS:       en -> sk -> hmn -> da -> ur -> pl -> ceb -> vi -> yi -> et -> kk -> ps -> hi -> bs -> bn -> ny -> st -> tr -> pa -> su -> sn -> en
 ORIGINAL:   Take out the ~r~reinforcements.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Drop the bar.
 ------------------------------------------------------------
 KEY:        [YS1_DES:YUSUF1]
-HOPS:       pending
+HOPS:       en -> sk -> hmn -> da -> ur -> pl -> ceb -> vi -> yi -> et -> kk -> ps -> hi -> bs -> bn -> ny -> st -> tr -> pa -> su -> sn -> en
 ORIGINAL:   ~r~The chopper was destroyed.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: The helicopter was damaged.
 ------------------------------------------------------------
 KEY:        [YS1_BHEL:YUSUF1]
-HOPS:       pending
+HOPS:       en -> nl -> hr -> de -> ku -> pt -> kk -> az -> sl -> haw -> si -> tg -> vi -> tl -> ny -> id -> mk -> ga -> hu -> ig -> no -> en
 ORIGINAL:   ~s~Get in the ~b~chopper.
 TAGS:       [~s~, ~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Enter the helicopter.
 ------------------------------------------------------------
 KEY:        [YS1_WHEL:YUSUF1]
-HOPS:       pending
+HOPS:       en -> nl -> hr -> de -> ku -> pt -> kk -> az -> sl -> haw -> si -> tg -> vi -> tl -> ny -> id -> mk -> ga -> hu -> ig -> no -> en
 ORIGINAL:   ~s~Hold ~INPUT_VEH_HANDBRAKE_ALT~ to fire the miniguns. Press ~INPUT_VEH_ATTACK2~ to fire rockets.
 TAGS:       [~s~, ~INPUT_VEH_HANDBRAKE_ALT~, ~INPUT_VEH_ATTACK2~]
-TRANSLATED: (pending translation)
+TRANSLATED: Click and hold to fire the weapon.Click to start the program.
 ------------------------------------------------------------
 KEY:        [#BABD285B:YUSUF1]
-HOPS:       pending
+HOPS:       en -> nl -> hr -> de -> ku -> pt -> kk -> az -> sl -> haw -> si -> tg -> vi -> tl -> ny -> id -> mk -> ga -> hu -> ig -> no -> en
 ORIGINAL:   ~s~Hold ~INPUT_VEH_ATTACK3_KB~ to fire the miniguns. Press ~INPUT_VEH_ATTACK2~ to fire rockets.
 TAGS:       [~s~, ~INPUT_VEH_ATTACK3_KB~, ~INPUT_VEH_ATTACK2~]
-TRANSLATED: (pending translation)
+TRANSLATED: Click and hold to fire the weapon.Click to start the program.
 ------------------------------------------------------------
 KEY:        [YS1_DESB:YUSUF1]
-HOPS:       pending
+HOPS:       en -> nl -> hr -> de -> ku -> pt -> kk -> az -> sl -> haw -> si -> tg -> vi -> tl -> ny -> id -> mk -> ga -> hu -> ig -> no -> en
 ORIGINAL:   ~s~Destroy the ~r~yacht.
 TAGS:       [~s~, ~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Destroy the ship.
 ------------------------------------------------------------
 KEY:        [YS1_ENEMFLE:YUSUF1]
-HOPS:       pending
+HOPS:       en -> nl -> hr -> de -> ku -> pt -> kk -> az -> sl -> haw -> si -> tg -> vi -> tl -> ny -> id -> mk -> ga -> hu -> ig -> no -> en
 ORIGINAL:   Take out the fleeing ~r~arms dealers.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Avoid tool sellers.
 ------------------------------------------------------------
 KEY:        [YS1_ARMONFOOT:YUSUF1]
-HOPS:       pending
+HOPS:       en -> fy -> sw -> my -> kn -> mr -> sn -> ja -> ig -> de -> ar -> bn -> tr -> no -> xh -> tl -> te -> ms -> tg -> ru -> fr -> en
 ORIGINAL:   The ~r~arms dealers~s~ are fleeing on foot.
 TAGS:       [~r~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: The gun owners fled.
 ------------------------------------------------------------
 KEY:        [#0A187204:YUSUF1]
-HOPS:       pending
+HOPS:       en -> fy -> sw -> my -> kn -> mr -> sn -> ja -> ig -> de -> ar -> bn -> tr -> no -> xh -> tl -> te -> ms -> tg -> ru -> fr -> en
 ORIGINAL:   The Buzzard helicopter is on a yacht located to the west of Happiness Island.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: The helicopter is looking west toward Pleasure Island.
 ------------------------------------------------------------
 KEY:        [YS1_ESC:YUSUF1]
-HOPS:       pending
+HOPS:       en -> fy -> sw -> my -> kn -> mr -> sn -> ja -> ig -> de -> ar -> bn -> tr -> no -> xh -> tl -> te -> ms -> tg -> ru -> fr -> en
 ORIGINAL:   ~r~The arms dealers got away.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Weapon owners will appear.
 ------------------------------------------------------------
 KEY:        [YS1_ABN:YUSUF1]
-HOPS:       pending
+HOPS:       en -> fy -> sw -> my -> kn -> mr -> sn -> ja -> ig -> de -> ar -> bn -> tr -> no -> xh -> tl -> te -> ms -> tg -> ru -> fr -> en
 ORIGINAL:   ~r~You abandoned the chopper.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Did you get off the helicopter?
 ------------------------------------------------------------
 KEY:        [#1C8632B1:YUSUF1]
-HOPS:       pending
+HOPS:       en -> fy -> sw -> my -> kn -> mr -> sn -> ja -> ig -> de -> ar -> bn -> tr -> no -> xh -> tl -> te -> ms -> tg -> ru -> fr -> en
 ORIGINAL:   Yusuf has provided a ~b~boat~s~ to get to the yacht.
 TAGS:       [~b~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: So Joseph gave them a boat so that they could accompany them.
 ------------------------------------------------------------
 KEY:        [YS1_MRN:YUSUF1]
-HOPS:       pending
+HOPS:       en -> su -> mk -> sv -> ml -> id -> gd -> bs -> ar -> et -> el -> eo -> hi -> fr -> lt -> gl -> hr -> pl -> ru -> zh-tw -> it -> en
 ORIGINAL:   Get a boat from the ~y~marina.
 TAGS:       [~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Lift the boat from the dock.
 ------------------------------------------------------------
 KEY:        [YS1_WTD:YUSUF1]
-HOPS:       pending
+HOPS:       en -> su -> mk -> sv -> ml -> id -> gd -> bs -> ar -> et -> el -> eo -> hi -> fr -> lt -> gl -> hr -> pl -> ru -> zh-tw -> it -> en
 ORIGINAL:   Lose the cops.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Defeat the police.
 ------------------------------------------------------------
 KEY:        [YS1_PAT:YUSUF1]
-HOPS:       pending
+HOPS:       en -> su -> mk -> sv -> ml -> id -> gd -> bs -> ar -> et -> el -> eo -> hi -> fr -> lt -> gl -> hr -> pl -> ru -> zh-tw -> it -> en
 ORIGINAL:   Watch out for patrolling boats protecting the yacht.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Keep an eye out for patrol boats to ensure the safety of your cruiser.
 ------------------------------------------------------------
 KEY:        [YS1_ALPAT:YUSUF1]
-HOPS:       pending
+HOPS:       en -> su -> mk -> sv -> ml -> id -> gd -> bs -> ar -> et -> el -> eo -> hi -> fr -> lt -> gl -> hr -> pl -> ru -> zh-tw -> it -> en
 ORIGINAL:   You were spotted by the patrol boat.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: The patrol boat will notice you.
 ------------------------------------------------------------
 KEY:        [YS1_QUI:YUSUF1]
-HOPS:       pending
+HOPS:       en -> su -> mk -> sv -> ml -> id -> gd -> bs -> ar -> et -> el -> eo -> hi -> fr -> lt -> gl -> hr -> pl -> ru -> zh-tw -> it -> en
 ORIGINAL:   ~s~Approach the yacht quietly to avoid alerting the patrol boat.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Approach the boat slowly so as not to alert patrol officers.
 ------------------------------------------------------------
 KEY:        [YS1_ALT:YUSUF1]
-HOPS:       pending
+HOPS:       en -> et -> de -> so -> gd -> ps -> hu -> ga -> co -> kn -> am -> mg -> uz -> ky -> ug -> bn -> cs -> st -> uk -> sv -> jw -> en
 ORIGINAL:   When in a helicopter, an altimeter will appear over the radar. This indicates your height above sea level.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: The altitude is displayed on the helicopter's radar.Show your height.
 ------------------------------------------------------------
 KEY:        [YS1_PAT_HINT:YUSUF1]
-HOPS:       pending
+HOPS:       en -> et -> de -> so -> gd -> ps -> hu -> ga -> co -> kn -> am -> mg -> uz -> ky -> ug -> bn -> cs -> st -> uk -> sv -> jw -> en
 ORIGINAL:   ~s~Hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the patrol boat.
 TAGS:       [~s~, ~INPUT_VEH_CIN_CAM~]
-TRANSLATED: (pending translation)
+TRANSLATED: Grab the patrol boat's camera and focus.
 ------------------------------------------------------------
 KEY:        [YS1_YESC:YUSUF1]
-HOPS:       pending
+HOPS:       en -> et -> de -> so -> gd -> ps -> hu -> ga -> co -> kn -> am -> mg -> uz -> ky -> ug -> bn -> cs -> st -> uk -> sv -> jw -> en
 ORIGINAL:   Get back to the ~r~yacht~s~ before the arms dealers escape.
 TAGS:       [~r~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Get back to the ship before the arms dealer leaves.
 ------------------------------------------------------------
 KEY:        [YS1_GUN:YUSUF1]
-HOPS:       pending
+HOPS:       en -> et -> de -> so -> gd -> ps -> hu -> ga -> co -> kn -> am -> mg -> uz -> ky -> ug -> bn -> cs -> st -> uk -> sv -> jw -> en
 ORIGINAL:   You may find it easier to use the miniguns to destroy the boats. Hold ~INPUT_VEH_HANDBRAKE_ALT~ to fire the miniguns.
 TAGS:       [~INPUT_VEH_HANDBRAKE_ALT~]
-TRANSLATED: (pending translation)
+TRANSLATED: The ship's weapons are easily damaged. Guard your password
 ------------------------------------------------------------
 KEY:        [#539CBA37:YUSUF1]
-HOPS:       pending
+HOPS:       en -> et -> de -> so -> gd -> ps -> hu -> ga -> co -> kn -> am -> mg -> uz -> ky -> ug -> bn -> cs -> st -> uk -> sv -> jw -> en
 ORIGINAL:   You may find it easier to use the miniguns to destroy the boats. Hold ~INPUT_VEH_ATTACK3_KB~ to fire the miniguns.
 TAGS:       [~INPUT_VEH_ATTACK3_KB~]
-TRANSLATED: (pending translation)
+TRANSLATED: Destroy the ship easily with the pistol.keep it light
 ------------------------------------------------------------
 KEY:        [#E3E89426:YUSUF2]
-HOPS:       pending
+HOPS:       en -> mi -> sr -> iw -> ug -> is -> tl -> ml -> mg -> lt -> mt -> no -> bs -> el -> fi -> mr -> ny -> la -> uz -> mn -> it -> en
 ORIGINAL:   ~s~Go to ~y~Rotterdam Tower.
 TAGS:       [~s~, ~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Visit to the Rotterdam Tower.
 ------------------------------------------------------------
 KEY:        [#EEC0B44B:YUSUF2]
-HOPS:       pending
+HOPS:       en -> mi -> sr -> iw -> ug -> is -> tl -> ml -> mg -> lt -> mt -> no -> bs -> el -> fi -> mr -> ny -> la -> uz -> mn -> it -> en
 ORIGINAL:   ~s~Get into ~b~Yusuf's car.
 TAGS:       [~s~, ~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Go to Josephine's car.
 ------------------------------------------------------------
 KEY:        [#68A4FB0F:YUSUF2]
-HOPS:       pending
+HOPS:       en -> mi -> sr -> iw -> ug -> is -> tl -> ml -> mg -> lt -> mt -> no -> bs -> el -> fi -> mr -> ny -> la -> uz -> mn -> it -> en
 ORIGINAL:   ~s~Return to ~b~Yusuf's car.
 TAGS:       [~s~, ~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: I returned to Josephine's car.
 ------------------------------------------------------------
 KEY:        [#5122F989:YUSUF2]
-HOPS:       pending
+HOPS:       en -> mi -> sr -> iw -> ug -> is -> tl -> ml -> mg -> lt -> mt -> no -> bs -> el -> fi -> mr -> ny -> la -> uz -> mn -> it -> en
 ORIGINAL:   ~s~You have left ~b~Yusuf.
 TAGS:       [~s~, ~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: I left Giuseppe.
 ------------------------------------------------------------
 KEY:        [ESS_ASCEND_ES:YUSUF2]
-HOPS:       pending
+HOPS:       en -> mi -> sr -> iw -> ug -> is -> tl -> ml -> mg -> lt -> mt -> no -> bs -> el -> fi -> mr -> ny -> la -> uz -> mn -> it -> en
 ORIGINAL:   ~s~Take the ~y~elevator ~s~to the top of the tower.
 TAGS:       [~s~, ~y~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Take the elevator to the top of the platform.
 ------------------------------------------------------------
 KEY:        [ESS_LOSECOPS:YUSUF2]
-HOPS:       pending
+HOPS:       en -> ro -> da -> sk -> ky -> sd -> is -> zu -> ml -> bs -> kk -> hr -> ur -> hmn -> it -> pa -> eo -> tr -> gu -> fy -> ha -> en
 ORIGINAL:   ~s~Lose the cops.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: hit the police
 ------------------------------------------------------------
 KEY:        [ESS_TAHIR:YUSUF2]
-HOPS:       pending
+HOPS:       en -> ro -> da -> sk -> ky -> sd -> is -> zu -> ml -> bs -> kk -> hr -> ur -> hmn -> it -> pa -> eo -> tr -> gu -> fy -> ha -> en
 ORIGINAL:   ~s~Go and meet ~b~Ahmed.
 TAGS:       [~s~, ~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Go Ahmed.
 ------------------------------------------------------------
 KEY:        [ESS_AHMED:YUSUF2]
-HOPS:       pending
+HOPS:       en -> ro -> da -> sk -> ky -> sd -> is -> zu -> ml -> bs -> kk -> hr -> ur -> hmn -> it -> pa -> eo -> tr -> gu -> fy -> ha -> en
 ORIGINAL:   Chase ~b~Ahmed ~s~up the Tower.
 TAGS:       [~b~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Ahmed went to the tower.
 ------------------------------------------------------------
 KEY:        [ESS_PARA:YUSUF2]
-HOPS:       pending
+HOPS:       en -> ro -> da -> sk -> ky -> sd -> is -> zu -> ml -> bs -> kk -> hr -> ur -> hmn -> it -> pa -> eo -> tr -> gu -> fy -> ha -> en
 ORIGINAL:   ~s~You have the parachute, now jump off the building.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: You have a parachute, now jump from the building.
 ------------------------------------------------------------
 KEY:        [ESS_PARA1:YUSUF2]
-HOPS:       pending
+HOPS:       en -> ro -> da -> sk -> ky -> sd -> is -> zu -> ml -> bs -> kk -> hr -> ur -> hmn -> it -> pa -> eo -> tr -> gu -> fy -> ha -> en
 ORIGINAL:   When airborne use ~PAD_LSTICK_ALL~ to move. In freefall press ~INPUT_SPRINT~ to activate parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.
 TAGS:       [~PAD_LSTICK_ALL~, ~INPUT_SPRINT~, ~n~, ~INPUT_MELEE_ATTACK1~]
-TRANSLATED: (pending translation)
+TRANSLATED: Use the plane. Click the free fall button to open the parachute.Tap and hold to view different cameras.
 ------------------------------------------------------------
 KEY:        [#A6CCD9A1:YUSUF2]
-HOPS:       pending
+HOPS:       en -> gd -> zh-tw -> gl -> hr -> eu -> it -> ky -> af -> ro -> is -> fa -> sd -> id -> et -> ta -> pa -> my -> bg -> nl -> tg -> en
 ORIGINAL:   When airborne use ~PAD_LSTICK_ALL~ to move. In freefall press ~INPUT_MOUSE_LMB~ to activate parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.
 TAGS:       [~PAD_LSTICK_ALL~, ~INPUT_MOUSE_LMB~, ~n~, ~INPUT_NEXT_CAMERA~]
-TRANSLATED: (pending translation)
+TRANSLATED: It is used to propel the air. Click on the parachute to start a free fall. Click and hold to see different heads.
 ------------------------------------------------------------
 KEY:        [#E7B43323:YUSUF2]
-HOPS:       pending
+HOPS:       en -> gd -> zh-tw -> gl -> hr -> eu -> it -> ky -> af -> ro -> is -> fa -> sd -> id -> et -> ta -> pa -> my -> bg -> nl -> tg -> en
 ORIGINAL:   Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~INPUT_AIM~ and ~INPUT_ATTACK~ to apply left and right air brakes.~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.
 TAGS:       [~PAD_LSTICK_ALL~, ~n~, ~INPUT_AIM~, ~INPUT_ATTACK~, ~n~, ~INPUT_ENTER~, ~n~, ~INPUT_MELEE_ATTACK1~]
-TRANSLATED: (pending translation)
+TRANSLATED: Used to change weight. Adjust and activate left and right air brakes. Click to release parachute. Long press to view different cameras.
 ------------------------------------------------------------
 KEY:        [ESS_ALTI:YUSUF2]
-HOPS:       pending
+HOPS:       en -> gd -> zh-tw -> gl -> hr -> eu -> it -> ky -> af -> ro -> is -> fa -> sd -> id -> et -> ta -> pa -> my -> bg -> nl -> tg -> en
 ORIGINAL:   While using a parachute, an altimeter will appear over the radar. This indicates your height above sea level.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: When using the parachute, an altimeter appears on the radar, which shows your height.
 ------------------------------------------------------------
 KEY:        [ESS_LAD:YUSUF2]
-HOPS:       pending
+HOPS:       en -> gd -> zh-tw -> gl -> hr -> eu -> it -> ky -> af -> ro -> is -> fa -> sd -> id -> et -> ta -> pa -> my -> bg -> nl -> tg -> en
 ORIGINAL:   ~s~Press ~INPUT_ENTER~ to mount the ladder. Use ~PAD_LSTICK_UPDOWN~ to move up and down on the ladder.
 TAGS:       [~s~, ~INPUT_ENTER~, ~PAD_LSTICK_UPDOWN~]
-TRANSLATED: (pending translation)
+TRANSLATED: Click on the stairs to go up. Going up and down the stairs is normal.
 ------------------------------------------------------------
 KEY:        [ESS_LAD1:YUSUF2]
-HOPS:       pending
+HOPS:       en -> gd -> zh-tw -> gl -> hr -> eu -> it -> ky -> af -> ro -> is -> fa -> sd -> id -> et -> ta -> pa -> my -> bg -> nl -> tg -> en
 ORIGINAL:   ~s~Hold ~INPUT_SPRINT~ while climbing a ladder to climb faster.
 TAGS:       [~s~, ~INPUT_SPRINT~]
-TRANSLATED: (pending translation)
+TRANSLATED: Take your time climbing the stairs so you can get up quickly.
 ------------------------------------------------------------
 KEY:        [#82E563BB:YUSUF2]
-HOPS:       pending
+HOPS:       en -> ka -> mg -> kk -> id -> it -> zh-cn -> sv -> mn -> be -> hy -> ca -> xh -> ar -> cy -> gu -> iw -> da -> fy -> zh-tw -> jw -> en
 ORIGINAL:   ~s~Use ~INPUT_SPRINT~ while climbing a ladder to climb faster.
 TAGS:       [~s~, ~INPUT_SPRINT~]
-TRANSLATED: (pending translation)
+TRANSLATED: Use it when climbing stairs to go up faster.
 ------------------------------------------------------------
 KEY:        [ESS_FAIL_1:YUSUF2]
-HOPS:       pending
+HOPS:       en -> ka -> mg -> kk -> id -> it -> zh-cn -> sv -> mn -> be -> hy -> ca -> xh -> ar -> cy -> gu -> iw -> da -> fy -> zh-tw -> jw -> en
 ORIGINAL:   ~r~You killed Tahir.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Tahir was killed.
 ------------------------------------------------------------
 KEY:        [ESS_FAIL_2:YUSUF2]
-HOPS:       pending
+HOPS:       en -> ka -> mg -> kk -> id -> it -> zh-cn -> sv -> mn -> be -> hy -> ca -> xh -> ar -> cy -> gu -> iw -> da -> fy -> zh-tw -> jw -> en
 ORIGINAL:   ~r~Yusuf died.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Joseph is dead.
 ------------------------------------------------------------
 KEY:        [ESS_FAIL_3:YUSUF2]
-HOPS:       pending
+HOPS:       en -> ka -> mg -> kk -> id -> it -> zh-cn -> sv -> mn -> be -> hy -> ca -> xh -> ar -> cy -> gu -> iw -> da -> fy -> zh-tw -> jw -> en
 ORIGINAL:   ~r~You abandoned Yusuf.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Joseph left.
 ------------------------------------------------------------
 KEY:        [ESS_FAIL_4:YUSUF2]
-HOPS:       pending
+HOPS:       en -> ka -> mg -> kk -> id -> it -> zh-cn -> sv -> mn -> be -> hy -> ca -> xh -> ar -> cy -> gu -> iw -> da -> fy -> zh-tw -> jw -> en
 ORIGINAL:   ~r~You killed Ahmed.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: He thanked Ahmad.
 ------------------------------------------------------------
 KEY:        [ESS_FAIL_5:YUSUF2]
-HOPS:       pending
+HOPS:       en -> pt -> eo -> ht -> mt -> el -> lb -> ig -> hi -> uz -> zu -> ny -> kk -> la -> st -> mg -> iw -> vi -> nl -> ha -> ug -> en
 ORIGINAL:   ~r~Yusuf's car was wrecked.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Joseph's car broke down.
 ------------------------------------------------------------
 KEY:        [ESS_FAIL_6:YUSUF2]
-HOPS:       pending
+HOPS:       en -> pt -> eo -> ht -> mt -> el -> lb -> ig -> hi -> uz -> zu -> ny -> kk -> la -> st -> mg -> iw -> vi -> nl -> ha -> ug -> en
 ORIGINAL:   ~r~You missed the meet.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: I remember that day.
 ------------------------------------------------------------
 KEY:        [Y3_M01:YUSUF3]
-HOPS:       pending
+HOPS:       en -> pt -> eo -> ht -> mt -> el -> lb -> ig -> hi -> uz -> zu -> ny -> kk -> la -> st -> mg -> iw -> vi -> nl -> ha -> ug -> en
 ORIGINAL:   Go with Yusuf to ~y~Westminster~s~ to pick up his Swift.
 TAGS:       [~y~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: For Swift, in Josephus of Westminster.
 ------------------------------------------------------------
 KEY:        [Y3_M02:YUSUF3]
-HOPS:       pending
+HOPS:       en -> pt -> eo -> ht -> mt -> el -> lb -> ig -> hi -> uz -> zu -> ny -> kk -> la -> st -> mg -> iw -> vi -> nl -> ha -> ug -> en
 ORIGINAL:   Get in ~b~Yusuf's chopper.
 TAGS:       [~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Joseph's Helicopter Office.
 ------------------------------------------------------------
 KEY:        [Y3_M03:YUSUF3]
-HOPS:       pending
+HOPS:       en -> pt -> eo -> ht -> mt -> el -> lb -> ig -> hi -> uz -> zu -> ny -> kk -> la -> st -> mg -> iw -> vi -> nl -> ha -> ug -> en
 ORIGINAL:   Get in ~b~Yusuf's car~s~.
 TAGS:       [~b~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Joseph is in the car.
 ------------------------------------------------------------
 KEY:        [Y3_M04:YUSUF3]
-HOPS:       pending
+HOPS:       en -> hmn -> hy -> vi -> bg -> sq -> bs -> ny -> gd -> ur -> si -> ht -> iw -> ro -> or -> bn -> su -> ja -> kn -> hu -> et -> en
 ORIGINAL:   Fly near the ~r~APC.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Switch to APC
 ------------------------------------------------------------
 KEY:        [Y3_M05:YUSUF3]
-HOPS:       pending
+HOPS:       en -> hmn -> hy -> vi -> bg -> sq -> bs -> ny -> gd -> ur -> si -> ht -> iw -> ro -> or -> bn -> su -> ja -> kn -> hu -> et -> en
 ORIGINAL:   Align Yusuf's chopper into ~y~position.
 TAGS:       [~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Place Joseph's staff in the correct place
 ------------------------------------------------------------
 KEY:        [Y3_M06:YUSUF3]
-HOPS:       pending
+HOPS:       en -> hmn -> hy -> vi -> bg -> sq -> bs -> ny -> gd -> ur -> si -> ht -> iw -> ro -> or -> bn -> su -> ja -> kn -> hu -> et -> en
 ORIGINAL:   Line up to be perpendicular with the APC.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: A straight line is APC
 ------------------------------------------------------------
 KEY:        [Y3_M07:YUSUF3]
-HOPS:       pending
+HOPS:       en -> hmn -> hy -> vi -> bg -> sq -> bs -> ny -> gd -> ur -> si -> ht -> iw -> ro -> or -> bn -> su -> ja -> kn -> hu -> et -> en
 ORIGINAL:   Shoot the cable to release the APC. Be careful, dropping from too high will destroy the APC.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Remove the wire and an APC will appear. Be careful not to fall from a height as this can damage the APC.
 ------------------------------------------------------------
 KEY:        [Y3_M08:YUSUF3]
-HOPS:       pending
+HOPS:       en -> hmn -> hy -> vi -> bg -> sq -> bs -> ny -> gd -> ur -> si -> ht -> iw -> ro -> or -> bn -> su -> ja -> kn -> hu -> et -> en
 ORIGINAL:   Deliver the APC to the ~y~building site.
 TAGS:       [~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Please send it to the APC office
 ------------------------------------------------------------
 KEY:        [Y3_M09:YUSUF3]
-HOPS:       pending
+HOPS:       en -> ro -> am -> el -> ny -> ta -> tr -> cs -> sm -> hi -> nl -> or -> pl -> es -> ru -> ky -> ug -> gl -> km -> ar -> mk -> en
 ORIGINAL:   Get back in the ~b~APC.
 TAGS:       [~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Let's go back to the agricultural industry.
 ------------------------------------------------------------
 KEY:        [Y3_M10:YUSUF3]
-HOPS:       pending
+HOPS:       en -> ro -> am -> el -> ny -> ta -> tr -> cs -> sm -> hi -> nl -> or -> pl -> es -> ru -> ky -> ug -> gl -> km -> ar -> mk -> en
 ORIGINAL:   Shoot the bolts on the APC to release it before it reaches the police station.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Shoot the APC to wait until you reach the police station.
 ------------------------------------------------------------
 KEY:        [Y3_M11:YUSUF3]
-HOPS:       pending
+HOPS:       en -> ro -> am -> el -> ny -> ta -> tr -> cs -> sm -> hi -> nl -> or -> pl -> es -> ru -> ky -> ug -> gl -> km -> ar -> mk -> en
 ORIGINAL:   Get back in ~b~Yusuf's helicopter.
 TAGS:       [~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Return to Joseph's helicopter.
 ------------------------------------------------------------
 KEY:        [Y3_M12:YUSUF3]
-HOPS:       pending
+HOPS:       en -> ro -> am -> el -> ny -> ta -> tr -> cs -> sm -> hi -> nl -> or -> pl -> es -> ru -> ky -> ug -> gl -> km -> ar -> mk -> en
 ORIGINAL:   Go to ~y~Star Junction.
 TAGS:       [~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Go to the Stargate
 ------------------------------------------------------------
 KEY:        [Y3_M13:YUSUF3]
-HOPS:       pending
+HOPS:       en -> ro -> am -> el -> ny -> ta -> tr -> cs -> sm -> hi -> nl -> or -> pl -> es -> ru -> ky -> ug -> gl -> km -> ar -> mk -> en
 ORIGINAL:   ~s~Take out as many cops as you can until they back down.~s~
 TAGS:       [~s~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Remove as many guards as possible before returning.
 ------------------------------------------------------------
 KEY:        [Y3_F01:YUSUF3]
-HOPS:       pending
+HOPS:       en -> ku -> or -> haw -> hu -> ug -> ja -> ceb -> ko -> mi -> te -> sn -> yi -> sk -> tg -> ny -> zh-cn -> co -> km -> is -> bg -> en
 ORIGINAL:   ~r~The APC was destroyed.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: APC is losing
 ------------------------------------------------------------
 KEY:        [Y3_F02:YUSUF3]
-HOPS:       pending
+HOPS:       en -> ku -> or -> haw -> hu -> ug -> ja -> ceb -> ko -> mi -> te -> sn -> yi -> sk -> tg -> ny -> zh-cn -> co -> km -> is -> bg -> en
 ORIGINAL:   ~r~The APC was delivered.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Ditto for APC.
 ------------------------------------------------------------
 KEY:        [Y3_F03:YUSUF3]
-HOPS:       pending
+HOPS:       en -> ku -> or -> haw -> hu -> ug -> ja -> ceb -> ko -> mi -> te -> sn -> yi -> sk -> tg -> ny -> zh-cn -> co -> km -> is -> bg -> en
 ORIGINAL:   ~r~Yusuf's car was destroyed.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Josef's car broke down.
 ------------------------------------------------------------
 KEY:        [Y3_F04:YUSUF3]
-HOPS:       pending
+HOPS:       en -> ku -> or -> haw -> hu -> ug -> ja -> ceb -> ko -> mi -> te -> sn -> yi -> sk -> tg -> ny -> zh-cn -> co -> km -> is -> bg -> en
 ORIGINAL:   ~r~Yusuf's chopper was destroyed.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Joseph's apple is removed.
 ------------------------------------------------------------
 KEY:        [Y3_F05:YUSUF3]
-HOPS:       pending
+HOPS:       en -> ku -> or -> haw -> hu -> ug -> ja -> ceb -> ko -> mi -> te -> sn -> yi -> sk -> tg -> ny -> zh-cn -> co -> km -> is -> bg -> en
 ORIGINAL:   ~r~Yusuf died.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Joseph is dead.
 ------------------------------------------------------------
 KEY:        [Y3_F06:YUSUF3]
-HOPS:       pending
+HOPS:       en -> yi -> fa -> hy -> yo -> el -> th -> ceb -> sn -> si -> mr -> zh-cn -> st -> af -> xh -> zh-tw -> haw -> la -> fr -> be -> ur -> en
 ORIGINAL:   ~r~You abandoned Yusuf.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Don't bother Yusuf.
 ------------------------------------------------------------
 KEY:        [Y3_F07:YUSUF3]
-HOPS:       pending
+HOPS:       en -> yi -> fa -> hy -> yo -> el -> th -> ceb -> sn -> si -> mr -> zh-cn -> st -> af -> xh -> zh-tw -> haw -> la -> fr -> be -> ur -> en
 ORIGINAL:   ~r~You abandoned the Swift.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Did you rush it?
 ------------------------------------------------------------
 KEY:        [Y3_F08:YUSUF3]
-HOPS:       pending
+HOPS:       en -> yi -> fa -> hy -> yo -> el -> th -> ceb -> sn -> si -> mr -> zh-cn -> st -> af -> xh -> zh-tw -> haw -> la -> fr -> be -> ur -> en
 ORIGINAL:   ~r~The APC is stuck.~s~
 TAGS:       [~r~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Current APC
 ------------------------------------------------------------
 KEY:        [Y3_F09:YUSUF3]
-HOPS:       pending
+HOPS:       en -> yi -> fa -> hy -> yo -> el -> th -> ceb -> sn -> si -> mr -> zh-cn -> st -> af -> xh -> zh-tw -> haw -> la -> fr -> be -> ur -> en
 ORIGINAL:   ~r~The Swift is stuck.~s~
 TAGS:       [~r~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: He is angry.
 ------------------------------------------------------------
 KEY:        [Y3_F10:YUSUF3]
-HOPS:       pending
+HOPS:       en -> yi -> fa -> hy -> yo -> el -> th -> ceb -> sn -> si -> mr -> zh-cn -> st -> af -> xh -> zh-tw -> haw -> la -> fr -> be -> ur -> en
 ORIGINAL:   ~r~The Skylift got too close to the police compound.~s~
 TAGS:       [~r~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: The Liffey is close to the police station.
 ------------------------------------------------------------
 KEY:        [Y3_F11:YUSUF3]
-HOPS:       pending
+HOPS:       en -> su -> ar -> co -> ny -> ne -> kn -> tr -> cs -> iw -> cy -> xh -> hmn -> fa -> hy -> it -> sm -> sd -> is -> ht -> hu -> en
 ORIGINAL:   ~r~You abandoned the APC.~s~
 TAGS:       [~r~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: I am leaving the "Justice and development" category.
 ------------------------------------------------------------
 KEY:        [Y3_F12:YUSUF3]
-HOPS:       pending
+HOPS:       en -> su -> ar -> co -> ny -> ne -> kn -> tr -> cs -> iw -> cy -> xh -> hmn -> fa -> hy -> it -> sm -> sd -> is -> ht -> hu -> en
 ORIGINAL:   ~r~The sky crane driver is dead.~s~
 TAGS:       [~r~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: The crane operator is dead.
 ------------------------------------------------------------
 KEY:        [Y3_F13:YUSUF3]
-HOPS:       pending
+HOPS:       en -> su -> ar -> co -> ny -> ne -> kn -> tr -> cs -> iw -> cy -> xh -> hmn -> fa -> hy -> it -> sm -> sd -> is -> ht -> hu -> en
 ORIGINAL:   ~r~There is too much of a police presence near the APC.~s~
 TAGS:       [~r~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: There are several offices in HAP.
 ------------------------------------------------------------
 KEY:        [Y3_F14:YUSUF3]
-HOPS:       pending
+HOPS:       en -> su -> ar -> co -> ny -> ne -> kn -> tr -> cs -> iw -> cy -> xh -> hmn -> fa -> hy -> it -> sm -> sd -> is -> ht -> hu -> en
 ORIGINAL:   ~r~You never answered Yusuf's call.~s~
 TAGS:       [~r~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: He doesn't answer Jósef's phone
 ------------------------------------------------------------
 KEY:        [Y3_F15:YUSUF3]
-HOPS:       pending
+HOPS:       en -> su -> ar -> co -> ny -> ne -> kn -> tr -> cs -> iw -> cy -> xh -> hmn -> fa -> hy -> it -> sm -> sd -> is -> ht -> hu -> en
 ORIGINAL:   ~r~The Skylift has been destroyed.~s~
 TAGS:       [~r~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: The elevator fell from the sky.
 ------------------------------------------------------------
 KEY:        [Y3_HELP_0:YUSUF3]
-HOPS:       pending
+HOPS:       en -> th -> lb -> sm -> be -> iw -> nl -> gd -> ca -> bn -> ps -> sl -> vi -> af -> bg -> fa -> mt -> de -> yi -> ms -> kn -> en
 ORIGINAL:   ~s~Press ~INPUT_VEH_ATTACK~ to fire the APC cannon.~s~
 TAGS:       [~s~, ~INPUT_VEH_ATTACK~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Click here to activate APC.
 ------------------------------------------------------------
 KEY:        [Y3_HELP_1:YUSUF3]
-HOPS:       pending
+HOPS:       en -> th -> lb -> sm -> be -> iw -> nl -> gd -> ca -> bn -> ps -> sl -> vi -> af -> bg -> fa -> mt -> de -> yi -> ms -> kn -> en
 ORIGINAL:   ~s~Shoot the yellow bolts on the cables to release the tank.~s~
 TAGS:       [~s~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Press the yellow button on the cable to open the compartment.
 ------------------------------------------------------------
 KEY:        [#50BA8169:YUSUF3]
-HOPS:       pending
+HOPS:       en -> th -> lb -> sm -> be -> iw -> nl -> gd -> ca -> bn -> ps -> sl -> vi -> af -> bg -> fa -> mt -> de -> yi -> ms -> kn -> en
 ORIGINAL:   Press ~PAD_B~ to jump onto the tank.
 TAGS:       [~PAD_B~]
-TRANSLATED: (pending translation)
+TRANSLATED: Click to jump into the tank.
 ------------------------------------------------------------
 KEY:        [#AA48B490:YUSUF3]
-HOPS:       pending
+HOPS:       en -> th -> lb -> sm -> be -> iw -> nl -> gd -> ca -> bn -> ps -> sl -> vi -> af -> bg -> fa -> mt -> de -> yi -> ms -> kn -> en
 ORIGINAL:   Press ~INPUT_VEH_ATTACK~ to shoot the APC gun.
 TAGS:       [~INPUT_VEH_ATTACK~]
-TRANSLATED: (pending translation)
+TRANSLATED: Click here to activate APC.
 ------------------------------------------------------------
 KEY:        [#7AAC0E52:YUSUF3]
-HOPS:       pending
+HOPS:       en -> th -> lb -> sm -> be -> iw -> nl -> gd -> ca -> bn -> ps -> sl -> vi -> af -> bg -> fa -> mt -> de -> yi -> ms -> kn -> en
 ORIGINAL:   Don't leave ~b~Yusuf~s~ behind.
 TAGS:       [~b~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Don't leave Yusuf
 ------------------------------------------------------------
 KEY:        [Y3_COPS:YUSUF3]
-HOPS:       pending
+HOPS:       en -> ga -> fa -> hi -> lt -> sr -> bg -> haw -> ro -> fy -> ceb -> is -> ne -> sq -> pt -> ug -> ig -> uz -> sl -> gu -> eu -> en
 ORIGINAL:   Lose the cops.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: To be a police officer
 ------------------------------------------------------------
 KEY:        [Y3_PASS:YUSUF3]
-HOPS:       pending
+HOPS:       en -> ga -> fa -> hi -> lt -> sr -> bg -> haw -> ro -> fy -> ceb -> is -> ne -> sq -> pt -> ug -> ig -> uz -> sl -> gu -> eu -> en
 ORIGINAL:   MISSION PASSED
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Mission accomplished
 ------------------------------------------------------------
 KEY:        [#149CEBFD:YUSUF3]
-HOPS:       pending
+HOPS:       en -> ga -> fa -> hi -> lt -> sr -> bg -> haw -> ro -> fy -> ceb -> is -> ne -> sq -> pt -> ug -> ig -> uz -> sl -> gu -> eu -> en
 ORIGINAL:   Get back in the ~b~APC.
 TAGS:       [~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Return to the APC page.
 ------------------------------------------------------------
 KEY:        [#01D6C671:YUSUF3]
-HOPS:       pending
+HOPS:       en -> ga -> fa -> hi -> lt -> sr -> bg -> haw -> ro -> fy -> ceb -> is -> ne -> sq -> pt -> ug -> ig -> uz -> sl -> gu -> eu -> en
 ORIGINAL:   Pickup the ~b~Swift.
 TAGS:       [~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Select the application.
 ------------------------------------------------------------
 KEY:        [#303DA242:YUSUF3]
-HOPS:       pending
+HOPS:       en -> ga -> fa -> hi -> lt -> sr -> bg -> haw -> ro -> fy -> ceb -> is -> ne -> sq -> pt -> ug -> ig -> uz -> sl -> gu -> eu -> en
 ORIGINAL:   Get to the ~b~APC.
 TAGS:       [~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Go to APC.
 ------------------------------------------------------------
 KEY:        [#0B964BBF:YUSUF3]
-HOPS:       pending
+HOPS:       en -> co -> ca -> ml -> bs -> haw -> kk -> hu -> ro -> nl -> pa -> zh-cn -> vi -> te -> mi -> mt -> sr -> ceb -> tg -> zu -> kn -> en
 ORIGINAL:   Lose the cops.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: The police could not.
 ------------------------------------------------------------
 KEY:        [#A24A711E:YUSUF3]
-HOPS:       pending
+HOPS:       en -> co -> ca -> ml -> bs -> haw -> kk -> hu -> ro -> nl -> pa -> zh-cn -> vi -> te -> mi -> mt -> sr -> ceb -> tg -> zu -> kn -> en
 ORIGINAL:   The airport is overrun with police. The pickup location needs to be changed.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: This phone is controlled by police. Correct number should be changed.
 ------------------------------------------------------------
 KEY:        [#B7731B6F:YUSUF3]
-HOPS:       pending
+HOPS:       en -> co -> ca -> ml -> bs -> haw -> kk -> hu -> ro -> nl -> pa -> zh-cn -> vi -> te -> mi -> mt -> sr -> ceb -> tg -> zu -> kn -> en
 ORIGINAL:   The transport won't be able to escape with so many helicopters about.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Cars cannot survive if there are so many helicopters.
 ------------------------------------------------------------
 KEY:        [#444869CF:YUSUF3]
-HOPS:       pending
+HOPS:       en -> co -> ca -> ml -> bs -> haw -> kk -> hu -> ro -> nl -> pa -> zh-cn -> vi -> te -> mi -> mt -> sr -> ceb -> tg -> zu -> kn -> en
 ORIGINAL:   Press LB to fire rockets.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Press LB to fire the brick.
 ------------------------------------------------------------
 KEY:        [#8A73F625:YUSUF3]
-HOPS:       pending
+HOPS:       en -> co -> ca -> ml -> bs -> haw -> kk -> hu -> ro -> nl -> pa -> zh-cn -> vi -> te -> mi -> mt -> sr -> ceb -> tg -> zu -> kn -> en
 ORIGINAL:   Until the real tank is in game it is best to either swap to the in car view and shoot rockets or to get out and use the RPG.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Like a real shooting game, it's fun to drive cars and shoot bricks or go out and play an RPG.
 ------------------------------------------------------------
 KEY:        [#78845246:YUSUF3]
-HOPS:       pending
+HOPS:       en -> da -> ceb -> es -> ru -> gu -> iw -> fr -> co -> or -> nl -> ne -> fi -> vi -> uk -> fy -> sq -> id -> az -> hr -> si -> en
 ORIGINAL:   Press Y to jump across to the tank.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Press Y to jump into the container
 ------------------------------------------------------------
 KEY:        [#7D074C1A:YUSUF3]
-HOPS:       pending
+HOPS:       en -> da -> ceb -> es -> ru -> gu -> iw -> fr -> co -> or -> nl -> ne -> fi -> vi -> uk -> fy -> sq -> id -> az -> hr -> si -> en
 ORIGINAL:   ~r~The tank was destroyed.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: The tank is broken.
 ------------------------------------------------------------
 KEY:        [#8B5AE8C1:YUSUF3]
-HOPS:       pending
+HOPS:       en -> da -> ceb -> es -> ru -> gu -> iw -> fr -> co -> or -> nl -> ne -> fi -> vi -> uk -> fy -> sq -> id -> az -> hr -> si -> en
 ORIGINAL:   ~r~You abandoned the tank.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: You leave the container
 ------------------------------------------------------------
 KEY:        [#A2861717:YUSUF3]
-HOPS:       pending
+HOPS:       en -> da -> ceb -> es -> ru -> gu -> iw -> fr -> co -> or -> nl -> ne -> fi -> vi -> uk -> fy -> sq -> id -> az -> hr -> si -> en
 ORIGINAL:   ~r~The tank is stuck.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Depressive thoughts
 ------------------------------------------------------------
 KEY:        [#B0CEB3A8:YUSUF3]
-HOPS:       pending
+HOPS:       en -> da -> ceb -> es -> ru -> gu -> iw -> fr -> co -> or -> nl -> ne -> fi -> vi -> uk -> fy -> sq -> id -> az -> hr -> si -> en
 ORIGINAL:   ~r~The transport was destroyed.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Traffic is blocked
 ------------------------------------------------------------
 KEY:        [#E7EEA213:YUSUF3]
-HOPS:       pending
+HOPS:       en -> cy -> ga -> xh -> et -> am -> th -> zh-tw -> fi -> fy -> ur -> ja -> lb -> mr -> tg -> mk -> ny -> da -> az -> gl -> sk -> en
 ORIGINAL:   ~r~The Swift was destroyed.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Swift was upset.
 ------------------------------------------------------------
 KEY:        [#D5CA7D9F:YUSUF3]
-HOPS:       pending
+HOPS:       en -> cy -> ga -> xh -> et -> am -> th -> zh-tw -> fi -> fy -> ur -> ja -> lb -> mr -> tg -> mk -> ny -> da -> az -> gl -> sk -> en
 ORIGINAL:   ~r~You abandoned the Swift.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: You're gone Swift.
 ------------------------------------------------------------
 KEY:        [#0C5F6AF4:YUSUF3]
-HOPS:       pending
+HOPS:       en -> cy -> ga -> xh -> et -> am -> th -> zh-tw -> fi -> fy -> ur -> ja -> lb -> mr -> tg -> mk -> ny -> da -> az -> gl -> sk -> en
 ORIGINAL:   ~r~You Swift is stuck.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: You have joined Swift.
 ------------------------------------------------------------
 KEY:        [#80180904:YUSUF4]
-HOPS:       pending
+HOPS:       en -> cy -> ga -> xh -> et -> am -> th -> zh-tw -> fi -> fy -> ur -> ja -> lb -> mr -> tg -> mk -> ny -> da -> az -> gl -> sk -> en
 ORIGINAL:   ~s~You have left ~b~Yusuf ~s~behind.
 TAGS:       [~s~, ~b~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: He left José.
 ------------------------------------------------------------
 KEY:        [#69560FC4:YUSUF4]
-HOPS:       pending
+HOPS:       en -> cy -> ga -> xh -> et -> am -> th -> zh-tw -> fi -> fy -> ur -> ja -> lb -> mr -> tg -> mk -> ny -> da -> az -> gl -> sk -> en
 ORIGINAL:   ~s~Get into ~b~Yusuf's car.
 TAGS:       [~s~, ~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: I got into Yusif's car.
 ------------------------------------------------------------
 KEY:        [#1559E071:YUSUF4]
-HOPS:       pending
+HOPS:       en -> fy -> ny -> kk -> pl -> te -> co -> sq -> ru -> ja -> sr -> fr -> xh -> eu -> gl -> sm -> km -> mt -> ca -> ky -> lb -> en
 ORIGINAL:   ~s~Return to ~b~Yusuf's car.
 TAGS:       [~s~, ~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Back to Yusuf's car.
 ------------------------------------------------------------
 KEY:        [#BA10EDD4:YUSUF4]
-HOPS:       pending
+HOPS:       en -> fy -> ny -> kk -> pl -> te -> co -> sq -> ru -> ja -> sr -> fr -> xh -> eu -> gl -> sm -> km -> mt -> ca -> ky -> lb -> en
 ORIGINAL:   ~s~Get to the ~y~Algonquin Bridge.
 TAGS:       [~s~, ~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Visit the Algonquin Bridge.
 ------------------------------------------------------------
 KEY:        [#F5A638B9:YUSUF4]
-HOPS:       pending
+HOPS:       en -> fy -> ny -> kk -> pl -> te -> co -> sq -> ru -> ja -> sr -> fr -> xh -> eu -> gl -> sm -> km -> mt -> ca -> ky -> lb -> en
 ORIGINAL:   ~s~Get into position ~y~above the tracks.
 TAGS:       [~s~, ~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Go to the fence.
 ------------------------------------------------------------
 KEY:        [DT_DODGE:YUSUF4]
-HOPS:       pending
+HOPS:       en -> fy -> ny -> kk -> pl -> te -> co -> sq -> ru -> ja -> sr -> fr -> xh -> eu -> gl -> sm -> km -> mt -> ca -> ky -> lb -> en
 ORIGINAL:   ~s~Press ~PAD_LSTICK_NONE~ to duck under overhead hazards.
 TAGS:       [~s~, ~PAD_LSTICK_NONE~]
-TRANSLATED: (pending translation)
+TRANSLATED: Walking puts you at risk.
 ------------------------------------------------------------
 KEY:        [#0EA2E098:YUSUF4]
-HOPS:       pending
+HOPS:       en -> fy -> ny -> kk -> pl -> te -> co -> sq -> ru -> ja -> sr -> fr -> xh -> eu -> gl -> sm -> km -> mt -> ca -> ky -> lb -> en
 ORIGINAL:   ~s~Press ~INPUT_DUCK~ to duck under overhead hazards.
 TAGS:       [~s~, ~INPUT_DUCK~]
-TRANSLATED: (pending translation)
+TRANSLATED: Walking puts you at risk.
 ------------------------------------------------------------
 KEY:        [DT_DODGE1:YUSUF4]
-HOPS:       pending
+HOPS:       en -> ga -> ku -> ar -> be -> ur -> te -> sq -> yo -> mt -> cy -> so -> xh -> my -> mg -> sm -> de -> iw -> st -> si -> mi -> en
 ORIGINAL:   ~s~Press ~PAD_LSTICK_NONE~ to duck under the chopper.
 TAGS:       [~s~, ~PAD_LSTICK_NONE~]
-TRANSLATED: (pending translation)
+TRANSLATED: Throw it in the trash.
 ------------------------------------------------------------
 KEY:        [#F3E319BA:YUSUF4]
-HOPS:       pending
+HOPS:       en -> ga -> ku -> ar -> be -> ur -> te -> sq -> yo -> mt -> cy -> so -> xh -> my -> mg -> sm -> de -> iw -> st -> si -> mi -> en
 ORIGINAL:   ~s~Press ~INPUT_DUCK~ to duck under the chopper.
 TAGS:       [~s~, ~INPUT_DUCK~]
-TRANSLATED: (pending translation)
+TRANSLATED: Throw it in the trash.
 ------------------------------------------------------------
 KEY:        [DT_ROOF:YUSUF4]
-HOPS:       pending
+HOPS:       en -> ga -> ku -> ar -> be -> ur -> te -> sq -> yo -> mt -> cy -> so -> xh -> my -> mg -> sm -> de -> iw -> st -> si -> mi -> en
 ORIGINAL:   ~s~Wait for the ~b~train ~s~and jump onboard.
 TAGS:       [~s~, ~b~, ~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Wait for the train to open.
 ------------------------------------------------------------
 KEY:        [DT_JUMP:YUSUF4]
-HOPS:       pending
+HOPS:       en -> ga -> ku -> ar -> be -> ur -> te -> sq -> yo -> mt -> cy -> so -> xh -> my -> mg -> sm -> de -> iw -> st -> si -> mi -> en
 ORIGINAL:   ~s~Jump now.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Register now!
 ------------------------------------------------------------
 KEY:        [DT_ROOF1:YUSUF4]
-HOPS:       pending
+HOPS:       en -> ga -> ku -> ar -> be -> ur -> te -> sq -> yo -> mt -> cy -> so -> xh -> my -> mg -> sm -> de -> iw -> st -> si -> mi -> en
 ORIGINAL:   ~s~Fight your way along the train and disconnect the ~b~front carriage.
 TAGS:       [~s~, ~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Go to the train and open the machine in front of you.
 ------------------------------------------------------------
 KEY:        [DT_REMINDER:YUSUF4]
-HOPS:       pending
+HOPS:       en -> hr -> es -> sk -> mi -> cs -> mn -> da -> az -> zh-cn -> ha -> sl -> hu -> te -> ru -> ne -> kn -> tr -> sv -> iw -> my -> en
 ORIGINAL:   ~s~Keep moving towards the ~b~front carriage.
 TAGS:       [~s~, ~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Go to previous page.
 ------------------------------------------------------------
 KEY:        [DT_TIME:YUSUF4]
-HOPS:       pending
+HOPS:       en -> hr -> es -> sk -> mi -> cs -> mn -> da -> az -> zh-cn -> ha -> sl -> hu -> te -> ru -> ne -> kn -> tr -> sv -> iw -> my -> en
 ORIGINAL:   ~s~You are running out of time, quickly get to the ~b~front carriage.
 TAGS:       [~s~, ~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: When the time is up, get up quickly and get in the car.
 ------------------------------------------------------------
 KEY:        [#AFC049D1:YUSUF4]
-HOPS:       pending
+HOPS:       en -> hr -> es -> sk -> mi -> cs -> mn -> da -> az -> zh-cn -> ha -> sl -> hu -> te -> ru -> ne -> kn -> tr -> sv -> iw -> my -> en
 ORIGINAL:   ~s~Yusuf is on his way, survive until his chopper arrives.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Yosef is waiting for his helicopter.
 ------------------------------------------------------------
 KEY:        [#84F356B4:YUSUF4]
-HOPS:       pending
+HOPS:       en -> hr -> es -> sk -> mi -> cs -> mn -> da -> az -> zh-cn -> ha -> sl -> hu -> te -> ru -> ne -> kn -> tr -> sv -> iw -> my -> en
 ORIGINAL:   ~s~Yusuf is getting close, disconnect the front carriage now.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Yusuf got out of the car.
 ------------------------------------------------------------
 KEY:        [DT_FAIL_1:YUSUF4]
-HOPS:       pending
+HOPS:       en -> hr -> es -> sk -> mi -> cs -> mn -> da -> az -> zh-cn -> ha -> sl -> hu -> te -> ru -> ne -> kn -> tr -> sv -> iw -> my -> en
 ORIGINAL:   ~r~Yusuf's car was wrecked.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Joseph's car broke down.
 ------------------------------------------------------------
 KEY:        [DT_FAIL_2:YUSUF4]
-HOPS:       pending
+HOPS:       en -> hi -> iw -> ku -> cs -> mg -> sl -> ca -> te -> da -> am -> mr -> ml -> de -> mt -> zh-tw -> mk -> ka -> eu -> hy -> kn -> en
 ORIGINAL:   ~r~You failed to jump onto the train.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: You cannot come by train.
 ------------------------------------------------------------
 KEY:        [DT_FAIL_3:YUSUF4]
-HOPS:       pending
+HOPS:       en -> hi -> iw -> ku -> cs -> mg -> sl -> ca -> te -> da -> am -> mr -> ml -> de -> mt -> zh-tw -> mk -> ka -> eu -> hy -> kn -> en
 ORIGINAL:   ~r~You took too long to disconnect the front carriage.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: It took him a long time to recognize the car in front of him.
 ------------------------------------------------------------
 KEY:        [DT_FAIL_4:YUSUF4]
-HOPS:       pending
+HOPS:       en -> hi -> iw -> ku -> cs -> mg -> sl -> ca -> te -> da -> am -> mr -> ml -> de -> mt -> zh-tw -> mk -> ka -> eu -> hy -> kn -> en
 ORIGINAL:   ~r~Yusuf died.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Joseph is dead.
 ------------------------------------------------------------
 KEY:        [DT_FAIL_5:YUSUF4]
-HOPS:       pending
+HOPS:       en -> hi -> iw -> ku -> cs -> mg -> sl -> ca -> te -> da -> am -> mr -> ml -> de -> mt -> zh-tw -> mk -> ka -> eu -> hy -> kn -> en
 ORIGINAL:   ~r~You abandoned Yusuf.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: Leave Jose alone.
 ------------------------------------------------------------
 KEY:        [DUMMY]
-HOPS:       pending
+HOPS:       en -> hi -> iw -> ku -> cs -> mg -> sl -> ca -> te -> da -> am -> mr -> ml -> de -> mt -> zh-tw -> mk -> ka -> eu -> hy -> kn -> en
 ORIGINAL:   THIS LABEL NEEDS TO BE HERE !!!
 AS THE LAST LABEL DOES NOT GET COMPILED!!
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: This tag should be here. No more entries after the last day.
 ------------------------------------------------------------
