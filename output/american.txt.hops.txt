@@ -1,5 +1,5 @@
 # Hypertranslation Hops Report for american.txt
-# Generated: 2026-09-30 17:22:36
+# Generated: 2026-10-01 00:31:43
 # Total entries: 59638
 ================================================================================
 
@@ -60934,2704 +60934,2704 @@ TAGS:       [none]
 TRANSLATED: ROY HYNES is famous for Snap Crackle
 ------------------------------------------------------------
 KEY:        [T182_11]
-HOPS:       pending
+HOPS:       en -> az -> ur -> ceb -> my -> hu -> de -> co -> ny -> ru -> sv -> ka -> af -> bs -> ga -> mn -> eo -> zu -> pt -> iw -> ha -> en
 ORIGINAL:   Zit! Spotted DUKE ELLINGTON: Take the 'A' Train
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Inhabit!Duke Ellington: Take the boat.
 ------------------------------------------------------------
 KEY:        [T182_12]
-HOPS:       pending
+HOPS:       en -> az -> ur -> ceb -> my -> hu -> de -> co -> ny -> ru -> sv -> ka -> af -> bs -> ga -> mn -> eo -> zu -> pt -> iw -> ha -> en
 ORIGINAL:   Zit! Spotted BILLY COBHAM: Stratus
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: lightning!Billy Cobham See: Stratus
 ------------------------------------------------------------
 KEY:        [T182_13]
-HOPS:       pending
+HOPS:       en -> az -> ur -> ceb -> my -> hu -> de -> co -> ny -> ru -> sv -> ka -> af -> bs -> ga -> mn -> eo -> zu -> pt -> iw -> ha -> en
 ORIGINAL:   Zit! Spotted TOM SCOTT AND THE L.A. EXPRESS: Sneakin' In The Back
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: zip!I saw Tom Scott and LA Express: Hidden Behind.
 ------------------------------------------------------------
 KEY:        [T182_14]
-HOPS:       pending
+HOPS:       en -> az -> ur -> ceb -> my -> hu -> de -> co -> ny -> ru -> sv -> ka -> af -> bs -> ga -> mn -> eo -> zu -> pt -> iw -> ha -> en
 ORIGINAL:   Zit! Spotted DAVID AXELROD: Holy Thursday
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Flash!David Axelrod Found: Sick Thursday!
 ------------------------------------------------------------
 KEY:        [T182_15]
-HOPS:       pending
+HOPS:       en -> az -> ur -> ceb -> my -> hu -> de -> co -> ny -> ru -> sv -> ka -> af -> bs -> ga -> mn -> eo -> zu -> pt -> iw -> ha -> en
 ORIGINAL:   Zit! Spotted DAVID MCCALLUM: The Edge
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Zip!Saw: The Edge by David McCallum
 ------------------------------------------------------------
 KEY:        [T182_16]
-HOPS:       pending
+HOPS:       en -> it -> uk -> or -> az -> gl -> am -> is -> eu -> lb -> fi -> yo -> sq -> tg -> ur -> eo -> la -> ne -> te -> lv -> ceb -> en
 ORIGINAL:   Zit! Spotted ALEKSANDER MALISZEWSKI: Pokusa
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Wait!Alexander Malishevsky said: One thing
 ------------------------------------------------------------
 KEY:        [T182_17]
-HOPS:       pending
+HOPS:       en -> it -> uk -> or -> az -> gl -> am -> is -> eu -> lb -> fi -> yo -> sq -> tg -> ur -> eo -> la -> ne -> te -> lv -> ceb -> en
 ORIGINAL:   Zit! Spotted RYO KAWASAKI: Raisins
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Wait!Erio Kawasaki Appearance: Next
 ------------------------------------------------------------
 KEY:        [T182_18]
-HOPS:       pending
+HOPS:       en -> it -> uk -> or -> az -> gl -> am -> is -> eu -> lb -> fi -> yo -> sq -> tg -> ur -> eo -> la -> ne -> te -> lv -> ceb -> en
 ORIGINAL:   Zit! Spotted GONG: Heavy Tune
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Wait!Gong Dog: Heavy Music
 ------------------------------------------------------------
 KEY:        [T182_19]
-HOPS:       pending
+HOPS:       en -> it -> uk -> or -> az -> gl -> am -> is -> eu -> lb -> fi -> yo -> sq -> tg -> ur -> eo -> la -> ne -> te -> lv -> ceb -> en
 ORIGINAL:   Zit! Spotted MARC MOULIN: Stomp
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sweet morning!Birthday Mark Mole: Coconut
 ------------------------------------------------------------
 KEY:        [T182_20]
-HOPS:       pending
+HOPS:       en -> it -> uk -> or -> az -> gl -> am -> is -> eu -> lb -> fi -> yo -> sq -> tg -> ur -> eo -> la -> ne -> te -> lv -> ceb -> en
 ORIGINAL:   Zit! Spotted GROVER WASHINGTON, JR: Knucklehead
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Wait!Standgrover Washington JR: Fakehead
 ------------------------------------------------------------
 KEY:        [T182_21]
-HOPS:       pending
+HOPS:       en -> it -> eu -> bs -> my -> be -> pt -> mn -> no -> fy -> ny -> gl -> ro -> mk -> km -> ceb -> iw -> es -> ko -> st -> hu -> en
 ORIGINAL:   Zit! Spotted ROY AYERS: Funk In The Hole
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Shut up!Roy Ayers: There's a punk hole.
 ------------------------------------------------------------
 KEY:        [T182_22]
-HOPS:       pending
+HOPS:       en -> it -> eu -> bs -> my -> be -> pt -> mn -> no -> fy -> ny -> gl -> ro -> mk -> km -> ceb -> iw -> es -> ko -> st -> hu -> en
 ORIGINAL:   Zit! Spotted THE WHO: The Seeker
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Be quiet! Who: The video is a search engine.
 ------------------------------------------------------------
 KEY:        [T182_23]
-HOPS:       pending
+HOPS:       en -> it -> eu -> bs -> my -> be -> pt -> mn -> no -> fy -> ny -> gl -> ro -> mk -> km -> ceb -> iw -> es -> ko -> st -> hu -> en
 ORIGINAL:   Zit! Spotted PHILIP GLASS: Pruit Igoe
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Keep calm!Philips glasses: Protect your senses
 ------------------------------------------------------------
 KEY:        [T182_24]
-HOPS:       pending
+HOPS:       en -> it -> eu -> bs -> my -> be -> pt -> mn -> no -> fy -> ny -> gl -> ro -> mk -> km -> ceb -> iw -> es -> ko -> st -> hu -> en
 ORIGINAL:   Zit! Spotted STYLES P: What's the problem
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Quiet!Range Model Q: What's the problem?
 ------------------------------------------------------------
 KEY:        [T182_25]
-HOPS:       pending
+HOPS:       en -> it -> eu -> bs -> my -> be -> pt -> mn -> no -> fy -> ny -> gl -> ro -> mk -> km -> ceb -> iw -> es -> ko -> st -> hu -> en
 ORIGINAL:   Zit! Spotted CREATIVE SOURCE: Who Is He And What Is He To You
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: closed
 ------------------------------------------------------------
 KEY:        [T182_26]
-HOPS:       pending
+HOPS:       en -> ny -> km -> gu -> mg -> zh-cn -> az -> zu -> co -> eo -> th -> fy -> cy -> am -> ceb -> lt -> hu -> mt -> ka -> el -> ml -> en
 ORIGINAL:   Zit! Spotted MANDRILL: Livin'It Up
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: What do you do when you see Mandrill: I'm still alive.
 ------------------------------------------------------------
 KEY:        [T182_27]
-HOPS:       pending
+HOPS:       en -> ny -> km -> gu -> mg -> zh-cn -> az -> zu -> co -> eo -> th -> fy -> cy -> am -> ceb -> lt -> hu -> mt -> ka -> el -> ml -> en
 ORIGINAL:   Zit! Spotted THE O'JAYS: Give The People What They Want
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: See Ojai: Give the people what they want.
 ------------------------------------------------------------
 KEY:        [T182_29]
-HOPS:       pending
+HOPS:       en -> ny -> km -> gu -> mg -> zh-cn -> az -> zu -> co -> eo -> th -> fy -> cy -> am -> ceb -> lt -> hu -> mt -> ka -> el -> ml -> en
 ORIGINAL:   Zit! Spotted MANU DIBANGO: New Bell
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Meets Manu Dibango: The New Call
 ------------------------------------------------------------
 KEY:        [T182_30]
-HOPS:       pending
+HOPS:       en -> ny -> km -> gu -> mg -> zh-cn -> az -> zu -> co -> eo -> th -> fy -> cy -> am -> ceb -> lt -> hu -> mt -> ka -> el -> ml -> en
 ORIGINAL:   Zit! Spotted RAMP: Daylight
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: RAMP Takeover Time: Noon
 ------------------------------------------------------------
 KEY:        [T182_31]
-HOPS:       pending
+HOPS:       en -> ny -> km -> gu -> mg -> zh-cn -> az -> zu -> co -> eo -> th -> fy -> cy -> am -> ceb -> lt -> hu -> mt -> ka -> el -> ml -> en
 ORIGINAL:   Zit! Spotted THE METERS: Just Kissed My Baby
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: We!Limbs: I kissed my son.
 ------------------------------------------------------------
 KEY:        [T182_32]
-HOPS:       pending
+HOPS:       en -> be -> sv -> az -> ig -> id -> uz -> xh -> sw -> ht -> ky -> ko -> lo -> ha -> ga -> tr -> pl -> tl -> mr -> hi -> sd -> en
 ORIGINAL:   Zit! Spotted FELA KUTI: Sorrow,Tears & Blood
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: speak up!A terrible box is ready: sorrow, tears, blood
 ------------------------------------------------------------
 KEY:        [T182_34]
-HOPS:       pending
+HOPS:       en -> be -> sv -> az -> ig -> id -> uz -> xh -> sw -> ht -> ky -> ko -> lo -> ha -> ga -> tr -> pl -> tl -> mr -> hi -> sd -> en
 ORIGINAL:   Zit! Spotted FEMI KUTI: Truth Don Die
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Chat!Anonymous Quote FEMI: The most important thing is that the money is gone.
 ------------------------------------------------------------
 KEY:        [T182_35]
-HOPS:       pending
+HOPS:       en -> be -> sv -> az -> ig -> id -> uz -> xh -> sw -> ht -> ky -> ko -> lo -> ha -> ga -> tr -> pl -> tl -> mr -> hi -> sd -> en
 ORIGINAL:   Zit! Spotted LONNIE LISTON SMITH: A Chance For Peace
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Golden!Lonnie Liston Smith writes: A Chance for Peace
 ------------------------------------------------------------
 KEY:        [T182_36]
-HOPS:       pending
+HOPS:       en -> be -> sv -> az -> ig -> id -> uz -> xh -> sw -> ht -> ky -> ko -> lo -> ha -> ga -> tr -> pl -> tl -> mr -> hi -> sd -> en
 ORIGINAL:   Zit! Spotted UNCLE MURDA: Anybody Can Get It
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Before you speak, remember!: Anyone can buy.
 ------------------------------------------------------------
 KEY:        [T182_37]
-HOPS:       pending
+HOPS:       en -> be -> sv -> az -> ig -> id -> uz -> xh -> sw -> ht -> ky -> ko -> lo -> ha -> ga -> tr -> pl -> tl -> mr -> hi -> sd -> en
 ORIGINAL:   Zit! Spotted FELA KUTI: Zombie
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: City of Hope! Box: Groom
 ------------------------------------------------------------
 KEY:        [T182_38]
-HOPS:       pending
+HOPS:       en -> mt -> ro -> ru -> af -> haw -> is -> et -> be -> sn -> zu -> hr -> id -> zh-tw -> ka -> ms -> hu -> lt -> nl -> ar -> zh-cn -> en
 ORIGINAL:   Zit! Spotted MAXIMUM PENALTY: All Your Boyz
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: ice!Maximum punishment means all of you, Boyz.
 ------------------------------------------------------------
 KEY:        [T182_39]
-HOPS:       pending
+HOPS:       en -> mt -> ro -> ru -> af -> haw -> is -> et -> be -> sn -> zu -> hr -> id -> zh-tw -> ka -> ms -> hu -> lt -> nl -> ar -> zh-cn -> en
 ORIGINAL:   Zit! Spotted BAD BRAINS: Right Brigade
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Stay!Watch Bad Boys: Judge Squad.
 ------------------------------------------------------------
 KEY:        [T182_40]
-HOPS:       pending
+HOPS:       en -> mt -> ro -> ru -> af -> haw -> is -> et -> be -> sn -> zu -> hr -> id -> zh-tw -> ka -> ms -> hu -> lt -> nl -> ar -> zh-cn -> en
 ORIGINAL:   Zit! Spotted SHEER TERROR: Just Can't Hate Enough LIVE
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Be!Spot!Spotted Horror: You can't hate beauty
 ------------------------------------------------------------
 KEY:        [T182_42]
-HOPS:       pending
+HOPS:       en -> mt -> ro -> ru -> af -> haw -> is -> et -> be -> sn -> zu -> hr -> id -> zh-tw -> ka -> ms -> hu -> lt -> nl -> ar -> zh-cn -> en
 ORIGINAL:   Zit! Spotted SICK OF IT ALL: Injustice System
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Ice!Also known as "Total Suffering: An Unfair System"
 ------------------------------------------------------------
 KEY:        [T182_44]
-HOPS:       pending
+HOPS:       en -> mt -> ro -> ru -> af -> haw -> is -> et -> be -> sn -> zu -> hr -> id -> zh-tw -> ka -> ms -> hu -> lt -> nl -> ar -> zh-cn -> en
 ORIGINAL:   Zit! Spotted UNDERDOG: Back To Back
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Stay!NOTE OFF: RETURN
 ------------------------------------------------------------
 KEY:        [T182_45]
-HOPS:       pending
+HOPS:       en -> ta -> pt -> fi -> az -> ky -> kk -> si -> haw -> ka -> xh -> zh-cn -> ja -> tl -> ur -> so -> my -> gu -> ar -> ug -> lv -> en
 ORIGINAL:   Zit! Spotted AGNOSTIC FRONT: Victim In Pain
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Oh! The World's Greatest Atheist: Pain!
 ------------------------------------------------------------
 KEY:        [T182_46]
-HOPS:       pending
+HOPS:       en -> ta -> pt -> fi -> az -> ky -> kk -> si -> haw -> ka -> xh -> zh-cn -> ja -> tl -> ur -> so -> my -> gu -> ar -> ug -> lv -> en
 ORIGINAL:   Zit! Spotted MURPHY'S LAW : A Day In The Life
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Yes!Murphy's Law: A Day in the Life
 ------------------------------------------------------------
 KEY:        [T182_47]
-HOPS:       pending
+HOPS:       en -> ta -> pt -> fi -> az -> ky -> kk -> si -> haw -> ka -> xh -> zh-cn -> ja -> tl -> ur -> so -> my -> gu -> ar -> ug -> lv -> en
 ORIGINAL:   Zit! Spotted KILLING TIME: Tell Tale
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Zed!Time to Kill: A Brief History
 ------------------------------------------------------------
 KEY:        [T182_48]
-HOPS:       pending
+HOPS:       en -> ta -> pt -> fi -> az -> ky -> kk -> si -> haw -> ka -> xh -> zh-cn -> ja -> tl -> ur -> so -> my -> gu -> ar -> ug -> lv -> en
 ORIGINAL:   Zit! Spotted CERRONE: Supernature
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Quite the contrary! Siren's place: on top
 ------------------------------------------------------------
 KEY:        [T182_49]
-HOPS:       pending
+HOPS:       en -> ta -> pt -> fi -> az -> ky -> kk -> si -> haw -> ka -> xh -> zh-cn -> ja -> tl -> ur -> so -> my -> gu -> ar -> ug -> lv -> en
 ORIGINAL:   Zit! Spotted GINO SOCCIO: Dancer
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Bar!・ Striker Gino Sucio: Oh my God!
 ------------------------------------------------------------
 KEY:        [T182_50]
-HOPS:       pending
+HOPS:       en -> sk -> ne -> de -> uk -> ps -> km -> co -> ku -> lv -> gu -> fr -> sr -> sm -> iw -> yi -> mt -> ny -> nl -> zh-cn -> my -> en
 ORIGINAL:   Zit! Spotted RAINBOW BROWN: Till You Surrender
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: I'm going!
 ------------------------------------------------------------
 KEY:        [T182_51]
-HOPS:       pending
+HOPS:       en -> sk -> ne -> de -> uk -> ps -> km -> co -> ku -> lv -> gu -> fr -> sr -> sm -> iw -> yi -> mt -> ny -> nl -> zh-cn -> my -> en
 ORIGINAL:   Zit! Spotted HARRY THUMANN: Underwater
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Harry Thomas: Give it to me.
 ------------------------------------------------------------
 KEY:        [T182_52]
-HOPS:       pending
+HOPS:       en -> sk -> ne -> de -> uk -> ps -> km -> co -> ku -> lv -> gu -> fr -> sr -> sm -> iw -> yi -> mt -> ny -> nl -> zh-cn -> my -> en
 ORIGINAL:   Zit! Spotted ELECTRIK FUNK: On A Journey
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: They saw something!Electronic Funk: Research
 ------------------------------------------------------------
 KEY:        [T182_53]
-HOPS:       pending
+HOPS:       en -> sk -> ne -> de -> uk -> ps -> km -> co -> ku -> lv -> gu -> fr -> sr -> sm -> iw -> yi -> mt -> ny -> nl -> zh-cn -> my -> en
 ORIGINAL:   Zit! Spotted DON RAY: Standing In The Rain
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Groom!Don Wright Discovers: Rain
 ------------------------------------------------------------
 KEY:        [T182_54]
-HOPS:       pending
+HOPS:       en -> sk -> ne -> de -> uk -> ps -> km -> co -> ku -> lv -> gu -> fr -> sr -> sm -> iw -> yi -> mt -> ny -> nl -> zh-cn -> my -> en
 ORIGINAL:   Zit! Spotted PETER BROWN: Burning Love Breakdown
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Peter Brown: First Love
 ------------------------------------------------------------
 KEY:        [T182_55]
-HOPS:       pending
+HOPS:       en -> hr -> it -> ne -> si -> km -> ms -> bn -> vi -> lb -> et -> kn -> ga -> sr -> id -> so -> lv -> ht -> sm -> kk -> lt -> en
 ORIGINAL:   Zit! Spotted SKATT BROS.: Walk The Night
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Relax!SKATT Bros: Sallef Time Walk.
 ------------------------------------------------------------
 KEY:        [T182_56]
-HOPS:       pending
+HOPS:       en -> hr -> it -> ne -> si -> km -> ms -> bn -> vi -> lb -> et -> kn -> ga -> sr -> id -> so -> lv -> ht -> sm -> kk -> lt -> en
 ORIGINAL:   Zit! Spotted SUZY Q: Get On Up And Do It Again
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Diamonds!SUZI P SeeConstruction and reconstruction
 ------------------------------------------------------------
 KEY:        [T182_58]
-HOPS:       pending
+HOPS:       en -> hr -> it -> ne -> si -> km -> ms -> bn -> vi -> lb -> et -> kn -> ga -> sr -> id -> so -> lv -> ht -> sm -> kk -> lt -> en
 ORIGINAL:   Zit! Spotted JEAN MICHEL JARRE: Oxygene Pt.4
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Jean-Michel Jarre Barvernay: Oxygen CD.4
 ------------------------------------------------------------
 KEY:        [T182_59]
-HOPS:       pending
+HOPS:       en -> hr -> it -> ne -> si -> km -> ms -> bn -> vi -> lb -> et -> kn -> ga -> sr -> id -> so -> lv -> ht -> sm -> kk -> lt -> en
 ORIGINAL:   Zit! Spotted RAY LYNCH: The Oh Of Pleasure
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Stop!Find Ray Lynch: Oh God!
 ------------------------------------------------------------
 KEY:        [T182_60]
-HOPS:       pending
+HOPS:       en -> hr -> it -> ne -> si -> km -> ms -> bn -> vi -> lb -> et -> kn -> ga -> sr -> id -> so -> lv -> ht -> sm -> kk -> lt -> en
 ORIGINAL:   Zit! Spotted STEVE ROACH: Arrival
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Stop!Concerned Steve Roach: KTbon
 ------------------------------------------------------------
 KEY:        [T182_62]
-HOPS:       pending
+HOPS:       en -> ha -> ug -> ky -> or -> ms -> kk -> zh-tw -> vi -> sv -> fa -> mr -> fr -> eu -> haw -> am -> pl -> gu -> lv -> su -> hu -> en
 ORIGINAL:   Zit! Spotted APHEX TWIN: Selected Ambient Works Vol. II CD2, TRK5
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: ZH!HANG APHEX TWIN: Selected local works Volume 2 CD2, TRK5
 ------------------------------------------------------------
 KEY:        [T182_63]
-HOPS:       pending
+HOPS:       en -> ha -> ug -> ky -> or -> ms -> kk -> zh-tw -> vi -> sv -> fa -> mr -> fr -> eu -> haw -> am -> pl -> gu -> lv -> su -> hu -> en
 ORIGINAL:   Zit! Spotted TANGERINE DREAM: Remote Viewing
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Time! Tangerine Dream: The Future
 ------------------------------------------------------------
 KEY:        [T182_65]
-HOPS:       pending
+HOPS:       en -> ha -> ug -> ky -> or -> ms -> kk -> zh-tw -> vi -> sv -> fa -> mr -> fr -> eu -> haw -> am -> pl -> gu -> lv -> su -> hu -> en
 ORIGINAL:   Zit! Spotted Global Communication: 5:23
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Time!Web exclusive: 17:23.
 ------------------------------------------------------------
 KEY:        [T182_66]
-HOPS:       pending
+HOPS:       en -> ha -> ug -> ky -> or -> ms -> kk -> zh-tw -> vi -> sv -> fa -> mr -> fr -> eu -> haw -> am -> pl -> gu -> lv -> su -> hu -> en
 ORIGINAL:   Zit! Spotted BOB MARLEY & THE WAILERS AND DAMIAN MARLEY: Stand Up Jamrock
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Hurry! Bob Marley, Will and Damian Marley: Stop!
 ------------------------------------------------------------
 KEY:        [T182_67]
-HOPS:       pending
+HOPS:       en -> ha -> ug -> ky -> or -> ms -> kk -> zh-tw -> vi -> sv -> fa -> mr -> fr -> eu -> haw -> am -> pl -> gu -> lv -> su -> hu -> en
 ORIGINAL:   Zit! Spotted BOB MARLEY & THE WAILERS: Wake Up And Live
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Update!Bob Marley and the Freemans: Long and Tall
 ------------------------------------------------------------
 KEY:        [T182_68]
-HOPS:       pending
+HOPS:       en -> pt -> gu -> tr -> ja -> haw -> bs -> ceb -> ig -> lo -> hmn -> az -> sl -> tg -> zu -> my -> eo -> cs -> iw -> sn -> km -> en
 ORIGINAL:   Zit! Spotted BOB MARLEY & THE WAILERS: Rebel Music (3 O'Clock Roadblock)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Scratch that!Watch Bob Marley and The Wailers: The Music of Rebellion (3 hours).
 ------------------------------------------------------------
 KEY:        [T182_69]
-HOPS:       pending
+HOPS:       en -> pt -> gu -> tr -> ja -> haw -> bs -> ceb -> ig -> lo -> hmn -> az -> sl -> tg -> zu -> my -> eo -> cs -> iw -> sn -> km -> en
 ORIGINAL:   Zit! Spotted BOB MARLEY & THE WAILERS: So Much Trouble In The World
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Bob Marley and The Wailers: War of the Worlds
 ------------------------------------------------------------
 KEY:        [T182_70]
-HOPS:       pending
+HOPS:       en -> pt -> gu -> tr -> ja -> haw -> bs -> ceb -> ig -> lo -> hmn -> az -> sl -> tg -> zu -> my -> eo -> cs -> iw -> sn -> km -> en
 ORIGINAL:   Zit! Spotted STEPHEN MARLEY: Chase Dem
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Igbo! Stephen Marley Cast: Chase Damm
 ------------------------------------------------------------
 KEY:        [T182_71]
-HOPS:       pending
+HOPS:       en -> pt -> gu -> tr -> ja -> haw -> bs -> ceb -> ig -> lo -> hmn -> az -> sl -> tg -> zu -> my -> eo -> cs -> iw -> sn -> km -> en
 ORIGINAL:   Zit! Spotted BOB MARLEY & THE WAILERS: Rat Race
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: JIT! Bob Marley and Rotten Whalers: The Challenge
 ------------------------------------------------------------
 KEY:        [T182_72]
-HOPS:       pending
+HOPS:       en -> pt -> gu -> tr -> ja -> haw -> bs -> ceb -> ig -> lo -> hmn -> az -> sl -> tg -> zu -> my -> eo -> cs -> iw -> sn -> km -> en
 ORIGINAL:   Zit! Spotted BOB MARLEY & THE WAILERS: Pimper's Paradise
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Bob Marley and the Cry: Pimp's Paradise
 ------------------------------------------------------------
 KEY:        [T182_73]
-HOPS:       pending
+HOPS:       en -> so -> mn -> yi -> es -> sk -> la -> tr -> az -> mk -> el -> hi -> id -> ne -> si -> pl -> ru -> gl -> sm -> hmn -> mr -> en
 ORIGINAL:   Zit! Spotted BOB MARLEY & THE WAILERS: Concrete Jungle
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Bob Marley sadly: I've seen wild rocks
 ------------------------------------------------------------
 KEY:        [T182_74]
-HOPS:       pending
+HOPS:       en -> so -> mn -> yi -> es -> sk -> la -> tr -> az -> mk -> el -> hi -> id -> ne -> si -> pl -> ru -> gl -> sm -> hmn -> mr -> en
 ORIGINAL:   Zit! Spotted SOS BAND: Just Be Good To Me
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Grupo Zit!Baron SOS: I agree
 ------------------------------------------------------------
 KEY:        [T182_75]
-HOPS:       pending
+HOPS:       en -> so -> mn -> yi -> es -> sk -> la -> tr -> az -> mk -> el -> hi -> id -> ne -> si -> pl -> ru -> gl -> sm -> hmn -> mr -> en
 ORIGINAL:   Zit! Spotted RAHEEM DEVAUGHN: You
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down!I saw Rahim Devgan: You
 ------------------------------------------------------------
 KEY:        [T182_76]
-HOPS:       pending
+HOPS:       en -> so -> mn -> yi -> es -> sk -> la -> tr -> az -> mk -> el -> hi -> id -> ne -> si -> pl -> ru -> gl -> sm -> hmn -> mr -> en
 ORIGINAL:   Zit! Spotted CASSIE: Me & U
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Easy! Cassie saw: You and me
 ------------------------------------------------------------
 KEY:        [T182_77]
-HOPS:       pending
+HOPS:       en -> so -> mn -> yi -> es -> sk -> la -> tr -> az -> mk -> el -> hi -> id -> ne -> si -> pl -> ru -> gl -> sm -> hmn -> mr -> en
 ORIGINAL:   Zit! Spotted JODECI: Freek 'n You
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Ryder: Nice to meet you.
 ------------------------------------------------------------
 KEY:        [T182_78]
-HOPS:       pending
+HOPS:       en -> sw -> zh-cn -> ka -> fr -> ky -> lb -> ht -> hr -> gu -> tr -> kk -> tg -> yi -> ny -> ceb -> el -> fi -> hy -> sq -> nl -> en
 ORIGINAL:   Zit! Spotted MINNIE RIPERTON: Inside My Love
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Note: Saw Mini Riperton.My love:
 ------------------------------------------------------------
 KEY:        [T182_79]
-HOPS:       pending
+HOPS:       en -> sw -> zh-cn -> ka -> fr -> ky -> lb -> ht -> hr -> gu -> tr -> kk -> tg -> yi -> ny -> ceb -> el -> fi -> hy -> sq -> nl -> en
 ORIGINAL:   Zit! Spotted DRU HILL: In My Bed (So So Def Mix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Be careful!WOOD I saw the mountain.My Bed (So, So, Def Mix)
 ------------------------------------------------------------
 KEY:        [T182_80]
-HOPS:       pending
+HOPS:       en -> sw -> zh-cn -> ka -> fr -> ky -> lb -> ht -> hr -> gu -> tr -> kk -> tg -> yi -> ny -> ceb -> el -> fi -> hy -> sq -> nl -> en
 ORIGINAL:   Zit! Spotted THE ISLEY BROTHERS: Footsteps In The Dark
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Be careful.Look for the Isley Brothers.Keys of darkness
 ------------------------------------------------------------
 KEY:        [T182_81]
-HOPS:       pending
+HOPS:       en -> sw -> zh-cn -> ka -> fr -> ky -> lb -> ht -> hr -> gu -> tr -> kk -> tg -> yi -> ny -> ceb -> el -> fi -> hy -> sq -> nl -> en
 ORIGINAL:   Zit! Spotted JILL SCOTT: Golden
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Note: Meet Jill Scott
 ------------------------------------------------------------
 KEY:        [T182_82]
-HOPS:       pending
+HOPS:       en -> sw -> zh-cn -> ka -> fr -> ky -> lb -> ht -> hr -> gu -> tr -> kk -> tg -> yi -> ny -> ceb -> el -> fi -> hy -> sq -> nl -> en
 ORIGINAL:   Zit! Spotted FREDDIE JACKSON: Have You Ever Loved Somebody
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Be careful.Look at Freddie Jackson.Have you ever loved someone?
 ------------------------------------------------------------
 KEY:        [T182_83]
-HOPS:       pending
+HOPS:       en -> ca -> co -> ne -> eo -> ko -> bn -> sn -> hmn -> sr -> te -> mr -> hi -> uk -> vi -> st -> ht -> iw -> mn -> th -> ru -> en
 ORIGINAL:   Zit! Spotted ALEXANDER O'NEAL: Criticize
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: I hate it! Meet Alexander O'Neal: Review
 ------------------------------------------------------------
 KEY:        [T182_84]
-HOPS:       pending
+HOPS:       en -> ca -> co -> ne -> eo -> ko -> bn -> sn -> hmn -> sr -> te -> mr -> hi -> uk -> vi -> st -> ht -> iw -> mn -> th -> ru -> en
 ORIGINAL:   Zit! Spotted MARVIN GAYE: Inner City Blues (Make Me Wanna Holler)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: I hate it! Marvin Gaye: Finding the Sorrow in the City (I think he's screaming)
 ------------------------------------------------------------
 KEY:        [T182_85]
-HOPS:       pending
+HOPS:       en -> ca -> co -> ne -> eo -> ko -> bn -> sn -> hmn -> sr -> te -> mr -> hi -> uk -> vi -> st -> ht -> iw -> mn -> th -> ru -> en
 ORIGINAL:   Zit! Spotted GINUWINE: Pony
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Pom!Ginuwin: Fixed.
 ------------------------------------------------------------
 KEY:        [T182_86]
-HOPS:       pending
+HOPS:       en -> ca -> co -> ne -> eo -> ko -> bn -> sn -> hmn -> sr -> te -> mr -> hi -> uk -> vi -> st -> ht -> iw -> mn -> th -> ru -> en
 ORIGINAL:   Zit! Spotted BARRY WHITE: It's Only Love Doing Its Thing
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Barry White Tactics: I want to create my own.
 ------------------------------------------------------------
 KEY:        [T182_88]
-HOPS:       pending
+HOPS:       en -> ca -> co -> ne -> eo -> ko -> bn -> sn -> hmn -> sr -> te -> mr -> hi -> uk -> vi -> st -> ht -> iw -> mn -> th -> ru -> en
 ORIGINAL:   Zit! Spotted LOOSE ENDS: Hangin' On A String (Contemplating)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: I don't like it!Whatever you say stops: in the form (of thought).
 ------------------------------------------------------------
 KEY:        [T182_89]
-HOPS:       pending
+HOPS:       en -> pa -> sn -> ja -> fi -> sd -> eo -> ml -> or -> si -> af -> pl -> lt -> lv -> ne -> so -> gu -> th -> zu -> cs -> de -> en
 ORIGINAL:   Zit! Spotted SERYOGA: The Invasion
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Courage!Age of Corruption: Invasion
 ------------------------------------------------------------
 KEY:        [T182_90]
-HOPS:       pending
+HOPS:       en -> pa -> sn -> ja -> fi -> sd -> eo -> ml -> or -> si -> af -> pl -> lt -> lv -> ne -> so -> gu -> th -> zu -> cs -> de -> en
 ORIGINAL:   Zit! Spotted CJ: I Want You
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: In the womb!CJ Points: I love you.
 ------------------------------------------------------------
 KEY:        [T182_91]
-HOPS:       pending
+HOPS:       en -> pa -> sn -> ja -> fi -> sd -> eo -> ml -> or -> si -> af -> pl -> lt -> lv -> ne -> so -> gu -> th -> zu -> cs -> de -> en
 ORIGINAL:   Zit! Spotted R. KELLY: Bump N' Grind
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Knock!Joe R. Kelly: Listen.
 ------------------------------------------------------------
 KEY:        [T182_92]
-HOPS:       pending
+HOPS:       en -> pa -> sn -> ja -> fi -> sd -> eo -> ml -> or -> si -> af -> pl -> lt -> lv -> ne -> so -> gu -> th -> zu -> cs -> de -> en
 ORIGINAL:   Zit! Spotted LCD SOUNDSYSTEM: Get Innocuous!
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Good!Spot LCD sound system: Perfect!
 ------------------------------------------------------------
 KEY:        [T182_93]
-HOPS:       pending
+HOPS:       en -> pa -> sn -> ja -> fi -> sd -> eo -> ml -> or -> si -> af -> pl -> lt -> lv -> ne -> so -> gu -> th -> zu -> cs -> de -> en
 ORIGINAL:   Zit! Spotted THE BOGGS: Arm In Arm (Shy Child Remix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Go!Mistakes: Shoulder to Shoulder (Whoosh Kid Remix)
 ------------------------------------------------------------
 KEY:        [T182_94]
-HOPS:       pending
+HOPS:       en -> yi -> ro -> mi -> ka -> af -> lo -> id -> lt -> lv -> pt -> mr -> et -> tl -> gu -> gd -> az -> nl -> be -> st -> yo -> en
 ORIGINAL:   Zit! Spotted HUMMINGBIRD: You Can't Hide
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Stand!Collector: You can't put it
 ------------------------------------------------------------
 KEY:        [T182_95]
-HOPS:       pending
+HOPS:       en -> yi -> ro -> mi -> ka -> af -> lo -> id -> lt -> lv -> pt -> mr -> et -> tl -> gu -> gd -> az -> nl -> be -> st -> yo -> en
 ORIGINAL:   Zit! Spotted LES SAVY FAV: Raging In The Plague Age
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Check it out!Favorite Wireless Trick: The End of Wicked Threads
 ------------------------------------------------------------
 KEY:        [T182_96]
-HOPS:       pending
+HOPS:       en -> yi -> ro -> mi -> ka -> af -> lo -> id -> lt -> lv -> pt -> mr -> et -> tl -> gu -> gd -> az -> nl -> be -> st -> yo -> en
 ORIGINAL:   Zit! Spotted BUSTA RHYMES: Where's My Money
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Wait!Take Basta Remus: Where's My Money?
 ------------------------------------------------------------
 KEY:        [T182_97]
-HOPS:       pending
+HOPS:       en -> yi -> ro -> mi -> ka -> af -> lo -> id -> lt -> lv -> pt -> mr -> et -> tl -> gu -> gd -> az -> nl -> be -> st -> yo -> en
 ORIGINAL:   Zit! Spotted UNKLE: Mayday (Featuring Duke Spirit)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Brother Symbol: Mayday (by Duke Spirit)
 ------------------------------------------------------------
 KEY:        [T182_98]
-HOPS:       pending
+HOPS:       en -> yi -> ro -> mi -> ka -> af -> lo -> id -> lt -> lv -> pt -> mr -> et -> tl -> gu -> gd -> az -> nl -> be -> st -> yo -> en
 ORIGINAL:   Zit! Spotted TOM VEK: One Horse Race
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Check!Get Tom Wake: The Horse Race
 ------------------------------------------------------------
 KEY:        [T182_99]
-HOPS:       pending
+HOPS:       en -> it -> de -> ht -> id -> tg -> ro -> ta -> hmn -> lo -> ka -> bg -> mr -> lv -> gl -> mi -> sd -> hi -> ru -> be -> ky -> en
 ORIGINAL:   Zit! Spotted CHEESEBURGER: Cocaine
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Shirt!Zerburger Macchiato: Cocaine
 ------------------------------------------------------------
 KEY:        [T182_100]
-HOPS:       pending
+HOPS:       en -> it -> de -> ht -> id -> tg -> ro -> ta -> hmn -> lo -> ka -> bg -> mr -> lv -> gl -> mi -> sd -> hi -> ru -> be -> ky -> en
 ORIGINAL:   Zit! Spotted THE PISTOLAS: Take It With A Kiss
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Show Ho!Zam: Kiss
 ------------------------------------------------------------
 KEY:        [T182_101]
-HOPS:       pending
+HOPS:       en -> it -> de -> ht -> id -> tg -> ro -> ta -> hmn -> lo -> ka -> bg -> mr -> lv -> gl -> mi -> sd -> hi -> ru -> be -> ky -> en
 ORIGINAL:   Zit! Spotted WHITEY: Wrap It Up
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: violation
 ------------------------------------------------------------
 KEY:        [T182_102]
-HOPS:       pending
+HOPS:       en -> it -> de -> ht -> id -> tg -> ro -> ta -> hmn -> lo -> ka -> bg -> mr -> lv -> gl -> mi -> sd -> hi -> ru -> be -> ky -> en
 ORIGINAL:   Zit! Spotted !!!: Yadnus (Still Going To The Roadhouse Mix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Hot!See!!!: Yadness (World Roadhouse Mix)
 ------------------------------------------------------------
 KEY:        [T182_104]
-HOPS:       pending
+HOPS:       en -> it -> de -> ht -> id -> tg -> ro -> ta -> hmn -> lo -> ka -> bg -> mr -> lv -> gl -> mi -> sd -> hi -> ru -> be -> ky -> en
 ORIGINAL:   Zit! Spotted QUEEN: One Vision
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Queen of Hate Photos: A Look
 ------------------------------------------------------------
 KEY:        [T182_105]
-HOPS:       pending
+HOPS:       en -> gl -> zh-tw -> yi -> tr -> jw -> nl -> be -> ar -> fi -> mk -> az -> el -> da -> sq -> my -> ko -> fr -> or -> su -> ta -> en
 ORIGINAL:   Zit! Spotted HEART: Straight On
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Awesome!Hardpoint Shape: Smooth
 ------------------------------------------------------------
 KEY:        [T182_107]
-HOPS:       pending
+HOPS:       en -> gl -> zh-tw -> yi -> tr -> jw -> nl -> be -> ar -> fi -> mk -> az -> el -> da -> sq -> my -> ko -> fr -> or -> su -> ta -> en
 ORIGINAL:   Zit! Spotted JOE WALSH: Rocky Mountain Way
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: ow!Joe Wall Quest: Road to the Rockies
 ------------------------------------------------------------
 KEY:        [T182_108]
-HOPS:       pending
+HOPS:       en -> gl -> zh-tw -> yi -> tr -> jw -> nl -> be -> ar -> fi -> mk -> az -> el -> da -> sq -> my -> ko -> fr -> or -> su -> ta -> en
 ORIGINAL:   Zit! Spotted ELTON JOHN: Street Kids
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Ouch! Elton John Reed: Street Children
 ------------------------------------------------------------
 KEY:        [T182_109]
-HOPS:       pending
+HOPS:       en -> gl -> zh-tw -> yi -> tr -> jw -> nl -> be -> ar -> fi -> mk -> az -> el -> da -> sq -> my -> ko -> fr -> or -> su -> ta -> en
 ORIGINAL:   Zit! Spotted THE BLACK CROWES: Remedy
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Ah! Black Crow - Solution!
 ------------------------------------------------------------
 KEY:        [T182_111]
-HOPS:       pending
+HOPS:       en -> gl -> zh-tw -> yi -> tr -> jw -> nl -> be -> ar -> fi -> mk -> az -> el -> da -> sq -> my -> ko -> fr -> or -> su -> ta -> en
 ORIGINAL:   Zit! Spotted IGGY POP: I Wanna Be Your Dog
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Ouch!Iggy Bob Spot: I want to be your dog!
 ------------------------------------------------------------
 KEY:        [T182_113]
-HOPS:       pending
+HOPS:       en -> pl -> az -> ug -> hr -> et -> ml -> mg -> ru -> sd -> so -> no -> sr -> la -> ja -> si -> ca -> cs -> ky -> sk -> yi -> en
 ORIGINAL:   Zit! Spotted GENESIS: Mama
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Salsa!Child Status: Mother
 ------------------------------------------------------------
 KEY:        [T182_114]
-HOPS:       pending
+HOPS:       en -> pl -> az -> ug -> hr -> et -> ml -> mg -> ru -> sd -> so -> no -> sr -> la -> ja -> si -> ca -> cs -> ky -> sk -> yi -> en
 ORIGINAL:   Zit! Spotted BOB SEGER & THE SILVER BULLET BAND: Her Strut
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Snippet!Bob Seger Steele and the Silver Bull Orchestra: His praise
 ------------------------------------------------------------
 KEY:        [T182_115]
-HOPS:       pending
+HOPS:       en -> pl -> az -> ug -> hr -> et -> ml -> mg -> ru -> sd -> so -> no -> sr -> la -> ja -> si -> ca -> cs -> ky -> sk -> yi -> en
 ORIGINAL:   Zit! Spotted ZZ TOP: Thug
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Please cite!pp from: Vol
 ------------------------------------------------------------
 KEY:        [T182_116]
-HOPS:       pending
+HOPS:       en -> pl -> az -> ug -> hr -> et -> ml -> mg -> ru -> sd -> so -> no -> sr -> la -> ja -> si -> ca -> cs -> ky -> sk -> yi -> en
 ORIGINAL:   Zit! Spotted WAR: Galaxy
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: War for the Mind: Galaxy
 ------------------------------------------------------------
 KEY:        [T182_117]
-HOPS:       pending
+HOPS:       en -> pl -> az -> ug -> hr -> et -> ml -> mg -> ru -> sd -> so -> no -> sr -> la -> ja -> si -> ca -> cs -> ky -> sk -> yi -> en
 ORIGINAL:   Zit! Spotted GODLEY & CRÈME: Cry
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Fragment!God of Evil and Crime: Weep
 ------------------------------------------------------------
 KEY:        [T182_118]
-HOPS:       pending
+HOPS:       en -> vi -> hi -> uk -> st -> lb -> bn -> pl -> te -> sn -> kn -> et -> lt -> haw -> cs -> ga -> gu -> pa -> sw -> or -> ceb -> en
 ORIGINAL:   Zit! Spotted HELLO: New York Groove
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: TSIE!AM: I got the New York location
 ------------------------------------------------------------
 KEY:        [T182_120]
-HOPS:       pending
+HOPS:       en -> vi -> hi -> uk -> st -> lb -> bn -> pl -> te -> sn -> kn -> et -> lt -> haw -> cs -> ga -> gu -> pa -> sw -> or -> ceb -> en
 ORIGINAL:   Zit! Spotted THE SISTERS OF MERCY: Dominion / Mother Russia
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Seeking Lovers: Government / Russia
 ------------------------------------------------------------
 KEY:        [T182_121]
-HOPS:       pending
+HOPS:       en -> vi -> hi -> uk -> st -> lb -> bn -> pl -> te -> sn -> kn -> et -> lt -> haw -> cs -> ga -> gu -> pa -> sw -> or -> ceb -> en
 ORIGINAL:   Zit! Spotted Q LAZZARUS: Goodbye Horses
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Here it is! Words about Lazarus: Horse talk
 ------------------------------------------------------------
 KEY:        [T182_123]
-HOPS:       pending
+HOPS:       en -> vi -> hi -> uk -> st -> lb -> bn -> pl -> te -> sn -> kn -> et -> lt -> haw -> cs -> ga -> gu -> pa -> sw -> or -> ceb -> en
 ORIGINAL:   Zit! Spotted STEVE MARRIOTT'S SCRUBBERS: Cocaine
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: It's time!Steve Marriott's washing machine is: Cocaine
 ------------------------------------------------------------
 KEY:        [T182_124]
-HOPS:       pending
+HOPS:       en -> vi -> hi -> uk -> st -> lb -> bn -> pl -> te -> sn -> kn -> et -> lt -> haw -> cs -> ga -> gu -> pa -> sw -> or -> ceb -> en
 ORIGINAL:   Zit! Spotted THIN LIZZY: Jailbreak
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Here's another one!Lizzy Slim Ara: Gel
 ------------------------------------------------------------
 KEY:        [T182_125]
-HOPS:       pending
+HOPS:       en -> zh-cn -> pl -> ne -> ka -> sk -> sn -> zu -> hu -> fr -> ug -> uz -> so -> es -> cy -> ig -> mr -> be -> ta -> lv -> ur -> en
 ORIGINAL:   Zit! Spotted R.E.M.: Turn You Inside Out
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Yes!R.E.M Commitment: Catch Me
 ------------------------------------------------------------
 KEY:        [T182_126]
-HOPS:       pending
+HOPS:       en -> zh-cn -> pl -> ne -> ka -> sk -> sn -> zu -> hu -> fr -> ug -> uz -> so -> es -> cy -> ig -> mr -> be -> ta -> lv -> ur -> en
 ORIGINAL:   Zit! Spotted GOLDFRAPP: Ooh La La
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Place!Fred Goldfrapp: Oh la la
 ------------------------------------------------------------
 KEY:        [T182_127]
-HOPS:       pending
+HOPS:       en -> zh-cn -> pl -> ne -> ka -> sk -> sn -> zu -> hu -> fr -> ug -> uz -> so -> es -> cy -> ig -> mr -> be -> ta -> lv -> ur -> en
 ORIGINAL:   Zit! Spotted RICK JAMES: Come Into My Life
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Thanks!Looking for Rick James: In My Life
 ------------------------------------------------------------
 KEY:        [T182_128]
-HOPS:       pending
+HOPS:       en -> zh-cn -> pl -> ne -> ka -> sk -> sn -> zu -> hu -> fr -> ug -> uz -> so -> es -> cy -> ig -> mr -> be -> ta -> lv -> ur -> en
 ORIGINAL:   Zit! Spotted MYSTIKAL: Shake Ya Ass
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Topic: Kids!Know the Secret: Move it.
 ------------------------------------------------------------
 KEY:        [T182_137]
-HOPS:       pending
+HOPS:       en -> zh-cn -> pl -> ne -> ka -> sk -> sn -> zu -> hu -> fr -> ug -> uz -> so -> es -> cy -> ig -> mr -> be -> ta -> lv -> ur -> en
 ORIGINAL:   Zit! Spotted DON OMAR: Salio El Sol
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Meet Don Omar: Salvation El Sol
 ------------------------------------------------------------
 KEY:        [T182_138]
-HOPS:       pending
+HOPS:       en -> uz -> zu -> no -> sr -> zh-cn -> eo -> fa -> et -> bg -> ka -> az -> pl -> lo -> ceb -> sd -> fi -> sw -> nl -> la -> hi -> en
 ORIGINAL:   Zit! Spotted HECTOR EL FATHER: Maldades
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down!Hector El-Pedri See: Maldad
 ------------------------------------------------------------
 KEY:        [T182_139]
-HOPS:       pending
+HOPS:       en -> uz -> zu -> no -> sr -> zh-cn -> eo -> fa -> et -> bg -> ka -> az -> pl -> lo -> ceb -> sd -> fi -> sw -> nl -> la -> hi -> en
 ORIGINAL:   Zit! Spotted TITO EL BAMBINO: Siente El Boom (Remix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Get up!Watch Tito El Bambino: Siente El Boom (Remix).
 ------------------------------------------------------------
 KEY:        [T182_140]
-HOPS:       pending
+HOPS:       en -> uz -> zu -> no -> sr -> zh-cn -> eo -> fa -> et -> bg -> ka -> az -> pl -> lo -> ceb -> sd -> fi -> sw -> nl -> la -> hi -> en
 ORIGINAL:   Zit! Spotted WISIN Y YANDEL: Sexy Movimiento
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sweetness is defined by VIN and IDEL.
 ------------------------------------------------------------
 KEY:        [T182_141]
-HOPS:       pending
+HOPS:       en -> uz -> zu -> no -> sr -> zh-cn -> eo -> fa -> et -> bg -> ka -> az -> pl -> lo -> ceb -> sd -> fi -> sw -> nl -> la -> hi -> en
 ORIGINAL:   Zit! Spotted CALLE 13: Atrevete-te-te
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Phone Skins 13: Dare-to-You
 ------------------------------------------------------------
 KEY:        [T182_142]
-HOPS:       pending
+HOPS:       en -> uz -> zu -> no -> sr -> zh-cn -> eo -> fa -> et -> bg -> ka -> az -> pl -> lo -> ceb -> sd -> fi -> sw -> nl -> la -> hi -> en
 ORIGINAL:   Zit! Spotted DADDY YANKEE: Impacto
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Zit!The Great Father of the Yankees: Influence
 ------------------------------------------------------------
 KEY:        [T182_143]
-HOPS:       pending
+HOPS:       en -> haw -> ht -> pa -> fa -> fy -> zh-tw -> lt -> am -> id -> no -> yo -> ru -> tr -> ig -> ur -> eu -> hu -> km -> tg -> si -> en
 ORIGINAL:   Zit! Spotted VOLTIO: Ponmela
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Here we are!Voltio: Look.Pomera
 ------------------------------------------------------------
 KEY:        [T182_145]
-HOPS:       pending
+HOPS:       en -> haw -> ht -> pa -> fa -> fy -> zh-tw -> lt -> am -> id -> no -> yo -> ru -> tr -> ig -> ur -> eu -> hu -> km -> tg -> si -> en
 ORIGINAL:   Zit! Spotted LLOYD: Get It Shawty
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down!Mark Lloyd: Don't worry
 ------------------------------------------------------------
 KEY:        [T182_146]
-HOPS:       pending
+HOPS:       en -> haw -> ht -> pa -> fa -> fy -> zh-tw -> lt -> am -> id -> no -> yo -> ru -> tr -> ig -> ur -> eu -> hu -> km -> tg -> si -> en
 ORIGINAL:   Zit! Spotted NE - YO: Because Of You
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down! Brand NE-U: For you
 ------------------------------------------------------------
 KEY:        [T182_151]
-HOPS:       pending
+HOPS:       en -> haw -> ht -> pa -> fa -> fy -> zh-tw -> lt -> am -> id -> no -> yo -> ru -> tr -> ig -> ur -> eu -> hu -> km -> tg -> si -> en
 ORIGINAL:   Zit! Spotted GET SHAKES: Disneyland Part 1
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down!Watch Get Shack Episode 1: Disneyland
 ------------------------------------------------------------
 KEY:        [T182_152]
-HOPS:       pending
+HOPS:       en -> haw -> ht -> pa -> fa -> fy -> zh-tw -> lt -> am -> id -> no -> yo -> ru -> tr -> ig -> ur -> eu -> hu -> km -> tg -> si -> en
 ORIGINAL:   Zit! Spotted DELUKA: Sleep Is Impossible
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down! DeLuca's trick: I can't sleep.
 ------------------------------------------------------------
 KEY:        [T182_153]
-HOPS:       pending
+HOPS:       en -> cs -> mg -> ky -> bs -> ceb -> no -> sv -> is -> ta -> zu -> vi -> fy -> ur -> ny -> ht -> ko -> so -> af -> mn -> iw -> en
 ORIGINAL:   Zit! Spotted BOBBY KONDERS: Intro
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Ri!Spot Bobby Contres: Introduction
 ------------------------------------------------------------
 KEY:        [T182_154]
-HOPS:       pending
+HOPS:       en -> cs -> mg -> ky -> bs -> ceb -> no -> sv -> is -> ta -> zu -> vi -> fy -> ur -> ny -> ht -> ko -> so -> af -> mn -> iw -> en
 ORIGINAL:   Zit! Spotted BURRO BANTON: Badder Den Dem
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down!Fake Fenton Brother: Badr Den Dam
 ------------------------------------------------------------
 KEY:        [T182_155]
-HOPS:       pending
+HOPS:       en -> cs -> mg -> ky -> bs -> ceb -> no -> sv -> is -> ta -> zu -> vi -> fy -> ur -> ny -> ht -> ko -> so -> af -> mn -> iw -> en
 ORIGINAL:   Zit! Spotted CHOPPA CHOP: Set It Off
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit!Soap Warning: Corpse
 ------------------------------------------------------------
 KEY:        [T182_156]
-HOPS:       pending
+HOPS:       en -> cs -> mg -> ky -> bs -> ceb -> no -> sv -> is -> ta -> zu -> vi -> fy -> ur -> ny -> ht -> ko -> so -> af -> mn -> iw -> en
 ORIGINAL:   Zit! Spotted MAVADO: Real Mckoy
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Wait! Mabato location: The original McCoy
 ------------------------------------------------------------
 KEY:        [T182_157]
-HOPS:       pending
+HOPS:       en -> cs -> mg -> ky -> bs -> ceb -> no -> sv -> is -> ta -> zu -> vi -> fy -> ur -> ny -> ht -> ko -> so -> af -> mn -> iw -> en
 ORIGINAL:   Zit! Spotted JABBA: Raise It Up
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down!Japanese Instructions: Status
 ------------------------------------------------------------
 KEY:        [T182_158]
-HOPS:       pending
+HOPS:       en -> hu -> sq -> si -> gu -> es -> it -> mk -> sr -> cs -> eo -> sv -> cy -> ga -> am -> xh -> zh-cn -> hi -> hy -> kk -> el -> en
 ORIGINAL:   Zit! Spotted BUNJI GARLIN: Brrrt
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Whitman Garin Wenji.Brrrt:
 ------------------------------------------------------------
 KEY:        [T182_159]
-HOPS:       pending
+HOPS:       en -> hu -> sq -> si -> gu -> es -> it -> mk -> sr -> cs -> eo -> sv -> cy -> ga -> am -> xh -> zh-cn -> hi -> hy -> kk -> el -> en
 ORIGINAL:   Zit! Spotted RICHIE SPICE: Youth Dem Cold
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Wake Up Dirty Richie Spice!Cool little devil
 ------------------------------------------------------------
 KEY:        [T182_160]
-HOPS:       pending
+HOPS:       en -> hu -> sq -> si -> gu -> es -> it -> mk -> sr -> cs -> eo -> sv -> cy -> ga -> am -> xh -> zh-cn -> hi -> hy -> kk -> el -> en
 ORIGINAL:   Zit! Spotted CHUCK FENDA: All About Da Weed
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Zit!Froch Chuck Fenda.All About Da Vida
 ------------------------------------------------------------
 KEY:        [T182_161]
-HOPS:       pending
+HOPS:       en -> hu -> sq -> si -> gu -> es -> it -> mk -> sr -> cs -> eo -> sv -> cy -> ga -> am -> xh -> zh-cn -> hi -> hy -> kk -> el -> en
 ORIGINAL:   Zit! Spotted CHEZIDEK: Call Pon Dem
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Call Zit Mark!Chazidis.Pon Dam
 ------------------------------------------------------------
 KEY:        [T182_162]
-HOPS:       pending
+HOPS:       en -> hu -> sq -> si -> gu -> es -> it -> mk -> sr -> cs -> eo -> sv -> cy -> ga -> am -> xh -> zh-cn -> hi -> hy -> kk -> el -> en
 ORIGINAL:   Zit! Spotted MAVADO: Last Night
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: But Kunu Mafudo.Last night
 ------------------------------------------------------------
 KEY:        [T182_163]
-HOPS:       pending
+HOPS:       en -> te -> ps -> fa -> hr -> sm -> af -> be -> ha -> tg -> pa -> de -> yo -> ml -> or -> tr -> sl -> et -> gu -> bg -> zh-cn -> en
 ORIGINAL:   Zit! Spotted SPRAGGA BENZ: Da Order
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Music Producer VS: It’s Your Turn
 ------------------------------------------------------------
 KEY:        [T182_164]
-HOPS:       pending
+HOPS:       en -> te -> ps -> fa -> hr -> sm -> af -> be -> ha -> tg -> pa -> de -> yo -> ml -> or -> tr -> sl -> et -> gu -> bg -> zh-cn -> en
 ORIGINAL:   Zit! Spotted BOUNTY KILLER: Bullet Proof Skin
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Reaction bonus!Critical Damage: Locked
 ------------------------------------------------------------
 KEY:        [T182_165]
-HOPS:       pending
+HOPS:       en -> te -> ps -> fa -> hr -> sm -> af -> be -> ha -> tg -> pa -> de -> yo -> ml -> or -> tr -> sl -> et -> gu -> bg -> zh-cn -> en
 ORIGINAL:   Zit! Spotted SHAGGY: Church Heathen
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Squirt!Only one thing: the honor of the church
 ------------------------------------------------------------
 KEY:        [T182_166]
-HOPS:       pending
+HOPS:       en -> te -> ps -> fa -> hr -> sm -> af -> be -> ha -> tg -> pa -> de -> yo -> ml -> or -> tr -> sl -> et -> gu -> bg -> zh-cn -> en
 ORIGINAL:   Zit! Spotted MUNGA: No Fraid A
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Squirt!Dangerous Orchids: Burning
 ------------------------------------------------------------
 KEY:        [T182_167]
-HOPS:       pending
+HOPS:       en -> te -> ps -> fa -> hr -> sm -> af -> be -> ha -> tg -> pa -> de -> yo -> ml -> or -> tr -> sl -> et -> gu -> bg -> zh-cn -> en
 ORIGINAL:   Zit! Spotted BUJU BANTON: Driver
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Answer!Bozo Benton Notes: Administrator
 ------------------------------------------------------------
 KEY:        [T182_168]
-HOPS:       pending
+HOPS:       en -> ig -> hmn -> yo -> fa -> co -> lv -> uz -> sk -> is -> ru -> ur -> ps -> lt -> pt -> zu -> kk -> tl -> sm -> ug -> no -> en
 ORIGINAL:   Zit! Spotted PADDED CELL: Signal Failure
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Target Zit!Registration failed: Signaling failed.
 ------------------------------------------------------------
 KEY:        [T182_169]
-HOPS:       pending
+HOPS:       en -> ig -> hmn -> yo -> fa -> co -> lv -> uz -> sk -> is -> ru -> ur -> ps -> lt -> pt -> zu -> kk -> tl -> sm -> ug -> no -> en
 ORIGINAL:   Zit! Spotted BLACK DEVIL DISCO CLUB: The Devil In Us (Dub)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Time!Black Bond Eso Ray: The Devil Within (Black)
 ------------------------------------------------------------
 KEY:        [T182_170]
-HOPS:       pending
+HOPS:       en -> ig -> hmn -> yo -> fa -> co -> lv -> uz -> sk -> is -> ru -> ur -> ps -> lt -> pt -> zu -> kk -> tl -> sm -> ug -> no -> en
 ORIGINAL:   Zit! Spotted ONE + ONE : No Pressure (Deadmau5 Remix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Stop!ONE + ONE: Nobody (Deadmau5 Remix).
 ------------------------------------------------------------
 KEY:        [T182_171]
-HOPS:       pending
+HOPS:       en -> ig -> hmn -> yo -> fa -> co -> lv -> uz -> sk -> is -> ru -> ur -> ps -> lt -> pt -> zu -> kk -> tl -> sm -> ug -> no -> en
 ORIGINAL:   Zit! Spotted ALEX GOPHER: Brain Leech (Bugged Mind Remix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Don't forget the cat!Alex Jeffers: The Mind Lich.
 ------------------------------------------------------------
 KEY:        [T182_172]
-HOPS:       pending
+HOPS:       en -> ig -> hmn -> yo -> fa -> co -> lv -> uz -> sk -> is -> ru -> ur -> ps -> lt -> pt -> zu -> kk -> tl -> sm -> ug -> no -> en
 ORIGINAL:   Zit! Spotted K.I.M.: B.T.T.T.T.R.Y. (Bag Raiders Remix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Zayt!Ebe K.I.M.: B.T.T.T.T.R.Y.(Big Riders Remix)
 ------------------------------------------------------------
 KEY:        [T182_173]
-HOPS:       pending
+HOPS:       en -> nl -> bg -> be -> sm -> ko -> gd -> mi -> my -> su -> si -> th -> vi -> no -> eu -> da -> gl -> jw -> la -> or -> es -> en
 ORIGINAL:   Zit! Spotted SIMIAN MOBILE DISCO: Tits & Acid
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Cit!Simian Mobile Milk and Sugar Disco
 ------------------------------------------------------------
 KEY:        [T182_174]
-HOPS:       pending
+HOPS:       en -> nl -> bg -> be -> sm -> ko -> gd -> mi -> my -> su -> si -> th -> vi -> no -> eu -> da -> gl -> jw -> la -> or -> es -> en
 ORIGINAL:   Zit! Spotted NITZER EBB: Let Your Body Learn
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: NITZER EBB SIT: Find out
 ------------------------------------------------------------
 KEY:        [T182_175]
-HOPS:       pending
+HOPS:       en -> nl -> bg -> be -> sm -> ko -> gd -> mi -> my -> su -> si -> th -> vi -> no -> eu -> da -> gl -> jw -> la -> or -> es -> en
 ORIGINAL:   Zit! Spotted KAVINSKY: Testarossa (Sebastian Remix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: More about Zit!Cavinsky: Testarossa (Sebastian Remix).
 ------------------------------------------------------------
 KEY:        [T182_176]
-HOPS:       pending
+HOPS:       en -> nl -> bg -> be -> sm -> ko -> gd -> mi -> my -> su -> si -> th -> vi -> no -> eu -> da -> gl -> jw -> la -> or -> es -> en
 ORIGINAL:   Zit! Spotted CHRIS LAKE VS DEADMAU5 : I Thought Inside Out (Original Mix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: A promise!QUOTE: CHRIS LAKE VS DEADMAU5: JADI RAYANG (ORIGINAL MIX)
 ------------------------------------------------------------
 KEY:        [T182_177]
-HOPS:       pending
+HOPS:       en -> nl -> bg -> be -> sm -> ko -> gd -> mi -> my -> su -> si -> th -> vi -> no -> eu -> da -> gl -> jw -> la -> or -> es -> en
 ORIGINAL:   Zit! Spotted BOYS NOIZE: & Down
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down! Scratch Boy: And go to sleep!
 ------------------------------------------------------------
 KEY:        [T182_178]
-HOPS:       pending
+HOPS:       en -> ta -> hu -> ko -> it -> bs -> ig -> ro -> ca -> hr -> mn -> so -> vi -> lb -> my -> tr -> xh -> ne -> nl -> gu -> ru -> en
 ORIGINAL:   Zit! Spotted JUSTICE: Waters Of Nazareth
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Description of the game Win Points!: Land of Nazareth
 ------------------------------------------------------------
 KEY:        [T182_179]
-HOPS:       pending
+HOPS:       en -> ta -> hu -> ko -> it -> bs -> ig -> ro -> ca -> hr -> mn -> so -> vi -> lb -> my -> tr -> xh -> ne -> nl -> gu -> ru -> en
 ORIGINAL:   Zit! Spotted KILLING JOKE: Turn To Red
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Yiddish!Fear of death Image: I'm ashamed.
 ------------------------------------------------------------
 KEY:        [T182_180]
-HOPS:       pending
+HOPS:       en -> ta -> hu -> ko -> it -> bs -> ig -> ro -> ca -> hr -> mn -> so -> vi -> lb -> my -> tr -> xh -> ne -> nl -> gu -> ru -> en
 ORIGINAL:   Zit! Spotted PLAYGROUP: Make It Happen (Instrumental)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: How!Playset: Full (fast)
 ------------------------------------------------------------
 KEY:        [T182_181]
-HOPS:       pending
+HOPS:       en -> ta -> hu -> ko -> it -> bs -> ig -> ro -> ca -> hr -> mn -> so -> vi -> lb -> my -> tr -> xh -> ne -> nl -> gu -> ru -> en
 ORIGINAL:   Zit! Spotted LIQUID LIQUID: Optimo
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Water is called victory! point is the best.
 ------------------------------------------------------------
 KEY:        [T182_182]
-HOPS:       pending
+HOPS:       en -> ta -> hu -> ko -> it -> bs -> ig -> ro -> ca -> hr -> mn -> so -> vi -> lb -> my -> tr -> xh -> ne -> nl -> gu -> ru -> en
 ORIGINAL:   Zit! Spotted BOB MARLEY & THE WAILERS: Satisfy My Soul
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Video Wall Bob Marley and The Wailers: Enjoy!
 ------------------------------------------------------------
 KEY:        [T182_183]
-HOPS:       pending
+HOPS:       en -> mr -> ha -> ko -> pt -> sk -> th -> de -> xh -> te -> eu -> so -> si -> or -> haw -> tr -> ka -> it -> eo -> ms -> am -> en
 ORIGINAL:   Zit! Spotted GREENSKEEPERS: Vagabond
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: E!Fre: Shepherd
 ------------------------------------------------------------
 KEY:        [T182_184]
-HOPS:       pending
+HOPS:       en -> mr -> ha -> ko -> pt -> sk -> th -> de -> xh -> te -> eu -> so -> si -> or -> haw -> tr -> ka -> it -> eo -> ms -> am -> en
 ORIGINAL:   Zit! Spotted JULIETTE AND THE LICKS: Inside The Cage (David Gilmour Girls Remix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down
 ------------------------------------------------------------
 KEY:        [T182_185]
-HOPS:       pending
+HOPS:       en -> mr -> ha -> ko -> pt -> sk -> th -> de -> xh -> te -> eu -> so -> si -> or -> haw -> tr -> ka -> it -> eo -> ms -> am -> en
 ORIGINAL:   Zit! Spotted MAINO: Get Away Driver
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down! Sir found: The driver went there
 ------------------------------------------------------------
 KEY:        [T182_186]
-HOPS:       pending
+HOPS:       en -> mr -> ha -> ko -> pt -> sk -> th -> de -> xh -> te -> eu -> so -> si -> or -> haw -> tr -> ka -> it -> eo -> ms -> am -> en
 ORIGINAL:   Zit! Spotted RED CAFÉ: Stick'm
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit! Brown Color: Sticky
 ------------------------------------------------------------
 KEY:        [T182_187]
-HOPS:       pending
+HOPS:       en -> mr -> ha -> ko -> pt -> sk -> th -> de -> xh -> te -> eu -> so -> si -> or -> haw -> tr -> ka -> it -> eo -> ms -> am -> en
 ORIGINAL:   Zit! Spotted TRU LIFE: Wet 'em Up
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down! Real life: Wet
 ------------------------------------------------------------
 KEY:        [T182_188]
-HOPS:       pending
+HOPS:       en -> or -> sq -> sr -> kn -> es -> it -> lt -> so -> pl -> su -> th -> xh -> vi -> ht -> ku -> uz -> ny -> tl -> kk -> hi -> en
 ORIGINAL:   Zit! Spotted JOHNNY POLYGON: Price On Your Head
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Keep quiet!
 ------------------------------------------------------------
 KEY:        [T182_190]
-HOPS:       pending
+HOPS:       en -> or -> sq -> sr -> kn -> es -> it -> lt -> so -> pl -> su -> th -> xh -> vi -> ht -> ku -> uz -> ny -> tl -> kk -> hi -> en
 ORIGINAL:   Zit! Spotted GROUP HOME : Supa Star
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Quote!Degit Group Page: Sufa Star
 ------------------------------------------------------------
 KEY:        [T182_192]
-HOPS:       pending
+HOPS:       en -> or -> sq -> sr -> kn -> es -> it -> lt -> so -> pl -> su -> th -> xh -> vi -> ht -> ku -> uz -> ny -> tl -> kk -> hi -> en
 ORIGINAL:   Zit! Spotted SPECIAL ED: I Got It Made
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Tell!Spot Special Edition: I heard.
 ------------------------------------------------------------
 KEY:        [T182_193]
-HOPS:       pending
+HOPS:       en -> or -> sq -> sr -> kn -> es -> it -> lt -> so -> pl -> su -> th -> xh -> vi -> ht -> ku -> uz -> ny -> tl -> kk -> hi -> en
 ORIGINAL:   Zit! Spotted JERU THE DAMAJA: D. Original
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: What a hell! Njola Zero Damage: T. Behavior
 ------------------------------------------------------------
 KEY:        [T182_195]
-HOPS:       pending
+HOPS:       en -> or -> sq -> sr -> kn -> es -> it -> lt -> so -> pl -> su -> th -> xh -> vi -> ht -> ku -> uz -> ny -> tl -> kk -> hi -> en
 ORIGINAL:   Zit! Spotted MC LYTE: Cha Cha Cha
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Word to Light!MC: Cha Cha
 ------------------------------------------------------------
 KEY:        [T182_196]
-HOPS:       pending
+HOPS:       en -> cy -> mr -> ga -> yi -> ha -> es -> ka -> mi -> lb -> kn -> zu -> sl -> sd -> gu -> ca -> fr -> sv -> pl -> bs -> or -> en
 ORIGINAL:   Zit! Spotted AUDIO 2 : Top Billin'
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sta!Audio :: A tall building is announced
 ------------------------------------------------------------
 KEY:        [T182_197]
-HOPS:       pending
+HOPS:       en -> cy -> mr -> ga -> yi -> ha -> es -> ka -> mi -> lb -> kn -> zu -> sl -> sd -> gu -> ca -> fr -> sv -> pl -> bs -> or -> en
 ORIGINAL:   Zit! Spotted STETASONIC : Go Stetsa
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Keep up the good work!About Statasonic: Go to Statasonic
 ------------------------------------------------------------
 KEY:        [T182_198]
-HOPS:       pending
+HOPS:       en -> cy -> mr -> ga -> yi -> ha -> es -> ka -> mi -> lb -> kn -> zu -> sl -> sd -> gu -> ca -> fr -> sv -> pl -> bs -> or -> en
 ORIGINAL:   Zit! Spotted T LA ROCK & JAZZY JAY : It's Yours
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Victory!T La Rock and Jazzy Jay Note: This is me
 ------------------------------------------------------------
 KEY:        [T182_199]
-HOPS:       pending
+HOPS:       en -> cy -> mr -> ga -> yi -> ha -> es -> ka -> mi -> lb -> kn -> zu -> sl -> sd -> gu -> ca -> fr -> sv -> pl -> bs -> or -> en
 ORIGINAL:   Zit! Spotted GANG STARR: Who's Gonna Take The Weight?
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Arise! Star R Team Commentary: Who Wants Equality?
 ------------------------------------------------------------
 KEY:        [T182_200]
-HOPS:       pending
+HOPS:       en -> cy -> mr -> ga -> yi -> ha -> es -> ka -> mi -> lb -> kn -> zu -> sl -> sd -> gu -> ca -> fr -> sv -> pl -> bs -> or -> en
 ORIGINAL:   Zit! Spotted MAIN SOURCE: Live At The Barbeque
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Red!Topic 1: Burning Life
 ------------------------------------------------------------
 KEY:        [T182_201]
-HOPS:       pending
+HOPS:       en -> so -> fr -> xh -> ku -> vi -> yi -> bs -> yo -> af -> fy -> kk -> mt -> sq -> ga -> or -> si -> da -> sk -> mr -> ta -> en
 ORIGINAL:   Zit! Spotted THE BLACK KEYS: Strange Times
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Bus!Black Salmon: Found at odd times
 ------------------------------------------------------------
 KEY:        [T182_202]
-HOPS:       pending
+HOPS:       en -> so -> fr -> xh -> ku -> vi -> yi -> bs -> yo -> af -> fy -> kk -> mt -> sq -> ga -> or -> si -> da -> sk -> mr -> ta -> en
 ORIGINAL:   Zit! Spotted TEENAGER: Pony
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down!Omo pa:fe
 ------------------------------------------------------------
 KEY:        [T182_203]
-HOPS:       pending
+HOPS:       en -> so -> fr -> xh -> ku -> vi -> yi -> bs -> yo -> af -> fy -> kk -> mt -> sq -> ga -> or -> si -> da -> sk -> mr -> ta -> en
 ORIGINAL:   Zit! Spotted WHITE LIGHT PARADE: Riot In The City
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit Down!With White Light Show: Riots in the City
 ------------------------------------------------------------
 KEY:        [T182_204]
-HOPS:       pending
+HOPS:       en -> so -> fr -> xh -> ku -> vi -> yi -> bs -> yo -> af -> fy -> kk -> mt -> sq -> ga -> or -> si -> da -> sk -> mr -> ta -> en
 ORIGINAL:   Zit! Spotted THE VIRGINS: One Week Of Danger
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down!Girls: Terrible week
 ------------------------------------------------------------
 KEY:        [T182_205]
-HOPS:       pending
+HOPS:       en -> so -> fr -> xh -> ku -> vi -> yi -> bs -> yo -> af -> fy -> kk -> mt -> sq -> ga -> or -> si -> da -> sk -> mr -> ta -> en
 ORIGINAL:   Zit! Spotted SWIZZ BEATZ: Top Down
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down! SWIZZ BEATZ: Watch below
 ------------------------------------------------------------
 KEY:        [T182_206]
-HOPS:       pending
+HOPS:       en -> ht -> fi -> tg -> xh -> ceb -> zu -> ar -> pl -> ml -> sv -> co -> fy -> pt -> be -> it -> eu -> mi -> km -> mn -> lo -> en
 ORIGINAL:   Zit! Spotted NAS: War Is Necessary
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Suu!Takte NAS: War on Demand
 ------------------------------------------------------------
 KEY:        [T182_207]
-HOPS:       pending
+HOPS:       en -> ht -> fi -> tg -> xh -> ceb -> zu -> ar -> pl -> ml -> sv -> co -> fy -> pt -> be -> it -> eu -> mi -> km -> mn -> lo -> en
 ORIGINAL:   Zit! Spotted KAYNE WEST FEAT. DWELE: Flashing Lights
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Stay fit!DWELE's Kane West Finds: A bright light
 ------------------------------------------------------------
 KEY:        [T182_208]
-HOPS:       pending
+HOPS:       en -> ht -> fi -> tg -> xh -> ceb -> zu -> ar -> pl -> ml -> sv -> co -> fy -> pt -> be -> it -> eu -> mi -> km -> mn -> lo -> en
 ORIGINAL:   Zit! Spotted JOELL ORTIZ: Hip-Hop (Remix Feat. Jadakiss & Saigon)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Change! Joel Ortiz: Hip Hop (Jadakiss & Saigon Remix)
 ------------------------------------------------------------
 KEY:        [T182_210]
-HOPS:       pending
+HOPS:       en -> ht -> fi -> tg -> xh -> ceb -> zu -> ar -> pl -> ml -> sv -> co -> fy -> pt -> be -> it -> eu -> mi -> km -> mn -> lo -> en
 ORIGINAL:   Zit! Spotted MOBB DEEP: Dirty New Yorker
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Oil!Dirty Dirty: Dirty New Yorker
 ------------------------------------------------------------
 KEY:        [T182_211]
-HOPS:       pending
+HOPS:       en -> ht -> fi -> tg -> xh -> ceb -> zu -> ar -> pl -> ml -> sv -> co -> fy -> pt -> be -> it -> eu -> mi -> km -> mn -> lo -> en
 ORIGINAL:   Zit! Spotted GHOSTFACE KILLAH FEAT. KID CAPRI: We Celebrate
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Stop!Spotted Ghostface Killah ft.KID CAPRI: Let's celebrate
 ------------------------------------------------------------
 KEY:        [T182_212]
-HOPS:       pending
+HOPS:       en -> ro -> uz -> iw -> mt -> my -> sv -> co -> fy -> or -> sl -> sr -> fi -> eu -> ko -> te -> be -> ny -> zh-tw -> zu -> sd -> en
 ORIGINAL:   Zit! Spotted STYLES P: Blow Your Mind (Remix Feat. Jadakiss & Sheek Louch)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Say It! Visual Style P: Your Thoughts (Recreated by Jadaquis and Sheik Loach)
 ------------------------------------------------------------
 KEY:        [T182_213]
-HOPS:       pending
+HOPS:       en -> ro -> uz -> iw -> mt -> my -> sv -> co -> fy -> or -> sl -> sr -> fi -> eu -> ko -> te -> be -> ny -> zh-tw -> zu -> sd -> en
 ORIGINAL:   Zit! Spotted PAPOOSE: Stylin'
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Yay!Papus Note: Style
 ------------------------------------------------------------
 KEY:        [T182_214]
-HOPS:       pending
+HOPS:       en -> ro -> uz -> iw -> mt -> my -> sv -> co -> fy -> or -> sl -> sr -> fi -> eu -> ko -> te -> be -> ny -> zh-tw -> zu -> sd -> en
 ORIGINAL:   Zit! Spotted QADIR: Nickname
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Time!Attention: Nick
 ------------------------------------------------------------
 KEY:        [T182_250]
-HOPS:       pending
+HOPS:       en -> ro -> uz -> iw -> mt -> my -> sv -> co -> fy -> or -> sl -> sr -> fi -> eu -> ko -> te -> be -> ny -> zh-tw -> zu -> sd -> en
 ORIGINAL:   Zit! Spotted THE ROLLING STONES: Fingerprint
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Stand up!Rolling Stone Revealed: The Album
 ------------------------------------------------------------
 KEY:        [T182_251]
-HOPS:       pending
+HOPS:       en -> ro -> uz -> iw -> mt -> my -> sv -> co -> fy -> or -> sl -> sr -> fi -> eu -> ko -> te -> be -> ny -> zh-tw -> zu -> sd -> en
 ORIGINAL:   Zit! Spotted THE RAPTURE: No Sex For Ben
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Stand up!Sex: There is no pure sex.
 ------------------------------------------------------------
 KEY:        [T182_252]
-HOPS:       pending
+HOPS:       en -> sr -> ta -> sw -> gd -> ig -> lt -> fi -> vi -> xh -> hy -> ka -> bn -> te -> ny -> ha -> tr -> iw -> eu -> pl -> tg -> en
 ORIGINAL:   Zit! Spotted CELEBRATION: Fly The Fly (Holy Fuck Remix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: HELLO!Feature: Fly The Fly (Holy Fuck Remix)
 ------------------------------------------------------------
 KEY:        [T182_290]
-HOPS:       pending
+HOPS:       en -> sr -> ta -> sw -> gd -> ig -> lt -> fi -> vi -> xh -> hy -> ka -> bn -> te -> ny -> ha -> tr -> iw -> eu -> pl -> tg -> en
 ORIGINAL:   Zit! Has not spotted your track. You must be listening to some obscure shit.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Success!He can't see his feet.You hear amazing things.
 ------------------------------------------------------------
 KEY:        [T182_291]
-HOPS:       pending
+HOPS:       en -> sr -> ta -> sw -> gd -> ig -> lt -> fi -> vi -> xh -> hy -> ka -> bn -> te -> ny -> ha -> tr -> iw -> eu -> pl -> tg -> en
 ORIGINAL:   Zit! Has been unable to spot your track. Please try again with some decent music.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Success!We could not find your song.Try again with a better song.
 ------------------------------------------------------------
 KEY:        [T182_292]
-HOPS:       pending
+HOPS:       en -> sr -> ta -> sw -> gd -> ig -> lt -> fi -> vi -> xh -> hy -> ka -> bn -> te -> ny -> ha -> tr -> iw -> eu -> pl -> tg -> en
 ORIGINAL:   Zit! Regrets to inform you that your second rate track cannot be spotted.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Igboa!Unfortunately we couldn't watch your second song.
 ------------------------------------------------------------
 KEY:        [T182_293]
-HOPS:       pending
+HOPS:       en -> sr -> ta -> sw -> gd -> ig -> lt -> fi -> vi -> xh -> hy -> ka -> bn -> te -> ny -> ha -> tr -> iw -> eu -> pl -> tg -> en
 ORIGINAL:   Zit! Does not have your track on record. Try spotting better music.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: You are not registered.Try to find good music.
 ------------------------------------------------------------
 KEY:        [T182_294]
-HOPS:       pending
+HOPS:       en -> sn -> ny -> su -> vi -> ht -> my -> lb -> kk -> tl -> ml -> ar -> iw -> lo -> sm -> ps -> hy -> ja -> el -> pt -> nl -> en
 ORIGINAL:   Zit! Is unable to spot this track for reasons of taste.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Like!I'm really excited to see this issue.
 ------------------------------------------------------------
 KEY:        [T182_300]
-HOPS:       pending
+HOPS:       en -> sn -> ny -> su -> vi -> ht -> my -> lb -> kk -> tl -> ml -> ar -> iw -> lo -> sm -> ps -> hy -> ja -> el -> pt -> nl -> en
 ORIGINAL:   Zit! Spotted BILLIE HOLIDAY: Fine and Mellow
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: What!Cat festival.See the beauty and softness.
 ------------------------------------------------------------
 KEY:        [T182_301]
-HOPS:       pending
+HOPS:       en -> sn -> ny -> su -> vi -> ht -> my -> lb -> kk -> tl -> ml -> ar -> iw -> lo -> sm -> ps -> hy -> ja -> el -> pt -> nl -> en
 ORIGINAL:   Zit! Spotted TESTERS: Body Music
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: see injury
 ------------------------------------------------------------
 KEY:        [T182_400]
-HOPS:       pending
+HOPS:       en -> sn -> ny -> su -> vi -> ht -> my -> lb -> kk -> tl -> ml -> ar -> iw -> lo -> sm -> ps -> hy -> ja -> el -> pt -> nl -> en
 ORIGINAL:   Zit! Spotted PETER ILYICH TCHAIKOVSKY: Dance Of The Sugar Plum Fairy
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Here it is.
 ------------------------------------------------------------
 KEY:        [T182_401]
-HOPS:       pending
+HOPS:       en -> sn -> ny -> su -> vi -> ht -> my -> lb -> kk -> tl -> ml -> ar -> iw -> lo -> sm -> ps -> hy -> ja -> el -> pt -> nl -> en
 ORIGINAL:   Zit! Spotted GREENSLEEVES
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: closed!Green clothes!
 ------------------------------------------------------------
 KEY:        [T182_402]
-HOPS:       pending
+HOPS:       en -> no -> jw -> de -> uz -> th -> fi -> id -> vi -> ky -> tr -> ta -> sn -> be -> mi -> kk -> ko -> lv -> az -> ur -> fr -> en
 ORIGINAL:   Zit! Spotted SCARBOROUGH
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Please stay!Meet in Scarborough.
 ------------------------------------------------------------
 KEY:        [T182_403]
-HOPS:       pending
+HOPS:       en -> no -> jw -> de -> uz -> th -> fi -> id -> vi -> ky -> tr -> ta -> sn -> be -> mi -> kk -> ko -> lv -> az -> ur -> fr -> en
 ORIGINAL:   Zit! Spotted NIKOLAI RIMSKY- KORSAKOV: Flight Of The Bumblebee
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Get up!
 ------------------------------------------------------------
 KEY:        [T182_404]
-HOPS:       pending
+HOPS:       en -> no -> jw -> de -> uz -> th -> fi -> id -> vi -> ky -> tr -> ta -> sn -> be -> mi -> kk -> ko -> lv -> az -> ur -> fr -> en
 ORIGINAL:   Zit! Spotted GTA IV Theme
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down! Discover the evil in GTA IV.
 ------------------------------------------------------------
 KEY:        [T182_405]
-HOPS:       pending
+HOPS:       en -> no -> jw -> de -> uz -> th -> fi -> id -> vi -> ky -> tr -> ta -> sn -> be -> mi -> kk -> ko -> lv -> az -> ur -> fr -> en
 ORIGINAL:   Zit! Spotted RICHARD WAGNER: Ride Of The Valkyries
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Return!Familiar: Richard Wagner: Journey of the Valkyrie
 ------------------------------------------------------------
 KEY:        [T182_500]
-HOPS:       pending
+HOPS:       en -> no -> jw -> de -> uz -> th -> fi -> id -> vi -> ky -> tr -> ta -> sn -> be -> mi -> kk -> ko -> lv -> az -> ur -> fr -> en
 ORIGINAL:   Zit! Spotted ALICE COOPER: Go To Hell
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Please stay!Meet Alice Cooper: Inferno.
 ------------------------------------------------------------
 KEY:        [T182_501]
-HOPS:       pending
+HOPS:       en -> jw -> mn -> am -> ceb -> sw -> ta -> ja -> zh-tw -> ca -> fy -> gl -> eu -> km -> kn -> sq -> fa -> my -> ka -> bn -> hy -> en
 ORIGINAL:   Zit! Spotted BLONDE ACID CULT: Calypso
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Here is the Word of God.Calypso
 ------------------------------------------------------------
 KEY:        [T182_502]
-HOPS:       pending
+HOPS:       en -> jw -> mn -> am -> ceb -> sw -> ta -> ja -> zh-tw -> ca -> fy -> gl -> eu -> km -> kn -> sq -> fa -> my -> ka -> bn -> hy -> en
 ORIGINAL:   Zit! Spotted BLONDE ACID CULT: Shake It Loose
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: O cletus asam pirang tulul: year.
 ------------------------------------------------------------
 KEY:        [T182_503]
-HOPS:       pending
+HOPS:       en -> jw -> mn -> am -> ceb -> sw -> ta -> ja -> zh-tw -> ca -> fy -> gl -> eu -> km -> kn -> sq -> fa -> my -> ka -> bn -> hy -> en
 ORIGINAL:   Zit! Spotted FREE BLOOD: Quick And Painful
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Yes, donate blood for free, quickly and painlessly.
 ------------------------------------------------------------
 KEY:        [T182_504]
-HOPS:       pending
+HOPS:       en -> jw -> mn -> am -> ceb -> sw -> ta -> ja -> zh-tw -> ca -> fy -> gl -> eu -> km -> kn -> sq -> fa -> my -> ka -> bn -> hy -> en
 ORIGINAL:   Zit! Spotted THE CARPS: Porgie & Bess (Big Booty Girls)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: The past appears.Porgy and Bess (ex-convicts).
 ------------------------------------------------------------
 KEY:        [T182_505]
-HOPS:       pending
+HOPS:       en -> jw -> mn -> am -> ceb -> sw -> ta -> ja -> zh-tw -> ca -> fy -> gl -> eu -> km -> kn -> sq -> fa -> my -> ka -> bn -> hy -> en
 ORIGINAL:   Zit! Spotted THE CARPS: Veronica Belmont
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: God child.Veronica Belmont
 ------------------------------------------------------------
 KEY:        [T182_506]
-HOPS:       pending
+HOPS:       en -> ny -> bs -> fy -> kk -> lv -> ka -> eo -> fa -> ru -> iw -> my -> fr -> eu -> kn -> sd -> so -> pa -> km -> yi -> fi -> en
 ORIGINAL:   Zit! Spotted THE JANE SHERMANS: I Walk Alone
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Jane Shermans - I Go Alone!
 ------------------------------------------------------------
 KEY:        [T182_507]
-HOPS:       pending
+HOPS:       en -> ny -> bs -> fy -> kk -> lv -> ka -> eo -> fa -> ru -> iw -> my -> fr -> eu -> kn -> sd -> so -> pa -> km -> yi -> fi -> en
 ORIGINAL:   Zit! Spotted MAGIC DIRT: Get Ready To Die
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Winter Diary: Ready to Die!
 ------------------------------------------------------------
 KEY:        [T182_508]
-HOPS:       pending
+HOPS:       en -> ny -> bs -> fy -> kk -> lv -> ka -> eo -> fa -> ru -> iw -> my -> fr -> eu -> kn -> sd -> so -> pa -> km -> yi -> fi -> en
 ORIGINAL:   Zit! Spotted BRAZILIAN GIRLS: Nouveau Americain
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: What!Brazilian Girl: The New American.
 ------------------------------------------------------------
 KEY:        [T182_509]
-HOPS:       pending
+HOPS:       en -> ny -> bs -> fy -> kk -> lv -> ka -> eo -> fa -> ru -> iw -> my -> fr -> eu -> kn -> sd -> so -> pa -> km -> yi -> fi -> en
 ORIGINAL:   Zit! Spotted TK WEBB & THE VISIONS: Shame
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: What! Look at TK's website and comment below: Shame!
 ------------------------------------------------------------
 KEY:        [T182_510]
-HOPS:       pending
+HOPS:       en -> ny -> bs -> fy -> kk -> lv -> ka -> eo -> fa -> ru -> iw -> my -> fr -> eu -> kn -> sd -> so -> pa -> km -> yi -> fi -> en
 ORIGINAL:   Zit! Spotted FREELAND: Borderline
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Freeland Compatibility: Range
 ------------------------------------------------------------
 KEY:        [T182_511]
-HOPS:       pending
+HOPS:       en -> hy -> yo -> ru -> sq -> sr -> ps -> so -> es -> et -> hu -> ca -> mg -> cs -> pl -> ceb -> zh-tw -> lb -> my -> sw -> kk -> en
 ORIGINAL:   Zit! Spotted SCISSORS FOR LEFTY: Consumption Junction
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Great!Today is Sheren Tuesday.Energy conference
 ------------------------------------------------------------
 KEY:        [T182_512]
-HOPS:       pending
+HOPS:       en -> hy -> yo -> ru -> sq -> sr -> ps -> so -> es -> et -> hu -> ca -> mg -> cs -> pl -> ceb -> zh-tw -> lb -> my -> sw -> kk -> en
 ORIGINAL:   Zit! Spotted THE SOFT PACK: Nightlife
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Note: We received a soft package.
 ------------------------------------------------------------
 KEY:        [T182_513]
-HOPS:       pending
+HOPS:       en -> hy -> yo -> ru -> sq -> sr -> ps -> so -> es -> et -> hu -> ca -> mg -> cs -> pl -> ceb -> zh-tw -> lb -> my -> sw -> kk -> en
 ORIGINAL:   Zit! Spotted JAPANTHER: Radical Businessman
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: sit down!Japanese company logo
 ------------------------------------------------------------
 KEY:        [T182_514]
-HOPS:       pending
+HOPS:       en -> hy -> yo -> ru -> sq -> sr -> ps -> so -> es -> et -> hu -> ca -> mg -> cs -> pl -> ceb -> zh-tw -> lb -> my -> sw -> kk -> en
 ORIGINAL:   Zit! Spotted FOXYLANE: Same Shirt
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Have you heard of Foxland?Same clothes
 ------------------------------------------------------------
 KEY:        [T182_515]
-HOPS:       pending
+HOPS:       en -> hy -> yo -> ru -> sq -> sr -> ps -> so -> es -> et -> hu -> ca -> mg -> cs -> pl -> ceb -> zh-tw -> lb -> my -> sw -> kk -> en
 ORIGINAL:   Zit! Spotted FOXYLANE: Command
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: FOXOther You can hear me.Domain:
 ------------------------------------------------------------
 KEY:        [T182_516]
-HOPS:       pending
+HOPS:       en -> sw -> ug -> el -> mt -> fr -> mn -> my -> xh -> haw -> ar -> fa -> so -> hr -> ky -> yo -> iw -> pl -> kk -> si -> no -> en
 ORIGINAL:   Zit! Spotted MONOTONIX: Body Language
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Warning! MOTOONIX: Physical connection
 ------------------------------------------------------------
 KEY:        [T182_517]
-HOPS:       pending
+HOPS:       en -> sw -> ug -> el -> mt -> fr -> mn -> my -> xh -> haw -> ar -> fa -> so -> hr -> ky -> yo -> iw -> pl -> kk -> si -> no -> en
 ORIGINAL:   Zit! Spotted STYX: Renegade
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Warning!Added Styx: Ace
 ------------------------------------------------------------
 KEY:        [T182_518]
-HOPS:       pending
+HOPS:       en -> sw -> ug -> el -> mt -> fr -> mn -> my -> xh -> haw -> ar -> fa -> so -> hr -> ky -> yo -> iw -> pl -> kk -> si -> no -> en
 ORIGINAL:   Zit! Spotted LYNYRD SKYNYRD: Saturday Night Special
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: I WANT!LYNYRD SKYNYRD: Join us for a special Saturday!
 ------------------------------------------------------------
 KEY:        [T182_519]
-HOPS:       pending
+HOPS:       en -> sw -> ug -> el -> mt -> fr -> mn -> my -> xh -> haw -> ar -> fa -> so -> hr -> ky -> yo -> iw -> pl -> kk -> si -> no -> en
 ORIGINAL:   Zit! Spotted STEPPENWOLF: Ride With Me
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Be careful!Nan: Follow me.
 ------------------------------------------------------------
 KEY:        [T182_520]
-HOPS:       pending
+HOPS:       en -> sw -> ug -> el -> mt -> fr -> mn -> my -> xh -> haw -> ar -> fa -> so -> hr -> ky -> yo -> iw -> pl -> kk -> si -> no -> en
 ORIGINAL:   Zit! Spotted THE JAMES GANG: Funk #49
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Be careful! Check out Team #49 James!
 ------------------------------------------------------------
 KEY:        [T182_521]
-HOPS:       pending
+HOPS:       en -> sn -> hi -> fy -> et -> zh-tw -> jw -> tg -> la -> ko -> mt -> xh -> zh-cn -> ny -> ja -> pa -> eo -> mk -> de -> lo -> bn -> en
 ORIGINAL:   Zit! Spotted AEROSMITH: Lord Of The Thighs
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down!Ferrari Vision Aviation: Royal Crown
 ------------------------------------------------------------
 KEY:        [T182_522]
-HOPS:       pending
+HOPS:       en -> sn -> hi -> fy -> et -> zh-tw -> jw -> tg -> la -> ko -> mt -> xh -> zh-cn -> ny -> ja -> pa -> eo -> mk -> de -> lo -> bn -> en
 ORIGINAL:   Zit! Spotted DEEP PURPLE: Highway Star
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Please sit down!Top Card: Starlord
 ------------------------------------------------------------
 KEY:        [T182_523]
-HOPS:       pending
+HOPS:       en -> sn -> hi -> fy -> et -> zh-tw -> jw -> tg -> la -> ko -> mt -> xh -> zh-cn -> ny -> ja -> pa -> eo -> mk -> de -> lo -> bn -> en
 ORIGINAL:   Zit! Spotted FOGHAT: Drivin' Wheel
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Network Control Guide to Fog Sit
 ------------------------------------------------------------
 KEY:        [T182_526]
-HOPS:       pending
+HOPS:       en -> sn -> hi -> fy -> et -> zh-tw -> jw -> tg -> la -> ko -> mt -> xh -> zh-cn -> ny -> ja -> pa -> eo -> mk -> de -> lo -> bn -> en
 ORIGINAL:   Zit! Spotted NAZARETH: Hair Of The Dog
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Please sit down!Heavy nose: hair of the dog
 ------------------------------------------------------------
 KEY:        [T182_527]
-HOPS:       pending
+HOPS:       en -> sn -> hi -> fy -> et -> zh-tw -> jw -> tg -> la -> ko -> mt -> xh -> zh-cn -> ny -> ja -> pa -> eo -> mk -> de -> lo -> bn -> en
 ORIGINAL:   Zit! Spotted TUBEWAY ARMY: Bombers
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit on the Military Fear Meter: Explosives
 ------------------------------------------------------------
 KEY:        [T182_528]
-HOPS:       pending
+HOPS:       en -> pt -> ru -> ku -> ht -> zh-cn -> bs -> cs -> is -> pa -> ceb -> vi -> lt -> tl -> km -> fa -> sv -> yo -> sl -> ky -> ar -> en
 ORIGINAL:   Zit! Spotted NAZARETH: Changin' Times
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Oil!Warning: Time for a change.
 ------------------------------------------------------------
 KEY:        [T182_529]
-HOPS:       pending
+HOPS:       en -> pt -> ru -> ku -> ht -> zh-cn -> bs -> cs -> is -> pa -> ceb -> vi -> lt -> tl -> km -> fa -> sv -> yo -> sl -> ky -> ar -> en
 ORIGINAL:   Zit! Spotted BLACK OAK ARKANSAS: Hot and Nasty
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Yes!Arkansas Black Oak says: Warm and cozy
 ------------------------------------------------------------
 KEY:        [T182_530]
-HOPS:       pending
+HOPS:       en -> pt -> ru -> ku -> ht -> zh-cn -> bs -> cs -> is -> pa -> ceb -> vi -> lt -> tl -> km -> fa -> sv -> yo -> sl -> ky -> ar -> en
 ORIGINAL:   Zit! Spotted BON JOVI: Wanted Dead Or Alive
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Oil!Bon Jovi is Dead: A Lesson in Life and Death
 ------------------------------------------------------------
 KEY:        [T182_531]
-HOPS:       pending
+HOPS:       en -> pt -> ru -> ku -> ht -> zh-cn -> bs -> cs -> is -> pa -> ceb -> vi -> lt -> tl -> km -> fa -> sv -> yo -> sl -> ky -> ar -> en
 ORIGINAL:   Zit! Spotted BREAKWATER: Release The Beast
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Waterproof Seat: Leave pests alone
 ------------------------------------------------------------
 KEY:        [T182_532]
-HOPS:       pending
+HOPS:       en -> pt -> ru -> ku -> ht -> zh-cn -> bs -> cs -> is -> pa -> ceb -> vi -> lt -> tl -> km -> fa -> sv -> yo -> sl -> ky -> ar -> en
 ORIGINAL:   Zit! Spotted NEW YORK DOLLS: Private World
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Young Love in New York: A Private World
 ------------------------------------------------------------
 KEY:        [T182_533]
-HOPS:       pending
+HOPS:       en -> co -> ug -> ml -> lb -> kn -> ky -> ps -> lt -> ka -> la -> cy -> mr -> et -> ro -> ny -> iw -> pt -> ht -> hu -> ms -> en
 ORIGINAL:   Zit! Spotted THE DOOBIE BROTHERS: Long Train Running
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Endurance!Drowning Companion: Long Train
 ------------------------------------------------------------
 KEY:        [T182_534]
-HOPS:       pending
+HOPS:       en -> co -> ug -> ml -> lb -> kn -> ky -> ps -> lt -> ka -> la -> cy -> mr -> et -> ro -> ny -> iw -> pt -> ht -> hu -> ms -> en
 ORIGINAL:   Zit! Spotted THE EDGAR WINTER GROUP: Free Ride
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Olive!Edgar's Winter Bond: Free Tour
 ------------------------------------------------------------
 KEY:        [T182_535]
-HOPS:       pending
+HOPS:       en -> co -> ug -> ml -> lb -> kn -> ky -> ps -> lt -> ka -> la -> cy -> mr -> et -> ro -> ny -> iw -> pt -> ht -> hu -> ms -> en
 ORIGINAL:   Zit! Spotted WARREN ZEVON: Lawyers, Guns and Money
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sequel!Warren Zevon Author: Lawyers, Guns, Money
 ------------------------------------------------------------
 KEY:        [T182_536]
-HOPS:       pending
+HOPS:       en -> co -> ug -> ml -> lb -> kn -> ky -> ps -> lt -> ka -> la -> cy -> mr -> et -> ro -> ny -> iw -> pt -> ht -> hu -> ms -> en
 ORIGINAL:   Zit! Spotted PYTHON LEE JACKSON Feat. ROD STEWART: In A Broken Dream
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Zeit!Python presents the future of Lee Jackson.Rod Stewart: In Dreams
 ------------------------------------------------------------
 KEY:        [T182_537]
-HOPS:       pending
+HOPS:       en -> co -> ug -> ml -> lb -> kn -> ky -> ps -> lt -> ka -> la -> cy -> mr -> et -> ro -> ny -> iw -> pt -> ht -> hu -> ms -> en
 ORIGINAL:   Zit! Spotted RARE EARTH: (I Know) I'm Losing You
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Yes!Glitch: (I know) you miss me
 ------------------------------------------------------------
 KEY:        [T182_538]
-HOPS:       pending
+HOPS:       en -> fa -> ceb -> kk -> la -> gl -> ny -> ca -> si -> it -> zu -> ht -> ku -> af -> mt -> eo -> jw -> co -> mi -> de -> sr -> en
 ORIGINAL:   Zit! Spotted ROBIN TROWER: Day Of The Eagle
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: It's about time!Robin Troyer: Day of the Eagles
 ------------------------------------------------------------
 KEY:        [T182_539]
-HOPS:       pending
+HOPS:       en -> fa -> ceb -> kk -> la -> gl -> ny -> ca -> si -> it -> zu -> ht -> ku -> af -> mt -> eo -> jw -> co -> mi -> de -> sr -> en
 ORIGINAL:   Zit! Spotted BILLY SQUIER: The Stroke
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Time!Spotted Boy Squire: Stroke
 ------------------------------------------------------------
 KEY:        [T182_540]
-HOPS:       pending
+HOPS:       en -> fa -> ceb -> kk -> la -> gl -> ny -> ca -> si -> it -> zu -> ht -> ku -> af -> mt -> eo -> jw -> co -> mi -> de -> sr -> en
 ORIGINAL:   Zit! Spotted TED NUGENT: Hey Baby
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Time!Marcus Nugent: Thank you
 ------------------------------------------------------------
 KEY:        [T182_541]
-HOPS:       pending
+HOPS:       en -> fa -> ceb -> kk -> la -> gl -> ny -> ca -> si -> it -> zu -> ht -> ku -> af -> mt -> eo -> jw -> co -> mi -> de -> sr -> en
 ORIGINAL:   Zit! Spotted THE CULT: Born To Be Wild
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Time!Kilt: wild fun
 ------------------------------------------------------------
 KEY:        [T182_542]
-HOPS:       pending
+HOPS:       en -> fa -> ceb -> kk -> la -> gl -> ny -> ca -> si -> it -> zu -> ht -> ku -> af -> mt -> eo -> jw -> co -> mi -> de -> sr -> en
 ORIGINAL:   Zit! Spotted LOVE AND ROCKETS: Motorcycle
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Time! Love and Rockets: Motorcycles
 ------------------------------------------------------------
 KEY:        [T182_543]
-HOPS:       pending
+HOPS:       en -> kk -> zh-cn -> bn -> et -> el -> mt -> sk -> bg -> ta -> mi -> jw -> ig -> yi -> de -> da -> cy -> ar -> sd -> gd -> sq -> en
 ORIGINAL:   Zit! Spotted MOTORHEAD: Ace Of Spades
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: He eats!
 ------------------------------------------------------------
 KEY:        [T182_546]
-HOPS:       pending
+HOPS:       en -> kk -> zh-cn -> bn -> et -> el -> mt -> sk -> bg -> ta -> mi -> jw -> ig -> yi -> de -> da -> cy -> ar -> sd -> gd -> sq -> en
 ORIGINAL:   Zit! Spotted IRON MAIDEN: The Trooper
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Iron Woman: Soldier
 ------------------------------------------------------------
 KEY:        [T182_547]
-HOPS:       pending
+HOPS:       en -> kk -> zh-cn -> bn -> et -> el -> mt -> sk -> bg -> ta -> mi -> jw -> ig -> yi -> de -> da -> cy -> ar -> sd -> gd -> sq -> en
 ORIGINAL:   Zit! Spotted MOTLEY CRUE: Wild Side
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Time!Breathe Motley Crue: The Wild Side
 ------------------------------------------------------------
 KEY:        [T182_548]
-HOPS:       pending
+HOPS:       en -> kk -> zh-cn -> bn -> et -> el -> mt -> sk -> bg -> ta -> mi -> jw -> ig -> yi -> de -> da -> cy -> ar -> sd -> gd -> sq -> en
 ORIGINAL:   Zit! Spotted MOTLEY CRUE: Kickstart My Heart
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Motley Crue Ship!Motley Crue: Start My Heart
 ------------------------------------------------------------
 KEY:        [T182_549]
-HOPS:       pending
+HOPS:       en -> kk -> zh-cn -> bn -> et -> el -> mt -> sk -> bg -> ta -> mi -> jw -> ig -> yi -> de -> da -> cy -> ar -> sd -> gd -> sq -> en
 ORIGINAL:   Zit! Spotted SAXON: Wheels Of Steel
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Eat!Basics: Wheels
 ------------------------------------------------------------
 KEY:        [T182_550]
-HOPS:       pending
+HOPS:       en -> mi -> lv -> fa -> ko -> am -> it -> gl -> hmn -> id -> th -> si -> fr -> so -> mn -> tr -> eo -> gd -> is -> co -> kn -> en
 ORIGINAL:   Zit! Spotted JUDAS PRIEST: Breaking The Law
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: See Acne!Judas Priest: Outcast
 ------------------------------------------------------------
 KEY:        [T182_551]
-HOPS:       pending
+HOPS:       en -> mi -> lv -> fa -> ko -> am -> it -> gl -> hmn -> id -> th -> si -> fr -> so -> mn -> tr -> eo -> gd -> is -> co -> kn -> en
 ORIGINAL:   Zit! Spotted THE DOOBIE BROTHERS: China Grove
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Did you know Meet the Doobie Brothers: China Grove
 ------------------------------------------------------------
 KEY:        [T182_552]
-HOPS:       pending
+HOPS:       en -> mi -> lv -> fa -> ko -> am -> it -> gl -> hmn -> id -> th -> si -> fr -> so -> mn -> tr -> eo -> gd -> is -> co -> kn -> en
 ORIGINAL:   Zit! Spotted KUDU: Give Me Your Head
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Go!Trash: Fuck me.
 ------------------------------------------------------------
 KEY:        [T182_553]
-HOPS:       pending
+HOPS:       en -> mi -> lv -> fa -> ko -> am -> it -> gl -> hmn -> id -> th -> si -> fr -> so -> mn -> tr -> eo -> gd -> is -> co -> kn -> en
 ORIGINAL:   Zit! Spotted TAME IMPALA: Half Full Glass Of Wine
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Travel across the country!Puta Tame Impala: An average wine
 ------------------------------------------------------------
 KEY:        [T182_554]
-HOPS:       pending
+HOPS:       en -> mi -> lv -> fa -> ko -> am -> it -> gl -> hmn -> id -> th -> si -> fr -> so -> mn -> tr -> eo -> gd -> is -> co -> kn -> en
 ORIGINAL:   Zit! Spotted THE BRONX: Knifeman
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Jit!Bronx Location: Carl
 ------------------------------------------------------------
 KEY:        [T182_555]
-HOPS:       pending
+HOPS:       en -> hmn -> co -> sk -> eo -> mr -> yo -> my -> ur -> nl -> lv -> fy -> sl -> sv -> su -> ca -> mt -> is -> mi -> yi -> sr -> en
 ORIGINAL:   Zit! Spotted GAME REBELLION: Dance Girl (GTA MIX)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Stupid game!Revolver: Dancing Girl (GTA Mix)
 ------------------------------------------------------------
 KEY:        [T182_556]
-HOPS:       pending
+HOPS:       en -> hmn -> co -> sk -> eo -> mr -> yo -> my -> ur -> nl -> lv -> fy -> sl -> sv -> su -> ca -> mt -> is -> mi -> yi -> sr -> en
 ORIGINAL:   Zit! Spotted THE YELLING: Blood On The Steps
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Shut up! They saw blood on the stairs.
 ------------------------------------------------------------
 KEY:        [T182_557]
-HOPS:       pending
+HOPS:       en -> hmn -> co -> sk -> eo -> mr -> yo -> my -> ur -> nl -> lv -> fy -> sl -> sv -> su -> ca -> mt -> is -> mi -> yi -> sr -> en
 ORIGINAL:   Zit! Spotted LOU REED: Vicious
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Ai!low red level: Min.
 ------------------------------------------------------------
 KEY:        [T182_558]
-HOPS:       pending
+HOPS:       en -> hmn -> co -> sk -> eo -> mr -> yo -> my -> ur -> nl -> lv -> fy -> sl -> sv -> su -> ca -> mt -> is -> mi -> yi -> sr -> en
 ORIGINAL:   Zit! Spotted TERMANOLOGY: Here In Liberty City
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Zip!Translation: This is a free field.
 ------------------------------------------------------------
 KEY:        [T182_559]
-HOPS:       pending
+HOPS:       en -> hmn -> co -> sk -> eo -> mr -> yo -> my -> ur -> nl -> lv -> fy -> sl -> sv -> su -> ca -> mt -> is -> mi -> yi -> sr -> en
 ORIGINAL:   Zit! Spotted FREEWAY: Car Jack
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sea! Vehicle brand: Autojet
 ------------------------------------------------------------
 KEY:        [T182_560]
-HOPS:       pending
+HOPS:       en -> yi -> sk -> vi -> ta -> jw -> lo -> ms -> el -> sw -> sn -> sr -> lt -> my -> de -> zu -> ug -> fi -> sl -> be -> pt -> en
 ORIGINAL:   Zit! Spotted SAIGON: Spit
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Get up!Jay Saigon: checkout
 ------------------------------------------------------------
 KEY:        [T182_561]
-HOPS:       pending
+HOPS:       en -> yi -> sk -> vi -> ta -> jw -> lo -> ms -> el -> sw -> sn -> sr -> lt -> my -> de -> zu -> ug -> fi -> sl -> be -> pt -> en
 ORIGINAL:   Zit! Spotted SKYZOO: The Chase Is On
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: sit back!The search for SKIZOO: the journey continues
 ------------------------------------------------------------
 KEY:        [T182_562]
-HOPS:       pending
+HOPS:       en -> yi -> sk -> vi -> ta -> jw -> lo -> ms -> el -> sw -> sn -> sr -> lt -> my -> de -> zu -> ug -> fi -> sl -> be -> pt -> en
 ORIGINAL:   Zit! Spotted CONSEQUENCE: I Hear Footsteps
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: come back!Conclusion: Enjoy the action.
 ------------------------------------------------------------
 KEY:        [T182_563]
-HOPS:       pending
+HOPS:       en -> yi -> sk -> vi -> ta -> jw -> lo -> ms -> el -> sw -> sn -> sr -> lt -> my -> de -> zu -> ug -> fi -> sl -> be -> pt -> en
 ORIGINAL:   Zit! Spotted TALIB KWELI: My Favorite Song
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Listen.Talib Gweli is my favorite song
 ------------------------------------------------------------
 KEY:        [T182_564]
-HOPS:       pending
+HOPS:       en -> yi -> sk -> vi -> ta -> jw -> lo -> ms -> el -> sw -> sn -> sr -> lt -> my -> de -> zu -> ug -> fi -> sl -> be -> pt -> en
 ORIGINAL:   Zit! Spotted AT THE GATES: Slaughter Of The Soul
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: sit down!Look at the door: souls are being killed.
 ------------------------------------------------------------
 KEY:        [T182_565]
-HOPS:       pending
+HOPS:       en -> sr -> lt -> gu -> mn -> ka -> ur -> pa -> th -> uk -> ug -> sm -> eu -> kn -> so -> co -> sv -> mt -> sn -> ceb -> sk -> en
 ORIGINAL:   Zit! Spotted DRIVE BY AUDIO: Jailbait
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: You can speak English! Music album: Jailbeat
 ------------------------------------------------------------
 KEY:        [T182_566]
-HOPS:       pending
+HOPS:       en -> sr -> lt -> gu -> mn -> ka -> ur -> pa -> th -> uk -> ug -> sm -> eu -> kn -> so -> co -> sv -> mt -> sn -> ceb -> sk -> en
 ORIGINAL:   Zit! Spotted CELTIC FROST: Inner Sanctum
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Counter!Snow Garden: The Inner Sanctum
 ------------------------------------------------------------
 KEY:        [T182_567]
-HOPS:       pending
+HOPS:       en -> sr -> lt -> gu -> mn -> ka -> ur -> pa -> th -> uk -> ug -> sm -> eu -> kn -> so -> co -> sv -> mt -> sn -> ceb -> sk -> en
 ORIGINAL:   Zit! Spotted ENTOMBED: Drowned
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: God! Throat: I can't breathe.
 ------------------------------------------------------------
 KEY:        [T182_568]
-HOPS:       pending
+HOPS:       en -> sr -> lt -> gu -> mn -> ka -> ur -> pa -> th -> uk -> ug -> sm -> eu -> kn -> so -> co -> sv -> mt -> sn -> ceb -> sk -> en
 ORIGINAL:   Zit! Spotted SEPULTURA: Dead Embryonic Cells
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Place!Burial found: Death
 ------------------------------------------------------------
 KEY:        [T182_569]
-HOPS:       pending
+HOPS:       en -> sr -> lt -> gu -> mn -> ka -> ur -> pa -> th -> uk -> ug -> sm -> eu -> kn -> so -> co -> sv -> mt -> sn -> ceb -> sk -> en
 ORIGINAL:   Zit! Spotted DEICIDE: Dead By Dawn
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: They know!The decision is made: cut early
 ------------------------------------------------------------
 KEY:        [T182_570]
-HOPS:       pending
+HOPS:       en -> yo -> sd -> ro -> vi -> cs -> gd -> nl -> tl -> gu -> jw -> ug -> mg -> sw -> fi -> te -> is -> pt -> ur -> ru -> ceb -> en
 ORIGINAL:   Zit! Spotted CANNIBAL CORPSE: I Cum Blood
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Fix it!The ancient sea is burning: I am bleeding
 ------------------------------------------------------------
 KEY:        [T182_572]
-HOPS:       pending
+HOPS:       en -> yo -> sd -> ro -> vi -> cs -> gd -> nl -> tl -> gu -> jw -> ug -> mg -> sw -> fi -> te -> is -> pt -> ur -> ru -> ceb -> en
 ORIGINAL:   Zit! Spotted KREATOR: Awakening Of The Gods
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Skin Tag: Awakening of the Gods
 ------------------------------------------------------------
 KEY:        [T182_573]
-HOPS:       pending
+HOPS:       en -> yo -> sd -> ro -> vi -> cs -> gd -> nl -> tl -> gu -> jw -> ug -> mg -> sw -> fi -> te -> is -> pt -> ur -> ru -> ceb -> en
 ORIGINAL:   Zit! Spotted TERRORIZER: Fear Of Napalm
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Discussion!New feature: Napalm Fair.
 ------------------------------------------------------------
 KEY:        [T182_574]
-HOPS:       pending
+HOPS:       en -> yo -> sd -> ro -> vi -> cs -> gd -> nl -> tl -> gu -> jw -> ug -> mg -> sw -> fi -> te -> is -> pt -> ur -> ru -> ceb -> en
 ORIGINAL:   Zit! Spotted ROD STEWART: Every Picture Tells A Story
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down!The famous Rod Stewart: Every film is a story.
 ------------------------------------------------------------
 KEY:        [T182_578]
-HOPS:       pending
+HOPS:       en -> yo -> sd -> ro -> vi -> cs -> gd -> nl -> tl -> gu -> jw -> ug -> mg -> sw -> fi -> te -> is -> pt -> ur -> ru -> ceb -> en
 ORIGINAL:   Zit! Spotted KILL MEMORY CRASH: Hell On Wheels
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Leave the plane!Amy's Random Memories: Hell on Wheels
 ------------------------------------------------------------
 KEY:        [T182_579]
-HOPS:       pending
+HOPS:       en -> la -> hi -> tg -> lo -> mr -> sq -> zu -> mt -> uk -> sn -> sl -> ky -> ta -> am -> ne -> sk -> jw -> fy -> hy -> ka -> en
 ORIGINAL:   Zit! Spotted KREEPS: The Hunger (Blood In My Mouth)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Zeit!temptation. hunger (blood in the mouth)
 ------------------------------------------------------------
 KEY:        [T182_580]
-HOPS:       pending
+HOPS:       en -> la -> hi -> tg -> lo -> mr -> sq -> zu -> mt -> uk -> sn -> sl -> ky -> ta -> am -> ne -> sk -> jw -> fy -> hy -> ka -> en
 ORIGINAL:   Zit! Spotted BUSTA RHYMES FEAT. RON BROWZ: Arab Money
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Zeid!Rhymes Spot Busta feat.Ron Prose. A billion dollars
 ------------------------------------------------------------
 KEY:        [T182_581]
-HOPS:       pending
+HOPS:       en -> la -> hi -> tg -> lo -> mr -> sq -> zu -> mt -> uk -> sn -> sl -> ky -> ta -> am -> ne -> sk -> jw -> fy -> hy -> ka -> en
 ORIGINAL:   Zit! Spotted BUSTA RHYMES FEAT. YOUNG JEEZY & JADAKISS: Conglomerate
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit Spotted Busta Rhymes Ft. Young GG & Jadakiss. The Band:
 ------------------------------------------------------------
 KEY:        [T182_582]
-HOPS:       pending
+HOPS:       en -> la -> hi -> tg -> lo -> mr -> sq -> zu -> mt -> uk -> sn -> sl -> ky -> ta -> am -> ne -> sk -> jw -> fy -> hy -> ka -> en
 ORIGINAL:   Zit! Spotted T.I. FEAT. SWIZZ BEATZ: Swing Ya Rag
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Zit!Holconium T.I.feat.Swizz Beatz.Swing of Rock
 ------------------------------------------------------------
 KEY:        [T182_583]
-HOPS:       pending
+HOPS:       en -> la -> hi -> tg -> lo -> mr -> sq -> zu -> mt -> uk -> sn -> sl -> ky -> ta -> am -> ne -> sk -> jw -> fy -> hy -> ka -> en
 ORIGINAL:   Zit! Spotted RON BROWZ: Jumping Out The Window
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: My friend Ron Prose posted with the windows open
 ------------------------------------------------------------
 KEY:        [T182_584]
-HOPS:       pending
+HOPS:       en -> te -> hy -> be -> yi -> lv -> sv -> sm -> it -> ta -> mi -> az -> xh -> bn -> my -> ro -> kk -> co -> pt -> sd -> ms -> en
 ORIGINAL:   Zit! Spotted DJ KHALED FEAT. KANYE WEST & T-PAIN: Go Hard
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Quote!DJ Khaled and Kanye West and T-Pain together.Hang in there!
 ------------------------------------------------------------
 KEY:        [T182_586]
-HOPS:       pending
+HOPS:       en -> te -> hy -> be -> yi -> lv -> sv -> sm -> it -> ta -> mi -> az -> xh -> bn -> my -> ro -> kk -> co -> pt -> sd -> ms -> en
 ORIGINAL:   Zit! Spotted KARDINAL OFFISHALL FEAT. AKON & SEAN PAUL: Dangerous (Remix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: girl!Official Spot Cardinal Record.Wacon & Sean Paul.Danger (Remix)
 ------------------------------------------------------------
 KEY:        [T182_587]
-HOPS:       pending
+HOPS:       en -> te -> hy -> be -> yi -> lv -> sv -> sm -> it -> ta -> mi -> az -> xh -> bn -> my -> ro -> kk -> co -> pt -> sd -> ms -> en
 ORIGINAL:   Zit! Spotted JOHN LEGEND FEAT ANDRE 3000: Green Light
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: They are hypocrites.Article by John Legend Fed Andre 3000 Greek Lite;
 ------------------------------------------------------------
 KEY:        [T182_588]
-HOPS:       pending
+HOPS:       en -> te -> hy -> be -> yi -> lv -> sv -> sm -> it -> ta -> mi -> az -> xh -> bn -> my -> ro -> kk -> co -> pt -> sd -> ms -> en
 ORIGINAL:   Zit! Spotted KANYE WEST: Love Lockdown
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Theta can see Kanye West. You don't love anymore.
 ------------------------------------------------------------
 KEY:        [T182_589]
-HOPS:       pending
+HOPS:       en -> te -> hy -> be -> yi -> lv -> sv -> sm -> it -> ta -> mi -> az -> xh -> bn -> my -> ro -> kk -> co -> pt -> sd -> ms -> en
 ORIGINAL:   Zit! Spotted B.O.B: Auto-Tune
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: See you Z. Who asked BOB?
 ------------------------------------------------------------
 KEY:        [#E02B1337]
-HOPS:       pending
+HOPS:       en -> haw -> th -> cs -> ca -> gl -> sl -> ml -> si -> lo -> hy -> ar -> fy -> zh-tw -> ug -> ha -> tr -> am -> sn -> or -> iw -> en
 ORIGINAL:   Zit! Spotted SERYOGA: Dobav' Skorost
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Watch the runs of Seryozha Live Tagged:
 ------------------------------------------------------------
 KEY:        [#FDD24E85]
-HOPS:       pending
+HOPS:       en -> haw -> th -> cs -> ca -> gl -> sl -> ml -> si -> lo -> hy -> ar -> fy -> zh-tw -> ug -> ha -> tr -> am -> sn -> or -> iw -> en
 ORIGINAL:   Zit! Spotted RIFFMASTER: Begu(Rancho Song)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Olje!Poly riffmaster.bijou (Madrigal)
 ------------------------------------------------------------
 KEY:        [#7A0446EF]
-HOPS:       pending
+HOPS:       en -> haw -> th -> cs -> ca -> gl -> sl -> ml -> si -> lo -> hy -> ar -> fy -> zh-tw -> ug -> ha -> tr -> am -> sn -> or -> iw -> en
 ORIGINAL:   Zit! Spotted SERYOGA: Chiki
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Oh my god! Notice the chic!
 ------------------------------------------------------------
 KEY:        [#A794220A]
-HOPS:       pending
+HOPS:       en -> haw -> th -> cs -> ca -> gl -> sl -> ml -> si -> lo -> hy -> ar -> fy -> zh-tw -> ug -> ha -> tr -> am -> sn -> or -> iw -> en
 ORIGINAL:   Zit! Spotted DELICE: Goryacheye Leto
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Moshav Tov: banished to Leto
 ------------------------------------------------------------
 KEY:        [#974F8181]
-HOPS:       pending
+HOPS:       en -> haw -> th -> cs -> ca -> gl -> sl -> ml -> si -> lo -> hy -> ar -> fy -> zh-tw -> ug -> ha -> tr -> am -> sn -> or -> iw -> en
 ORIGINAL:   Zit! Spotted ALEKSEY BOLSHOY: YA Nenavizhu Karaoke
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Look at me! Karaoke Alexei Bolshoi Ninpichu
 ------------------------------------------------------------
 KEY:        [#D54AFD77]
-HOPS:       pending
+HOPS:       en -> sk -> cs -> yo -> da -> so -> ta -> ceb -> ka -> th -> ga -> de -> gd -> zh-cn -> pa -> cy -> eo -> lo -> co -> lb -> st -> en
 ORIGINAL:   Zit! Spotted SERYOGA: Mon Ami (ft. Maks Lorens)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit Down!Serious Flawless: Mon Ami (ft. Max Lawrence)
 ------------------------------------------------------------
 KEY:        [#31FCB6D5]
-HOPS:       pending
+HOPS:       en -> sk -> cs -> yo -> da -> so -> ta -> ceb -> ka -> th -> ga -> de -> gd -> zh-cn -> pa -> cy -> eo -> lo -> co -> lb -> st -> en
 ORIGINAL:   Zit! Spotted ZHENYA FOKIN: Noch'ju
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Wait!ZHENYA FOKIN: I'm sorry
 ------------------------------------------------------------
 KEY:        [#20361348]
-HOPS:       pending
+HOPS:       en -> sk -> cs -> yo -> da -> so -> ta -> ceb -> ka -> th -> ga -> de -> gd -> zh-cn -> pa -> cy -> eo -> lo -> co -> lb -> st -> en
 ORIGINAL:   Zit! Spotted KIEVELEKTRO: Gulyaj, Slavyane!! (ft. Alyona Vinnitskaya)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Zid!Stipplet Kevlectro: Kuliaj, Slavic!!(Vagabond. Aliona Vinitskaya)
 ------------------------------------------------------------
 KEY:        [#3D044CE4]
-HOPS:       pending
+HOPS:       en -> sk -> cs -> yo -> da -> so -> ta -> ceb -> ka -> th -> ga -> de -> gd -> zh-cn -> pa -> cy -> eo -> lo -> co -> lb -> st -> en
 ORIGINAL:   Zit! Spotted AYVENGO: Reprezenty
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Be !AYVENGO Brand: Agency
 ------------------------------------------------------------
 KEY:        [#6ABB2851]
-HOPS:       pending
+HOPS:       en -> sk -> cs -> yo -> da -> so -> ta -> ceb -> ka -> th -> ga -> de -> gd -> zh-cn -> pa -> cy -> eo -> lo -> co -> lb -> st -> en
 ORIGINAL:   Zit! Spotted RIFFMASTER: Riffmaster Tony
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: RIFFMASTER WEBSITE: Riffmaster Tony
 ------------------------------------------------------------
 KEY:        [#B65204A2]
-HOPS:       pending
+HOPS:       en -> hmn -> so -> ht -> mg -> ka -> ta -> yi -> fa -> sm -> et -> lo -> lv -> la -> gl -> cs -> tg -> kk -> zu -> mn -> mr -> en
 ORIGINAL:   Zit! Spotted AYVENGO: Underground
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Check out the zit!Evengo: Underground
 ------------------------------------------------------------
 KEY:        [T182_601]
-HOPS:       pending
+HOPS:       en -> hmn -> so -> ht -> mg -> ka -> ta -> yi -> fa -> sm -> et -> lo -> lv -> la -> gl -> cs -> tg -> kk -> zu -> mn -> mr -> en
 ORIGINAL:   Zit! Spotted VIBE PLACEHOLDER MIX
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Check out Vibe Filler Mix
 ------------------------------------------------------------
 KEY:        [T182_602]
-HOPS:       pending
+HOPS:       en -> hmn -> so -> ht -> mg -> ka -> ta -> yi -> fa -> sm -> et -> lo -> lv -> la -> gl -> cs -> tg -> kk -> zu -> mn -> mr -> en
 ORIGINAL:   Zit! Spotted ELECTRO CHOC PLACEHOLDER MIX
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Check out Zlectro-zid!Mestura Clash
 ------------------------------------------------------------
 KEY:        [T182_603]
-HOPS:       pending
+HOPS:       en -> hmn -> so -> ht -> mg -> ka -> ta -> yi -> fa -> sm -> et -> lo -> lv -> la -> gl -> cs -> tg -> kk -> zu -> mn -> mr -> en
 ORIGINAL:   Zit! Spotted SJS PLACEHOLDER MIX
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Adapted for snow!SJS
 ------------------------------------------------------------
 KEY:        [T182_604]
-HOPS:       pending
+HOPS:       en -> hmn -> so -> ht -> mg -> ka -> ta -> yi -> fa -> sm -> et -> lo -> lv -> la -> gl -> cs -> tg -> kk -> zu -> mn -> mr -> en
 ORIGINAL:   Zit! Spotted THE STUDIO PLACEHOLDER MIX
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit!Hong Kong Research Tool
 ------------------------------------------------------------
 KEY:        [T182_605]
-HOPS:       pending
+HOPS:       en -> sn -> ha -> fi -> af -> si -> is -> da -> xh -> ug -> cs -> hmn -> fr -> ml -> mn -> sk -> ig -> lv -> te -> mr -> sl -> en
 ORIGINAL:   Zit! Spotted CLUB NOUVEAU: Lean On Me
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down!New Tache Club: Trust me
 ------------------------------------------------------------
 KEY:        [T182_614]
-HOPS:       pending
+HOPS:       en -> sn -> ha -> fi -> af -> si -> is -> da -> xh -> ug -> cs -> hmn -> fr -> ml -> mn -> sk -> ig -> lv -> te -> mr -> sl -> en
 ORIGINAL:   Zit! Spotted CULTURE CLUB: Time (Clock Of The Heart)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Wake up! 1.Ward time (heart attack management)
 ------------------------------------------------------------
 KEY:        [T182_634]
-HOPS:       pending
+HOPS:       en -> sn -> ha -> fi -> af -> si -> is -> da -> xh -> ug -> cs -> hmn -> fr -> ml -> mn -> sk -> ig -> lv -> te -> mr -> sl -> en
 ORIGINAL:   Zit! Spotted HAMILTON BOHANNON: Let's Start The Dance
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: sit down!So Hamilton Bohannon: Let's Dance
 ------------------------------------------------------------
 KEY:        [T182_635]
-HOPS:       pending
+HOPS:       en -> sn -> ha -> fi -> af -> si -> is -> da -> xh -> ug -> cs -> hmn -> fr -> ml -> mn -> sk -> ig -> lv -> te -> mr -> sl -> en
 ORIGINAL:   Zit! Spotted PEACHES & HERB: Funtime
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Wake up!Floating Peaches: Fun!
 ------------------------------------------------------------
 KEY:        [T182_636]
-HOPS:       pending
+HOPS:       en -> sn -> ha -> fi -> af -> si -> is -> da -> xh -> ug -> cs -> hmn -> fr -> ml -> mn -> sk -> ig -> lv -> te -> mr -> sl -> en
 ORIGINAL:   Zit! Spotted CANDI STATON: Young Hearts Run Free
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Make up!Staton Candy: A young heart runs free
 ------------------------------------------------------------
 KEY:        [T182_637]
-HOPS:       pending
+HOPS:       en -> da -> hy -> hr -> sm -> tl -> pl -> sv -> ku -> haw -> ta -> ky -> vi -> ne -> tg -> sr -> sk -> ur -> cy -> gd -> la -> en
 ORIGINAL:   Zit! Spotted THE O'JAYS: I Love Music
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Listen! I know the O'Jays. I like their music.
 ------------------------------------------------------------
 KEY:        [T182_638]
-HOPS:       pending
+HOPS:       en -> da -> hy -> hr -> sm -> tl -> pl -> sv -> ku -> haw -> ta -> ky -> vi -> ne -> tg -> sr -> sk -> ur -> cy -> gd -> la -> en
 ORIGINAL:   Zit! Spotted VICKI SUE ROBINSON: Turn The Beat Around
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sorry! Find Vicki Sue Robinson. Hit the wall:
 ------------------------------------------------------------
 KEY:        [T182_639]
-HOPS:       pending
+HOPS:       en -> da -> hy -> hr -> sm -> tl -> pl -> sv -> ku -> haw -> ta -> ky -> vi -> ne -> tg -> sr -> sk -> ur -> cy -> gd -> la -> en
 ORIGINAL:   Zit! Spotted A TASTE OF HONEY: Boogie Oogie Oogie
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Meaning: Sit!It is honey.How to oggy oggy boogie!
 ------------------------------------------------------------
 KEY:        [T182_640]
-HOPS:       pending
+HOPS:       en -> da -> hy -> hr -> sm -> tl -> pl -> sv -> ku -> haw -> ta -> ky -> vi -> ne -> tg -> sr -> sk -> ur -> cy -> gd -> la -> en
 ORIGINAL:   Zit! Spotted GLORIA GAYNOR: Never Can Say Goodbye
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Octopus I can't say goodbye to Gloria Gaynor
 ------------------------------------------------------------
 KEY:        [T182_641]
-HOPS:       pending
+HOPS:       en -> da -> hy -> hr -> sm -> tl -> pl -> sv -> ku -> haw -> ta -> ky -> vi -> ne -> tg -> sr -> sk -> ur -> cy -> gd -> la -> en
 ORIGINAL:   Zit! Spotted SISTER SLEDGE: He's The Greatest Dancer
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: sit down!Sister Chen.This is a beautiful dance.
 ------------------------------------------------------------
 KEY:        [T182_642]
-HOPS:       pending
+HOPS:       en -> af -> ny -> gd -> jw -> bg -> it -> st -> km -> lv -> or -> fa -> ne -> mr -> su -> ps -> mk -> sv -> is -> zu -> ar -> en
 ORIGINAL:   Zit! Spotted CHANGE: A Lover's Holiday
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: I am waiting!Edit: Valentine's Day
 ------------------------------------------------------------
 KEY:        [T182_643]
-HOPS:       pending
+HOPS:       en -> af -> ny -> gd -> jw -> bg -> it -> st -> km -> lv -> or -> fa -> ne -> mr -> su -> ps -> mk -> sv -> is -> zu -> ar -> en
 ORIGINAL:   Zit! Spotted THE FATBACK BAND: (Are You Ready) Do The Bus Stop
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Remember!Fat Bar Train: (Okay) Beat it
 ------------------------------------------------------------
 KEY:        [T182_644]
-HOPS:       pending
+HOPS:       en -> af -> ny -> gd -> jw -> bg -> it -> st -> km -> lv -> or -> fa -> ne -> mr -> su -> ps -> mk -> sv -> is -> zu -> ar -> en
 ORIGINAL:   Zit! Spotted SYLVESTER: I Need You
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Linda Silvestro: I love you
 ------------------------------------------------------------
 KEY:        [T182_645]
-HOPS:       pending
+HOPS:       en -> af -> ny -> gd -> jw -> bg -> it -> st -> km -> lv -> or -> fa -> ne -> mr -> su -> ps -> mk -> sv -> is -> zu -> ar -> en
 ORIGINAL:   Zit! Spotted STEPHANIE MILLS: Put Your Body In It
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Remember!What you see Stephanie Mills: Put your body out there
 ------------------------------------------------------------
 KEY:        [T182_646]
-HOPS:       pending
+HOPS:       en -> af -> ny -> gd -> jw -> bg -> it -> st -> km -> lv -> or -> fa -> ne -> mr -> su -> ps -> mk -> sv -> is -> zu -> ar -> en
 ORIGINAL:   Zit! Spotted PATRICK COWLEY: Menergy
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Remember!Patrick Cowley: Have you seen Minergia?
 ------------------------------------------------------------
 KEY:        [T182_647]
-HOPS:       pending
+HOPS:       en -> bs -> sv -> bn -> gl -> ur -> ug -> ka -> cy -> gu -> haw -> mn -> ml -> ja -> fr -> af -> yi -> es -> mt -> ca -> tg -> en
 ORIGINAL:   Zit! Spotted THE TRAMMPS: Disco Inferno
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Eat!Schlepper: There's a disco in hell
 ------------------------------------------------------------
 KEY:        [T182_648]
-HOPS:       pending
+HOPS:       en -> bs -> sv -> bn -> gl -> ur -> ug -> ka -> cy -> gu -> haw -> mn -> ml -> ja -> fr -> af -> yi -> es -> mt -> ca -> tg -> en
 ORIGINAL:   Zit! Spotted DAN HARTMAN: Relight My Fire
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: By Dan Hartman: This re-ignited my fire
 ------------------------------------------------------------
 KEY:        [T182_649]
-HOPS:       pending
+HOPS:       en -> bs -> sv -> bn -> gl -> ur -> ug -> ka -> cy -> gu -> haw -> mn -> ml -> ja -> fr -> af -> yi -> es -> mt -> ca -> tg -> en
 ORIGINAL:   Zit! Spotted CHIC: Everybody Dance
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Painted Chicken: Everyone dances.
 ------------------------------------------------------------
 KEY:        [T182_650]
-HOPS:       pending
+HOPS:       en -> bs -> sv -> bn -> gl -> ur -> ug -> ka -> cy -> gu -> haw -> mn -> ml -> ja -> fr -> af -> yi -> es -> mt -> ca -> tg -> en
 ORIGINAL:   Zit! Spotted CHIC: My Forbidden Lover
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: victory!Pinto Manchado: My favorite rabbit
 ------------------------------------------------------------
 KEY:        [T182_651]
-HOPS:       pending
+HOPS:       en -> bs -> sv -> bn -> gl -> ur -> ug -> ka -> cy -> gu -> haw -> mn -> ml -> ja -> fr -> af -> yi -> es -> mt -> ca -> tg -> en
 ORIGINAL:   Zit! Spotted PEACHES & HERB: Shake Your Groove Thing
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Let's eat! Peaches and colorful vegetables: Mix the ingredients in a bowl.
 ------------------------------------------------------------
 KEY:        [T182_652]
-HOPS:       pending
+HOPS:       en -> no -> fy -> it -> co -> or -> sd -> id -> nl -> eo -> ja -> bs -> ku -> be -> ta -> te -> fi -> xh -> tg -> th -> mk -> en
 ORIGINAL:   Zit! Spotted ALICIA BRIDGES: I Love The Nightlife (Disco Round)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: It's his night!Alicia Bridges: I Love the Nightlife (Disco Circle)
 ------------------------------------------------------------
 KEY:        [T182_653]
-HOPS:       pending
+HOPS:       en -> no -> fy -> it -> co -> or -> sd -> id -> nl -> eo -> ja -> bs -> ku -> be -> ta -> te -> fi -> xh -> tg -> th -> mk -> en
 ORIGINAL:   Zit! Spotted GQ: Disco Nights (Rock-Freak)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Only!GQ Spot: Disco Night (Rock Freak)
 ------------------------------------------------------------
 KEY:        [T182_666]
-HOPS:       pending
+HOPS:       en -> no -> fy -> it -> co -> or -> sd -> id -> nl -> eo -> ja -> bs -> ku -> be -> ta -> te -> fi -> xh -> tg -> th -> mk -> en
 ORIGINAL:   Zit! Spotted MICHAEL ZAGER BAND: Let's All Chant
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: I watched Michael Jagger's Band: Let's Sing Together.
 ------------------------------------------------------------
 KEY:        [T182_667]
-HOPS:       pending
+HOPS:       en -> no -> fy -> it -> co -> or -> sd -> id -> nl -> eo -> ja -> bs -> ku -> be -> ta -> te -> fi -> xh -> tg -> th -> mk -> en
 ORIGINAL:   Zit! Spotted ELVIS CRESPO: Suavemente
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Be careful!Elvis Crespo the Horse: Take it easy.
 ------------------------------------------------------------
 KEY:        [T182_671]
-HOPS:       pending
+HOPS:       en -> no -> fy -> it -> co -> or -> sd -> id -> nl -> eo -> ja -> bs -> ku -> be -> ta -> te -> fi -> xh -> tg -> th -> mk -> en
 ORIGINAL:   Zit! Spotted FULANITO: Guallando
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Bus!Franito Note: Curando
 ------------------------------------------------------------
 KEY:        [T182_672]
-HOPS:       pending
+HOPS:       en -> ky -> de -> sm -> cs -> gu -> my -> lt -> sr -> az -> mi -> kk -> fa -> yi -> sd -> gl -> zh-cn -> sl -> bg -> is -> ht -> en
 ORIGINAL:   Zit! Spotted DON OMAR: Virtual Diva
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: look! Meet Sabah Omar: The Virtual Queen!
 ------------------------------------------------------------
 KEY:        [T182_674]
-HOPS:       pending
+HOPS:       en -> ky -> de -> sm -> cs -> gu -> my -> lt -> sr -> az -> mi -> kk -> fa -> yi -> sd -> gl -> zh-cn -> sl -> bg -> is -> ht -> en
 ORIGINAL:   Zit! Spotted WISIN Y YANDEL: Me Estás Tentando
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: time!VISIN IADEL - you are trying
 ------------------------------------------------------------
 KEY:        [T182_682]
-HOPS:       pending
+HOPS:       en -> ky -> de -> sm -> cs -> gu -> my -> lt -> sr -> az -> mi -> kk -> fa -> yi -> sd -> gl -> zh-cn -> sl -> bg -> is -> ht -> en
 ORIGINAL:   Zit! Spotted MACHINE: There But For The Grace Of God Go I
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Then Musani: Let's go!But I will go according to God's will.
 ------------------------------------------------------------
 KEY:        [T182_683]
-HOPS:       pending
+HOPS:       en -> ky -> de -> sm -> cs -> gu -> my -> lt -> sr -> az -> mi -> kk -> fa -> yi -> sd -> gl -> zh-cn -> sl -> bg -> is -> ht -> en
 ORIGINAL:   Zit! Spotted CREME D' COCOA: Doin' The Dog
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Stop!Spotted Cocoa Cream: Closed.
 ------------------------------------------------------------
 KEY:        [T182_684]
-HOPS:       pending
+HOPS:       en -> ky -> de -> sm -> cs -> gu -> my -> lt -> sr -> az -> mi -> kk -> fa -> yi -> sd -> gl -> zh-cn -> sl -> bg -> is -> ht -> en
 ORIGINAL:   Zit! Spotted RUFUS & CHAKA KHAN: Any Love
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: stop! Tik Rufus and Chaka Khan - some love!
 ------------------------------------------------------------
 KEY:        [T182_708]
-HOPS:       pending
+HOPS:       en -> mt -> hmn -> zh-cn -> be -> eo -> tg -> lo -> ig -> sm -> af -> sn -> lb -> gu -> pt -> gl -> kk -> xh -> ga -> mi -> am -> en
 ORIGINAL:   Zit! Spotted DAVID MORALES WITH LEA-LORIEN: How Would U Feel
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Check out David Morales and Lea Loren: What do you think?
 ------------------------------------------------------------
 KEY:        [T182_709]
-HOPS:       pending
+HOPS:       en -> mt -> hmn -> zh-cn -> be -> eo -> tg -> lo -> ig -> sm -> af -> sn -> lb -> gu -> pt -> gl -> kk -> xh -> ga -> mi -> am -> en
 ORIGINAL:   Zit! Spotted STEVE MAC VS. MOSQUITO FEAT. STEVE SMITH: Lovin' You More (That Big Track) (Freemasons Vocal Club Mix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: keep it up!
 ------------------------------------------------------------
 KEY:        [T182_711]
-HOPS:       pending
+HOPS:       en -> mt -> hmn -> zh-cn -> be -> eo -> tg -> lo -> ig -> sm -> af -> sn -> lb -> gu -> pt -> gl -> kk -> xh -> ga -> mi -> am -> en
 ORIGINAL:   Zit! Spotted STONEBRIDGE FEAT. THERESE: Put 'Em High (JJ's Club Mix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Zeit!Date Tonbridge Ft. Tiers: Toam High (JJ Club Mix)
 ------------------------------------------------------------
 KEY:        [T182_712]
-HOPS:       pending
+HOPS:       en -> mt -> hmn -> zh-cn -> be -> eo -> tg -> lo -> ig -> sm -> af -> sn -> lb -> gu -> pt -> gl -> kk -> xh -> ga -> mi -> am -> en
 ORIGINAL:   Zit! Spotted MARLY: You Never Know (Morjac Extended Mix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Go!Marley Featured: Howzive (Marley Extended Mix)
 ------------------------------------------------------------
 KEY:        [T182_713]
-HOPS:       pending
+HOPS:       en -> mt -> hmn -> zh-cn -> be -> eo -> tg -> lo -> ig -> sm -> af -> sn -> lb -> gu -> pt -> gl -> kk -> xh -> ga -> mi -> am -> en
 ORIGINAL:   Zit! Spotted SHAPE UK & CHIC: Lola's Theme
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Stupid!UK and Chic Color Schemes: Tulip Color Scheme
 ------------------------------------------------------------
 KEY:        [T182_714]
-HOPS:       pending
+HOPS:       en -> ku -> lv -> id -> yi -> eu -> km -> la -> ca -> pl -> uz -> zh-cn -> sl -> haw -> eo -> fi -> is -> sm -> it -> ja -> lo -> en
 ORIGINAL:   Zit! Spotted FREEMASONS FEAT. AMANDA WILSON: Love On My Mind
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Amanda Wilson: See "Love in My Heart" by Freemason
 ------------------------------------------------------------
 KEY:        [T182_715]
-HOPS:       pending
+HOPS:       en -> ku -> lv -> id -> yi -> eu -> km -> la -> ca -> pl -> uz -> zh-cn -> sl -> haw -> eo -> fi -> is -> sm -> it -> ja -> lo -> en
 ORIGINAL:   Zit! Spotted SOULSEARCHER: Can't Get Enough
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sedivoi: I can't get enough.
 ------------------------------------------------------------
 KEY:        [T182_716]
-HOPS:       pending
+HOPS:       en -> ku -> lv -> id -> yi -> eu -> km -> la -> ca -> pl -> uz -> zh-cn -> sl -> haw -> eo -> fi -> is -> sm -> it -> ja -> lo -> en
 ORIGINAL:   Zit! Spotted MICHAEL GRAY: The Weekend
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: You know Michael Gray: How beautiful.
 ------------------------------------------------------------
 KEY:        [T182_718]
-HOPS:       pending
+HOPS:       en -> ku -> lv -> id -> yi -> eu -> km -> la -> ca -> pl -> uz -> zh-cn -> sl -> haw -> eo -> fi -> is -> sm -> it -> ja -> lo -> en
 ORIGINAL:   Zit! Spotted J MAJIK & WICKAMAN: Crazy World (Fonzerelli Remix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Zit!Spotted J MAJIK & WICKAMAN: Mad World (Fonzerelli Remix)
 ------------------------------------------------------------
 KEY:        [T182_719]
-HOPS:       pending
+HOPS:       en -> ku -> lv -> id -> yi -> eu -> km -> la -> ca -> pl -> uz -> zh-cn -> sl -> haw -> eo -> fi -> is -> sm -> it -> ja -> lo -> en
 ORIGINAL:   Zit! Spotted BOOTY LUV: Boogie 2Nite (Seamus Haji Big Love Mix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: You already know!Spotted LUV: Holy 2Nite (Big Love Mix Seamus Haj)
 ------------------------------------------------------------
 KEY:        [T182_720]
-HOPS:       pending
+HOPS:       en -> be -> ru -> fr -> gu -> nl -> ky -> fa -> my -> iw -> da -> so -> ta -> tl -> fy -> af -> cy -> lv -> km -> ga -> sv -> en
 ORIGINAL:   Zit! Spotted HOOK N SLING: The Best Thing
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Behold!Sling Sling Hooking - Wow!
 ------------------------------------------------------------
 KEY:        [T182_721]
-HOPS:       pending
+HOPS:       en -> be -> ru -> fr -> gu -> nl -> ky -> fa -> my -> iw -> da -> so -> ta -> tl -> fy -> af -> cy -> lv -> km -> ga -> sv -> en
 ORIGINAL:   Zit! Spotted ERIC PRYDZ: Pjanoo (Club Mix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: COUNTDOWN!ERIC PRYDZ: Pjanoo (Mixed Club)
 ------------------------------------------------------------
 KEY:        [T182_723]
-HOPS:       pending
+HOPS:       en -> be -> ru -> fr -> gu -> nl -> ky -> fa -> my -> iw -> da -> so -> ta -> tl -> fy -> af -> cy -> lv -> km -> ga -> sv -> en
 ORIGINAL:   Zit! Spotted MAJOR LAZER FEAT. LEFTSIDE & SUPAHYPE: Jump Up
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: See!Entertainment center price
 ------------------------------------------------------------
 KEY:        [T182_724]
-HOPS:       pending
+HOPS:       en -> be -> ru -> fr -> gu -> nl -> ky -> fa -> my -> iw -> da -> so -> ta -> tl -> fy -> af -> cy -> lv -> km -> ga -> sv -> en
 ORIGINAL:   Zit! Spotted DANIEL HAAKSMAN FEAT. MC MILTINHO: Kid Conga
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Daniel Hexman feat. MC Miltinho: Spot Kid Congo
 ------------------------------------------------------------
 KEY:        [T182_725]
-HOPS:       pending
+HOPS:       en -> be -> ru -> fr -> gu -> nl -> ky -> fa -> my -> iw -> da -> so -> ta -> tl -> fy -> af -> cy -> lv -> km -> ga -> sv -> en
 ORIGINAL:   Zit! Spotted BOY 8-BIT: A City Under Siege
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: 8 Bit Ttted Boy: City Under Siege
 ------------------------------------------------------------
 KEY:        [T182_726]
-HOPS:       pending
+HOPS:       en -> sm -> si -> kn -> la -> ug -> lo -> hmn -> ku -> ms -> fi -> lv -> mn -> eu -> ta -> eo -> mt -> ig -> mr -> ru -> mi -> en
 ORIGINAL:   Zit! Spotted CROOKERS FEAT. KARDINALL OFFISHALL & CARLA-MARIE: Put Your Hands On Me (A Capella)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Spot Crookers Ft
 ------------------------------------------------------------
 KEY:        [T182_727]
-HOPS:       pending
+HOPS:       en -> sm -> si -> kn -> la -> ug -> lo -> hmn -> ku -> ms -> fi -> lv -> mn -> eu -> ta -> eo -> mt -> ig -> mr -> ru -> mi -> en
 ORIGINAL:   Zit! Spotted THE CHEMICAL BROTHERS: Nude Night
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: O!Health Center: Red Knight
 ------------------------------------------------------------
 KEY:        [T182_728]
-HOPS:       pending
+HOPS:       en -> sm -> si -> kn -> la -> ug -> lo -> hmn -> ku -> ms -> fi -> lv -> mn -> eu -> ta -> eo -> mt -> ig -> mr -> ru -> mi -> en
 ORIGINAL:   Zit! Spotted CROOKERS FEAT. SOLO: Bad Men
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: site
 ------------------------------------------------------------
 KEY:        [T182_729]
-HOPS:       pending
+HOPS:       en -> sm -> si -> kn -> la -> ug -> lo -> hmn -> ku -> ms -> fi -> lv -> mn -> eu -> ta -> eo -> mt -> ig -> mr -> ru -> mi -> en
 ORIGINAL:   Zit! Spotted MIIKE SNOW: Animal (A Capella)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Bar!Carl Mike Snow: Animal (a cappella)
 ------------------------------------------------------------
 KEY:        [T182_730]
-HOPS:       pending
+HOPS:       en -> sm -> si -> kn -> la -> ug -> lo -> hmn -> ku -> ms -> fi -> lv -> mn -> eu -> ta -> eo -> mt -> ig -> mr -> ru -> mi -> en
 ORIGINAL:   Zit! Spotted JAHCOOZI: Watching You (Oliver $ Remix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Zit!There's Jahkooji: Look For You (Olivari Remix)
 ------------------------------------------------------------
 KEY:        [T182_731]
-HOPS:       pending
+HOPS:       en -> cs -> ne -> jw -> ar -> st -> sv -> gd -> ja -> ku -> gu -> ps -> zh-cn -> zu -> hmn -> bg -> km -> cy -> mt -> uz -> el -> en
 ORIGINAL:   Zit! Spotted CROOKERS: Boxer
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: fat!shame: Boxer
 ------------------------------------------------------------
 KEY:        [T182_732]
-HOPS:       pending
+HOPS:       en -> cs -> ne -> jw -> ar -> st -> sv -> gd -> ja -> ku -> gu -> ps -> zh-cn -> zu -> hmn -> bg -> km -> cy -> mt -> uz -> el -> en
 ORIGINAL:   Zit! Spotted SONICC: Stickin'
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: First!Sonic Sharp: Patience
 ------------------------------------------------------------
 KEY:        [T182_733]
-HOPS:       pending
+HOPS:       en -> cs -> ne -> jw -> ar -> st -> sv -> gd -> ja -> ku -> gu -> ps -> zh-cn -> zu -> hmn -> bg -> km -> cy -> mt -> uz -> el -> en
 ORIGINAL:   Zit! Spotted BLACK NOISE: Knock You Out (Andy George Remix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Oh!Dark Sound: Beat You (Andy George Remix)
 ------------------------------------------------------------
 KEY:        [T182_734]
-HOPS:       pending
+HOPS:       en -> cs -> ne -> jw -> ar -> st -> sv -> gd -> ja -> ku -> gu -> ps -> zh-cn -> zu -> hmn -> bg -> km -> cy -> mt -> uz -> el -> en
 ORIGINAL:   Zit! Spotted MIXHELL FEAT. JEN LASHER & OH SNAP: Boom Da (Crookers Remix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: fat!He got fat on his upper jaw.Gene Lesher & Seven Shortcuts: Boom It (Crockers Remix)
 ------------------------------------------------------------
 KEY:        [T182_735]
-HOPS:       pending
+HOPS:       en -> cs -> ne -> jw -> ar -> st -> sv -> gd -> ja -> ku -> gu -> ps -> zh-cn -> zu -> hmn -> bg -> km -> cy -> mt -> uz -> el -> en
 ORIGINAL:   Zit! Spotted CROOKERS FEAT. KELIS: No Security
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: First, cookies are separate.Kelis: I don't know.
 ------------------------------------------------------------
 KEY:        [#E861E8B9]
-HOPS:       pending
+HOPS:       en -> be -> or -> bs -> az -> af -> id -> hy -> sn -> ht -> ur -> eo -> hu -> mn -> bg -> th -> zu -> es -> lo -> mi -> et -> en
 ORIGINAL:   Zit! Spotted BOY MEETS GIRL: Waiting For A Star To Fall
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Ask! The boy sees a girl and a star waiting.
 ------------------------------------------------------------
 KEY:        [#7AF08DDC]
-HOPS:       pending
+HOPS:       en -> be -> or -> bs -> az -> af -> id -> hy -> sn -> ht -> ur -> eo -> hu -> mn -> bg -> th -> zu -> es -> lo -> mi -> et -> en
 ORIGINAL:   Zit! Spotted SWING OUT SISTER: Breakout
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: sister!Continuous rotation:
 ------------------------------------------------------------
 KEY:        [#8D50B29C]
-HOPS:       pending
+HOPS:       en -> be -> or -> bs -> az -> af -> id -> hy -> sn -> ht -> ur -> eo -> hu -> mn -> bg -> th -> zu -> es -> lo -> mi -> et -> en
 ORIGINAL:   Zit! Spotted PREFAB SPROUT: When Love Breaks Down
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Get it! Live when love is gone
 ------------------------------------------------------------
 KEY:        [#9F1F5639]
-HOPS:       pending
+HOPS:       en -> be -> or -> bs -> az -> af -> id -> hy -> sn -> ht -> ur -> eo -> hu -> mn -> bg -> th -> zu -> es -> lo -> mi -> et -> en
 ORIGINAL:   Zit! Spotted NU SHOOZ: I Can't Wait
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: WELL SHOOZ I DON'T EXPECT MUCH.
 ------------------------------------------------------------
 KEY:        [#0799A3E0]
-HOPS:       pending
+HOPS:       en -> be -> or -> bs -> az -> af -> id -> hy -> sn -> ht -> ur -> eo -> hu -> mn -> bg -> th -> zu -> es -> lo -> mi -> et -> en
 ORIGINAL:   Zit! Spotted MARILLION: Kayleigh
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Marian pointed at Kelly.
 ------------------------------------------------------------
 KEY:        [#FBDE8C6A]
-HOPS:       pending
+HOPS:       en -> sl -> bs -> et -> pa -> ceb -> sr -> bg -> pl -> es -> pt -> gl -> ta -> la -> hmn -> sn -> ur -> fa -> ig -> ha -> kk -> en
 ORIGINAL:   Zit! Spotted TEXAS: I Don't Want A Lover
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Attention! Texas point: I don't want a man.
 ------------------------------------------------------------
 KEY:        [#2A39691F]
-HOPS:       pending
+HOPS:       en -> sl -> bs -> et -> pa -> ceb -> sr -> bg -> pl -> es -> pt -> gl -> ta -> la -> hmn -> sn -> ur -> fa -> ig -> ha -> kk -> en
 ORIGINAL:   Zit! Spotted LISA STANSFIELD FEAT. COLDCUT: People Hold On
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: First! Great work by Lisa Stansfield. The gold trim: the hand grips.
 ------------------------------------------------------------
 KEY:        [#EEEDF289]
-HOPS:       pending
+HOPS:       en -> sl -> bs -> et -> pa -> ceb -> sr -> bg -> pl -> es -> pt -> gl -> ta -> la -> hmn -> sn -> ur -> fa -> ig -> ha -> kk -> en
 ORIGINAL:   Zit! Spotted RE-FLEX: The Politics Of Dancing
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Blood red!Macular reflex: Mary's law
 ------------------------------------------------------------
 KEY:        [#E53BDF25]
-HOPS:       pending
+HOPS:       en -> sl -> bs -> et -> pa -> ceb -> sr -> bg -> pl -> es -> pt -> gl -> ta -> la -> hmn -> sn -> ur -> fa -> ig -> ha -> kk -> en
 ORIGINAL:   Zit! Spotted ROACHFORD: Cuddly Toy
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: No!See Rochford: A Hard Question
 ------------------------------------------------------------
 KEY:        [#91E7B862]
-HOPS:       pending
+HOPS:       en -> sl -> bs -> et -> pa -> ceb -> sr -> bg -> pl -> es -> pt -> gl -> ta -> la -> hmn -> sn -> ur -> fa -> ig -> ha -> kk -> en
 ORIGINAL:   Zit! Spotted NARADA MICHAEL WALDEN: Divine Emotions
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Vidya Naratha: Divine Influence by Michael Walton
 ------------------------------------------------------------
 KEY:        [#7C1D0CCD]
-HOPS:       pending
+HOPS:       en -> hi -> zu -> ga -> be -> hmn -> ka -> si -> ur -> sw -> ml -> fa -> ne -> pt -> sd -> th -> jw -> ca -> cy -> zh-cn -> te -> en
 ORIGINAL:   Zit! Spotted T'PAU: Heart And Soul
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down!Director T'PAU: Rei Da Vida
 ------------------------------------------------------------
 KEY:        [#A9E5E85E]
-HOPS:       pending
+HOPS:       en -> hi -> zu -> ga -> be -> hmn -> ka -> si -> ur -> sw -> ml -> fa -> ne -> pt -> sd -> th -> jw -> ca -> cy -> zh-cn -> te -> en
 ORIGINAL:   Zit! Spotted NENEH CHERRY: Buffalo Stance
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Bird!Cherry Nanny Experiment: Buffalo Stand
 ------------------------------------------------------------
 KEY:        [#4A12AE75]
-HOPS:       pending
+HOPS:       en -> hi -> zu -> ga -> be -> hmn -> ka -> si -> ur -> sw -> ml -> fa -> ne -> pt -> sd -> th -> jw -> ca -> cy -> zh-cn -> te -> en
 ORIGINAL:   Zit! Spotted BELOUIS SOME: IMAGINATION
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Chairman!Blower saw something: a dream
 ------------------------------------------------------------
 KEY:        [#93A14191]
-HOPS:       pending
+HOPS:       en -> hi -> zu -> ga -> be -> hmn -> ka -> si -> ur -> sw -> ml -> fa -> ne -> pt -> sd -> th -> jw -> ca -> cy -> zh-cn -> te -> en
 ORIGINAL:   Zit! Spotted BILLY OCEAN: Caribbean Queen (No More Love On The Run)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: A bird!Watch Billie Sea: Queen of the Caribbean (No More Love).
 ------------------------------------------------------------
 KEY:        [#A695E77A]
-HOPS:       pending
+HOPS:       en -> hi -> zu -> ga -> be -> hmn -> ka -> si -> ur -> sw -> ml -> fa -> ne -> pt -> sd -> th -> jw -> ca -> cy -> zh-cn -> te -> en
 ORIGINAL:   Zit! Spotted CLIMIE FISHER: Love Changes (Everything)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: The Quiet and Mottled Mountain Fisherman: The Changes of Love (End)
 ------------------------------------------------------------
 KEY:        [#904CBAE8]
-HOPS:       pending
+HOPS:       en -> hi -> ht -> ug -> zu -> iw -> kk -> uk -> gl -> no -> ml -> ga -> sr -> az -> tr -> ur -> ru -> it -> ny -> zh-cn -> ar -> en
 ORIGINAL:   Zit! Spotted CURIOSITY KILLED THE CAT: Misfit
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Epoch! Curiosity killed the cat: Seriously
 ------------------------------------------------------------
 KEY:        [#9EC3D7CE]
-HOPS:       pending
+HOPS:       en -> hi -> ht -> ug -> zu -> iw -> kk -> uk -> gl -> no -> ml -> ga -> sr -> az -> tr -> ur -> ru -> it -> ny -> zh-cn -> ar -> en
 ORIGINAL:   Zit! Spotted FIVE STAR: Find The Time
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Z!Get five stars - take your time.
 ------------------------------------------------------------
 KEY:        [#A814EA70]
-HOPS:       pending
+HOPS:       en -> hi -> ht -> ug -> zu -> iw -> kk -> uk -> gl -> no -> ml -> ga -> sr -> az -> tr -> ur -> ru -> it -> ny -> zh-cn -> ar -> en
 ORIGINAL:   Zit! Spotted HUE & CRY: Labour Of Love
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Zit!Takte Heave and Cry - Labor of Love
 ------------------------------------------------------------
 KEY:        [#84802347]
-HOPS:       pending
+HOPS:       en -> hi -> ht -> ug -> zu -> iw -> kk -> uk -> gl -> no -> ml -> ga -> sr -> az -> tr -> ur -> ru -> it -> ny -> zh-cn -> ar -> en
 ORIGINAL:   Zit! Spotted TERENCE TRENT D'ARBY: Wishing Well
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Seth!Photo: Terrence Trent Darby: Joey
 ------------------------------------------------------------
 KEY:        [#E513E46D]
-HOPS:       pending
+HOPS:       en -> hi -> ht -> ug -> zu -> iw -> kk -> uk -> gl -> no -> ml -> ga -> sr -> az -> tr -> ur -> ru -> it -> ny -> zh-cn -> ar -> en
 ORIGINAL:   Zit! Spotted 'TIL TUESDAY: Voices Carry
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Oil!See Tuesday: Audio
 ------------------------------------------------------------
 KEY:        [#FE139314]
-HOPS:       pending
+HOPS:       en -> no -> so -> nl -> hy -> haw -> pt -> mt -> af -> hr -> pl -> lo -> ar -> be -> sv -> mi -> is -> ko -> zh-cn -> sl -> ht -> en
 ORIGINAL:   Zit! Spotted WET WET WET: Wishing I Was Lucky
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: sit down
 ------------------------------------------------------------
 KEY:        [#1057379B]
-HOPS:       pending
+HOPS:       en -> no -> so -> nl -> hy -> haw -> pt -> mt -> af -> hr -> pl -> lo -> ar -> be -> sv -> mi -> is -> ko -> zh-cn -> sl -> ht -> en
 ORIGINAL:   Zit! Spotted ROXETTE: The Look
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit back and watch the Roxette scene
 ------------------------------------------------------------
 KEY:        [#33B7FE5C]
-HOPS:       pending
+HOPS:       en -> no -> so -> nl -> hy -> haw -> pt -> mt -> af -> hr -> pl -> lo -> ar -> be -> sv -> mi -> is -> ko -> zh-cn -> sl -> ht -> en
 ORIGINAL:   Zit! Spotted HALL & OATES: Maneater
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Please take a seat in the press room or bar.
 ------------------------------------------------------------
 KEY:        [#DE9ED97F]
-HOPS:       pending
+HOPS:       en -> no -> so -> nl -> hy -> haw -> pt -> mt -> af -> hr -> pl -> lo -> ar -> be -> sv -> mi -> is -> ko -> zh-cn -> sl -> ht -> en
 ORIGINAL:   Zit! Spotted ALPHA WAVE MOVEMENT: Artifacts & Prophecies
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: sitting.Alpha Wave Movement.Tools and Predictions
 ------------------------------------------------------------
 KEY:        [#B55486EB]
-HOPS:       pending
+HOPS:       en -> no -> so -> nl -> hy -> haw -> pt -> mt -> af -> hr -> pl -> lo -> ar -> be -> sv -> mi -> is -> ko -> zh-cn -> sl -> ht -> en
 ORIGINAL:   Zit! Spotted ERIK WOLLO: Monument
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: sitting!President Eric Folau.photo
 ------------------------------------------------------------
 KEY:        [#C3122266]
-HOPS:       pending
+HOPS:       en -> gd -> ja -> haw -> or -> ka -> ru -> ms -> hu -> tg -> mg -> az -> af -> gl -> fa -> sv -> uz -> ro -> cy -> da -> fy -> en
 ORIGINAL:   Zit! Spotted PETE NAMLOOK: 1st Impression
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Pete Namlock: First Impressions!
 ------------------------------------------------------------
 KEY:        [#99AECFA0]
-HOPS:       pending
+HOPS:       en -> gd -> ja -> haw -> or -> ka -> ru -> ms -> hu -> tg -> mg -> az -> af -> gl -> fa -> sv -> uz -> ro -> cy -> da -> fy -> en
 ORIGINAL:   Zit! Spotted AUTECHRE: Bike
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Follow us Go to AUTECHRE: Cycling
 ------------------------------------------------------------
 KEY:        [#A9B56FAD]
-HOPS:       pending
+HOPS:       en -> gd -> ja -> haw -> or -> ka -> ru -> ms -> hu -> tg -> mg -> az -> af -> gl -> fa -> sv -> uz -> ro -> cy -> da -> fy -> en
 ORIGINAL:   Zit! Spotted PETE NAMLOOK & KLAUS SCHULZE FEAT. BILL LASWELL: V/8 - Psychedelic Brunch
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Stay informed!Pete Namlock and Klaus Schulze are great for Bill Lasswell: V/8 - Psychedelic Branch
 ------------------------------------------------------------
 KEY:        [#77060A4F]
-HOPS:       pending
+HOPS:       en -> gd -> ja -> haw -> or -> ka -> ru -> ms -> hu -> tg -> mg -> az -> af -> gl -> fa -> sv -> uz -> ro -> cy -> da -> fy -> en
 ORIGINAL:   Zit! Spotted CHILLED BY NATURE: Go Forward (Love Bubble Mix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Wait!AA: Go (Love Bubble Mix)
 ------------------------------------------------------------
 KEY:        [#B0307F2F]
-HOPS:       pending
+HOPS:       en -> gd -> ja -> haw -> or -> ka -> ru -> ms -> hu -> tg -> mg -> az -> af -> gl -> fa -> sv -> uz -> ro -> cy -> da -> fy -> en
 ORIGINAL:   Zit! Spotted SPACETIME CONTINUUM: Voice of the Earth
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down!Continuity in color space: earth tones
 ------------------------------------------------------------
 KEY:        [#9DC1DA52]
-HOPS:       pending
+HOPS:       en -> az -> de -> si -> sk -> mk -> ur -> fa -> af -> xh -> bn -> my -> mn -> da -> kn -> sv -> no -> ms -> nl -> sw -> sn -> en
 ORIGINAL:   Zit! Spotted LARRY HEARD: Cosmology Myth
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Larry Heard: famous astronaut
 ------------------------------------------------------------
 KEY:        [#8C94B7F8]
-HOPS:       pending
+HOPS:       en -> az -> de -> si -> sk -> mk -> ur -> fa -> af -> xh -> bn -> my -> mn -> da -> kn -> sv -> no -> ms -> nl -> sw -> sn -> en
 ORIGINAL:   Zit! Spotted ALUCIDNATION: Skygazer (3002 Remix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Stay!Feature: Skygazer (3002 Remix)
 ------------------------------------------------------------
 KEY:        [#7A231315]
-HOPS:       pending
+HOPS:       en -> az -> de -> si -> sk -> mk -> ur -> fa -> af -> xh -> bn -> my -> mn -> da -> kn -> sv -> no -> ms -> nl -> sw -> sn -> en
 ORIGINAL:   Zit! Spotted COLDCUT: AutumnLeaves (Irresistable Force Mix Trip 2)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Season!Time: Autumn Leaves (discard two undead)
 ------------------------------------------------------------
 KEY:        [#AFFE7EC3]
-HOPS:       pending
+HOPS:       en -> az -> de -> si -> sk -> mk -> ur -> fa -> af -> xh -> bn -> my -> mn -> da -> kn -> sv -> no -> ms -> nl -> sw -> sn -> en
 ORIGINAL:   Zit! Spotted TOM MIDDLETON: Moonbathing
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Tom Middleton: You've seen Moonbath, haven't you?
 ------------------------------------------------------------
 KEY:        [#A0C7DD1E]
-HOPS:       pending
+HOPS:       en -> az -> de -> si -> sk -> mk -> ur -> fa -> af -> xh -> bn -> my -> mn -> da -> kn -> sv -> no -> ms -> nl -> sw -> sn -> en
 ORIGINAL:   Zit! Spotted SYSTEM 7: Masato Eternity (Original Mix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Zit!Spotted System 7: Masato Eternity (natural mix)
 ------------------------------------------------------------
 KEY:        [#4A8C30A8]
-HOPS:       pending
+HOPS:       en -> or -> ms -> bs -> lt -> ur -> vi -> zh-cn -> ga -> sm -> sk -> yi -> da -> is -> ps -> tr -> hi -> so -> zh-tw -> ha -> be -> en
 ORIGINAL:   Zit! Spotted MOBY: My Beautiful Sky
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: stay!Mobile tag: beautiful sky
 ------------------------------------------------------------
 KEY:        [#44EDAAD7]
-HOPS:       pending
+HOPS:       en -> or -> ms -> bs -> lt -> ur -> vi -> zh-cn -> ga -> sm -> sk -> yi -> da -> is -> ps -> tr -> hi -> so -> zh-tw -> ha -> be -> en
 ORIGINAL:   Zit! Spotted THE ORB: A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld (Live Mix MK 10)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Zit!sen the Orb: A Kinetic Mind Controlling the Ethereal Center of the World (MK10 Live Mix)
 ------------------------------------------------------------
 KEY:        [#369F0E3A]
-HOPS:       pending
+HOPS:       en -> or -> ms -> bs -> lt -> ur -> vi -> zh-cn -> ga -> sm -> sk -> yi -> da -> is -> ps -> tr -> hi -> so -> zh-tw -> ha -> be -> en
 ORIGINAL:   Zit! Spotted JEFFREY OSBORNE: Stay With Me Tonight
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Attention!Geoffrey Osborne: Be with me tonight
 ------------------------------------------------------------
 KEY:        [#E000E0FF]
-HOPS:       pending
+HOPS:       en -> or -> ms -> bs -> lt -> ur -> vi -> zh-cn -> ga -> sm -> sk -> yi -> da -> is -> ps -> tr -> hi -> so -> zh-tw -> ha -> be -> en
 ORIGINAL:   Zit! Spotted MORRISSEY: Everyday Is Like Sunday
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Excellent!Morrissey Quotes: Every day is like Sunday.
 ------------------------------------------------------------
 KEY:        [#D4D34754]
-HOPS:       pending
+HOPS:       en -> or -> ms -> bs -> lt -> ur -> vi -> zh-cn -> ga -> sm -> sk -> yi -> da -> is -> ps -> tr -> hi -> so -> zh-tw -> ha -> be -> en
 ORIGINAL:   Zit! Spotted LEVEL 42: Something About You
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: stay!Step 42: Something about you
 ------------------------------------------------------------
 KEY:        [#02F52397]
-HOPS:       pending
+HOPS:       en -> mg -> pa -> pl -> mr -> uz -> hu -> lt -> tr -> bn -> hmn -> el -> su -> ne -> am -> ta -> sv -> eo -> ja -> be -> af -> en
 ORIGINAL:   Zit! Spotted RODIGAN INTRO
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Let's learn about acne!- answered Radigan.
 ------------------------------------------------------------
 KEY:        [#CF3FBC2D]
-HOPS:       pending
+HOPS:       en -> mg -> pa -> pl -> mr -> uz -> hu -> lt -> tr -> bn -> hmn -> el -> su -> ne -> am -> ta -> sv -> eo -> ja -> be -> af -> en
 ORIGINAL:   Zit! Spotted BARRINGTON LEVY: Don't Fuss Nor Fight (aka Sweet Reggae Music)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: It's Time! Spot Barrington Levy: Don't Fight (Sweet Reggae Music)
 ------------------------------------------------------------
 KEY:        [#BD9218D2]
-HOPS:       pending
+HOPS:       en -> mg -> pa -> pl -> mr -> uz -> hu -> lt -> tr -> bn -> hmn -> el -> su -> ne -> am -> ta -> sv -> eo -> ja -> be -> af -> en
 ORIGINAL:   Zit! Spotted INI KAMOZE: Outta Jamaica
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Pour!Similar to the Jamaican chamois
 ------------------------------------------------------------
 KEY:        [#1BDAD562]
-HOPS:       pending
+HOPS:       en -> mg -> pa -> pl -> mr -> uz -> hu -> lt -> tr -> bn -> hmn -> el -> su -> ne -> am -> ta -> sv -> eo -> ja -> be -> af -> en
 ORIGINAL:   Zit! Spotted DAMIAN 'JR GONG' MARLEY: Holiday
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Acne Damian "JR Kong" Marley: Still
 ------------------------------------------------------------
 KEY:        [#5131BFF7]
-HOPS:       pending
+HOPS:       en -> mg -> pa -> pl -> mr -> uz -> hu -> lt -> tr -> bn -> hmn -> el -> su -> ne -> am -> ta -> sv -> eo -> ja -> be -> af -> en
 ORIGINAL:   Zit! Spotted THE MORWELLS & PRINCE JAMMY: Jammin' For Survival
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: acne!I see Morwell and Prince Jamie: Jamie helps.
 ------------------------------------------------------------
 KEY:        [#F6E58B78]
-HOPS:       pending
+HOPS:       en -> zu -> sv -> gu -> sn -> sq -> bn -> th -> hr -> id -> eo -> mk -> sk -> cs -> is -> no -> es -> ht -> yi -> ja -> pa -> en
 ORIGINAL:   Zit! Spotted JOHN HOLT: Police In Helicopter
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Shut up! John Holt sees a police helicopter.
 ------------------------------------------------------------
 KEY:        [#2C97F6DC]
-HOPS:       pending
+HOPS:       en -> zu -> sv -> gu -> sn -> sq -> bn -> th -> hr -> id -> eo -> mk -> sk -> cs -> is -> no -> es -> ht -> yi -> ja -> pa -> en
 ORIGINAL:   Zit! Spotted SUGAR MINOTT: Hard Time Pressure
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Jet!Minot explores: difficult and stressful times
 ------------------------------------------------------------
 KEY:        [#820E21AF]
-HOPS:       pending
+HOPS:       en -> zu -> sv -> gu -> sn -> sq -> bn -> th -> hr -> id -> eo -> mk -> sk -> cs -> is -> no -> es -> ht -> yi -> ja -> pa -> en
 ORIGINAL:   Zit! Spotted DESMOND DEKKER & THE ACES: 007 (Shanty Town)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Fly! Desmond Decker and Ace: Watch 007 (Silent City)
 ------------------------------------------------------------
 KEY:        [#76390A05]
-HOPS:       pending
+HOPS:       en -> zu -> sv -> gu -> sn -> sq -> bn -> th -> hr -> id -> eo -> mk -> sk -> cs -> is -> no -> es -> ht -> yi -> ja -> pa -> en
 ORIGINAL:   Zit! Spotted MAJOR LAZER FEAT. TURBULENCE: Anything Goes
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Discovered over time!Painful distraction: Nothing
 ------------------------------------------------------------
 KEY:        [#BE4EFCDF]
-HOPS:       pending
+HOPS:       en -> zu -> sv -> gu -> sn -> sq -> bn -> th -> hr -> id -> eo -> mk -> sk -> cs -> is -> no -> es -> ht -> yi -> ja -> pa -> en
 ORIGINAL:   Zit! Spotted PRINCE JAMMY: Jammys A Shine
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Please calm down! Prince Jamie: "Jamie is wonderful."
 ------------------------------------------------------------
 KEY:        [#CBFC983A]
-HOPS:       pending
+HOPS:       en -> sm -> el -> lv -> ro -> ko -> te -> vi -> sw -> zh-tw -> bn -> kk -> cy -> co -> ml -> or -> tg -> ru -> ny -> bs -> mg -> en
 ORIGINAL:   Zit! Spotted TOOTS & THE MAYTALS: 54-46 Was My Number
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: What!Spotted Toots & The Mythals: My score is 54-46
 ------------------------------------------------------------
 KEY:        [#9AC135C4]
-HOPS:       pending
+HOPS:       en -> sm -> el -> lv -> ro -> ko -> te -> vi -> sw -> zh-tw -> bn -> kk -> cy -> co -> ml -> or -> tg -> ru -> ny -> bs -> mg -> en
 ORIGINAL:   Zit! Spotted FRANKIE PAUL: Worries In The Dance
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Frankie Paul Says: 'I Worry About Football'
 ------------------------------------------------------------
 KEY:        [#A887D151]
-HOPS:       pending
+HOPS:       en -> sm -> el -> lv -> ro -> ko -> te -> vi -> sw -> zh-tw -> bn -> kk -> cy -> co -> ml -> or -> tg -> ru -> ny -> bs -> mg -> en
 ORIGINAL:   Zit! Spotted MR. VEGAS: Mus Come a Road
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Tell me!Mr Vegas: Look at this line.
 ------------------------------------------------------------
 KEY:        [#292AF5DC]
-HOPS:       pending
+HOPS:       en -> sm -> el -> lv -> ro -> ko -> te -> vi -> sw -> zh-tw -> bn -> kk -> cy -> co -> ml -> or -> tg -> ru -> ny -> bs -> mg -> en
 ORIGINAL:   Zit! Spotted BOY MEETS GIRL: Waiting For A Star To Fall
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Win!Ala Baby Mats: A star waiting to fall
 ------------------------------------------------------------
 KEY:        [#1405CB92]
-HOPS:       pending
+HOPS:       en -> sm -> el -> lv -> ro -> ko -> te -> vi -> sw -> zh-tw -> bn -> kk -> cy -> co -> ml -> or -> tg -> ru -> ny -> bs -> mg -> en
 ORIGINAL:   Zit! Spotted SWING OUT SISTER: Breakout
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: You need a JIT guard!IMBA: Good luck!
 ------------------------------------------------------------
 KEY:        [#45C7AF15]
-HOPS:       pending
+HOPS:       en -> co -> fa -> af -> tg -> ne -> lb -> es -> sk -> is -> lo -> sd -> la -> ps -> mi -> ka -> uz -> id -> si -> zh-tw -> fy -> en
 ORIGINAL:   Zit! Spotted PREFAB SPROUT: When Love Breaks Down
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Acceptable games: When love comes
 ------------------------------------------------------------
 KEY:        [#2FA982D9]
-HOPS:       pending
+HOPS:       en -> co -> fa -> af -> tg -> ne -> lb -> es -> sk -> is -> lo -> sd -> la -> ps -> mi -> ka -> uz -> id -> si -> zh-tw -> fy -> en
 ORIGINAL:   Zit! Spotted NU SHOOZ: I Can't Wait
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down!
 ------------------------------------------------------------
 KEY:        [#0BEB3A81]
-HOPS:       pending
+HOPS:       en -> co -> fa -> af -> tg -> ne -> lb -> es -> sk -> is -> lo -> sd -> la -> ps -> mi -> ka -> uz -> id -> si -> zh-tw -> fy -> en
 ORIGINAL:   Zit! Spotted MARILLION: Kayleigh
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: dage!Marine Point: The Village
 ------------------------------------------------------------
 KEY:        [#F7C391DE]
-HOPS:       pending
+HOPS:       en -> co -> fa -> af -> tg -> ne -> lb -> es -> sk -> is -> lo -> sd -> la -> ps -> mi -> ka -> uz -> id -> si -> zh-tw -> fy -> en
 ORIGINAL:   Zit! Spotted TEXAS: I Don't Want A Lover
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Wait!Fragile Texas: I don't need no friends
 ------------------------------------------------------------
 KEY:        [#098E3573]
-HOPS:       pending
+HOPS:       en -> co -> fa -> af -> tg -> ne -> lb -> es -> sk -> is -> lo -> sd -> la -> ps -> mi -> ka -> uz -> id -> si -> zh-tw -> fy -> en
 ORIGINAL:   Zit! Spotted LISA STANSFIELD FEAT. COLDCUT: People Hold On
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Edit!Lisa Stanfield Cold Cut: Characters
 ------------------------------------------------------------
 KEY:        [#6683EF5D]
-HOPS:       pending
+HOPS:       en -> uz -> gd -> yi -> sn -> ur -> is -> sq -> ha -> bs -> af -> mr -> sv -> eo -> th -> no -> pa -> de -> mg -> az -> lb -> en
 ORIGINAL:   Zit! Spotted RE-FLEX: The Politics Of Dancing
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: See RE-FLEX Zit!: The Politics of Dance
 ------------------------------------------------------------
 KEY:        [#302982A9]
-HOPS:       pending
+HOPS:       en -> uz -> gd -> yi -> sn -> ur -> is -> sq -> ha -> bs -> af -> mr -> sv -> eo -> th -> no -> pa -> de -> mg -> az -> lb -> en
 ORIGINAL:   Zit! Spotted ROACHFORD: Cuddly Toy
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: stop!See Rochford: Funny game.
 ------------------------------------------------------------
 KEY:        [#89EDB630]
-HOPS:       pending
+HOPS:       en -> uz -> gd -> yi -> sn -> ur -> is -> sq -> ha -> bs -> af -> mr -> sv -> eo -> th -> no -> pa -> de -> mg -> az -> lb -> en
 ORIGINAL:   Zit! Spotted NARADA MICHAEL WALDEN: Divine Emotions
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Here it is!Narada Michael Walden: God's Truth
 ------------------------------------------------------------
 KEY:        [#53B049B6]
-HOPS:       pending
+HOPS:       en -> uz -> gd -> yi -> sn -> ur -> is -> sq -> ha -> bs -> af -> mr -> sv -> eo -> th -> no -> pa -> de -> mg -> az -> lb -> en
 ORIGINAL:   Zit! Spotted T'PAU: Heart And Soul
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: stop!Colourful cup: heart and soul
 ------------------------------------------------------------
 KEY:        [#D13AC51D]
-HOPS:       pending
+HOPS:       en -> uz -> gd -> yi -> sn -> ur -> is -> sq -> ha -> bs -> af -> mr -> sv -> eo -> th -> no -> pa -> de -> mg -> az -> lb -> en
 ORIGINAL:   Zit! Spotted NENEH CHERRY: Buffalo Stance
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Look at it!Cherry Nanny: Buffalo State
 ------------------------------------------------------------
 KEY:        [#2C24F98C]
-HOPS:       pending
+HOPS:       en -> tg -> hi -> pl -> hmn -> sm -> lt -> si -> sw -> pt -> az -> sq -> de -> ky -> eu -> gd -> mk -> uk -> el -> vi -> ha -> en
 ORIGINAL:   Zit! Spotted BELOUIS SOME: IMAGINATION
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: zit!monster belouis something: useless
 ------------------------------------------------------------
 KEY:        [#306C021A]
-HOPS:       pending
+HOPS:       en -> tg -> hi -> pl -> hmn -> sm -> lt -> si -> sw -> pt -> az -> sq -> de -> ky -> eu -> gd -> mk -> uk -> el -> vi -> ha -> en
 ORIGINAL:   Zit! Spotted BILLY OCEAN: Caribbean Queen (No More Love On The Run)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Billie Hot Ocean: Queen of the Caribbean (No First Love)
 ------------------------------------------------------------
 KEY:        [#46D12EE4]
-HOPS:       pending
+HOPS:       en -> tg -> hi -> pl -> hmn -> sm -> lt -> si -> sw -> pt -> az -> sq -> de -> ky -> eu -> gd -> mk -> uk -> el -> vi -> ha -> en
 ORIGINAL:   Zit! Spotted CLIMIE FISHER: Love Changes (Everything)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Attention! Clime Fisher Reveals: Changes in Love (All)
 ------------------------------------------------------------
 KEY:        [#4960340E]
-HOPS:       pending
+HOPS:       en -> tg -> hi -> pl -> hmn -> sm -> lt -> si -> sw -> pt -> az -> sq -> de -> ky -> eu -> gd -> mk -> uk -> el -> vi -> ha -> en
 ORIGINAL:   Zit! Spotted CURIOSITY KILLED THE CAT: Misfit
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Attention!kill the cat quickly: nonsense
 ------------------------------------------------------------
 KEY:        [#5783D055]
-HOPS:       pending
+HOPS:       en -> tg -> hi -> pl -> hmn -> sm -> lt -> si -> sw -> pt -> az -> sq -> de -> ky -> eu -> gd -> mk -> uk -> el -> vi -> ha -> en
 ORIGINAL:   Zit! Spotted FIVE STAR: Find The Time
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down!Five stars: take your time
 ------------------------------------------------------------
 KEY:        [#6E1DFD89]
-HOPS:       pending
+HOPS:       en -> am -> it -> sn -> sl -> mn -> si -> ha -> ig -> is -> cy -> ga -> hy -> mt -> co -> su -> yi -> zu -> gu -> eu -> xh -> en
 ORIGINAL:   Zit! Spotted HUE & CRY: Labour Of Love
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: He saw and said, the power of love
 ------------------------------------------------------------
 KEY:        [#82C9A6E0]
-HOPS:       pending
+HOPS:       en -> am -> it -> sn -> sl -> mn -> si -> ha -> ig -> is -> cy -> ga -> hy -> mt -> co -> su -> yi -> zu -> gu -> eu -> xh -> en
 ORIGINAL:   Zit! Spotted TERENCE TRENT D'ARBY: Wishing Well
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Stay!Terence Trent D'Arby Samuel.I wish you success
 ------------------------------------------------------------
 KEY:        [#A7596FFF]
-HOPS:       pending
+HOPS:       en -> am -> it -> sn -> sl -> mn -> si -> ha -> ig -> is -> cy -> ga -> hy -> mt -> co -> su -> yi -> zu -> gu -> eu -> xh -> en
 ORIGINAL:   Zit! Spotted 'TIL TUESDAY: Voices Carry
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Hello! Tuesday. Gift sent
 ------------------------------------------------------------
 KEY:        [#7C901999]
-HOPS:       pending
+HOPS:       en -> am -> it -> sn -> sl -> mn -> si -> ha -> ig -> is -> cy -> ga -> hy -> mt -> co -> su -> yi -> zu -> gu -> eu -> xh -> en
 ORIGINAL:   Zit! Spotted WET WET WET: Wishing I Was Lucky
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Watch the time. I wish you the best.
 ------------------------------------------------------------
 KEY:        [#76238CAC]
-HOPS:       pending
+HOPS:       en -> am -> it -> sn -> sl -> mn -> si -> ha -> ig -> is -> cy -> ga -> hy -> mt -> co -> su -> yi -> zu -> gu -> eu -> xh -> en
 ORIGINAL:   Zit! Spotted ROXETTE: The Look
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: I COUNTED YOU!ROXETTE.I was shocked
 ------------------------------------------------------------
 KEY:        [#95A8CBB6]
-HOPS:       pending
+HOPS:       en -> ms -> mg -> sl -> bs -> mr -> mi -> gl -> sn -> so -> haw -> eu -> ml -> no -> ka -> da -> ny -> hi -> lt -> it -> ig -> en
 ORIGINAL:   Zit! Spotted HALL & OATES: Maneater
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: No!Where the building will work: Director
 ------------------------------------------------------------
 KEY:        [#05790E5D]
-HOPS:       pending
+HOPS:       en -> ms -> mg -> sl -> bs -> mr -> mi -> gl -> sn -> so -> haw -> eu -> ml -> no -> ka -> da -> ny -> hi -> lt -> it -> ig -> en
 ORIGINAL:   Zit! Spotted ALPHA WAVE MOVEMENT: Artifacts & Prophecies
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Zit! Alpha wave analysis: benefits and predictions
 ------------------------------------------------------------
 KEY:        [#6D895E7C]
-HOPS:       pending
+HOPS:       en -> ms -> mg -> sl -> bs -> mr -> mi -> gl -> sn -> so -> haw -> eu -> ml -> no -> ka -> da -> ny -> hi -> lt -> it -> ig -> en
 ORIGINAL:   Zit! Spotted ERIK WOLLO: Monument
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: The Famous Eric Vuolo: A Memoir
 ------------------------------------------------------------
 KEY:        [#9BC03AE9]
-HOPS:       pending
+HOPS:       en -> ms -> mg -> sl -> bs -> mr -> mi -> gl -> sn -> so -> haw -> eu -> ml -> no -> ka -> da -> ny -> hi -> lt -> it -> ig -> en
 ORIGINAL:   Zit! Spotted PETE NAMLOOK: 1st Impression
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Woo!Namlook betting revealed: Points
 ------------------------------------------------------------
 KEY:        [#4A3097CB]
-HOPS:       pending
+HOPS:       en -> ms -> mg -> sl -> bs -> mr -> mi -> gl -> sn -> so -> haw -> eu -> ml -> no -> ka -> da -> ny -> hi -> lt -> it -> ig -> en
 ORIGINAL:   Zit! Spotted AUTECHRE: Bike
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Amazing!Great writers: around
 ------------------------------------------------------------
 KEY:        [#7C7AFC5F]
-HOPS:       pending
+HOPS:       en -> zu -> el -> hy -> mk -> lt -> da -> ka -> hu -> lo -> tr -> ky -> co -> eo -> bg -> hr -> be -> af -> yo -> zh-tw -> ceb -> en
 ORIGINAL:   Zit! Spotted PETE NAMLOOK & KLAUS SCHULZE FEAT. BILL LASWELL: V/8 - Psychedelic Brunch
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: THE FENCE!PETE NAMLOCK & KLAUS SCHULTZE.FEAT.BILL LASWELL.V/8 - Psychedelic Category
 ------------------------------------------------------------
 KEY:        [#1208272F]
-HOPS:       pending
+HOPS:       en -> zu -> el -> hy -> mk -> lt -> da -> ka -> hu -> lo -> tr -> ky -> co -> eo -> bg -> hr -> be -> af -> yo -> zh-tw -> ceb -> en
 ORIGINAL:   Zit! Spotted CHILLED BY NATURE: Go Forward (Love Bubble Mix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Quote!The cry of nature. Forward (Combination with Love Bubble)
 ------------------------------------------------------------
 KEY:        [#3780F124]
-HOPS:       pending
+HOPS:       en -> zu -> el -> hy -> mk -> lt -> da -> ka -> hu -> lo -> tr -> ky -> co -> eo -> bg -> hr -> be -> af -> yo -> zh-tw -> ceb -> en
 ORIGINAL:   Zit! Spotted SPACETIME CONTINUUM: Voice of the Earth
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: You know!Significant progress throughout life.All things in the universe:
 ------------------------------------------------------------
 KEY:        [#4E971F50]
-HOPS:       pending
+HOPS:       en -> zu -> el -> hy -> mk -> lt -> da -> ka -> hu -> lo -> tr -> ky -> co -> eo -> bg -> hr -> be -> af -> yo -> zh-tw -> ceb -> en
 ORIGINAL:   Zit! Spotted LARRY HEARD: Cosmology Myth
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down! Author: Larry Heard. Cosmology is a myth
 ------------------------------------------------------------
 KEY:        [#5CE6BBEF]
-HOPS:       pending
+HOPS:       en -> zu -> el -> hy -> mk -> lt -> da -> ka -> hu -> lo -> tr -> ky -> co -> eo -> bg -> hr -> be -> af -> yo -> zh-tw -> ceb -> en
 ORIGINAL:   Zit! Spotted ALUCIDNATION: Skygazer (3002 Remix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Say it! The hallucination is clear. Skygazer (revision 3002)
 ------------------------------------------------------------
 KEY:        [#4E9E1F62]
-HOPS:       pending
+HOPS:       en -> ny -> cy -> sm -> my -> es -> gu -> et -> ga -> uz -> ta -> ha -> jw -> da -> zh-cn -> bn -> sw -> xh -> te -> co -> ne -> en
 ORIGINAL:   Zit! Spotted COLDCUT: AutumnLeaves (Irresistable Force Mix Trip 2)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Gold Mining Strategy: Fallen Tree (Combo Type 2)
 ------------------------------------------------------------
 KEY:        [#5CC9BBB9]
-HOPS:       pending
+HOPS:       en -> ny -> cy -> sm -> my -> es -> gu -> et -> ga -> uz -> ta -> ha -> jw -> da -> zh-cn -> bn -> sw -> xh -> te -> co -> ne -> en
 ORIGINAL:   Zit! Spotted TOM MIDDLETON: Moonbathing
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: What is Tom Middleton Fact: The Moon
 ------------------------------------------------------------
 KEY:        [#E9955406]
-HOPS:       pending
+HOPS:       en -> ny -> cy -> sm -> my -> es -> gu -> et -> ga -> uz -> ta -> ha -> jw -> da -> zh-cn -> bn -> sw -> xh -> te -> co -> ne -> en
 ORIGINAL:   Zit! Spotted SYSTEM 7: Masato Eternity (Original Mix)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: 7: Eternal Man (mixed sources)
 ------------------------------------------------------------
 KEY:        [#149BAA16]
-HOPS:       pending
+HOPS:       en -> ny -> cy -> sm -> my -> es -> gu -> et -> ga -> uz -> ta -> ha -> jw -> da -> zh-cn -> bn -> sw -> xh -> te -> co -> ne -> en
 ORIGINAL:   Zit! Spotted MOBY: My Beautiful Sky
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: K Moby: What a beautiful sky!
 ------------------------------------------------------------
 KEY:        [#C2340CA0]
-HOPS:       pending
+HOPS:       en -> ny -> cy -> sm -> my -> es -> gu -> et -> ga -> uz -> ta -> ha -> jw -> da -> zh-cn -> bn -> sw -> xh -> te -> co -> ne -> en
 ORIGINAL:   Zit! Spotted THE ORB: A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld (Live Mix MK 10)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: ORB icon: Big brain descends from the center of the world and takes control (Combine Direct MK10)
 ------------------------------------------------------------
 KEY:        [#0C72A11C]
-HOPS:       pending
+HOPS:       en -> mr -> lt -> fy -> ka -> fi -> sv -> bn -> zu -> or -> am -> tr -> xh -> eo -> ug -> bs -> sk -> st -> es -> haw -> lb -> en
 ORIGINAL:   Zit! Spotted JEFFREY OSBORNE: Stay With Me Tonight
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Geoffrey Osborne the Elder: Stay with me tonight
 ------------------------------------------------------------
 KEY:        [#A3CA4FC9]
-HOPS:       pending
+HOPS:       en -> mr -> lt -> fy -> ka -> fi -> sv -> bn -> zu -> or -> am -> tr -> xh -> eo -> ug -> bs -> sk -> st -> es -> haw -> lb -> en
 ORIGINAL:   Zit! Spotted MORRISSEY: Everyday Is Like Sunday
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit down! Dagit Morrissey: Every day is like Sunday.
 ------------------------------------------------------------
 KEY:        [#9206AADE]
-HOPS:       pending
+HOPS:       en -> mr -> lt -> fy -> ka -> fi -> sv -> bn -> zu -> or -> am -> tr -> xh -> eo -> ug -> bs -> sk -> st -> es -> haw -> lb -> en
 ORIGINAL:   Zit! Spotted LEVEL 42: Something About You
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Hold on!Chapter 42: There's Something Inside You.
 ------------------------------------------------------------
 KEY:        [#AFA9667F]
-HOPS:       pending
+HOPS:       en -> mr -> lt -> fy -> ka -> fi -> sv -> bn -> zu -> or -> am -> tr -> xh -> eo -> ug -> bs -> sk -> st -> es -> haw -> lb -> en
 ORIGINAL:   Zit! Spotted RODIGAN INTRO
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Wait! Who is Rodigan?
 ------------------------------------------------------------
 KEY:        [#A12B4983]
-HOPS:       pending
+HOPS:       en -> mr -> lt -> fy -> ka -> fi -> sv -> bn -> zu -> or -> am -> tr -> xh -> eo -> ug -> bs -> sk -> st -> es -> haw -> lb -> en
 ORIGINAL:   Zit! Spotted BARRINGTON LEVY: Don't Fuss Nor Fight (aka Sweet Reggae Music)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Zayt!Stained Barrington Levy: Don't Be Afraid and Fight (Sweet Reggae Music)
 ------------------------------------------------------------
 KEY:        [#5BBE3EAA]
-HOPS:       pending
+HOPS:       en -> gu -> mn -> nl -> ta -> hr -> ms -> eo -> yi -> sd -> ar -> id -> ka -> th -> ro -> zh-cn -> zh-tw -> ne -> uk -> sq -> sw -> en
 ORIGINAL:   Zit! Spotted INI KAMOZE: Outta Jamaica
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Wake up!Camus Hour: from Jamaica
 ------------------------------------------------------------
 KEY:        [#3DFB0324]
-HOPS:       pending
+HOPS:       en -> gu -> mn -> nl -> ta -> hr -> ms -> eo -> yi -> sd -> ar -> id -> ka -> th -> ro -> zh-cn -> zh-tw -> ne -> uk -> sq -> sw -> en
 ORIGINAL:   Zit! Spotted DAMIAN 'JR GONG' MARLEY: Holiday
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Wow!Damian "JR Kong" Marley Video: Forward
 ------------------------------------------------------------
 KEY:        [#7601F331]
-HOPS:       pending
+HOPS:       en -> gu -> mn -> nl -> ta -> hr -> ms -> eo -> yi -> sd -> ar -> id -> ka -> th -> ro -> zh-cn -> zh-tw -> ne -> uk -> sq -> sw -> en
 ORIGINAL:   Zit! Spotted THE MORWELLS & PRINCE JAMMY: Jammin' For Survival
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Here! The Morwells and Prince Jim: Survival Guaranteed
 ------------------------------------------------------------
 KEY:        [#684757BC]
-HOPS:       pending
+HOPS:       en -> gu -> mn -> nl -> ta -> hr -> ms -> eo -> yi -> sd -> ar -> id -> ka -> th -> ro -> zh-cn -> zh-tw -> ne -> uk -> sq -> sw -> en
 ORIGINAL:   Zit! Spotted JOHN HOLT: Police In Helicopter
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: wake up John Holt: Soldier in a helicopter
 ------------------------------------------------------------
 KEY:        [#22A0CC70]
-HOPS:       pending
+HOPS:       en -> gu -> mn -> nl -> ta -> hr -> ms -> eo -> yi -> sd -> ar -> id -> ka -> th -> ro -> zh-cn -> zh-tw -> ne -> uk -> sq -> sw -> en
 ORIGINAL:   Zit! Spotted SUGAR MINOTT: Hard Time Pressure
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Fat!Refined sugar Location: time pressure
 ------------------------------------------------------------
 KEY:        [#04E190F2]
-HOPS:       pending
+HOPS:       en -> ky -> ca -> sk -> mi -> ha -> hy -> ka -> ar -> ig -> da -> mr -> kn -> hu -> hmn -> gl -> vi -> my -> is -> ko -> fa -> en
 ORIGINAL:   Zit! Spotted DESMOND DEKKER & THE ACES: 007 (Shanty Town)
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Sit back and watch Desmond Decker and the Aces: 007 (Shanty Town).
 ------------------------------------------------------------
 KEY:        [#07DF96AA]
-HOPS:       pending
+HOPS:       en -> ky -> ca -> sk -> mi -> ha -> hy -> ka -> ar -> ig -> da -> mr -> kn -> hu -> hmn -> gl -> vi -> my -> is -> ko -> fa -> en
 ORIGINAL:   Zit! Spotted MAJOR LAZER FEAT. TURBULENCE: Anything Goes
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Naft! Good results were obtained thanks to the laser beam. Teacher: Everything is ok.
 ------------------------------------------------------------
 KEY:        [#19243C32]
-HOPS:       pending
+HOPS:       en -> ky -> ca -> sk -> mi -> ha -> hy -> ka -> ar -> ig -> da -> mr -> kn -> hu -> hmn -> gl -> vi -> my -> is -> ko -> fa -> en
 ORIGINAL:   Zit! Spotted PRINCE JAMMY: Jammys A Shine
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Shame on you President Jimmy.Hi Jamie
 ------------------------------------------------------------
 KEY:        [#6B6EE0C6]
-HOPS:       pending
+HOPS:       en -> ky -> ca -> sk -> mi -> ha -> hy -> ka -> ar -> ig -> da -> mr -> kn -> hu -> hmn -> gl -> vi -> my -> is -> ko -> fa -> en
 ORIGINAL:   Zit! Spotted TOOTS & THE MAYTALS: 54-46 Was My Number
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Fit Link Toots & Metal Str.M 54-46
 ------------------------------------------------------------
 KEY:        [#5CB9435B]
-HOPS:       pending
+HOPS:       en -> ky -> ca -> sk -> mi -> ha -> hy -> ka -> ar -> ig -> da -> mr -> kn -> hu -> hmn -> gl -> vi -> my -> is -> ko -> fa -> en
 ORIGINAL:   Zit! Spotted FRANKIE PAUL: Worries In The Dance
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Frankie Paul: Music and Dance
 ------------------------------------------------------------
 KEY:        [#4EE9A7BC]
-HOPS:       pending
+HOPS:       en -> fy -> sm -> hu -> cy -> sd -> or -> lo -> ny -> ha -> gd -> ko -> ug -> te -> ga -> bn -> sl -> mn -> gu -> km -> tr -> en
 ORIGINAL:   Zit! Spotted MR. VEGAS: Mus Come a Road
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Stay with us!More Mr. Vegas: Come on.
 ------------------------------------------------------------
 KEY:        [#00022197:AUTOERT]
-HOPS:       pending
+HOPS:       en -> fy -> sm -> hu -> cy -> sd -> or -> lo -> ny -> ha -> gd -> ko -> ug -> te -> ga -> bn -> sl -> mn -> gu -> km -> tr -> en
 ORIGINAL:   HOME
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: village
 ------------------------------------------------------------
 KEY:        [#EE55BA40:AUTOERT]
-HOPS:       pending
+HOPS:       en -> fy -> sm -> hu -> cy -> sd -> or -> lo -> ny -> ha -> gd -> ko -> ug -> te -> ga -> bn -> sl -> mn -> gu -> km -> tr -> en
 ORIGINAL:   VIEW CARS
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Look at your car.
 ------------------------------------------------------------
 KEY:        [#2AB10C5B:AUTOERT]
-HOPS:       pending
+HOPS:       en -> fy -> sm -> hu -> cy -> sd -> or -> lo -> ny -> ha -> gd -> ko -> ug -> te -> ga -> bn -> sl -> mn -> gu -> km -> tr -> en
 ORIGINAL:   ABOUT
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: See
 ------------------------------------------------------------
 KEY:        [#1EF2C658:AUTOERT]
-HOPS:       pending
+HOPS:       en -> fy -> sm -> hu -> cy -> sd -> or -> lo -> ny -> ha -> gd -> ko -> ug -> te -> ga -> bn -> sl -> mn -> gu -> km -> tr -> en
 ORIGINAL:   CONTACT US
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Get help
 ------------------------------------------------------------
 KEY:        [#54064355:AUTOERT]
 HOPS:       pending
