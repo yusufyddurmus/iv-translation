@@ -1,5 +1,5 @@
 # Hypertranslation Hops Report for american.txt
-# Generated: 2026-10-01 00:31:43
+# Generated: 2026-10-01 09:55:26
 # Total entries: 59638
 ================================================================================
 
@@ -63634,34 +63634,34 @@ TAGS:       [none]
 TRANSLATED: Get help
 ------------------------------------------------------------
 KEY:        [#54064355:AUTOERT]
-HOPS:       pending
+HOPS:       en -> bs -> eo -> fr -> uz -> nl -> ur -> haw -> ta -> am -> ug -> su -> ha -> id -> te -> mr -> yi -> ar -> ny -> sn -> da -> en
 ORIGINAL:   2004 PRESIDENTE 4.5l V10
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: 2004 Leader 4.5L V10
 ------------------------------------------------------------
 KEY:        [#245AEB24:AUTOERT]
-HOPS:       pending
+HOPS:       en -> bs -> eo -> fr -> uz -> nl -> ur -> haw -> ta -> am -> ug -> su -> ha -> id -> te -> mr -> yi -> ar -> ny -> sn -> da -> en
 ORIGINAL:   4 Doors, Manual, 26,000 miles, Metallic Turquoise. 12 months parts and labor warranty. Insurance. 0% DEPOSIT finance available. Ask Derek for full quotation. Licensed credit broker. Written details available.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: 4 door, 26,000 km, stainless steel. 12 month service warranty. 0% deposit guarantee. Request a full quote. Authorized dealer. Registered.
 ------------------------------------------------------------
 KEY:        [#26BB9927:AUTOERT]
-HOPS:       pending
+HOPS:       en -> bs -> eo -> fr -> uz -> nl -> ur -> haw -> ta -> am -> ug -> su -> ha -> id -> te -> mr -> yi -> ar -> ny -> sn -> da -> en
 ORIGINAL:   CALL - 265-555-2423
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Call 265-555-2423
 ------------------------------------------------------------
 KEY:        [#64BFE4C8:AUTOERT]
-HOPS:       pending
+HOPS:       en -> bs -> eo -> fr -> uz -> nl -> ur -> haw -> ta -> am -> ug -> su -> ha -> id -> te -> mr -> yi -> ar -> ny -> sn -> da -> en
 ORIGINAL:   2001 TURISMO 4.0l Quad Cam V8
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Crossover 2001 4.0L Quadcam V8
 ------------------------------------------------------------
 KEY:        [#D06B4346:AUTOERT]
-HOPS:       pending
+HOPS:       en -> bs -> eo -> fr -> uz -> nl -> ur -> haw -> ta -> am -> ug -> su -> ha -> id -> te -> mr -> yi -> ar -> ny -> sn -> da -> en
 ORIGINAL:   2 Doors, Manual 5 speed, Petrol, 26,000 miles, Rosso Red, Adjustable seats, Alloy wheels, CD Player, Central locking, Electric windows, Cream Leather. Rear Spoiler and ABS.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: 2 doors, 5 speed manual, petrol, 26,000 km, Rosso Red, adjustable seats, alloy wheels, CD player, central locking, electric windows, beige leather.Rear axle and abs.
 ------------------------------------------------------------
 KEY:        [#377D3AAA:AUTOERT]
 HOPS:       skipped (non-text)
@@ -63670,88 +63670,88 @@ TAGS:       [none]
 TRANSLATED: $130995
 ------------------------------------------------------------
 KEY:        [#AC9A4755:AUTOERT]
-HOPS:       pending
+HOPS:       en -> lv -> ar -> no -> hi -> de -> ku -> et -> sl -> ta -> ky -> ml -> haw -> ca -> su -> mt -> sk -> lt -> ha -> pl -> pt -> en
 ORIGINAL:   2003 FELTZER 3.8 Supercharged V8
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Tuned Feltzer 3.8 V8 from 2003
 ------------------------------------------------------------
 KEY:        [#2FDB3E02:AUTOERT]
-HOPS:       pending
+HOPS:       en -> lv -> ar -> no -> hi -> de -> ku -> et -> sl -> ta -> ky -> ml -> haw -> ca -> su -> mt -> sk -> lt -> ha -> pl -> pt -> en
 ORIGINAL:   Air conditioning, Alarm, Body colored bumpers, Drivers airbag, Electric door mirrors. 1 previous owner. CD/cassete, mint condition. All enquiries / viewing must be between 8am to 9pm.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Air conditioning, alarm, body paint, air conditioning, electric mirrors.1 previous owner.CD/cassette, excellent condition.All appointments from 8:00 to 9:00.
 ------------------------------------------------------------
 KEY:        [#25F0B05F:AUTOERT]
-HOPS:       pending
+HOPS:       en -> lv -> ar -> no -> hi -> de -> ku -> et -> sl -> ta -> ky -> ml -> haw -> ca -> su -> mt -> sk -> lt -> ha -> pl -> pt -> en
 ORIGINAL:   CALL - 662-555-0147
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Phone: 662-555-0147
 ------------------------------------------------------------
 KEY:        [#F73A09BE:AUTOERT]
-HOPS:       pending
+HOPS:       en -> lv -> ar -> no -> hi -> de -> ku -> et -> sl -> ta -> ky -> ml -> haw -> ca -> su -> mt -> sk -> lt -> ha -> pl -> pt -> en
 ORIGINAL:   2001 BANSHEE 300ci V8 Twin Turbo GT
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: in a 2001 Banshee 300ci V8 Twin Turbo GT
 ------------------------------------------------------------
 KEY:        [#0631AED2:AUTOERT]
-HOPS:       pending
+HOPS:       en -> lv -> ar -> no -> hi -> de -> ku -> et -> sl -> ta -> ky -> ml -> haw -> ca -> su -> mt -> sk -> lt -> ha -> pl -> pt -> en
 ORIGINAL:   Adjustable seats, Air conditioning, Alloy wheels, CD Player, Central locking, Electric mirrors, Electric windows, Full service history, Leather upholstery, Immobilizer.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Adjustable seats, air conditioning, aluminum wheels, CD player, central locking, power windows, power windows, full service history, Polypi, engine immobilizer.
 ------------------------------------------------------------
 KEY:        [#8D5FE66E:AUTOERT]
-HOPS:       pending
+HOPS:       en -> ky -> sw -> ru -> uk -> mn -> sv -> hu -> ml -> ta -> az -> sr -> id -> pt -> ms -> ps -> be -> zh-tw -> so -> ro -> fr -> en
 ORIGINAL:   CALL - 265-555-2423
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Call – 265-555-2423
 ------------------------------------------------------------
 KEY:        [#08DCAD03:AUTOERT]
-HOPS:       pending
+HOPS:       en -> ky -> sw -> ru -> uk -> mn -> sv -> hu -> ml -> ta -> az -> sr -> id -> pt -> ms -> ps -> be -> zh-tw -> so -> ro -> fr -> en
 ORIGINAL:   2003 INTRUDER 4.3l V8 Limited
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: 2003 ZL V8 Limited Edition
 ------------------------------------------------------------
 KEY:        [#CB95B99B:AUTOERT]
-HOPS:       pending
+HOPS:       en -> ky -> sw -> ru -> uk -> mn -> sv -> hu -> ml -> ta -> az -> sr -> id -> pt -> ms -> ps -> be -> zh-tw -> so -> ro -> fr -> en
 ORIGINAL:   Stunning Black metallic, alloys, front driving lamps, full electrics, CD Player, central locking, exceptional condition throughout.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Nice black metal, rims, frame, max power, CD, central locking, good condition.
 ------------------------------------------------------------
 KEY:        [#7DBC4723:AUTOERT]
-HOPS:       pending
+HOPS:       en -> ky -> sw -> ru -> uk -> mn -> sv -> hu -> ml -> ta -> az -> sr -> id -> pt -> ms -> ps -> be -> zh-tw -> so -> ro -> fr -> en
 ORIGINAL:   $42999
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: $42999
 ------------------------------------------------------------
 KEY:        [#22CBE0E5:AUTOERT]
-HOPS:       pending
+HOPS:       en -> ky -> sw -> ru -> uk -> mn -> sv -> hu -> ml -> ta -> az -> sr -> id -> pt -> ms -> ps -> be -> zh-tw -> so -> ro -> fr -> en
 ORIGINAL:   2001 SCHAFTER 6.5l V12 SC
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: 2001, original ௬.5 chapter 12
 ------------------------------------------------------------
 KEY:        [#E154E519:AUTOERT]
-HOPS:       pending
+HOPS:       en -> fa -> mk -> sm -> zh-cn -> iw -> eu -> si -> nl -> fr -> sl -> is -> or -> tg -> su -> lo -> ug -> xh -> hu -> sn -> ru -> en
 ORIGINAL:   Automatic, 37,000 miles, Metallic Silver. Air-Conditioning, ABS, Alloy wheels, Cruise control, Full service history, Leather seats.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Automatic, 37,000 km, silver alloy. AC, ABS, alloy wheels, cruise control, full service history, leather interior.
 ------------------------------------------------------------
 KEY:        [#8A58E05C:AUTOERT]
-HOPS:       pending
+HOPS:       en -> fa -> mk -> sm -> zh-cn -> iw -> eu -> si -> nl -> fr -> sl -> is -> or -> tg -> su -> lo -> ug -> xh -> hu -> sn -> ru -> en
 ORIGINAL:   CALL - 265-555-2423
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Call 265-555-2423.
 ------------------------------------------------------------
 KEY:        [#F4910470:AUTOERT]
-HOPS:       pending
+HOPS:       en -> fa -> mk -> sm -> zh-cn -> iw -> eu -> si -> nl -> fr -> sl -> is -> or -> tg -> su -> lo -> ug -> xh -> hu -> sn -> ru -> en
 ORIGINAL:   2006 PMP600 600ci V8 Semi
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: 2006 PMP600 600ci V8 Truck
 ------------------------------------------------------------
 KEY:        [#FC5D1B39:AUTOERT]
-HOPS:       pending
+HOPS:       en -> fa -> mk -> sm -> zh-cn -> iw -> eu -> si -> nl -> fr -> sl -> is -> or -> tg -> su -> lo -> ug -> xh -> hu -> sn -> ru -> en
 ORIGINAL:   Automatic, Diesel, 8000 miles, Metallic Silver. Leather seats, ABS, Air conditioning, Alloy wheels, CD Multichanger, Cruise control, Heated seats, Multi function steering wheel, Navigation system, Park distance control.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Automatic, diesel, 8000 km, silver metallic
 ------------------------------------------------------------
 KEY:        [#61168DD8:AUTOERT]
 HOPS:       skipped (non-text)
@@ -63760,346 +63760,346 @@ TAGS:       [none]
 TRANSLATED: $62995
 ------------------------------------------------------------
 KEY:        [ATUT_GODGOBACK:AXISTUT]
-HOPS:       pending
+HOPS:       en -> fa -> mk -> sm -> zh-cn -> iw -> eu -> si -> nl -> fr -> sl -> is -> or -> tg -> su -> lo -> ug -> xh -> hu -> sn -> ru -> en
 ORIGINAL:   ~s~You must remain at the airport to complete the SIXAXIS™ tutorial.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: You must be at the airport to participate in the SIXAXIS™ course.
 ------------------------------------------------------------
 KEY:        [ATUT_FAILEDLEFT:AXISTUT]
-HOPS:       pending
+HOPS:       en -> eu -> ha -> km -> fi -> be -> yi -> lv -> si -> ps -> tr -> ka -> la -> sm -> gd -> tl -> fa -> mt -> ml -> zh-tw -> vi -> en
 ORIGINAL:   ~r~You left the airport and canceled the SIXAXIS™ tutorial.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: After leaving the airport, I said goodbye to the person in charge of SIXAXIS.
 ------------------------------------------------------------
 KEY:        [ATUT_WLCOM1:AXISTUT]
-HOPS:       pending
+HOPS:       en -> eu -> ha -> km -> fi -> be -> yi -> lv -> si -> ps -> tr -> ka -> la -> sm -> gd -> tl -> fa -> mt -> ml -> zh-tw -> vi -> en
 ORIGINAL:   ~s~Throughout the game you can use SIXAXIS™ control.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: You can use SIXAXIS Power™ in the game.
 ------------------------------------------------------------
 KEY:        [ATUT_WLCOM2:AXISTUT]
-HOPS:       pending
+HOPS:       en -> eu -> ha -> km -> fi -> be -> yi -> lv -> si -> ps -> tr -> ka -> la -> sm -> gd -> tl -> fa -> mt -> ml -> zh-tw -> vi -> en
 ORIGINAL:   ~s~SIXAXIS™ is enabled throughout this tutorial. It can be turned off/on by going to Controls in the front end menu and selecting SIXAXIS™.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: You can find SIXAXIS™ in this manual. You can enable/disable this feature by going to Manager in the main menu and selecting SIXAXIS™.
 ------------------------------------------------------------
 KEY:        [ATUT_RELOAD1:AXISTUT]
-HOPS:       pending
+HOPS:       en -> eu -> ha -> km -> fi -> be -> yi -> lv -> si -> ps -> tr -> ka -> la -> sm -> gd -> tl -> fa -> mt -> ml -> zh-tw -> vi -> en
 ORIGINAL:   ~s~SIXAXIS™ can be used to reload your weapon.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: SIXAXIS™ armor can be used for regeneration.
 ------------------------------------------------------------
 KEY:        [ATUT_RELOAD2:AXISTUT]
-HOPS:       pending
+HOPS:       en -> eu -> ha -> km -> fi -> be -> yi -> lv -> si -> ps -> tr -> ka -> la -> sm -> gd -> tl -> fa -> mt -> ml -> zh-tw -> vi -> en
 ORIGINAL:   ~s~Use ~PAD_SIXAXIS_RELOAD~ to reload the pistol.~n~_~n~_~n~
 TAGS:       [~s~, ~PAD_SIXAXIS_RELOAD~, ~n~, ~n~, ~n~]
-TRANSLATED: (pending translation)
+TRANSLATED: Use your weapon to reload._ _
 ------------------------------------------------------------
 KEY:        [ATUT_RELOAD3:AXISTUT]
-HOPS:       pending
+HOPS:       en -> haw -> hu -> hy -> mk -> ca -> iw -> si -> la -> te -> sk -> ml -> da -> sm -> sl -> lb -> cs -> ta -> co -> ps -> zu -> en
 ORIGINAL:   ~s~Reload your weapon using SIXAXIS™.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Load your weapon with SIXAXIS™!
 ------------------------------------------------------------
 KEY:        [ATUT_MARKER:AXISTUT]
-HOPS:       pending
+HOPS:       en -> haw -> hu -> hy -> mk -> ca -> iw -> si -> la -> te -> sk -> ml -> da -> sm -> sl -> lb -> cs -> ta -> co -> ps -> zu -> en
 ORIGINAL:   ~s~Go to the ~y~marker.
 TAGS:       [~s~, ~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: He continued with the poster.
 ------------------------------------------------------------
 KEY:        [ATUT_MARKER2:AXISTUT]
-HOPS:       pending
+HOPS:       en -> haw -> hu -> hy -> mk -> ca -> iw -> si -> la -> te -> sk -> ml -> da -> sm -> sl -> lb -> cs -> ta -> co -> ps -> zu -> en
 ORIGINAL:   ~s~Land at the ~y~marker.
 TAGS:       [~s~, ~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Market conditions.
 ------------------------------------------------------------
 KEY:        [ATUT_BIKE1A:AXISTUT]
-HOPS:       pending
+HOPS:       en -> haw -> hu -> hy -> mk -> ca -> iw -> si -> la -> te -> sk -> ml -> da -> sm -> sl -> lb -> cs -> ta -> co -> ps -> zu -> en
 ORIGINAL:   Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to brake.
 TAGS:       [~INPUT_VEH_ACCELERATE~, ~INPUT_VEH_BRAKE~]
-TRANSLATED: (pending translation)
+TRANSLATED: Click to zoom in on the image.Click on the area.
 ------------------------------------------------------------
 KEY:        [ATUT_BIKE2A:AXISTUT]
-HOPS:       pending
+HOPS:       en -> haw -> hu -> hy -> mk -> ca -> iw -> si -> la -> te -> sk -> ml -> da -> sm -> sl -> lb -> cs -> ta -> co -> ps -> zu -> en
 ORIGINAL:   ~s~Use ~PAD_SIXAXIS_ROLL~ to steer the bike.~n~_~n~_~n~
 TAGS:       [~s~, ~PAD_SIXAXIS_ROLL~, ~n~, ~n~, ~n~]
-TRANSLATED: (pending translation)
+TRANSLATED: Use a bicycle.
 ------------------------------------------------------------
 KEY:        [ATUT_BIKE1:AXISTUT]
-HOPS:       pending
+HOPS:       en -> th -> el -> da -> id -> lo -> cs -> lv -> or -> ig -> no -> et -> hi -> sl -> lt -> ca -> sw -> ka -> pt -> ar -> fa -> en
 ORIGINAL:   ~s~Use SIXAXIS™ to steer the bike through the ~y~markers.
 TAGS:       [~s~, ~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Use SIXAXIS™ to guide your bike through the signs
 ------------------------------------------------------------
 KEY:        [ATUT_BIKE2:AXISTUT]
-HOPS:       pending
+HOPS:       en -> th -> el -> da -> id -> lo -> cs -> lv -> or -> ig -> no -> et -> hi -> sl -> lt -> ca -> sw -> ka -> pt -> ar -> fa -> en
 ORIGINAL:   ~s~Use ~PAD_SIXAXIS_ROLL~ to steer the bike.
 TAGS:       [~s~, ~PAD_SIXAXIS_ROLL~]
-TRANSLATED: (pending translation)
+TRANSLATED: It is used for bicycles
 ------------------------------------------------------------
 KEY:        [ATUT_BIKE3:AXISTUT]
-HOPS:       pending
+HOPS:       en -> th -> el -> da -> id -> lo -> cs -> lv -> or -> ig -> no -> et -> hi -> sl -> lt -> ca -> sw -> ka -> pt -> ar -> fa -> en
 ORIGINAL:   ~s~You can use SIXAXIS™ to shift your weight forwards and backwards whilst on a bike. This will allow you to perform stunts such as stoppies and wheelies.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: With SIXAXIS™ you can regain weight while driving and performing maneuvers such as stop and start.
 ------------------------------------------------------------
 KEY:        [ATUT_BIKE4:AXISTUT]
-HOPS:       pending
+HOPS:       en -> th -> el -> da -> id -> lo -> cs -> lv -> or -> ig -> no -> et -> hi -> sl -> lt -> ca -> sw -> ka -> pt -> ar -> fa -> en
 ORIGINAL:   ~s~Use SIXAXIS™ to perform a stunt.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: Control with SIXAXIS™
 ------------------------------------------------------------
 KEY:        [ATUT_BIKE5:AXISTUT]
-HOPS:       pending
+HOPS:       en -> th -> el -> da -> id -> lo -> cs -> lv -> or -> ig -> no -> et -> hi -> sl -> lt -> ca -> sw -> ka -> pt -> ar -> fa -> en
 ORIGINAL:   ~s~Use ~PAD_SIXAXIS_PITCH~ whilst driving to lean forward or backwards.~n~_~n~_~n~
 TAGS:       [~s~, ~PAD_SIXAXIS_PITCH~, ~n~, ~n~, ~n~]
-TRANSLATED: (pending translation)
+TRANSLATED: Use __ to move forward or backward while driving.
 ------------------------------------------------------------
 KEY:        [ATUT_BOAT1A:AXISTUT]
-HOPS:       pending
+HOPS:       en -> ms -> su -> yi -> sq -> ar -> hi -> zh-cn -> km -> ka -> ku -> cy -> ny -> ps -> is -> mr -> ug -> sv -> ca -> pt -> ru -> en
 ORIGINAL:   ~s~Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to brake.
 TAGS:       [~s~, ~INPUT_VEH_ACCELERATE~, ~INPUT_VEH_BRAKE~]
-TRANSLATED: (pending translation)
+TRANSLATED: Click to run, click to fly.
 ------------------------------------------------------------
 KEY:        [ATUT_BOAT2A:AXISTUT]
-HOPS:       pending
+HOPS:       en -> ms -> su -> yi -> sq -> ar -> hi -> zh-cn -> km -> ka -> ku -> cy -> ny -> ps -> is -> mr -> ug -> sv -> ca -> pt -> ru -> en
 ORIGINAL:   ~s~Use ~PAD_SIXAXIS_ROLL~ to steer the boat.~n~_~n~_~n~
 TAGS:       [~s~, ~PAD_SIXAXIS_ROLL~, ~n~, ~n~, ~n~]
-TRANSLATED: (pending translation)
+TRANSLATED: It is used in shipbuilding.
 ------------------------------------------------------------
 KEY:        [ATUT_BOAT3A:AXISTUT]
-HOPS:       pending
+HOPS:       en -> ms -> su -> yi -> sq -> ar -> hi -> zh-cn -> km -> ka -> ku -> cy -> ny -> ps -> is -> mr -> ug -> sv -> ca -> pt -> ru -> en
 ORIGINAL:   ~s~Use ~PAD_SIXAXIS_PITCH~ to adjust the trim.
 TAGS:       [~s~, ~PAD_SIXAXIS_PITCH~]
-TRANSLATED: (pending translation)
+TRANSLATED: It is used to treat wounds.
 ------------------------------------------------------------
 KEY:        [ATUT_BOAT1:AXISTUT]
-HOPS:       pending
+HOPS:       en -> ms -> su -> yi -> sq -> ar -> hi -> zh-cn -> km -> ka -> ku -> cy -> ny -> ps -> is -> mr -> ug -> sv -> ca -> pt -> ru -> en
 ORIGINAL:   ~s~Use SIXAXIS™ to steer the boat through the ~y~markers.
 TAGS:       [~s~, ~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Use SIXAXIS Used to activate a signal.
 ------------------------------------------------------------
 KEY:        [ATUT_BOAT2:AXISTUT]
-HOPS:       pending
+HOPS:       en -> ms -> su -> yi -> sq -> ar -> hi -> zh-cn -> km -> ka -> ku -> cy -> ny -> ps -> is -> mr -> ug -> sv -> ca -> pt -> ru -> en
 ORIGINAL:   ~s~Use ~PAD_SIXAXIS_ROLL~ to steer the boat.
 TAGS:       [~s~, ~PAD_SIXAXIS_ROLL~]
-TRANSLATED: (pending translation)
+TRANSLATED: It is used on ships.
 ------------------------------------------------------------
 KEY:        [ATUT_BOAT3:AXISTUT]
-HOPS:       pending
+HOPS:       en -> yo -> ceb -> te -> ha -> uz -> zh-cn -> cy -> yi -> sr -> lv -> eo -> ig -> eu -> bg -> ug -> vi -> co -> ml -> bn -> id -> en
 ORIGINAL:   ~s~You can use ~PAD_SIXAXIS_PITCH~ to adjust the trim.~n~_~n~_~n~
 TAGS:       [~s~, ~PAD_SIXAXIS_PITCH~, ~n~, ~n~, ~n~]
-TRANSLATED: (pending translation)
+TRANSLATED: You can use it to prepare plants.
 ------------------------------------------------------------
 KEY:        [#40350CBD:AXISTUT]
-HOPS:       pending
+HOPS:       en -> yo -> ceb -> te -> ha -> uz -> zh-cn -> cy -> yi -> sr -> lv -> eo -> ig -> eu -> bg -> ug -> vi -> co -> ml -> bn -> id -> en
 ORIGINAL:   You can use SIXAXIS™ to control bikes.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: You can use SIKSAXIS for cycling.
 ------------------------------------------------------------
 KEY:        [#2233C7CE:AXISTUT]
-HOPS:       pending
+HOPS:       en -> yo -> ceb -> te -> ha -> uz -> zh-cn -> cy -> yi -> sr -> lv -> eo -> ig -> eu -> bg -> ug -> vi -> co -> ml -> bn -> id -> en
 ORIGINAL:   You can use SIXAXIS™ to control boats.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Control your bots with SIKSAXIS.
 ------------------------------------------------------------
 KEY:        [ATUT_HELI6A:AXISTUT]
-HOPS:       pending
+HOPS:       en -> yo -> ceb -> te -> ha -> uz -> zh-cn -> cy -> yi -> sr -> lv -> eo -> ig -> eu -> bg -> ug -> vi -> co -> ml -> bn -> id -> en
 ORIGINAL:   You can use SIXAXIS™ to control helicopters.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: You can control the helicopter with SIKSAXIS.
 ------------------------------------------------------------
 KEY:        [ATUT_HELI1A:AXISTUT]
-HOPS:       pending
+HOPS:       en -> yo -> ceb -> te -> ha -> uz -> zh-cn -> cy -> yi -> sr -> lv -> eo -> ig -> eu -> bg -> ug -> vi -> co -> ml -> bn -> id -> en
 ORIGINAL:   By enabling the Auto Pitch Calibration option in the Controls menu, upon entering a vehicle the current pitch of the SIXAXIS™ is used as the central pitch position for all vehicle controls.
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: When the Automatic Height Adjustment option is activated in the Control menu, the current SIKSAXIS™ level will be used as the control center for all vehicle input controls.
 ------------------------------------------------------------
 KEY:        [ATUT_HELI2A:AXISTUT]
-HOPS:       pending
+HOPS:       en -> is -> es -> tl -> mg -> be -> mn -> uz -> hr -> tg -> ky -> su -> pa -> el -> mr -> sv -> bg -> ceb -> so -> sd -> eo -> en
 ORIGINAL:   Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to increase your altitude or ~INPUT_VEH_FLY_THROTTLE_DOWN~ to decrease your altitude.
 TAGS:       [~INPUT_VEH_FLY_THROTTLE_UP~, ~INPUT_VEH_FLY_THROTTLE_DOWN~]
-TRANSLATED: (pending translation)
+TRANSLATED: Press and hold to increase or decrease volume
 ------------------------------------------------------------
 KEY:        [#69C23B2C:AXISTUT]
-HOPS:       pending
+HOPS:       en -> is -> es -> tl -> mg -> be -> mn -> uz -> hr -> tg -> ky -> su -> pa -> el -> mr -> sv -> bg -> ceb -> so -> sd -> eo -> en
 ORIGINAL:   Use ~PAD_SIXAXIS_ROLL~ and ~PAD_SIXAXIS_PITCH~ to bank the helicopter in the direction you wish to move.
 TAGS:       [~PAD_SIXAXIS_ROLL~, ~PAD_SIXAXIS_PITCH~]
-TRANSLATED: (pending translation)
+TRANSLATED: Use the helicopter and point it in the direction you want to use it.
 ------------------------------------------------------------
 KEY:        [ATUT_HELI1:AXISTUT]
-HOPS:       pending
+HOPS:       en -> is -> es -> tl -> mg -> be -> mn -> uz -> hr -> tg -> ky -> su -> pa -> el -> mr -> sv -> bg -> ceb -> so -> sd -> eo -> en
 ORIGINAL:   ~s~Take off and increase your altitude.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: to get
 ------------------------------------------------------------
 KEY:        [ATUT_HELI2:AXISTUT]
-HOPS:       pending
+HOPS:       en -> is -> es -> tl -> mg -> be -> mn -> uz -> hr -> tg -> ky -> su -> pa -> el -> mr -> sv -> bg -> ceb -> so -> sd -> eo -> en
 ORIGINAL:   ~s~Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to increase your altitude.
 TAGS:       [~s~, ~INPUT_VEH_FLY_THROTTLE_UP~]
-TRANSLATED: (pending translation)
+TRANSLATED: Press and hold to increase the height.
 ------------------------------------------------------------
 KEY:        [#E4486275:AXISTUT]
-HOPS:       pending
+HOPS:       en -> is -> es -> tl -> mg -> be -> mn -> uz -> hr -> tg -> ky -> su -> pa -> el -> mr -> sv -> bg -> ceb -> so -> sd -> eo -> en
 ORIGINAL:   ~s~Use SIXAXIS™ to fly forwards into the ~y~marker.
 TAGS:       [~s~, ~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Use SIXAXIS™ to change characters.
 ------------------------------------------------------------
 KEY:        [ATUT_HELI4:AXISTUT]
-HOPS:       pending
+HOPS:       en -> it -> ceb -> ha -> fy -> iw -> fi -> cs -> bg -> cy -> ms -> el -> am -> haw -> be -> da -> gd -> is -> fa -> kn -> ta -> en
 ORIGINAL:   ~s~Use ~PAD_SIXAXIS_PITCH~ and hold ~INPUT_VEH_FLY_THROTTLE_UP~ to accelerate forwards.~n~_~n~_~n~
 TAGS:       [~s~, ~PAD_SIXAXIS_PITCH~, ~INPUT_VEH_FLY_THROTTLE_UP~, ~n~, ~n~, ~n~]
-TRANSLATED: (pending translation)
+TRANSLATED: Use continuous scrolling.
 ------------------------------------------------------------
 KEY:        [ATUT_HELI4A:AXISTUT]
-HOPS:       pending
+HOPS:       en -> it -> ceb -> ha -> fy -> iw -> fi -> cs -> bg -> cy -> ms -> el -> am -> haw -> be -> da -> gd -> is -> fa -> kn -> ta -> en
 ORIGINAL:   Press ~INPUT_VEH_FLY_YAW_LEFT~ and ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the helicopter left and right.
 TAGS:       [~INPUT_VEH_FLY_YAW_LEFT~, ~INPUT_VEH_FLY_YAW_RIGHT~]
-TRANSLATED: (pending translation)
+TRANSLATED: Click again to rotate the helicopter left and right.
 ------------------------------------------------------------
 KEY:        [ATUT_HELI5:AXISTUT]
-HOPS:       pending
+HOPS:       en -> it -> ceb -> ha -> fy -> iw -> fi -> cs -> bg -> cy -> ms -> el -> am -> haw -> be -> da -> gd -> is -> fa -> kn -> ta -> en
 ORIGINAL:   ~s~Use SIXAXIS™ to fly the helicopter through the ~y~markers.
 TAGS:       [~s~, ~y~]
-TRANSLATED: (pending translation)
+TRANSLATED: Use SIXAXIS™ technology to control your helicopter on the ground.
 ------------------------------------------------------------
 KEY:        [ATUT_HELI6:AXISTUT]
-HOPS:       pending
+HOPS:       en -> it -> ceb -> ha -> fy -> iw -> fi -> cs -> bg -> cy -> ms -> el -> am -> haw -> be -> da -> gd -> is -> fa -> kn -> ta -> en
 ORIGINAL:   ~s~Use ~PAD_SIXAXIS_ROLL~ to steer the helicopter.~n~_~n~_~n~
 TAGS:       [~s~, ~PAD_SIXAXIS_ROLL~, ~n~, ~n~, ~n~]
-TRANSLATED: (pending translation)
+TRANSLATED: Use it to control the helicopter.
 ------------------------------------------------------------
 KEY:        [ATUT_HELI7:AXISTUT]
-HOPS:       pending
+HOPS:       en -> it -> ceb -> ha -> fy -> iw -> fi -> cs -> bg -> cy -> ms -> el -> am -> haw -> be -> da -> gd -> is -> fa -> kn -> ta -> en
 ORIGINAL:   ~s~Hold ~INPUT_VEH_FLY_THROTTLE_DOWN~ to decrease your altitude.
 TAGS:       [~s~, ~INPUT_VEH_FLY_THROTTLE_DOWN~]
-TRANSLATED: (pending translation)
+TRANSLATED: Put it down.
 ------------------------------------------------------------
 KEY:        [ATUT_END:AXISTUT]
-HOPS:       pending
+HOPS:       en -> ka -> ja -> kn -> jw -> ug -> hmn -> fi -> xh -> gu -> cy -> am -> sw -> no -> cs -> ig -> gd -> mr -> lv -> ku -> bs -> en
 ORIGINAL:   ~s~SIXAXIS™ Tutorial complete.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: You have completed the SIXAXIS™ process.
 ------------------------------------------------------------
 KEY:        [ATUT_OUTBIKE:AXISTUT]
-HOPS:       pending
+HOPS:       en -> ka -> ja -> kn -> jw -> ug -> hmn -> fi -> xh -> gu -> cy -> am -> sw -> no -> cs -> ig -> gd -> mr -> lv -> ku -> bs -> en
 ORIGINAL:   ~s~Get back on the ~b~bike.
 TAGS:       [~s~, ~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Back on the bike.
 ------------------------------------------------------------
 KEY:        [ATUT_OUTHELI:AXISTUT]
-HOPS:       pending
+HOPS:       en -> ka -> ja -> kn -> jw -> ug -> hmn -> fi -> xh -> gu -> cy -> am -> sw -> no -> cs -> ig -> gd -> mr -> lv -> ku -> bs -> en
 ORIGINAL:   ~s~Get back into the ~b~helicopter.
 TAGS:       [~s~, ~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Back to the helicopter.
 ------------------------------------------------------------
 KEY:        [ATUT_OUTBOAT:AXISTUT]
-HOPS:       pending
+HOPS:       en -> ka -> ja -> kn -> jw -> ug -> hmn -> fi -> xh -> gu -> cy -> am -> sw -> no -> cs -> ig -> gd -> mr -> lv -> ku -> bs -> en
 ORIGINAL:   ~s~Get back into the ~b~boat.
 TAGS:       [~s~, ~b~]
-TRANSLATED: (pending translation)
+TRANSLATED: Back to the ship.
 ------------------------------------------------------------
 KEY:        [ATUT_DEDBIKE:AXISTUT]
-HOPS:       pending
+HOPS:       en -> ka -> ja -> kn -> jw -> ug -> hmn -> fi -> xh -> gu -> cy -> am -> sw -> no -> cs -> ig -> gd -> mr -> lv -> ku -> bs -> en
 ORIGINAL:   ~r~You destroyed the bike.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: break the cycle.
 ------------------------------------------------------------
 KEY:        [ATUT_DEDHELI:AXISTUT]
-HOPS:       pending
+HOPS:       en -> mk -> kk -> pl -> haw -> ne -> st -> ug -> yo -> yi -> sl -> vi -> mi -> am -> is -> th -> zh-tw -> sk -> tl -> ig -> ht -> en
 ORIGINAL:   ~r~You destroyed the helicopter.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: He destroyed the plane.
 ------------------------------------------------------------
 KEY:        [ATUT_DEDBOAT:AXISTUT]
-HOPS:       pending
+HOPS:       en -> mk -> kk -> pl -> haw -> ne -> st -> ug -> yo -> yi -> sl -> vi -> mi -> am -> is -> th -> zh-tw -> sk -> tl -> ig -> ht -> en
 ORIGINAL:   ~r~You destroyed the boat.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: failed
 ------------------------------------------------------------
 KEY:        [ATUT_FAIL:AXISTUT]
-HOPS:       pending
+HOPS:       en -> mk -> kk -> pl -> haw -> ne -> st -> ug -> yo -> yi -> sl -> vi -> mi -> am -> is -> th -> zh-tw -> sk -> tl -> ig -> ht -> en
 ORIGINAL:   ~s~SIXAXIS™ Tutorial failed.
 TAGS:       [~s~]
-TRANSLATED: (pending translation)
+TRANSLATED: SIXAXIS™ cannot learn.
 ------------------------------------------------------------
 KEY:        [ATUT_WLCOM3:AXISTUT]
-HOPS:       pending
+HOPS:       en -> mk -> kk -> pl -> haw -> ne -> st -> ug -> yo -> yi -> sl -> vi -> mi -> am -> is -> th -> zh-tw -> sk -> tl -> ig -> ht -> en
 ORIGINAL:   SIXAXIS™ can be overridden at any time by using ~PAD_LSTICK_ALL~ and ~PAD_RSTICK_ALL~ when appropriate.
 TAGS:       [~PAD_LSTICK_ALL~, ~PAD_RSTICK_ALL~]
-TRANSLATED: (pending translation)
+TRANSLATED: You can drive the SIXAXIS on the right.
 ------------------------------------------------------------
 KEY:        [ATUT_RELOAD2_S:AXISTUT]
-HOPS:       pending
+HOPS:       en -> mk -> kk -> pl -> haw -> ne -> st -> ug -> yo -> yi -> sl -> vi -> mi -> am -> is -> th -> zh-tw -> sk -> tl -> ig -> ht -> en
 ORIGINAL:   ~s~Use ~PAD_SIXAXIS_RELOAD~ to reload the pistol.
 TAGS:       [~s~, ~PAD_SIXAXIS_RELOAD~]
-TRANSLATED: (pending translation)
+TRANSLATED: Reinstall the app
 ------------------------------------------------------------
 KEY:        [#4C49E1C7:AXISTUT]
-HOPS:       pending
+HOPS:       en -> yo -> so -> de -> ko -> ps -> mn -> it -> lv -> ht -> fi -> ig -> ca -> am -> sw -> si -> co -> gu -> uz -> gd -> ug -> en
 ORIGINAL:   ~s~Use ~PAD_SIXAXIS_ROLL~ to steer the bike.
 TAGS:       [~s~, ~PAD_SIXAXIS_ROLL~]
-TRANSLATED: (pending translation)
+TRANSLATED: Used for bicycles.
 ------------------------------------------------------------
 KEY:        [#A53DE58D:AXISTUT]
-HOPS:       pending
+HOPS:       en -> yo -> so -> de -> ko -> ps -> mn -> it -> lv -> ht -> fi -> ig -> ca -> am -> sw -> si -> co -> gu -> uz -> gd -> ug -> en
 ORIGINAL:   ~s~Use ~PAD_SIXAXIS_PITCH~ whilst driving to lean forward or backwards.
 TAGS:       [~s~, ~PAD_SIXAXIS_PITCH~]
-TRANSLATED: (pending translation)
+TRANSLATED: Used to move forward or backward while driving.
 ------------------------------------------------------------
 KEY:        [#E2D944F7:AXISTUT]
-HOPS:       pending
+HOPS:       en -> yo -> so -> de -> ko -> ps -> mn -> it -> lv -> ht -> fi -> ig -> ca -> am -> sw -> si -> co -> gu -> uz -> gd -> ug -> en
 ORIGINAL:   ~s~Use ~PAD_SIXAXIS_ROLL~ to steer the boat.
 TAGS:       [~s~, ~PAD_SIXAXIS_ROLL~]
-TRANSLATED: (pending translation)
+TRANSLATED: They use the ship's power.
 ------------------------------------------------------------
 KEY:        [#35FF859C:AXISTUT]
-HOPS:       pending
+HOPS:       en -> yo -> so -> de -> ko -> ps -> mn -> it -> lv -> ht -> fi -> ig -> ca -> am -> sw -> si -> co -> gu -> uz -> gd -> ug -> en
 ORIGINAL:   ~s~You can use ~PAD_SIXAXIS_PITCH~ to adjust the trim.
 TAGS:       [~s~, ~PAD_SIXAXIS_PITCH~]
-TRANSLATED: (pending translation)
+TRANSLATED: This allows you to change the crop.
 ------------------------------------------------------------
 KEY:        [#271DB173:AXISTUT]
-HOPS:       pending
+HOPS:       en -> yo -> so -> de -> ko -> ps -> mn -> it -> lv -> ht -> fi -> ig -> ca -> am -> sw -> si -> co -> gu -> uz -> gd -> ug -> en
 ORIGINAL:   ~s~Use ~PAD_SIXAXIS_PITCH~ and hold ~INPUT_VEH_FLY_THROTTLE_UP~ to accelerate forwards.
 TAGS:       [~s~, ~PAD_SIXAXIS_PITCH~, ~INPUT_VEH_FLY_THROTTLE_UP~]
-TRANSLATED: (pending translation)
+TRANSLATED: Use the button below to continue.
 ------------------------------------------------------------
 KEY:        [#76261C2D:AXISTUT]
-HOPS:       pending
+HOPS:       en -> it -> zh-tw -> ceb -> uk -> ug -> ha -> sm -> ar -> ne -> ja -> pl -> bs -> zu -> el -> sn -> hi -> sq -> ro -> jw -> es -> en
 ORIGINAL:   ~s~Use ~PAD_SIXAXIS_ROLL~ to steer the helicopter.
 TAGS:       [~s~, ~PAD_SIXAXIS_ROLL~]
-TRANSLATED: (pending translation)
+TRANSLATED: It is used to control helicopters.
 ------------------------------------------------------------
 KEY:        [ATUT_STUCKBIKE:AXISTUT]
-HOPS:       pending
+HOPS:       en -> it -> zh-tw -> ceb -> uk -> ug -> ha -> sm -> ar -> ne -> ja -> pl -> bs -> zu -> el -> sn -> hi -> sq -> ro -> jw -> es -> en
 ORIGINAL:   ~r~The bike got stuck.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: The horse stopped.
 ------------------------------------------------------------
 KEY:        [ATUT_STUCKHELI:AXISTUT]
-HOPS:       pending
+HOPS:       en -> it -> zh-tw -> ceb -> uk -> ug -> ha -> sm -> ar -> ne -> ja -> pl -> bs -> zu -> el -> sn -> hi -> sq -> ro -> jw -> es -> en
 ORIGINAL:   ~r~The helicopter got stuck.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: The helicopter stopped.
 ------------------------------------------------------------
 KEY:        [ATUT_STUCKBOAT:AXISTUT]
-HOPS:       pending
+HOPS:       en -> it -> zh-tw -> ceb -> uk -> ug -> ha -> sm -> ar -> ne -> ja -> pl -> bs -> zu -> el -> sn -> hi -> sq -> ro -> jw -> es -> en
 ORIGINAL:   ~r~The boat got stuck.
 TAGS:       [~r~]
-TRANSLATED: (pending translation)
+TRANSLATED: The train stopped.
 ------------------------------------------------------------
 KEY:        [B1_FAIL_1A:B1AUD]
-HOPS:       pending
+HOPS:       en -> it -> zh-tw -> ceb -> uk -> ug -> ha -> sm -> ar -> ne -> ja -> pl -> bs -> zu -> el -> sn -> hi -> sq -> ro -> jw -> es -> en
 ORIGINAL:   B1_DA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: B1_yes
 ------------------------------------------------------------
 KEY:        [B1_FAIL_2A:B1AUD]
-HOPS:       pending
+HOPS:       en -> gu -> bn -> nl -> pl -> te -> is -> my -> si -> co -> hy -> la -> bg -> lv -> eo -> ug -> ig -> ca -> eu -> vi -> ceb -> en
 ORIGINAL:   B1_DB
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Bn1_db:
 ------------------------------------------------------------
 KEY:        [B1_FAILSL:B1AUD]
 HOPS:       skipped (non-text)
@@ -64108,22 +64108,22 @@ TAGS:       [none]
 TRANSLATED: 010100
 ------------------------------------------------------------
 KEY:        [B1_FWRECK_1A:B1AUD]
-HOPS:       pending
+HOPS:       en -> gu -> bn -> nl -> pl -> te -> is -> my -> si -> co -> hy -> la -> bg -> lv -> eo -> ug -> ig -> ca -> eu -> vi -> ceb -> en
 ORIGINAL:   B1_EA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: leave 1_A*
 ------------------------------------------------------------
 KEY:        [B1_FWRECK_2A:B1AUD]
-HOPS:       pending
+HOPS:       en -> gu -> bn -> nl -> pl -> te -> is -> my -> si -> co -> hy -> la -> bg -> lv -> eo -> ug -> ig -> ca -> eu -> vi -> ceb -> en
 ORIGINAL:   B1_EB
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: on the left
 ------------------------------------------------------------
 KEY:        [B1_FWRECK_3A:B1AUD]
-HOPS:       pending
+HOPS:       en -> gu -> bn -> nl -> pl -> te -> is -> my -> si -> co -> hy -> la -> bg -> lv -> eo -> ug -> ig -> ca -> eu -> vi -> ceb -> en
 ORIGINAL:   B1_EC
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: prohibited
 ------------------------------------------------------------
 KEY:        [B1_FWRECKSL:B1AUD]
 HOPS:       skipped (non-text)
@@ -64132,22 +64132,22 @@ TAGS:       [none]
 TRANSLATED: 010100100
 ------------------------------------------------------------
 KEY:        [B1_PASS1_1A:B1AUD]
-HOPS:       pending
+HOPS:       en -> gu -> bn -> nl -> pl -> te -> is -> my -> si -> co -> hy -> la -> bg -> lv -> eo -> ug -> ig -> ca -> eu -> vi -> ceb -> en
 ORIGINAL:   B1_FA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Patient1_f:
 ------------------------------------------------------------
 KEY:        [B1_PASS1_2A:B1AUD]
-HOPS:       pending
+HOPS:       en -> gd -> ug -> te -> si -> vi -> kk -> mg -> ru -> so -> lv -> sd -> gu -> fy -> ko -> yi -> ny -> zh-tw -> ms -> pa -> km -> en
 ORIGINAL:   B1_FB
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: B1_Walk
 ------------------------------------------------------------
 KEY:        [B1_PASS1_3A:B1AUD]
-HOPS:       pending
+HOPS:       en -> gd -> ug -> te -> si -> vi -> kk -> mg -> ru -> so -> lv -> sd -> gu -> fy -> ko -> yi -> ny -> zh-tw -> ms -> pa -> km -> en
 ORIGINAL:   B1_FC
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: B1_Phase
 ------------------------------------------------------------
 KEY:        [B1_PASS1SL:B1AUD]
 HOPS:       skipped (non-text)
@@ -64156,40 +64156,40 @@ TAGS:       [none]
 TRANSLATED: 010100100
 ------------------------------------------------------------
 KEY:        [B1_PASS2_1A:B1AUD]
-HOPS:       pending
+HOPS:       en -> gd -> ug -> te -> si -> vi -> kk -> mg -> ru -> so -> lv -> sd -> gu -> fy -> ko -> yi -> ny -> zh-tw -> ms -> pa -> km -> en
 ORIGINAL:   B1_GA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: B1_M
 ------------------------------------------------------------
 KEY:        [B1_PASS2_2A:B1AUD]
-HOPS:       pending
+HOPS:       en -> gd -> ug -> te -> si -> vi -> kk -> mg -> ru -> so -> lv -> sd -> gu -> fy -> ko -> yi -> ny -> zh-tw -> ms -> pa -> km -> en
 ORIGINAL:   B1_GB
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: B1_A
 ------------------------------------------------------------
 KEY:        [B1_PASS2_3A:B1AUD]
-HOPS:       pending
+HOPS:       en -> gd -> ug -> te -> si -> vi -> kk -> mg -> ru -> so -> lv -> sd -> gu -> fy -> ko -> yi -> ny -> zh-tw -> ms -> pa -> km -> en
 ORIGINAL:   B1_GC
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Angle B1
 ------------------------------------------------------------
 KEY:        [B1_PASS2_4A:B1AUD]
-HOPS:       pending
+HOPS:       en -> my -> ky -> lt -> ig -> ml -> su -> mg -> lo -> cy -> es -> gu -> tg -> eo -> bs -> gd -> xh -> sv -> hr -> be -> fy -> en
 ORIGINAL:   B1_GD
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: B1_Garden
 ------------------------------------------------------------
 KEY:        [B1_PASS2_5A:B1AUD]
-HOPS:       pending
+HOPS:       en -> my -> ky -> lt -> ig -> ml -> su -> mg -> lo -> cy -> es -> gu -> tg -> eo -> bs -> gd -> xh -> sv -> hr -> be -> fy -> en
 ORIGINAL:   B1_GE
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: B1_en
 ------------------------------------------------------------
 KEY:        [B1_PASS2_6A:B1AUD]
-HOPS:       pending
+HOPS:       en -> my -> ky -> lt -> ig -> ml -> su -> mg -> lo -> cy -> es -> gu -> tg -> eo -> bs -> gd -> xh -> sv -> hr -> be -> fy -> en
 ORIGINAL:   B1_GF
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: B1_ Gift
 ------------------------------------------------------------
 KEY:        [B1_PASS2SL:B1AUD]
 HOPS:       skipped (non-text)
@@ -64198,28 +64198,28 @@ TAGS:       [none]
 TRANSLATED: 010100100010100100
 ------------------------------------------------------------
 KEY:        [B1_MANSION_1A:B1AUD]
-HOPS:       pending
+HOPS:       en -> my -> ky -> lt -> ig -> ml -> su -> mg -> lo -> cy -> es -> gu -> tg -> eo -> bs -> gd -> xh -> sv -> hr -> be -> fy -> en
 ORIGINAL:   B1_HA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: yes
 ------------------------------------------------------------
 KEY:        [B1_MANSION_2A:B1AUD]
-HOPS:       pending
+HOPS:       en -> my -> ky -> lt -> ig -> ml -> su -> mg -> lo -> cy -> es -> gu -> tg -> eo -> bs -> gd -> xh -> sv -> hr -> be -> fy -> en
 ORIGINAL:   B1_HB
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: B1_hab
 ------------------------------------------------------------
 KEY:        [B1_MANSION_3A:B1AUD]
-HOPS:       pending
+HOPS:       en -> mi -> cy -> gl -> mg -> ht -> ja -> ro -> sl -> et -> km -> pa -> kk -> hu -> sn -> pt -> si -> be -> ny -> su -> el -> en
 ORIGINAL:   B1_HC
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: B1_HC
 ------------------------------------------------------------
 KEY:        [B1_MANSION_4A:B1AUD]
-HOPS:       pending
+HOPS:       en -> mi -> cy -> gl -> mg -> ht -> ja -> ro -> sl -> et -> km -> pa -> kk -> hu -> sn -> pt -> si -> be -> ny -> su -> el -> en
 ORIGINAL:   B1_HD
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: B1_HD
 ------------------------------------------------------------
 KEY:        [B1_MANSIONSL:B1AUD]
 HOPS:       skipped (non-text)
@@ -64228,10 +64228,10 @@ TAGS:       [none]
 TRANSLATED: 040400400040
 ------------------------------------------------------------
 KEY:        [B1_ARRT_1A:B1AUD]
-HOPS:       pending
+HOPS:       en -> mi -> cy -> gl -> mg -> ht -> ja -> ro -> sl -> et -> km -> pa -> kk -> hu -> sn -> pt -> si -> be -> ny -> su -> el -> en
 ORIGINAL:   B1_IA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: B1_IA
 ------------------------------------------------------------
 KEY:        [B1_ARRTSL:B1AUD]
 HOPS:       skipped (non-text)
@@ -64240,10 +64240,10 @@ TAGS:       [none]
 TRANSLATED: 590
 ------------------------------------------------------------
 KEY:        [B1_FALLSA:B1AUD]
-HOPS:       pending
+HOPS:       en -> mi -> cy -> gl -> mg -> ht -> ja -> ro -> sl -> et -> km -> pa -> kk -> hu -> sn -> pt -> si -> be -> ny -> su -> el -> en
 ORIGINAL:   B1_JA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: B1_KK
 ------------------------------------------------------------
 KEY:        [B1_FALLSSL:B1AUD]
 HOPS:       skipped (non-text)
@@ -64252,10 +64252,10 @@ TAGS:       [none]
 TRANSLATED: 012
 ------------------------------------------------------------
 KEY:        [B1_CLIMBA:B1AUD]
-HOPS:       pending
+HOPS:       en -> mi -> cy -> gl -> mg -> ht -> ja -> ro -> sl -> et -> km -> pa -> kk -> hu -> sn -> pt -> si -> be -> ny -> su -> el -> en
 ORIGINAL:   B1_KA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: B1_KA
 ------------------------------------------------------------
 KEY:        [B1_CLIMBSL:B1AUD]
 HOPS:       skipped (non-text)
@@ -64264,10 +64264,10 @@ TAGS:       [none]
 TRANSLATED: 012
 ------------------------------------------------------------
 KEY:        [B1_CABA:B1AUD]
-HOPS:       pending
+HOPS:       en -> kk -> hmn -> th -> haw -> lb -> ug -> ky -> gd -> ps -> af -> ca -> fa -> gu -> vi -> mn -> jw -> et -> tr -> pa -> kn -> en
 ORIGINAL:   B1_LA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: B1_WIDTH
 ------------------------------------------------------------
 KEY:        [B1_CABSL:B1AUD]
 HOPS:       skipped (non-text)
@@ -64276,10 +64276,10 @@ TAGS:       [none]
 TRANSLATED: 010
 ------------------------------------------------------------
 KEY:        [B1_PASS_1A:B1AUD]
-HOPS:       pending
+HOPS:       en -> kk -> hmn -> th -> haw -> lb -> ug -> ky -> gd -> ps -> af -> ca -> fa -> gu -> vi -> mn -> jw -> et -> tr -> pa -> kn -> en
 ORIGINAL:   B1_MA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: B1_MA
 ------------------------------------------------------------
 KEY:        [B1_PASSSL:B1AUD]
 HOPS:       skipped (non-text)
@@ -64288,10 +64288,10 @@ TAGS:       [none]
 TRANSLATED: 010
 ------------------------------------------------------------
 KEY:        [B1_TOUCH_1A:B1AUD]
-HOPS:       pending
+HOPS:       en -> kk -> hmn -> th -> haw -> lb -> ug -> ky -> gd -> ps -> af -> ca -> fa -> gu -> vi -> mn -> jw -> et -> tr -> pa -> kn -> en
 ORIGINAL:   RB5_YA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: RB5_Yes
 ------------------------------------------------------------
 KEY:        [B1_TOUCHSL:B1AUD]
 HOPS:       skipped (non-text)
@@ -64300,10 +64300,10 @@ TAGS:       [none]
 TRANSLATED: 100
 ------------------------------------------------------------
 KEY:        [B1_RUNSA:B1AUD]
-HOPS:       pending
+HOPS:       en -> kk -> hmn -> th -> haw -> lb -> ug -> ky -> gd -> ps -> af -> ca -> fa -> gu -> vi -> mn -> jw -> et -> tr -> pa -> kn -> en
 ORIGINAL:   B1_ZA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: B1_ZA
 ------------------------------------------------------------
 KEY:        [B1_RUNSSL:B1AUD]
 HOPS:       skipped (non-text)
@@ -64312,340 +64312,340 @@ TAGS:       [none]
 TRANSLATED: 090
 ------------------------------------------------------------
 KEY:        [B1_FAIL_1:B1AUD]
-HOPS:       pending
+HOPS:       en -> kk -> hmn -> th -> haw -> lb -> ug -> ky -> gd -> ps -> af -> ca -> fa -> gu -> vi -> mn -> jw -> et -> tr -> pa -> kn -> en
 ORIGINAL:   ~z~Hey Phil... that thing, you know the thing you sent me for, I lost it. It got away from me.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Phil... Hey, you know I sent him.I lost, he left me.
 ------------------------------------------------------------
 KEY:        [B1_FAIL_2:B1AUD]
-HOPS:       pending
+HOPS:       en -> hy -> su -> sm -> zh-tw -> fy -> zh-cn -> eo -> is -> my -> mi -> ml -> es -> it -> hu -> zu -> vi -> fi -> si -> ar -> tr -> en
 ORIGINAL:   ~z~Damn, I was in the mood for Chinese takeout. Come see me. How 'bout them Swingers, eh?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Hey, I want Chinese food, come over. How are the Gunners doing?
 ------------------------------------------------------------
 KEY:        [B1_FWRECK_1:B1AUD]
-HOPS:       pending
+HOPS:       en -> hy -> su -> sm -> zh-tw -> fy -> zh-cn -> eo -> is -> my -> mi -> ml -> es -> it -> hu -> zu -> vi -> fi -> si -> ar -> tr -> en
 ORIGINAL:   ~z~Phil, man, the stuff you wanted ain't around no more. It got fucked.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Philman: I don't want anything.Things are starting to get worse.
 ------------------------------------------------------------
 KEY:        [B1_FWRECK_2:B1AUD]
-HOPS:       pending
+HOPS:       en -> hy -> su -> sm -> zh-tw -> fy -> zh-cn -> eo -> is -> my -> mi -> ml -> es -> it -> hu -> zu -> vi -> fi -> si -> ar -> tr -> en
 ORIGINAL:   ~z~Ah... yeah. Bottom of the ninth, it was a nightmare.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Yes, this is a nightmare for children under 9 years old.
 ------------------------------------------------------------
 KEY:        [B1_FWRECK_3:B1AUD]
-HOPS:       pending
+HOPS:       en -> hy -> su -> sm -> zh-tw -> fy -> zh-cn -> eo -> is -> my -> mi -> ml -> es -> it -> hu -> zu -> vi -> fi -> si -> ar -> tr -> en
 ORIGINAL:   ~z~Always the same. We need to talk, face to face. Come see me.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Same. I need a meeting. Come and see.
 ------------------------------------------------------------
 KEY:        [B1_PASS1_1:B1AUD]
-HOPS:       pending
+HOPS:       en -> hy -> su -> sm -> zh-tw -> fy -> zh-cn -> eo -> is -> my -> mi -> ml -> es -> it -> hu -> zu -> vi -> fi -> si -> ar -> tr -> en
 ORIGINAL:   ~z~Phil, man, I got that thing you were after. What you want me to do with it?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Phil, Villason, I have what you're looking for.
 ------------------------------------------------------------
 KEY:        [B1_PASS1_2:B1AUD]
-HOPS:       pending
+HOPS:       en -> ku -> be -> hi -> kn -> fr -> az -> kk -> sn -> pl -> ka -> st -> ta -> gd -> no -> vi -> my -> lt -> ug -> eo -> uk -> en
 ORIGINAL:   ~z~It's a wedding present for my nephew, Frankie. Take it out to the big house off of Beaverhead Avenue.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: It was Cousin Frank's wedding.He went to the mansion on Beaver Street.
 ------------------------------------------------------------
 KEY:        [B1_PASS1_3:B1AUD]
-HOPS:       pending
+HOPS:       en -> ku -> be -> hi -> kn -> fr -> az -> kk -> sn -> pl -> ka -> st -> ta -> gd -> no -> vi -> my -> lt -> ug -> eo -> uk -> en
 ORIGINAL:   ~z~You'll know the one I mean. He'll be waiting there for you.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: As I said, yes.He will protect you.
 ------------------------------------------------------------
 KEY:        [B1_PASS2_1:B1AUD]
-HOPS:       pending
+HOPS:       en -> ku -> be -> hi -> kn -> fr -> az -> kk -> sn -> pl -> ka -> st -> ta -> gd -> no -> vi -> my -> lt -> ug -> eo -> uk -> en
 ORIGINAL:   ~z~Your nephew's got his wedding present.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: I saw her cousin's wedding.
 ------------------------------------------------------------
 KEY:        [B1_PASS2_2:B1AUD]
-HOPS:       pending
+HOPS:       en -> ku -> be -> hi -> kn -> fr -> az -> kk -> sn -> pl -> ka -> st -> ta -> gd -> no -> vi -> my -> lt -> ug -> eo -> uk -> en
 ORIGINAL:   ~z~Nicely done. He's a good kid, he deserved something special. Hopefully he'll look after it.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Absolute talent.He is a good person.He is a decent person.I hope you understand.
 ------------------------------------------------------------
 KEY:        [B1_PASS2_3:B1AUD]
-HOPS:       pending
+HOPS:       en -> ku -> be -> hi -> kn -> fr -> az -> kk -> sn -> pl -> ka -> st -> ta -> gd -> no -> vi -> my -> lt -> ug -> eo -> uk -> en
 ORIGINAL:   ~z~Niko. You looking for more work?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: nice Are you looking for another job?
 ------------------------------------------------------------
 KEY:        [B1_PASS2_4:B1AUD]
-HOPS:       pending
+HOPS:       en -> mi -> ar -> or -> ht -> af -> mr -> tg -> th -> bs -> ne -> de -> am -> uz -> cs -> ur -> ku -> es -> ru -> ug -> ceb -> en
 ORIGINAL:   ~z~I'm always looking to earn a bit of extra cash.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: I always wanted to see more.
 ------------------------------------------------------------
 KEY:        [B1_PASS2_5:B1AUD]
-HOPS:       pending
+HOPS:       en -> mi -> ar -> or -> ht -> af -> mr -> tg -> th -> bs -> ne -> de -> am -> uz -> cs -> ur -> ku -> es -> ru -> ug -> ceb -> en
 ORIGINAL:   ~z~Great. I know a guy who needs a man like you. Only operates on an outside line though.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: I only know people who love someone like you.
 ------------------------------------------------------------
 KEY:        [B1_PASS2_6:B1AUD]
-HOPS:       pending
+HOPS:       en -> mi -> ar -> or -> ht -> af -> mr -> tg -> th -> bs -> ne -> de -> am -> uz -> cs -> ur -> ku -> es -> ru -> ug -> ceb -> en
 ORIGINAL:   ~z~Go to the payphone on the corner of Vitullo and Hardtack. He'll call you.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Go to the phone booth on the corner of Whittle and Hardtack Streets and he will find you.
 ------------------------------------------------------------
 KEY:        [B1_MANSION_1:B1AUD]
-HOPS:       pending
+HOPS:       en -> mi -> ar -> or -> ht -> af -> mr -> tg -> th -> bs -> ne -> de -> am -> uz -> cs -> ur -> ku -> es -> ru -> ug -> ceb -> en
 ORIGINAL:   ~z~Hey, you Frankie? Your uncle asked me to give you this wedding present. You're a lucky guy.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: How are you Mr.Frankie?My mother asked me to give you this gift.You are a happy person.
 ------------------------------------------------------------
 KEY:        [B1_MANSION_2:B1AUD]
-HOPS:       pending
+HOPS:       en -> mi -> ar -> or -> ht -> af -> mr -> tg -> th -> bs -> ne -> de -> am -> uz -> cs -> ur -> ku -> es -> ru -> ug -> ceb -> en
 ORIGINAL:   ~z~I don't know about that. I got to sit on this stuff until Phil gets over his paranoia and we can ship it.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: I don't know.I waited until the elephant got angry.Then I let him go.
 ------------------------------------------------------------
 KEY:        [B1_MANSION_3:B1AUD]
-HOPS:       pending
+HOPS:       en -> eu -> sw -> it -> tl -> my -> hr -> sm -> kk -> vi -> bs -> ta -> sq -> af -> ru -> lb -> ne -> da -> sv -> nl -> ga -> en
 ORIGINAL:   ~z~Meantime, I got to pack it into some cars that go faster than this thing.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: At the same time, I have to go fast.
 ------------------------------------------------------------
 KEY:        [B1_MANSION_4:B1AUD]
-HOPS:       pending
+HOPS:       en -> eu -> sw -> it -> tl -> my -> hr -> sm -> kk -> vi -> bs -> ta -> sq -> af -> ru -> lb -> ne -> da -> sv -> nl -> ga -> en
 ORIGINAL:   ~z~Sounds like a fun honeymoon. Later on.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Sounds like a great vacation.Tell me about it later.
 ------------------------------------------------------------
 KEY:        [B1_CUT1_1:B1AUD]
-HOPS:       pending
+HOPS:       en -> eu -> sw -> it -> tl -> my -> hr -> sm -> kk -> vi -> bs -> ta -> sq -> af -> ru -> lb -> ne -> da -> sv -> nl -> ga -> en
 ORIGINAL:   ~z~Uh huh.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: me!
 ------------------------------------------------------------
 KEY:        [B1_CUT1_2:B1AUD]
-HOPS:       pending
+HOPS:       en -> eu -> sw -> it -> tl -> my -> hr -> sm -> kk -> vi -> bs -> ta -> sq -> af -> ru -> lb -> ne -> da -> sv -> nl -> ga -> en
 ORIGINAL:   ~z~That thing?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Is this true?
 ------------------------------------------------------------
 KEY:        [B1_CUT1_3:B1AUD]
-HOPS:       pending
+HOPS:       en -> eu -> sw -> it -> tl -> my -> hr -> sm -> kk -> vi -> bs -> ta -> sq -> af -> ru -> lb -> ne -> da -> sv -> nl -> ga -> en
 ORIGINAL:   ~z~Our friend did what?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: What has our friend done?
 ------------------------------------------------------------
 KEY:        [B1_CUT1_4:B1AUD]
-HOPS:       pending
+HOPS:       en -> hu -> fy -> lb -> ms -> xh -> ky -> ta -> zh-tw -> sd -> tl -> ru -> be -> ht -> cs -> th -> pa -> my -> da -> ja -> hi -> en
 ORIGINAL:   ~z~Thirty-seven at eight? Nah.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: 37?
 ------------------------------------------------------------
 KEY:        [B1_CUT1_5:B1AUD]
-HOPS:       pending
+HOPS:       en -> hu -> fy -> lb -> ms -> xh -> ky -> ta -> zh-tw -> sd -> tl -> ru -> be -> ht -> cs -> th -> pa -> my -> da -> ja -> hi -> en
 ORIGINAL:   ~z~What about them Swingers?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: How is your swing?
 ------------------------------------------------------------
 KEY:        [B1_CUT1_6:B1AUD]
-HOPS:       pending
+HOPS:       en -> hu -> fy -> lb -> ms -> xh -> ky -> ta -> zh-tw -> sd -> tl -> ru -> be -> ht -> cs -> th -> pa -> my -> da -> ja -> hi -> en
 ORIGINAL:   ~z~How's Marlene?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: What about Marilyn?
 ------------------------------------------------------------
 KEY:        [B1_CUT1_7:B1AUD]
-HOPS:       pending
+HOPS:       en -> hu -> fy -> lb -> ms -> xh -> ky -> ta -> zh-tw -> sd -> tl -> ru -> be -> ht -> cs -> th -> pa -> my -> da -> ja -> hi -> en
 ORIGINAL:   ~z~The kids?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Are you a child?
 ------------------------------------------------------------
 KEY:        [B1_CUT1_8:B1AUD]
-HOPS:       pending
+HOPS:       en -> hu -> fy -> lb -> ms -> xh -> ky -> ta -> zh-tw -> sd -> tl -> ru -> be -> ht -> cs -> th -> pa -> my -> da -> ja -> hi -> en
 ORIGINAL:   ~z~Beautiful.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Cold
 ------------------------------------------------------------
 KEY:        [B1_CUT1_9:B1AUD]
-HOPS:       pending
+HOPS:       en -> sq -> lo -> bg -> zh-cn -> ga -> eo -> ja -> sr -> hr -> sm -> mg -> sd -> zu -> si -> fi -> am -> ku -> ha -> ceb -> lt -> en
 ORIGINAL:   ~z~Okay. Yeah, I gotta go.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Yes, yes, I have to go.
 ------------------------------------------------------------
 KEY:        [B1_CUT1_10:B1AUD]
-HOPS:       pending
+HOPS:       en -> sq -> lo -> bg -> zh-cn -> ga -> eo -> ja -> sr -> hr -> sm -> mg -> sd -> zu -> si -> fi -> am -> ku -> ha -> ceb -> lt -> en
 ORIGINAL:   ~z~Ciao.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: On sale
 ------------------------------------------------------------
 KEY:        [B1_CUT1_11:B1AUD]
-HOPS:       pending
+HOPS:       en -> sq -> lo -> bg -> zh-cn -> ga -> eo -> ja -> sr -> hr -> sm -> mg -> sd -> zu -> si -> fi -> am -> ku -> ha -> ceb -> lt -> en
 ORIGINAL:   ~z~Hey, Ray. So, uh, who's the pal?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Hi Raya.who is he?
 ------------------------------------------------------------
 KEY:        [B1_CUT1_12:B1AUD]
-HOPS:       pending
+HOPS:       en -> sq -> lo -> bg -> zh-cn -> ga -> eo -> ja -> sr -> hr -> sm -> mg -> sd -> zu -> si -> fi -> am -> ku -> ha -> ceb -> lt -> en
 ORIGINAL:   ~z~Phil you remember Niko, he's a good friend of mine.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Phil, Nick recalls, was my best friend.
 ------------------------------------------------------------
 KEY:        [B1_CUT1_13:B1AUD]
-HOPS:       pending
+HOPS:       en -> sq -> lo -> bg -> zh-cn -> ga -> eo -> ja -> sr -> hr -> sm -> mg -> sd -> zu -> si -> fi -> am -> ku -> ha -> ceb -> lt -> en
 ORIGINAL:   ~z~Can we talk?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: We can talk
 ------------------------------------------------------------
 KEY:        [B1_CUT1_14:B1AUD]
-HOPS:       pending
+HOPS:       en -> kk -> ig -> or -> st -> hi -> fy -> ro -> ur -> sd -> iw -> mi -> mn -> zh-tw -> da -> id -> gd -> so -> ms -> xh -> nl -> en
 ORIGINAL:   ~z~Sure we can talk... as long as we don't talk too much.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: We can honestly say... not much.
 ------------------------------------------------------------
 KEY:        [B1_CUT1_15:B1AUD]
-HOPS:       pending
+HOPS:       en -> kk -> ig -> or -> st -> hi -> fy -> ro -> ur -> sd -> iw -> mi -> mn -> zh-tw -> da -> id -> gd -> so -> ms -> xh -> nl -> en
 ORIGINAL:   ~z~Interesting times, you know what I mean?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Good times, you know what I mean?
 ------------------------------------------------------------
 KEY:        [B1_CUT1_16:B1AUD]
-HOPS:       pending
+HOPS:       en -> kk -> ig -> or -> st -> hi -> fy -> ro -> ur -> sd -> iw -> mi -> mn -> zh-tw -> da -> id -> gd -> so -> ms -> xh -> nl -> en
 ORIGINAL:   ~z~Did you hear about our friend, the guy with the thing?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Have you heard of our friends who do that?
 ------------------------------------------------------------
 KEY:        [B1_CUT1_17:B1AUD]
-HOPS:       pending
+HOPS:       en -> kk -> ig -> or -> st -> hi -> fy -> ro -> ur -> sd -> iw -> mi -> mn -> zh-tw -> da -> id -> gd -> so -> ms -> xh -> nl -> en
 ORIGINAL:   ~z~Yeah, you mean Harry the...
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: I mean, Harry...
 ------------------------------------------------------------
 KEY:        [B1_CUT1_18:B1AUD]
-HOPS:       pending
+HOPS:       en -> kk -> ig -> or -> st -> hi -> fy -> ro -> ur -> sd -> iw -> mi -> mn -> zh-tw -> da -> id -> gd -> so -> ms -> xh -> nl -> en
 ORIGINAL:   ~z~guy with the hat.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: a man with a hat
 ------------------------------------------------------------
 KEY:        [B1_CUT1_19:B1AUD]
-HOPS:       pending
+HOPS:       en -> xh -> pl -> ky -> kn -> mr -> so -> haw -> ml -> lt -> af -> si -> fa -> sl -> uk -> gu -> no -> am -> mn -> su -> pa -> en
 ORIGINAL:   ~z~No the guy with the, y'know,
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Do you know someone?
 ------------------------------------------------------------
 KEY:        [B1_CUT1_20:B1AUD]
-HOPS:       pending
+HOPS:       en -> xh -> pl -> ky -> kn -> mr -> so -> haw -> ml -> lt -> af -> si -> fa -> sl -> uk -> gu -> no -> am -> mn -> su -> pa -> en
 ORIGINAL:   ~z~the budda beep budda boop.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Buddha blew his trumpet.
 ------------------------------------------------------------
 KEY:        [B1_CUT1_21:B1AUD]
-HOPS:       pending
+HOPS:       en -> xh -> pl -> ky -> kn -> mr -> so -> haw -> ml -> lt -> af -> si -> fa -> sl -> uk -> gu -> no -> am -> mn -> su -> pa -> en
 ORIGINAL:   ~z~Yeah the guy with the... and the -
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Yes... ah
 ------------------------------------------------------------
 KEY:        [B1_CUT1_22:B1AUD]
-HOPS:       pending
+HOPS:       en -> xh -> pl -> ky -> kn -> mr -> so -> haw -> ml -> lt -> af -> si -> fa -> sl -> uk -> gu -> no -> am -> mn -> su -> pa -> en
 ORIGINAL:   ~z~Yeah that guy.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Yes, my son
 ------------------------------------------------------------
 KEY:        [B1_CUT1_23:B1AUD]
-HOPS:       pending
+HOPS:       en -> xh -> pl -> ky -> kn -> mr -> so -> haw -> ml -> lt -> af -> si -> fa -> sl -> uk -> gu -> no -> am -> mn -> su -> pa -> en
 ORIGINAL:   ~z~Yeah.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: yes
 ------------------------------------------------------------
 KEY:        [B1_CUT1_24:B1AUD]
-HOPS:       pending
+HOPS:       en -> hmn -> am -> ur -> et -> de -> ko -> lt -> hi -> af -> ms -> kn -> fr -> st -> eu -> ne -> su -> fy -> ar -> bs -> lb -> en
 ORIGINAL:   ~z~I heard.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: I asked him
 ------------------------------------------------------------
 KEY:        [B1_CUT1_25:B1AUD]
-HOPS:       pending
+HOPS:       en -> hmn -> am -> ur -> et -> de -> ko -> lt -> hi -> af -> ms -> kn -> fr -> st -> eu -> ne -> su -> fy -> ar -> bs -> lb -> en
 ORIGINAL:   ~z~So be cool, Ray.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: So shut up, Ray.
 ------------------------------------------------------------
 KEY:        [B1_CUT1_26:B1AUD]
-HOPS:       pending
+HOPS:       en -> hmn -> am -> ur -> et -> de -> ko -> lt -> hi -> af -> ms -> kn -> fr -> st -> eu -> ne -> su -> fy -> ar -> bs -> lb -> en
 ORIGINAL:   ~z~Listen, I need to speak to you alone.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Listen, I need to talk to you.
 ------------------------------------------------------------
 KEY:        [B1_CUT1_27:B1AUD]
-HOPS:       pending
+HOPS:       en -> hmn -> am -> ur -> et -> de -> ko -> lt -> hi -> af -> ms -> kn -> fr -> st -> eu -> ne -> su -> fy -> ar -> bs -> lb -> en
 ORIGINAL:   ~z~Yeah, see, Phil, that's the thing.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Look, Phil, it is.
 ------------------------------------------------------------
 KEY:        [B1_CUT1_28:B1AUD]
-HOPS:       pending
+HOPS:       en -> hmn -> am -> ur -> et -> de -> ko -> lt -> hi -> af -> ms -> kn -> fr -> st -> eu -> ne -> su -> fy -> ar -> bs -> lb -> en
 ORIGINAL:   ~z~I kinda know what you're going to ask, and I can't.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: I know what you're looking for, but I can't.
 ------------------------------------------------------------
 KEY:        [B1_CUT1_29:B1AUD]
-HOPS:       pending
+HOPS:       en -> sl -> lo -> ka -> hu -> ja -> ur -> lv -> su -> yo -> da -> kn -> sk -> sm -> mg -> vi -> tg -> mk -> si -> ms -> ig -> en
 ORIGINAL:   ~z~Whaddaya mean you can't?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: So you can't do it?
 ------------------------------------------------------------
 KEY:        [B1_CUT1_30:B1AUD]
-HOPS:       pending
+HOPS:       en -> sl -> lo -> ka -> hu -> ja -> ur -> lv -> su -> yo -> da -> kn -> sk -> sm -> mg -> vi -> tg -> mk -> si -> ms -> ig -> en
 ORIGINAL:   ~z~I can't do it Phil.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: No, Phil.
 ------------------------------------------------------------
 KEY:        [B1_CUT1_31:B1AUD]
-HOPS:       pending
+HOPS:       en -> sl -> lo -> ka -> hu -> ja -> ur -> lv -> su -> yo -> da -> kn -> sk -> sm -> mg -> vi -> tg -> mk -> si -> ms -> ig -> en
 ORIGINAL:   ~z~I gotta a lot of interest right now, business is really taking off,
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Now I am happy, the company is growing.
 ------------------------------------------------------------
 KEY:        [B1_CUT1_32:B1AUD]
-HOPS:       pending
+HOPS:       en -> sl -> lo -> ka -> hu -> ja -> ur -> lv -> su -> yo -> da -> kn -> sk -> sm -> mg -> vi -> tg -> mk -> si -> ms -> ig -> en
 ORIGINAL:   ~z~and I don't want any distractions.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: And I don't want to be confused.
 ------------------------------------------------------------
 KEY:        [B1_CUT1_33:B1AUD]
-HOPS:       pending
+HOPS:       en -> sl -> lo -> ka -> hu -> ja -> ur -> lv -> su -> yo -> da -> kn -> sk -> sm -> mg -> vi -> tg -> mk -> si -> ms -> ig -> en
 ORIGINAL:   ~z~Well as you can see I got my own issues here...
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: As you can see, my problem is...
 ------------------------------------------------------------
 KEY:        [B1_CUT1_34:B1AUD]
-HOPS:       pending
+HOPS:       en -> el -> sd -> gd -> cy -> yo -> mg -> kn -> hmn -> sl -> te -> ga -> tl -> sv -> my -> zh-cn -> fi -> gl -> lv -> cs -> id -> en
 ORIGINAL:   ~z~Look. Niko is good. He'll do what you need.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Beautiful eyes can do what you want.
 ------------------------------------------------------------
 KEY:        [B1_CUT1_35:B1AUD]
-HOPS:       pending
+HOPS:       en -> el -> sd -> gd -> cy -> yo -> mg -> kn -> hmn -> sl -> te -> ga -> tl -> sv -> my -> zh-cn -> fi -> gl -> lv -> cs -> id -> en
 ORIGINAL:   ~z~And you say he's a friend of yours?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Did he say he's your boyfriend?
 ------------------------------------------------------------
 KEY:        [B1_CUT1_36:B1AUD]
-HOPS:       pending
+HOPS:       en -> el -> sd -> gd -> cy -> yo -> mg -> kn -> hmn -> sl -> te -> ga -> tl -> sv -> my -> zh-cn -> fi -> gl -> lv -> cs -> id -> en
 ORIGINAL:   ~z~Sure... good to meet you
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Well... nice to meet you.
 ------------------------------------------------------------
 KEY:        [B1_CUT1_37:B1AUD]
-HOPS:       pending
+HOPS:       en -> el -> sd -> gd -> cy -> yo -> mg -> kn -> hmn -> sl -> te -> ga -> tl -> sv -> my -> zh-cn -> fi -> gl -> lv -> cs -> id -> en
 ORIGINAL:   ~z~-Yeah.~n~-C'mere.
 TAGS:       [~z~, ~n~]
-TRANSLATED: (pending translation)
+TRANSLATED: - Yes.-Spread joy.
 ------------------------------------------------------------
 KEY:        [B1_CUT1_38:B1AUD]
-HOPS:       pending
+HOPS:       en -> el -> sd -> gd -> cy -> yo -> mg -> kn -> hmn -> sl -> te -> ga -> tl -> sv -> my -> zh-cn -> fi -> gl -> lv -> cs -> id -> en
 ORIGINAL:   ~z~The Triads have this big chunk of brown they're desperate to get rid of.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: The company had a large amount of coffee that had to be recalled.
 ------------------------------------------------------------
 KEY:        [B1_CUT1_39:B1AUD]
 HOPS:       pending
