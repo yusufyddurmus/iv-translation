@@ -1,5 +1,5 @@
 # Hypertranslation Hops Report for american.txt
-# Generated: 2026-10-10 10:01:38
+# Generated: 2026-10-10 12:15:08
 # Total entries: 59638
 ================================================================================
 
@@ -352930,70 +352930,70 @@ TAGS:       [~z~, ~n~]
 TRANSLATED: - Marriage... - Well, everything is fine
 ------------------------------------------------------------
 KEY:        [V3_CUT1_48:V3AUD]
-HOPS:       pending
+HOPS:       en -> zu -> az -> tl -> mt -> et -> mk -> sn -> th -> sw -> ku -> ga -> lb -> it -> tg -> pa -> sd -> sl -> hy -> ar -> ko -> en
 ORIGINAL:   ~z~Have fun... dick head.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Enjoy...cock head!
 ------------------------------------------------------------
 KEY:        [V3_FRIEND1_01:V3AUD]
-HOPS:       pending
+HOPS:       en -> zu -> az -> tl -> mt -> et -> mk -> sn -> th -> sw -> ku -> ga -> lb -> it -> tg -> pa -> sd -> sl -> hy -> ar -> ko -> en
 ORIGINAL:   ~z~That's Jimmy's car.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: This is Jimmy's car.
 ------------------------------------------------------------
 KEY:        [V3_FRIEND1_02:V3AUD]
-HOPS:       pending
+HOPS:       en -> zu -> az -> tl -> mt -> et -> mk -> sn -> th -> sw -> ku -> ga -> lb -> it -> tg -> pa -> sd -> sl -> hy -> ar -> ko -> en
 ORIGINAL:   ~z~You ain't gonna jack Jimmy's car off him, son.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Hey, you can't be in Jimmy's car.
 ------------------------------------------------------------
 KEY:        [V3_FRIEND1_03:V3AUD]
-HOPS:       pending
+HOPS:       en -> zu -> az -> tl -> mt -> et -> mk -> sn -> th -> sw -> ku -> ga -> lb -> it -> tg -> pa -> sd -> sl -> hy -> ar -> ko -> en
 ORIGINAL:   ~z~Jimmy ain't being punked by a bitch like you.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Jimmy doesn't like dogs like you.
 ------------------------------------------------------------
 KEY:        [V3_FRIEND2_01:V3AUD]
-HOPS:       pending
+HOPS:       en -> zu -> az -> tl -> mt -> et -> mk -> sn -> th -> sw -> ku -> ga -> lb -> it -> tg -> pa -> sd -> sl -> hy -> ar -> ko -> en
 ORIGINAL:   ~z~Get your ass up on out of there.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: go there
 ------------------------------------------------------------
 KEY:        [V3_FRIEND2_02:V3AUD]
-HOPS:       pending
+HOPS:       en -> mi -> az -> jw -> mk -> or -> ar -> lo -> fi -> tl -> sd -> su -> ig -> co -> ru -> ur -> ml -> sq -> ca -> ny -> ko -> en
 ORIGINAL:   ~z~Like I said, that's Jimmy's ride.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Like I said, this is Jimmy's car.
 ------------------------------------------------------------
 KEY:        [V3_FRIEND2_03:V3AUD]
-HOPS:       pending
+HOPS:       en -> mi -> az -> jw -> mk -> or -> ar -> lo -> fi -> tl -> sd -> su -> ig -> co -> ru -> ur -> ml -> sq -> ca -> ny -> ko -> en
 ORIGINAL:   ~z~Only Jimmy sits in that seat, cracker.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Jamie sat down on the sofa.
 ------------------------------------------------------------
 KEY:        [V3_JFINE_1:V3AUD]
-HOPS:       pending
+HOPS:       en -> mi -> az -> jw -> mk -> or -> ar -> lo -> fi -> tl -> sd -> su -> ig -> co -> ru -> ur -> ml -> sq -> ca -> ny -> ko -> en
 ORIGINAL:   ~z~It was easy. I didn't even have to hurt the guy.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: It's simple. I won't hurt this person.
 ------------------------------------------------------------
 KEY:        [V3_JFINE_2:V3AUD]
-HOPS:       pending
+HOPS:       en -> mi -> az -> jw -> mk -> or -> ar -> lo -> fi -> tl -> sd -> su -> ig -> co -> ru -> ur -> ml -> sq -> ca -> ny -> ko -> en
 ORIGINAL:   ~z~Good, dead guys can't pay interest, you're learning.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Please note that interest cannot be paid to a deceased person.
 ------------------------------------------------------------
 KEY:        [V4_FIND_1A:V4AUD]
-HOPS:       pending
+HOPS:       en -> mi -> az -> jw -> mk -> or -> ar -> lo -> fi -> tl -> sd -> su -> ig -> co -> ru -> ur -> ml -> sq -> ca -> ny -> ko -> en
 ORIGINAL:   V4_AA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: V4_AA
 ------------------------------------------------------------
 KEY:        [V4_FIND_2A:V4AUD]
-HOPS:       pending
+HOPS:       en -> ps -> ha -> et -> sm -> hi -> pl -> bs -> eu -> my -> ny -> af -> hy -> yo -> is -> no -> or -> mg -> ar -> km -> sw -> en
 ORIGINAL:   V4_AB
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: V4_AB:
 ------------------------------------------------------------
 KEY:        [V4_FINDSL:V4AUD]
 HOPS:       skipped (non-text)
@@ -353002,16 +353002,16 @@ TAGS:       [none]
 TRANSLATED: 010100
 ------------------------------------------------------------
 KEY:        [V4_CHASE_1A:V4AUD]
-HOPS:       pending
+HOPS:       en -> ps -> ha -> et -> sm -> hi -> pl -> bs -> eu -> my -> ny -> af -> hy -> yo -> is -> no -> or -> mg -> ar -> km -> sw -> en
 ORIGINAL:   V4_BA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: V4_BA:
 ------------------------------------------------------------
 KEY:        [V4_CHASE_2A:V4AUD]
-HOPS:       pending
+HOPS:       en -> ps -> ha -> et -> sm -> hi -> pl -> bs -> eu -> my -> ny -> af -> hy -> yo -> is -> no -> or -> mg -> ar -> km -> sw -> en
 ORIGINAL:   V4_BB
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: V4_BB:
 ------------------------------------------------------------
 KEY:        [V4_CHASESL:V4AUD]
 HOPS:       skipped (non-text)
@@ -353020,10 +353020,10 @@ TAGS:       [none]
 TRANSLATED: 010100
 ------------------------------------------------------------
 KEY:        [V4_CHASE2A:V4AUD]
-HOPS:       pending
+HOPS:       en -> ps -> ha -> et -> sm -> hi -> pl -> bs -> eu -> my -> ny -> af -> hy -> yo -> is -> no -> or -> mg -> ar -> km -> sw -> en
 ORIGINAL:   V4_CA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: V4_CA:
 ------------------------------------------------------------
 KEY:        [V4_CHASE2SL:V4AUD]
 HOPS:       skipped (non-text)
@@ -353032,10 +353032,10 @@ TAGS:       [none]
 TRANSLATED: 100
 ------------------------------------------------------------
 KEY:        [#91681FDD:V4AUD]
-HOPS:       pending
+HOPS:       en -> ps -> ha -> et -> sm -> hi -> pl -> bs -> eu -> my -> ny -> af -> hy -> yo -> is -> no -> or -> mg -> ar -> km -> sw -> en
 ORIGINAL:   V4_DA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: V4_HE:
 ------------------------------------------------------------
 KEY:        [#82F7EAB8:V4AUD]
 HOPS:       skipped (non-text)
@@ -353044,16 +353044,16 @@ TAGS:       [none]
 TRANSLATED: 100
 ------------------------------------------------------------
 KEY:        [V4_CALLF_1A:V4AUD]
-HOPS:       pending
+HOPS:       en -> hy -> sn -> hi -> bn -> lv -> mk -> hr -> ru -> fi -> sv -> ig -> la -> mi -> lt -> ca -> cs -> it -> ht -> ml -> ga -> en
 ORIGINAL:   V4_EA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: V4_write:
 ------------------------------------------------------------
 KEY:        [V4_CALLF_2A:V4AUD]
-HOPS:       pending
+HOPS:       en -> hy -> sn -> hi -> bn -> lv -> mk -> hr -> ru -> fi -> sv -> ig -> la -> mi -> lt -> ca -> cs -> it -> ht -> ml -> ga -> en
 ORIGINAL:   V4_EB
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: C4:
 ------------------------------------------------------------
 KEY:        [V4_CALLFSL:V4AUD]
 HOPS:       skipped (non-text)
@@ -353062,34 +353062,34 @@ TAGS:       [none]
 TRANSLATED: 010100
 ------------------------------------------------------------
 KEY:        [V4_HOLD_1A:V4AUD]
-HOPS:       pending
+HOPS:       en -> hy -> sn -> hi -> bn -> lv -> mk -> hr -> ru -> fi -> sv -> ig -> la -> mi -> lt -> ca -> cs -> it -> ht -> ml -> ga -> en
 ORIGINAL:   V4_FA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: V4_Fa:
 ------------------------------------------------------------
 KEY:        [V4_HOLD_2A:V4AUD]
-HOPS:       pending
+HOPS:       en -> hy -> sn -> hi -> bn -> lv -> mk -> hr -> ru -> fi -> sv -> ig -> la -> mi -> lt -> ca -> cs -> it -> ht -> ml -> ga -> en
 ORIGINAL:   V4_FA_QQQ1
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: V4_fa_kakak1
 ------------------------------------------------------------
 KEY:        [V4_HOLD_3A:V4AUD]
-HOPS:       pending
+HOPS:       en -> hy -> sn -> hi -> bn -> lv -> mk -> hr -> ru -> fi -> sv -> ig -> la -> mi -> lt -> ca -> cs -> it -> ht -> ml -> ga -> en
 ORIGINAL:   V4_FB
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: V4_FOB:
 ------------------------------------------------------------
 KEY:        [V4_HOLD_4A:V4AUD]
-HOPS:       pending
+HOPS:       en -> pl -> mk -> ml -> vi -> no -> ta -> sl -> da -> iw -> nl -> ru -> si -> jw -> az -> ha -> ca -> lb -> bg -> zu -> lv -> en
 ORIGINAL:   V4_FC
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: ௪_Father
 ------------------------------------------------------------
 KEY:        [V4_HOLD_5A:V4AUD]
-HOPS:       pending
+HOPS:       en -> pl -> mk -> ml -> vi -> no -> ta -> sl -> da -> iw -> nl -> ru -> si -> jw -> az -> ha -> ca -> lb -> bg -> zu -> lv -> en
 ORIGINAL:   V4_FD
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: ௪_bit
 ------------------------------------------------------------
 KEY:        [V4_HOLDSL:V4AUD]
 HOPS:       skipped (non-text)
@@ -353098,10 +353098,10 @@ TAGS:       [none]
 TRANSLATED: 100100100100100
 ------------------------------------------------------------
 KEY:        [V4_FALLS_1A:V4AUD]
-HOPS:       pending
+HOPS:       en -> pl -> mk -> ml -> vi -> no -> ta -> sl -> da -> iw -> nl -> ru -> si -> jw -> az -> ha -> ca -> lb -> bg -> zu -> lv -> en
 ORIGINAL:   V4_GA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: distribution
 ------------------------------------------------------------
 KEY:        [V4_FALLSSL:V4AUD]
 HOPS:       skipped (non-text)
@@ -353110,10 +353110,10 @@ TAGS:       [none]
 TRANSLATED: 190
 ------------------------------------------------------------
 KEY:        [V4_PUSH_1A:V4AUD]
-HOPS:       pending
+HOPS:       en -> pl -> mk -> ml -> vi -> no -> ta -> sl -> da -> iw -> nl -> ru -> si -> jw -> az -> ha -> ca -> lb -> bg -> zu -> lv -> en
 ORIGINAL:   V4_HA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: 9 ha
 ------------------------------------------------------------
 KEY:        [V4_PUSHSL:V4AUD]
 HOPS:       skipped (non-text)
@@ -353122,22 +353122,22 @@ TAGS:       [none]
 TRANSLATED: 010
 ------------------------------------------------------------
 KEY:        [V4_CALLK_1A:V4AUD]
-HOPS:       pending
+HOPS:       en -> pl -> mk -> ml -> vi -> no -> ta -> sl -> da -> iw -> nl -> ru -> si -> jw -> az -> ha -> ca -> lb -> bg -> zu -> lv -> en
 ORIGINAL:   V4_IA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Mr
 ------------------------------------------------------------
 KEY:        [V4_CALLK_2A:V4AUD]
-HOPS:       pending
+HOPS:       en -> ta -> la -> zh-cn -> ig -> fr -> sn -> th -> ga -> ny -> ms -> uk -> mg -> af -> be -> az -> ps -> ht -> vi -> ro -> ka -> en
 ORIGINAL:   V4_IB
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: IP
 ------------------------------------------------------------
 KEY:        [V4_CALLK_3A:V4AUD]
-HOPS:       pending
+HOPS:       en -> ta -> la -> zh-cn -> ig -> fr -> sn -> th -> ga -> ny -> ms -> uk -> mg -> af -> be -> az -> ps -> ht -> vi -> ro -> ka -> en
 ORIGINAL:   V4_IC
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: office
 ------------------------------------------------------------
 KEY:        [V4_CALLKSL:V4AUD]
 HOPS:       skipped (non-text)
@@ -353146,10 +353146,10 @@ TAGS:       [none]
 TRANSLATED: 010100010
 ------------------------------------------------------------
 KEY:        [V4_HELP_1A:V4AUD]
-HOPS:       pending
+HOPS:       en -> ta -> la -> zh-cn -> ig -> fr -> sn -> th -> ga -> ny -> ms -> uk -> mg -> af -> be -> az -> ps -> ht -> vi -> ro -> ka -> en
 ORIGINAL:   V4_JA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: _G
 ------------------------------------------------------------
 KEY:        [V4_HELPSL:V4AUD]
 HOPS:       skipped (non-text)
@@ -353158,34 +353158,34 @@ TAGS:       [none]
 TRANSLATED: 010
 ------------------------------------------------------------
 KEY:        [V4_LIVE_1A:V4AUD]
-HOPS:       pending
+HOPS:       en -> ta -> la -> zh-cn -> ig -> fr -> sn -> th -> ga -> ny -> ms -> uk -> mg -> af -> be -> az -> ps -> ht -> vi -> ro -> ka -> en
 ORIGINAL:   V4_KA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: faculty
 ------------------------------------------------------------
 KEY:        [V4_LIVE_2A:V4AUD]
-HOPS:       pending
+HOPS:       en -> ta -> la -> zh-cn -> ig -> fr -> sn -> th -> ga -> ny -> ms -> uk -> mg -> af -> be -> az -> ps -> ht -> vi -> ro -> ka -> en
 ORIGINAL:   V4_KB
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: - Observe
 ------------------------------------------------------------
 KEY:        [V4_LIVE_3A:V4AUD]
-HOPS:       pending
+HOPS:       en -> az -> ceb -> hi -> iw -> sd -> zh-cn -> su -> hmn -> fr -> no -> hu -> fy -> ja -> sr -> yo -> ur -> ha -> cy -> vi -> fi -> en
 ORIGINAL:   V4_KC
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: 4_ Cooking
 ------------------------------------------------------------
 KEY:        [V4_LIVE_4A:V4AUD]
-HOPS:       pending
+HOPS:       en -> az -> ceb -> hi -> iw -> sd -> zh-cn -> su -> hmn -> fr -> no -> hu -> fy -> ja -> sr -> yo -> ur -> ha -> cy -> vi -> fi -> en
 ORIGINAL:   V4_KD
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: 4_ Height
 ------------------------------------------------------------
 KEY:        [V4_LIVE_5A:V4AUD]
-HOPS:       pending
+HOPS:       en -> az -> ceb -> hi -> iw -> sd -> zh-cn -> su -> hmn -> fr -> no -> hu -> fy -> ja -> sr -> yo -> ur -> ha -> cy -> vi -> fi -> en
 ORIGINAL:   V4_KE
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: 4_ two
 ------------------------------------------------------------
 KEY:        [V4_LIVESL:V4AUD]
 HOPS:       skipped (non-text)
@@ -353194,34 +353194,34 @@ TAGS:       [none]
 TRANSLATED: 010100100100100
 ------------------------------------------------------------
 KEY:        [V4_CALLL_1A:V4AUD]
-HOPS:       pending
+HOPS:       en -> az -> ceb -> hi -> iw -> sd -> zh-cn -> su -> hmn -> fr -> no -> hu -> fy -> ja -> sr -> yo -> ur -> ha -> cy -> vi -> fi -> en
 ORIGINAL:   V4_LA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: 4_ Time
 ------------------------------------------------------------
 KEY:        [V4_CALLL_2A:V4AUD]
-HOPS:       pending
+HOPS:       en -> az -> ceb -> hi -> iw -> sd -> zh-cn -> su -> hmn -> fr -> no -> hu -> fy -> ja -> sr -> yo -> ur -> ha -> cy -> vi -> fi -> en
 ORIGINAL:   V4_LB
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: 4_lip
 ------------------------------------------------------------
 KEY:        [V4_CALLL_3A:V4AUD]
-HOPS:       pending
+HOPS:       en -> ca -> gl -> ny -> da -> co -> sq -> km -> be -> ru -> gd -> ml -> el -> te -> ig -> hi -> ms -> sr -> lb -> eu -> et -> en
 ORIGINAL:   V4_LC
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: yes, the eyes of god
 ------------------------------------------------------------
 KEY:        [V4_CALLL_4A:V4AUD]
-HOPS:       pending
+HOPS:       en -> ca -> gl -> ny -> da -> co -> sq -> km -> be -> ru -> gd -> ml -> el -> te -> ig -> hi -> ms -> sr -> lb -> eu -> et -> en
 ORIGINAL:   V4_LD
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Yes Chi is the leader
 ------------------------------------------------------------
 KEY:        [V4_CALLL_5A:V4AUD]
-HOPS:       pending
+HOPS:       en -> ca -> gl -> ny -> da -> co -> sq -> km -> be -> ru -> gd -> ml -> el -> te -> ig -> hi -> ms -> sr -> lb -> eu -> et -> en
 ORIGINAL:   V4_LE
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Glory be to God
 ------------------------------------------------------------
 KEY:        [V4_CALLLSL:V4AUD]
 HOPS:       skipped (non-text)
@@ -353230,10 +353230,10 @@ TAGS:       [none]
 TRANSLATED: 010100100100010
 ------------------------------------------------------------
 KEY:        [V4_ONFOOTA:V4AUD]
-HOPS:       pending
+HOPS:       en -> ca -> gl -> ny -> da -> co -> sq -> km -> be -> ru -> gd -> ml -> el -> te -> ig -> hi -> ms -> sr -> lb -> eu -> et -> en
 ORIGINAL:   V4_MA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: go f
 ------------------------------------------------------------
 KEY:        [V4_ONFOOTSL:V4AUD]
 HOPS:       skipped (non-text)
@@ -353242,10 +353242,10 @@ TAGS:       [none]
 TRANSLATED: 010
 ------------------------------------------------------------
 KEY:        [V4_INCARA:V4AUD]
-HOPS:       pending
+HOPS:       en -> ca -> gl -> ny -> da -> co -> sq -> km -> be -> ru -> gd -> ml -> el -> te -> ig -> hi -> ms -> sr -> lb -> eu -> et -> en
 ORIGINAL:   V4_OA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: Glory be to God
 ------------------------------------------------------------
 KEY:        [V4_INCARSL:V4AUD]
 HOPS:       skipped (non-text)
@@ -353254,10 +353254,10 @@ TAGS:       [none]
 TRANSLATED: 010
 ------------------------------------------------------------
 KEY:        [V4_CORNERA:V4AUD]
-HOPS:       pending
+HOPS:       en -> es -> gd -> nl -> ne -> xh -> ps -> bg -> ga -> co -> tl -> gu -> uk -> hu -> lv -> su -> sr -> sl -> sk -> kk -> de -> en
 ORIGINAL:   V4_NA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: V4_NA
 ------------------------------------------------------------
 KEY:        [V4_CORNERSL:V4AUD]
 HOPS:       skipped (non-text)
@@ -353266,10 +353266,10 @@ TAGS:       [none]
 TRANSLATED: 010
 ------------------------------------------------------------
 KEY:        [V4_DEPOTA:V4AUD]
-HOPS:       pending
+HOPS:       en -> es -> gd -> nl -> ne -> xh -> ps -> bg -> ga -> co -> tl -> gu -> uk -> hu -> lv -> su -> sr -> sl -> sk -> kk -> de -> en
 ORIGINAL:   V4_PA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: V4_PA
 ------------------------------------------------------------
 KEY:        [V4_DEPOTSL:V4AUD]
 HOPS:       skipped (non-text)
@@ -353278,10 +353278,10 @@ TAGS:       [none]
 TRANSLATED: 090
 ------------------------------------------------------------
 KEY:        [V4_CHASE3A:V4AUD]
-HOPS:       pending
+HOPS:       en -> es -> gd -> nl -> ne -> xh -> ps -> bg -> ga -> co -> tl -> gu -> uk -> hu -> lv -> su -> sr -> sl -> sk -> kk -> de -> en
 ORIGINAL:   V4_QA
 TAGS:       [none]
-TRANSLATED: (pending translation)
+TRANSLATED: V4_KA
 ------------------------------------------------------------
 KEY:        [V4_CHASE3SL:V4AUD]
 HOPS:       skipped (non-text)
@@ -353290,124 +353290,124 @@ TAGS:       [none]
 TRANSLATED: 090
 ------------------------------------------------------------
 KEY:        [V4_FIND_1:V4AUD]
-HOPS:       pending
+HOPS:       en -> es -> gd -> nl -> ne -> xh -> ps -> bg -> ga -> co -> tl -> gu -> uk -> hu -> lv -> su -> sr -> sl -> sk -> kk -> de -> en
 ORIGINAL:   ~z~You trying to rob my cousin?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Are you going to steal one of my brothers?
 ------------------------------------------------------------
 KEY:        [V4_FIND_2:V4AUD]
-HOPS:       pending
+HOPS:       en -> es -> gd -> nl -> ne -> xh -> ps -> bg -> ga -> co -> tl -> gu -> uk -> hu -> lv -> su -> sr -> sl -> sk -> kk -> de -> en
 ORIGINAL:   ~z~Vlad's a bum, he set me up.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: As for Vlad, he pissed me off.
 ------------------------------------------------------------
 KEY:        [V4_CHASE_1:V4AUD]
-HOPS:       pending
+HOPS:       en -> kn -> uz -> ga -> af -> ja -> yo -> tl -> iw -> pt -> vi -> yi -> sm -> ka -> sr -> ca -> ne -> zu -> et -> ha -> fa -> en
 ORIGINAL:   ~z~Vlad don't like you no more, man.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: You don't need the government anymore, man.
 ------------------------------------------------------------
 KEY:        [V4_CHASE_2:V4AUD]
-HOPS:       pending
+HOPS:       en -> kn -> uz -> ga -> af -> ja -> yo -> tl -> iw -> pt -> vi -> yi -> sm -> ka -> sr -> ca -> ne -> zu -> et -> ha -> fa -> en
 ORIGINAL:   ~z~He's nothing in this town, don't do this for him.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: He has nothing in this house, don't do this to him.
 ------------------------------------------------------------
 KEY:        [V4_CHASE2_01:V4AUD]
-HOPS:       pending
+HOPS:       en -> kn -> uz -> ga -> af -> ja -> yo -> tl -> iw -> pt -> vi -> yi -> sm -> ka -> sr -> ca -> ne -> zu -> et -> ha -> fa -> en
 ORIGINAL:   ~z~Stay the fuck away from me, I was set up!
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Stop me, I'm ready!
 ------------------------------------------------------------
 KEY:        [V4_CHASE2_02:V4AUD]
-HOPS:       pending
+HOPS:       en -> kn -> uz -> ga -> af -> ja -> yo -> tl -> iw -> pt -> vi -> yi -> sm -> ka -> sr -> ca -> ne -> zu -> et -> ha -> fa -> en
 ORIGINAL:   ~z~Vlad's a bum, don't kill me for him.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Vlad Boom, please don't kill me for this.
 ------------------------------------------------------------
 KEY:        [V4_CHASE2_03:V4AUD]
-HOPS:       pending
+HOPS:       en -> kn -> uz -> ga -> af -> ja -> yo -> tl -> iw -> pt -> vi -> yi -> sm -> ka -> sr -> ca -> ne -> zu -> et -> ha -> fa -> en
 ORIGINAL:   ~z~Shit. Shit. Shit.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Sin, sin, sin.
 ------------------------------------------------------------
 KEY:        [V4_CHASE2_04:V4AUD]
-HOPS:       pending
+HOPS:       en -> gu -> bn -> is -> kn -> uk -> fa -> no -> hy -> vi -> et -> my -> mk -> st -> lt -> ug -> ht -> gd -> km -> or -> la -> en
 ORIGINAL:   ~z~I don't want no trouble with you!
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: I don't want to hurt you
 ------------------------------------------------------------
 KEY:        [V4_CHASE2_05:V4AUD]
-HOPS:       pending
+HOPS:       en -> gu -> bn -> is -> kn -> uk -> fa -> no -> hy -> vi -> et -> my -> mk -> st -> lt -> ug -> ht -> gd -> km -> or -> la -> en
 ORIGINAL:   ~z~Vlad ain't nobody, you going to see that.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Vlad is not a man
 ------------------------------------------------------------
 KEY:        [#FF77E16F:V4AUD]
-HOPS:       pending
+HOPS:       en -> gu -> bn -> is -> kn -> uk -> fa -> no -> hy -> vi -> et -> my -> mk -> st -> lt -> ug -> ht -> gd -> km -> or -> la -> en
 ORIGINAL:   ~z~Get out my way.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Let it be done in the middle
 ------------------------------------------------------------
 KEY:        [#629F27B8:V4AUD]
-HOPS:       pending
+HOPS:       en -> gu -> bn -> is -> kn -> uk -> fa -> no -> hy -> vi -> et -> my -> mk -> st -> lt -> ug -> ht -> gd -> km -> or -> la -> en
 ORIGINAL:   ~z~Move it, asshole.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Go on, goodbye
 ------------------------------------------------------------
 KEY:        [#4BC7FA0A:V4AUD]
-HOPS:       pending
+HOPS:       en -> gu -> bn -> is -> kn -> uk -> fa -> no -> hy -> vi -> et -> my -> mk -> st -> lt -> ug -> ht -> gd -> km -> or -> la -> en
 ORIGINAL:   ~z~I'm running here.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: I ran
 ------------------------------------------------------------
 KEY:        [#1B3118DD:V4AUD]
-HOPS:       pending
+HOPS:       en -> te -> fy -> xh -> iw -> af -> ht -> ta -> pt -> ug -> pa -> hmn -> la -> km -> is -> hy -> tr -> uz -> sm -> su -> sd -> en
 ORIGINAL:   ~z~You got eyes?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: You have eyes
 ------------------------------------------------------------
 KEY:        [V4_CALLF_1:V4AUD]
-HOPS:       pending
+HOPS:       en -> te -> fy -> xh -> iw -> af -> ht -> ta -> pt -> ug -> pa -> hmn -> la -> km -> is -> hy -> tr -> uz -> sm -> su -> sd -> en
 ORIGINAL:   ~z~Hey, Vlad. I lost your boyfriend. He got away from me.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: There is nothing to say.I miss you friend. He left me.
 ------------------------------------------------------------
 KEY:        [V4_CALLF_2:V4AUD]
-HOPS:       pending
+HOPS:       en -> te -> fy -> xh -> iw -> af -> ht -> ta -> pt -> ug -> pa -> hmn -> la -> km -> is -> hy -> tr -> uz -> sm -> su -> sd -> en
 ORIGINAL:   ~z~I should have known you would screw this up. You are born loser, just like your cousin. Come see me sometime.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: I know you will lose everything.We travel with relatives. You see me all the time.
 ------------------------------------------------------------
 KEY:        [V4_HOLD_1:V4AUD]
-HOPS:       pending
+HOPS:       en -> te -> fy -> xh -> iw -> af -> ht -> ta -> pt -> ug -> pa -> hmn -> la -> km -> is -> hy -> tr -> uz -> sm -> su -> sd -> en
 ORIGINAL:   ~z~Please. Vlad told you to kill me, right?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: We added: Vlad told me to kill him.
 ------------------------------------------------------------
 KEY:        [V4_HOLD_2:V4AUD]
-HOPS:       pending
+HOPS:       en -> te -> fy -> xh -> iw -> af -> ht -> ta -> pt -> ug -> pa -> hmn -> la -> km -> is -> hy -> tr -> uz -> sm -> su -> sd -> en
 ORIGINAL:   ~z~I wasn't stealing nothing from your cousin's place!
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: I have nothing against you, my brother.
 ------------------------------------------------------------
 KEY:        [V4_HOLD_3:V4AUD]
-HOPS:       pending
+HOPS:       en -> is -> it -> ko -> hmn -> no -> hu -> ga -> ne -> sq -> tr -> ms -> eo -> lt -> af -> de -> so -> el -> ug -> pa -> ca -> en
 ORIGINAL:   ~z~No one's going to know that I'm alive. Not even my mother.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: No one knows I'm alive, not even my mother.
 ------------------------------------------------------------
 KEY:        [V4_HOLD_4:V4AUD]
-HOPS:       pending
+HOPS:       en -> is -> it -> ko -> hmn -> no -> hu -> ga -> ne -> sq -> tr -> ms -> eo -> lt -> af -> de -> so -> el -> ug -> pa -> ca -> en
 ORIGINAL:   ~z~I'll stay out of Hove Beach. I'll be a ghost. I promise. Please!
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: I'm from Howe Beach.I want to be a ghost.I promise!
 ------------------------------------------------------------
 KEY:        [V4_HOLD_5:V4AUD]
-HOPS:       pending
+HOPS:       en -> is -> it -> ko -> hmn -> no -> hu -> ga -> ne -> sq -> tr -> ms -> eo -> lt -> af -> de -> so -> el -> ug -> pa -> ca -> en
 ORIGINAL:   ~z~Vlad told me to go there. Let me go and I'll lay low.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Vlad told me to go. That's it, I'll sit down.
 ------------------------------------------------------------
 KEY:        [V4_FALLS_1:V4AUD]
 HOPS:       skipped (non-text)
@@ -353416,226 +353416,226 @@ TAGS:       [~z~, ~s~]
 TRANSLATED: ~z~~s~
 ------------------------------------------------------------
 KEY:        [V4_PUSH_1:V4AUD]
-HOPS:       pending
+HOPS:       en -> is -> it -> ko -> hmn -> no -> hu -> ga -> ne -> sq -> tr -> ms -> eo -> lt -> af -> de -> so -> el -> ug -> pa -> ca -> en
 ORIGINAL:   ~z~I promised to deal with you. I don't break promises.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: I promise to take care of you.I won't break my promise.
 ------------------------------------------------------------
 KEY:        [V4_CALLK_1:V4AUD]
-HOPS:       pending
+HOPS:       en -> is -> it -> ko -> hmn -> no -> hu -> ga -> ne -> sq -> tr -> ms -> eo -> lt -> af -> de -> so -> el -> ug -> pa -> ca -> en
 ORIGINAL:   ~z~Ivan is dead. He came to a sticky end.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Ivan died. He died in silence.
 ------------------------------------------------------------
 KEY:        [V4_CALLK_2:V4AUD]
-HOPS:       pending
+HOPS:       en -> hr -> su -> ka -> ml -> zh-tw -> id -> pl -> gd -> uz -> az -> sm -> ku -> th -> ar -> vi -> ja -> be -> hi -> sk -> uk -> en
 ORIGINAL:   ~z~Hey, you and your cousin's girlfriend should get together. She likes sticky finishes as well.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Hey, you live with your cousin and he likes complicated things too.
 ------------------------------------------------------------
 KEY:        [V4_CALLK_3:V4AUD]
-HOPS:       pending
+HOPS:       en -> hr -> su -> ka -> ml -> zh-tw -> id -> pl -> gd -> uz -> az -> sm -> ku -> th -> ar -> vi -> ja -> be -> hi -> sk -> uk -> en
 ORIGINAL:   ~z~Fuck you. Say that to my face and I will break you.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Look into my eyes in vain, and I will destroy you.
 ------------------------------------------------------------
 KEY:        [V4_HELP_1:V4AUD]
-HOPS:       pending
+HOPS:       en -> hr -> su -> ka -> ml -> zh-tw -> id -> pl -> gd -> uz -> az -> sm -> ku -> th -> ar -> vi -> ja -> be -> hi -> sk -> uk -> en
 ORIGINAL:   ~z~Get up.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: please wake up
 ------------------------------------------------------------
 KEY:        [V4_LIVE_1:V4AUD]
-HOPS:       pending
+HOPS:       en -> hr -> su -> ka -> ml -> zh-tw -> id -> pl -> gd -> uz -> az -> sm -> ku -> th -> ar -> vi -> ja -> be -> hi -> sk -> uk -> en
 ORIGINAL:   ~z~If Vlad wants you dead, you can't be all bad. Stay out of Hove Beach.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: If Vlad kills me, nothing worse will happen.away from hove beach
 ------------------------------------------------------------
 KEY:        [V4_LIVE_2:V4AUD]
-HOPS:       pending
+HOPS:       en -> hr -> su -> ka -> ml -> zh-tw -> id -> pl -> gd -> uz -> az -> sm -> ku -> th -> ar -> vi -> ja -> be -> hi -> sk -> uk -> en
 ORIGINAL:   ~z~Thank you. You won't regret this, man. I am outta here!
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: thank you very muchDon't worry, I'm on my way!
 ------------------------------------------------------------
 KEY:        [V4_LIVE_3:V4AUD]
-HOPS:       pending
+HOPS:       en -> ms -> ml -> sq -> no -> ha -> kk -> ca -> so -> ug -> nl -> ro -> hr -> fr -> hi -> sv -> tl -> la -> te -> ta -> cy -> en
 ORIGINAL:   ~z~Wanted to leave anyway, get away from all these people from back home.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: But they all move towards the back of the room.
 ------------------------------------------------------------
 KEY:        [V4_LIVE_4:V4AUD]
-HOPS:       pending
+HOPS:       en -> ms -> ml -> sq -> no -> ha -> kk -> ca -> so -> ug -> nl -> ro -> hr -> fr -> hi -> sv -> tl -> la -> te -> ta -> cy -> en
 ORIGINAL:   ~z~Get into the real America. You never gonna see me around here again.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Enter the real America.You won't see me here anymore.
 ------------------------------------------------------------
 KEY:        [V4_LIVE_5:V4AUD]
-HOPS:       pending
+HOPS:       en -> ms -> ml -> sq -> no -> ha -> kk -> ca -> so -> ug -> nl -> ro -> hr -> fr -> hi -> sv -> tl -> la -> te -> ta -> cy -> en
 ORIGINAL:   ~z~I owe you my life, man. You're a good man, you're a good man, thank you.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: I will miss you for the rest of my life.You are a good person, a good person, thank you.
 ------------------------------------------------------------
 KEY:        [V4_CALLL_1:V4AUD]
-HOPS:       pending
+HOPS:       en -> ms -> ml -> sq -> no -> ha -> kk -> ca -> so -> ug -> nl -> ro -> hr -> fr -> hi -> sv -> tl -> la -> te -> ta -> cy -> en
 ORIGINAL:   ~z~You won't be seeing your boyfriend Ivan no more. You going to miss him?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: You will never see your friend again.I will miss you
 ------------------------------------------------------------
 KEY:        [V4_CALLL_2:V4AUD]
-HOPS:       pending
+HOPS:       en -> ms -> ml -> sq -> no -> ha -> kk -> ca -> so -> ug -> nl -> ro -> hr -> fr -> hi -> sv -> tl -> la -> te -> ta -> cy -> en
 ORIGINAL:   ~z~No I'm not. I'm getting enough pussy at the moment.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: No, it didn't happen.I'm very rude
 ------------------------------------------------------------
 KEY:        [V4_CALLL_3:V4AUD]
-HOPS:       pending
+HOPS:       en -> is -> eo -> ka -> eu -> lb -> haw -> tg -> co -> el -> mi -> sq -> bn -> sw -> sk -> ru -> mr -> hmn -> az -> hu -> ko -> en
 ORIGINAL:   ~z~I tell you, is so much better if woman already have a man.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: I said women are better than men.
 ------------------------------------------------------------
 KEY:        [V4_CALLL_4:V4AUD]
-HOPS:       pending
+HOPS:       en -> is -> eo -> ka -> eu -> lb -> haw -> tg -> co -> el -> mi -> sq -> bn -> sw -> sk -> ru -> mr -> hmn -> az -> hu -> ko -> en
 ORIGINAL:   ~z~Because you don't have to deal with all their shit all day. Take Mallorie, for example...
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Because you don’t have to be with your kids every day.Let's take Mallory as an example...
 ------------------------------------------------------------
 KEY:        [V4_CALLL_5:V4AUD]
-HOPS:       pending
+HOPS:       en -> is -> eo -> ka -> eu -> lb -> haw -> tg -> co -> el -> mi -> sq -> bn -> sw -> sk -> ru -> mr -> hmn -> az -> hu -> ko -> en
 ORIGINAL:   ~z~Fuck you. Say this to my face and I will break you.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Call on my face and you will destroy me.
 ------------------------------------------------------------
 KEY:        [V4_CUT1_1:V4AUD]
-HOPS:       pending
+HOPS:       en -> is -> eo -> ka -> eu -> lb -> haw -> tg -> co -> el -> mi -> sq -> bn -> sw -> sk -> ru -> mr -> hmn -> az -> hu -> ko -> en
 ORIGINAL:   ~z~Hey, how ya doing?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Hello, what are you doing?
 ------------------------------------------------------------
 KEY:        [V4_CUT1_2:V4AUD]
-HOPS:       pending
+HOPS:       en -> is -> eo -> ka -> eu -> lb -> haw -> tg -> co -> el -> mi -> sq -> bn -> sw -> sk -> ru -> mr -> hmn -> az -> hu -> ko -> en
 ORIGINAL:   ~z~Hey, Mickey.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: hi mickey
 ------------------------------------------------------------
 KEY:        [V4_CUT1_3:V4AUD]
-HOPS:       pending
+HOPS:       en -> lt -> si -> so -> ar -> ky -> ms -> sk -> be -> hy -> bg -> ku -> pt -> cs -> ka -> pl -> sm -> xh -> th -> bn -> yo -> en
 ORIGINAL:   ~z~What'll you have?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: what happened to you
 ------------------------------------------------------------
 KEY:        [V4_CUT1_4:V4AUD]
-HOPS:       pending
+HOPS:       en -> lt -> si -> so -> ar -> ky -> ms -> sk -> be -> hy -> bg -> ku -> pt -> cs -> ka -> pl -> sm -> xh -> th -> bn -> yo -> en
 ORIGINAL:   ~z~Glass of water.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: a glass of water
 ------------------------------------------------------------
 KEY:        [V4_CUT1_5:V4AUD]
-HOPS:       pending
+HOPS:       en -> lt -> si -> so -> ar -> ky -> ms -> sk -> be -> hy -> bg -> ku -> pt -> cs -> ka -> pl -> sm -> xh -> th -> bn -> yo -> en
 ORIGINAL:   ~z~Glass of water.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: a glass of water
 ------------------------------------------------------------
 KEY:        [V4_CUT1_6:V4AUD]
-HOPS:       pending
+HOPS:       en -> lt -> si -> so -> ar -> ky -> ms -> sk -> be -> hy -> bg -> ku -> pt -> cs -> ka -> pl -> sm -> xh -> th -> bn -> yo -> en
 ORIGINAL:   ~z~Bang, bang, you are dead.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Bang Bang, he's dead.
 ------------------------------------------------------------
 KEY:        [V4_CUT1_7:V4AUD]
-HOPS:       pending
+HOPS:       en -> lt -> si -> so -> ar -> ky -> ms -> sk -> be -> hy -> bg -> ku -> pt -> cs -> ka -> pl -> sm -> xh -> th -> bn -> yo -> en
 ORIGINAL:   ~z~Wake up, you moron.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: The fool has woken up.
 ------------------------------------------------------------
 KEY:        [V4_CUT1_8:V4AUD]
-HOPS:       pending
+HOPS:       en -> eo -> ne -> no -> pt -> xh -> la -> uk -> it -> iw -> yi -> so -> ar -> bn -> sd -> gd -> af -> sv -> lv -> zh-cn -> mn -> en
 ORIGINAL:   ~z~You got me.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: you got me
 ------------------------------------------------------------
 KEY:        [V4_CUT1_9:V4AUD]
-HOPS:       pending
+HOPS:       en -> eo -> ne -> no -> pt -> xh -> la -> uk -> it -> iw -> yi -> so -> ar -> bn -> sd -> gd -> af -> sv -> lv -> zh-cn -> mn -> en
 ORIGINAL:   ~z~Come over here. Sit down.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: I'm here, please sit down
 ------------------------------------------------------------
 KEY:        [V4_CUT1_10:V4AUD]
-HOPS:       pending
+HOPS:       en -> eo -> ne -> no -> pt -> xh -> la -> uk -> it -> iw -> yi -> so -> ar -> bn -> sd -> gd -> af -> sv -> lv -> zh-cn -> mn -> en
 ORIGINAL:   ~z~You remember Ivan?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Do you remember Eve?
 ------------------------------------------------------------
 KEY:        [V4_CUT1_11:V4AUD]
-HOPS:       pending
+HOPS:       en -> eo -> ne -> no -> pt -> xh -> la -> uk -> it -> iw -> yi -> so -> ar -> bn -> sd -> gd -> af -> sv -> lv -> zh-cn -> mn -> en
 ORIGINAL:   ~z~No.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: It is not so
 ------------------------------------------------------------
 KEY:        [V4_CUT1_12:V4AUD]
-HOPS:       pending
+HOPS:       en -> eo -> ne -> no -> pt -> xh -> la -> uk -> it -> iw -> yi -> so -> ar -> bn -> sd -> gd -> af -> sv -> lv -> zh-cn -> mn -> en
 ORIGINAL:   ~z~Guy you saw me talking to. This guy.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: You saw me talking to a man. this man
 ------------------------------------------------------------
 KEY:        [V4_CUT1_13:V4AUD]
-HOPS:       pending
+HOPS:       en -> yo -> be -> mn -> uz -> ha -> bs -> zh-tw -> ca -> tg -> my -> ko -> uk -> lo -> gl -> hi -> pl -> et -> ta -> sk -> cs -> en
 ORIGINAL:   ~z~Er... this guy?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Man?
 ------------------------------------------------------------
 KEY:        [V4_CUT1_14:V4AUD]
-HOPS:       pending
+HOPS:       en -> yo -> be -> mn -> uz -> ha -> bs -> zh-tw -> ca -> tg -> my -> ko -> uk -> lo -> gl -> hi -> pl -> et -> ta -> sk -> cs -> en
 ORIGINAL:   ~z~Oh, yes. You guys had a little kiss.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Yes, friends, let's kiss.
 ------------------------------------------------------------
 KEY:        [V4_CUT1_15:V4AUD]
-HOPS:       pending
+HOPS:       en -> yo -> be -> mn -> uz -> ha -> bs -> zh-tw -> ca -> tg -> my -> ko -> uk -> lo -> gl -> hi -> pl -> et -> ta -> sk -> cs -> en
 ORIGINAL:   ~z~Very funny... what would you say if I told you he was going to rob your cousin?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Divertido... Are you worried about your pride?
 ------------------------------------------------------------
 KEY:        [V4_CUT1_16:V4AUD]
-HOPS:       pending
+HOPS:       en -> yo -> be -> mn -> uz -> ha -> bs -> zh-tw -> ca -> tg -> my -> ko -> uk -> lo -> gl -> hi -> pl -> et -> ta -> sk -> cs -> en
 ORIGINAL:   ~z~I'd say... what problem has he got with my cousin?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: I mean... what's my opinion?
 ------------------------------------------------------------
 KEY:        [V4_CUT1_17:V4AUD]
-HOPS:       pending
+HOPS:       en -> yo -> be -> mn -> uz -> ha -> bs -> zh-tw -> ca -> tg -> my -> ko -> uk -> lo -> gl -> hi -> pl -> et -> ta -> sk -> cs -> en
 ORIGINAL:   ~z~Hold on. Hey, hey, hey gorgeous...
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Wait a minute, ok...
 ------------------------------------------------------------
 KEY:        [V4_CUT1_18:V4AUD]
-HOPS:       pending
+HOPS:       en -> haw -> zh-cn -> bn -> pt -> jw -> da -> my -> mi -> bs -> ig -> th -> tl -> cy -> ar -> hr -> hu -> kk -> lv -> su -> pl -> en
 ORIGINAL:   ~z~no, I can't talk right now... what are you wearing?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: I won't tell you this again.Have you tried?
 ------------------------------------------------------------
 KEY:        [V4_CUT1_19:V4AUD]
-HOPS:       pending
+HOPS:       en -> haw -> zh-cn -> bn -> pt -> jw -> da -> my -> mi -> bs -> ig -> th -> tl -> cy -> ar -> hr -> hu -> kk -> lv -> su -> pl -> en
 ORIGINAL:   ~z~No, I mean underneath it... great... listen, I'll call you back, eh? Sorry.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: I didn't come here... well... see? I'll call you, okay?Sorry.
 ------------------------------------------------------------
 KEY:        [V4_CUT1_20:V4AUD]
-HOPS:       pending
+HOPS:       en -> haw -> zh-cn -> bn -> pt -> jw -> da -> my -> mi -> bs -> ig -> th -> tl -> cy -> ar -> hr -> hu -> kk -> lv -> su -> pl -> en
 ORIGINAL:   ~z~Who was that?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: World Health Organization?
 ------------------------------------------------------------
 KEY:        [V4_CUT1_21:V4AUD]
-HOPS:       pending
+HOPS:       en -> haw -> zh-cn -> bn -> pt -> jw -> da -> my -> mi -> bs -> ig -> th -> tl -> cy -> ar -> hr -> hu -> kk -> lv -> su -> pl -> en
 ORIGINAL:   ~z~Never you mind.
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Don't think about it.
 ------------------------------------------------------------
 KEY:        [V4_CUT1_22:V4AUD]
-HOPS:       pending
+HOPS:       en -> haw -> zh-cn -> bn -> pt -> jw -> da -> my -> mi -> bs -> ig -> th -> tl -> cy -> ar -> hr -> hu -> kk -> lv -> su -> pl -> en
 ORIGINAL:   ~z~Was it Ivan?
 TAGS:       [~z~]
-TRANSLATED: (pending translation)
+TRANSLATED: Is that Ivan?
 ------------------------------------------------------------
 KEY:        [V4_CUT1_23:V4AUD]
 HOPS:       pending
